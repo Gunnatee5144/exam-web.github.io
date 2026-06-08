@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@emnapi/core": "1.11.0",
+    "@emnapi/runtime": "1.11.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@fontsource/ibm-plex-sans-thai": "^5.2.8",
