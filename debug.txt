@@ -1,0 +1,22 @@
+219. ตําแหน่งใดเป็นจุดกึÉงกลางแสงในการถ่ายภาพเท้าในท่า Dorsal plantarก. Base of 2ndmetatarsal boneข. Base of 3rdmetatarsal boneค. 1stTarsometatarsal jointง. 2ndMetatarsophalangeal jointจ. 3rdMetatarsophalangeal joint
+220.ข้อใดแสดงทิศทางลํารังสีในการถ่ายภาพรังสีท่า Frog leg ได้ถูกต้องก. ตั้งฉากกับฟลมข. เอียงลํารังÿี 20องศา ไปทางศีรษะค. เอียงลํารังÿี 40องศา ไปทางศีรษะง. เอียงลํารังÿี 20องศา ไปทางเท้าจ. เอียงลํารังÿี 40 องศา ไปทางเท้า
+221.
+
+294. AP view ของ Cervical spine อยางนอยตองเĀ็นโครงÿรางใดก. Atlas และ axis ข. The elongated spinous processค. C1-C3 ง. C3-C7จ. All cervical vertebrae
+Occipital, mandible Rง C1,C2295. ทาตอไปนี้ ทาใดจะเĀ็น Cervical intervertebral foramen ดีที่ÿุดก. PA view ข. Oblique viewค. open mouth view ง. Lateral viewจ. Extension view
+C-spine AP axial oblique296.
+
+357. เครื่อง CT. Spiral ตั้งค่า Table speed 8 mm./sec ใช้ Rotation time เท่ากับ 0.5 sec/รอบ และตั้ง detector width 5 mm. จะมีค่า Detector Pitch มีค่าเท่าไĀร่ก .0.4ข .0.6ค .0.8ง .1.0จ .1.25
+8x0.5 = 1 KR / รอบpitch =#for =0358. ถ้า Detector Pitch มีค่าน้อยกü่าĀนึ่ง Data Acquisition ที่ได้จะเป็นแบบใด?ก. Overlapping slices ข. มี Gap ระĀü่าง slices ค. 2 slices ต่อกันพอดีง. ขึ้น กับ pre-patient collimator จ. ขึ้น กับ numbers of Projection ที่ acquire
+pitchel;overlapData>1;Dataมีga-
+359.
+
+622. การตั้งคา Window width (WW) เทากับ 84 และคา Window Level (WL) เทากับ 16 จากเครื่อง CT ขอใดตอไปนี้ไมÿามารถมองเĀ็นรายละเอียดได ก. Water (0 HU)ข. Fat (-40 HU)ค. Muscle (20 HU)ง. Spleen (45 HU)จ. Brain (35 HU)
+·ww +range (TnumberW2 -conte84/2 =4231242 -(&16-> ig26-26623. ขอใดตอไปนี้คือ เทคนิคการÿรางภาพของ MRI เพื่อลดÿัญญาณไขมันก. Inversion Recoveryข. Spin Echoค. Gradient Echoง. Echo Planar Imagingจ. Turbo Spin Echo
+624.
+
+632. การตรüจ CT Brain คüรใช FOV ที่เĀมาะÿมประมาณ 20-25 cm. Āากใช FOV มากกüา 30 cm. จะเปนอยางไรก. ขนาดภาพ Brain ใĀญขึ้น รายละเอียดภาพดีขึ้นข. ขนาดภาพ Brain เล็กลง รายละเอียดภาพดีขึ้นค. ขนาดภาพ Brain เล็กลง รายละเอียดเĀมือนเดิมง. ขนาดภาพ Brain ใĀญขึ้น รายละเอียดภาพแยลงจ. ขนาดภาพ Brain เล็กลง รายละเอียดภาพแยลง
+FOV มาก Pixel size มาก Matrix size 2อย Resolution แ5633. เมื่อผูปüยที่ใÿ Cardiac pacemaker มานัดตรüจ MRI นักรังÿีเทคนิคคüรปฎิบัติอยางไรก. รับนัดผูปüยโดยใĀลงนามยินยอมรับคüามเÿี่ยงข. อธิบายผูปüยแลüปฎิเÿธ และไมรับนัดค. ปฎิเÿธ และไมรับนัดทันทีง. ใĀผูปüยตรüจÿอบชนิดและรุนของ Pacemaker กับแพทยเจาของคนไขกอนจ. รับนัดผูปüยตามปกติ
+634. อุปกรณในขอใดใชในการแปลงÿัญญาณจากรังÿีเอกซไปÿูÿัญญาณไฟฟาในระบบ DR ( Digital radiography) แบบ Indirect flat panel detectorก. Scintillator และ Photodiodeข. Silicon diode และ Transistorค. Transistor และ Scintillatorง. Scintillator และ Silicon diode
+635. จากรูป CT ตําแĀนงที่ลูกýรชี้ คืออะไรก. Odontoid processข. Anterior tubercle of C1ค. Spinous processง. Laminaจ. Articular process
+C2636.

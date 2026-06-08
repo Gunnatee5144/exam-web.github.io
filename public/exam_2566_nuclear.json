@@ -1,0 +1,4499 @@
+[
+  {
+    "id": 1,
+    "question": "นิวไคล์ที่เป็น isomer กัน หมายถึงอะไร",
+    "choices": {
+      "ก": "มีจำนวนโปรตอนเท่ากัน",
+      "ข": "มีจำนวนนิวตรอนเท่ากัน",
+      "ค": "มีจำนวนโปรตอนรวมกับนิวตรอนเท่ากัน",
+      "ง": "ต่างนิวไคล์กัน แต่มีระดับพลังงานเท่ากัน",
+      "จ": "เป็นนิวไคล์เดียวกัน แต่มีระดับพลังงานต่างกัน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 2,
+    "question": "นิวไคล์ที่มีจำนวนโปรตอนมากเกินไปจะเกิดการสลายตัวแบบใด",
+    "choices": {
+      "ก": "Beta minus",
+      "ข": "Beta plus",
+      "ค": "Alpha",
+      "ง": "Isomeric transition",
+      "จ": "Internal conversion"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 3,
+    "question": "รังสีใดใช้ในการรักษาผู้ป่วยทางเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "Beta ray",
+      "ข": "Gamma ray",
+      "ค": "X-ray",
+      "ง": "Neutron",
+      "จ": "Positron"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 4,
+    "question": "ภายหลังจากการเกิด characteristic x-ray สิ่งที่มีโอกาสเกิดติดตามมา คืออะไร",
+    "choices": {
+      "ก": "Compton electron",
+      "ข": "Photoelectron",
+      "ค": "Conversion electron",
+      "ง": "Auger electron",
+      "จ": "Gamma ray"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 5,
+    "question": "เมื่อเกิดการเปลี่ยนแปลงภายในนิวเคลียส สิ่งที่มีโอกาสเกิดตามมา คืออะไร",
+    "choices": {
+      "ก": "Auger electron",
+      "ข": "Characteristic X-ray",
+      "ค": "Conversion electron",
+      "ง": "Annihilation photon",
+      "จ": "Photoelectron"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 6,
+    "question": "กระบวนการใดที่ทำให้เกิดคู่ไอออน เมื่อรังสีผ่านมากระทบกับวัตถุตัวกลาง",
+    "choices": {
+      "ก": "Excitation",
+      "ข": "Ionization",
+      "ค": "Decay",
+      "ง": "Recombination",
+      "จ": "Annihilation"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 7,
+    "question": "Interaction ของรังสีแกมมากับวัตถุตัวกลางมีอะไรบ้าง",
+    "choices": {
+      "ก": "Photoelectric Effect และ Compton Scattering",
+      "ข": "Compton Scattering และ Pair production",
+      "ค": "Ionization และ Excitation",
+      "ง": "Photoelectric Effect, Compton Scattering และ Pair production",
+      "จ": "Ionization, Excitation และ Pair production"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 8,
+    "question": "คุณสมบัติของรังสีเบต้าที่ใช้ทำลายก้อนมะเร็งคือข้อใด",
+    "choices": {
+      "ก": "พลังงานต่ า",
+      "ข": "มวลต่ า",
+      "ค": "อำนาจทะลุทะลวงต่ า",
+      "ง": "มีความจำเพาะเจาะจงสูง",
+      "จ": "LET ต่ า"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 9,
+    "question": "99mTc ให้รังสีแกมมาพลังงานเท่าใด",
+    "choices": {
+      "ก": "364 keV",
+      "ข": "140 keV",
+      "ค": "181 keV",
+      "ง": "159 keV",
+      "จ": "392 keV"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 10,
+    "question": "ข้อใดไม่ใช่คุณสมบัติของสารกัมมันตรังสีที่ใช้ในการตรวจถ่ายภาพอวัยวะ",
+    "choices": {
+      "ก": "เวลาครึ่งอายุสั้น",
+      "ข": "ให้รังสีเบต้า",
+      "ค": "ให้รังสีแกมมา 100-300 KeV",
+      "ง": "ทำปฏิกริยาทางเคมีได้ง่าย",
+      "จ": "แตกตัวได้ง่าย"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 11,
+    "question": "หัววัดรังสีที่นิยมใช้ในเวชศาสตร์นิวเคลียร์คือข้อใด",
+    "choices": {
+      "ก": "Scintillation detector",
+      "ข": "Geiger muller detector",
+      "ค": "Proportional detector",
+      "ง": "Semiconductor detector",
+      "จ": "Ionization detector"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 12,
+    "question": "หัววัดรังสีแบบใดที่มี energy resolution ดีที่สุด",
+    "choices": {
+      "ก": "Scintillation detector",
+      "ข": "Semiconductor detector",
+      "ค": "Proportional detector",
+      "ง": "Ionization detector",
+      "จ": "Geiger muller detector"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 13,
+    "question": "หัววัดรังสีแบบใดนิยมใช้กับเครื่องสำรวจรังสี",
+    "choices": {
+      "ก": "Semiconductor detector",
+      "ข": "Scintillation detector",
+      "ค": "Gas-filled detector",
+      "ง": "Liquid scintillation detector",
+      "จ": "Proportional detector\nDose calibrator, geiger muller counter"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 14,
+    "question": "Liquid scintillation counting system ใช้วัดรังสีใด",
+    "choices": {
+      "ก": "รังสีแกมมาพลังงานสูง",
+      "ข": "รังสีเบต้า",
+      "ค": "รังสีอัลฟา",
+      "ง": "อนุภาค",
+      "จ": "นิวตรอน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 15,
+    "question": "หลักการทำงานของ Photomultiplier tube คืออะไร",
+    "choices": {
+      "ก": "ขยายและปรับแต่งขนาดของสัญญาณ",
+      "ข": "เปลี่ยนรังสีแกมมาให้เป็นสัญญาณไฟฟ้า",
+      "ค": "เลือกวิเคราะห์สัญญาณที่มีความสูงอยู่ในช่วงที่กำหนดไว้",
+      "ง": "เปลี่ยนโฟตอนแสงให้เป็นสัญญาณไฟฟ้า",
+      "จ": "แปลงสัญญาณอนาลอกให้เป็นสัญญาณดิจิตอล"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 16,
+    "question": "Pulse height analyzers ทำหน้าที่ใด",
+    "choices": {
+      "ก": "ขยายสัญญาณ ที่มาจากหัววัดรังสี",
+      "ข": "เปลี่ยนโฟตอนแสงให้เป็นสัญญาณไฟฟ้า",
+      "ค": "เปลี่ยนรังสีแกมมาให้เป็นโฟตอนแสง",
+      "ง": "แปลงสัญญาณอนาลอกให้เป็นสัญญาณดิจิตอล",
+      "จ": "เลือกวิเคราะห์สัญญาณที่มาจาก Amplifier ที่มีความสูงอยู่ในช่วงที่กำหนดไว้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 17,
+    "question": "ความสามารถของหัววัดรังสีในการแยก 2พลังงานออกจากกันได้ เรียกว่าอะไร",
+    "choices": {
+      "ก": "Energy differentiation.",
+      "ข": "Energy resolution.",
+      "ค": "Energy correlation.",
+      "ง": "Energy correction.",
+      "จ": "Energy calibration"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 18,
+    "question": "ข้อใดจัดเป็น Random error ในงานเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "การติดฉลากชื่อสารกัมมันตรังสีไม่ถูกต้อง",
+      "ข": "ความแปรปรวนของการสลายตัวของสารกัมมันตรังสี",
+      "ค": "การตั้งหน้าต่างพลังงานผิดพลาด",
+      "ง": "การตั้งเวลาในการนับวัดผิดพลาด",
+      "จ": "เครื่องมือทำงานบกพร่อง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 19,
+    "question": "ในการวัดรังสีจาก standard source ที่มีความแรงรังสีเท่ากับ 25.0 mCiวัดรังสีทั้งหมด 10 ครั้ง ได้ค่าเฉลี่ยเท่ากับ 24.0 mCiจงหา Accuracy ของเครื่องวัด",
+    "choices": {
+      "ก": "2%",
+      "ข": "4%",
+      "ค": "7%",
+      "ง": "8%",
+      "จ": "10%\n25-24/24 x 100 = 1/24 x100 = 0.041 x 100 = 4.1%โจท$ควรจะใ*+,า precision มากก,า"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 20,
+    "question": "จากการวัดรังสีได้ค่านับวัดเท่ากับ 10000 มี percentage uncertainty เท่าใด",
+    "choices": {
+      "ก": "0.01",
+      "ข": "0.1",
+      "ค": "1.0",
+      "ง": "10.0",
+      "จ": "100.0"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 21,
+    "question": "ผลึกเรืองแสงที่นิยมใช้ในเครื่อง gamma camera คือข้อใด",
+    "choices": {
+      "ก": "ฺBGO",
+      "ข": "LSO",
+      "ค": "NaI(Tl)",
+      "ง": "CsI(Tl)",
+      "จ": "GSO"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 22,
+    "question": "ลำดับของส่วนประกอบต่างๆ ของเครื่อง gamma camera ที่ถูกต้องคือข้อใด",
+    "choices": {
+      "ก": "Collimator, NaI(Tl) crystal, Light guide, PM tube",
+      "ข": "Collimator, Light guide, NaI(Tl), PM tube",
+      "ค": "NaI(Tl) crystal, Collimator, Light guide, PM tube",
+      "ง": "NaI(Tl) crystal, Light guide, Collimator, PM tube",
+      "จ": "NaI(Tl) crystal, PM tube, Collimator, Light guide"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 23,
+    "question": "Collimator ของเครื่อง gamma camera ที่นิยมนำมาใช้มากที่สุดคือข้อใด",
+    "choices": {
+      "ก": "Parallelholecollimator",
+      "ข": "Diverging collimator",
+      "ค": "Converging collimator",
+      "ง": "Pinhole collimator",
+      "จ": "Fan beam  collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 24,
+    "question": "Collimator ที่เหมาะสมในการถ่ายภาพโดยใช้ Ga-67 คือข้อใด",
+    "choices": {
+      "ก": "Low energy collimator",
+      "ข": "Medium energy collimator",
+      "ค": "High energy collimator",
+      "ง": "High resolution collimator",
+      "จ": "Pinhole collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 25,
+    "question": "เหตุใด NaI(Tl) จึงเรืองแสงได้ที่อุณหภูมิห้อง",
+    "choices": {
+      "ก": "เป็นผลึกใส",
+      "ข": "มี I เป็นสารช่วยให้เรืองแสงได้ง่าย",
+      "ค": "มี Na ช่วยให้เรืองแสงได้",
+      "ง": "มี Tl ช่วยให้เรืองแสงได้",
+      "จ": "มีความชื้นสูง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 26,
+    "question": "Low-energy high resolution (LEHR) กับ Low-energy high sensitivity (LEHS) collimator ต่างกันอย่างไร",
+    "choices": {
+      "ก": "LEHR มี septum หนากว่า LEHS",
+      "ข": "LEHR มีความยาวของรูยาวกว่า LEHS",
+      "ค": "LEHR มีความยาวของรูสั้นกว่า LEHS",
+      "ง": "LEHR มี septum บางกว่า LEHS",
+      "จ": "ไม่แตกต่างกัน\n0แคบ,แ3งยาว0ก6าง,แ3ง7นLow energy : thin septum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 27,
+    "question": "Collimator ข้อใดไม่เหมาะสมกับการถ่ายภาพด้วย Tc-99m",
+    "choices": {
+      "ก": "Low-energy general purpose (LEGP )",
+      "ข": "Low–energy high resolution (LEHR)",
+      "ค": "Diverging",
+      "ง": "High-energy all purpose (HEAP)",
+      "จ": "Pinhole"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 28,
+    "question": "ข้อใดไม่ใช่การควบคุมคุณภาพของเครื่อง Gamma camera",
+    "choices": {
+      "ก": "Uniformity",
+      "ข": "Energy resolution",
+      "ค": "Center of rotation",
+      "ง": "Spatial resolution",
+      "จ": "Sensitivity\nSPECT"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 29,
+    "question": "พลังงานของรังสีแกมมาที่ได้จากปฏิกิริยา Annihilation เท่ากับข้อใด",
+    "choices": {
+      "ก": "0.511 keV",
+      "ข": "5.11 keV",
+      "ค": "51.1 keV",
+      "ง": "511 keV",
+      "จ": "5110 keV\n0.511 MeV"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 30,
+    "question": "ข้อใดไม่ใช่การควบคุมคุณภาพของเครื่อง Dose calibrator",
+    "choices": {
+      "ก": "Precision",
+      "ข": "Accuracy",
+      "ค": "Linearity",
+      "ง": "Uniformity",
+      "จ": "Geometry\nGamma camera, SPECT"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 31,
+    "question": "นิวไคลด์รังสีที่ไม่ได้ใช้ในการตรวจสอบ Precision และ Accuracy ของเครื่อง Dose calibrator คือข้อใด",
+    "choices": {
+      "ก": "57Co",
+      "ข": "133Ba",
+      "ค": "137Cs",
+      "ง": "11C",
+      "จ": "60Co"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 32,
+    "question": "เครื่องมือที่ใช้วัดรังสีเบต้า คือข้อใด",
+    "choices": {
+      "ก": "Gamma camera",
+      "ข": "Single photon emission computed tomography",
+      "ค": "Liquid scintillation counter",
+      "ง": "Positron emission tomography",
+      "จ": "Bone densitometer"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 33,
+    "question": "ข้อใดเป็นข้อดีของการสร้างภาพแบบ ordered subset expectation maximization (OSEM)",
+    "choices": {
+      "ก": "ใช้เวลาในการถ่ายภาพน้อยลง",
+      "ข": "ไม่ต้องใช้ matrix size ขนาดเล็ก",
+      "ค": "สามารถแก้ไขปัจจัยที่มีผลต่อคุณภาพของภาพได้ดี",
+      "ง": "สามารถประมวลผลได้เร็ว",
+      "จ": "เป็นวิธีการไม่ซับซ้อน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 34,
+    "question": "Photon attenuation ทำให้เกิดปัญหาในภาพ SPECT มากที่สุดที่บริเวณใด",
+    "choices": {
+      "ก": "Head",
+      "ข": "Thorax",
+      "ค": "Abdomen",
+      "ง": "Thigh",
+      "จ": "Feet"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 35,
+    "question": "ข้อใดเป็นข้อเสียของการสร้างภาพแบบ filtered back-projection (FBP)",
+    "choices": {
+      "ก": "ใช้เวลาในการประมวลผลสั้น",
+      "ข": "ใช้งานง่าย",
+      "ค": "มีปัญหาในการแก้ไขเกี่ยวกับ photon attenuation",
+      "ง": "ได้ภาพถ่ายที่มีความไม่สม่ าเสมอ",
+      "จ": "ต้องใช้คอมพิวเตอร์ที่มีประสิทธิภาพสูง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 36,
+    "question": "Sinogram มีความสัมพันธ์กับ Projection ในข้อใด",
+    "choices": {
+      "ก": "เป็นสิ่งเดียวกัน",
+      "ข": "Sinogram เป็นการนำเอาภาพ Projection มาแสดงในแนวแกน y",
+      "ค": "เป็นภาพ Sine wave ที่เปลี่ยนไปตามมุมที่หัววัดหมุนรอบ",
+      "ง": "Sinogram คือการแสดงภาพ โดยภาพ Projection ในแนวแกน x ที่สัมพันธ์กับมุมที่เปลี่ยนไป (แกน y)",
+      "จ": "Sinogram เป็นการแสดงภาพ Cosine wave"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 37,
+    "question": "เครื่องมือใดที่ใช้ในการตรวจดูการทำงานของอวัยวะเป็นหลัก",
+    "choices": {
+      "ก": "Gamma camera",
+      "ข": "X-ray",
+      "ค": "Ultrasound",
+      "ง": "MRI",
+      "จ": "CT scan"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 38,
+    "question": "การตรวจเพื่อวินิจฉัยโรคกระดูกพรุน ปัจจุบันนิยมใช้เครื่องมือใด",
+    "choices": {
+      "ก": "X-ray",
+      "ข": "Ultrasound",
+      "ค": "CT scan",
+      "ง": "Gamma camera",
+      "จ": "Dual energy X-ray absorptiometry (DEXA)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 39,
+    "question": "ในการถ่ายภาพโดยใช้  I-131, 20% energy window หมายถึงการตั้งช่วง Lower leveldiscriminator และ Upper leveldiscriminator ในช่วงใด (I-131 มีพลังงานแกมมาเป็น 364 keV)",
+    "choices": {
+      "ก": "300 keV ถึง 500 keV",
+      "ข": "344 keV ถึง 384 keV",
+      "ค": "327 keV ถึง 400 keV",
+      "ง": "320 keV ถึง 380 keV",
+      "จ": "291 keV ถึง 437 keV"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 40,
+    "question": "เครื่อง gamma camera มีขนาดเส้นผ่าศูนย์กลาง 40 cm. ถ้าใช้ matrix size เป็น 128 x 128 จงหาขนาด pixel size โดยประมาณ",
+    "choices": {
+      "ก": "1.60  mm",
+      "ข": "3.12  mm",
+      "ค": "4.20  mm",
+      "ง": "5.20  mm",
+      "จ": "6.25 mm"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 41,
+    "question": "ในการตรวจแบบ dynamic เช่น การตรวจ renogram ด้วย Tc-99m DTPA ข้อใดเหมาะสมที่สุด",
+    "choices": {
+      "ก": "Low energy general purpose collimator, matrix size 256x256",
+      "ข": "Low energy general purpose collimator, matrix size 128 x 128",
+      "ค": "High energy general purposecollimator, matrix size 64 x 64",
+      "ง": "Low energy high resolution collimator, matrix size  256 x 256",
+      "จ": "High energy general purposecollimator, matrix size 256x256\nDynamic mode"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 42,
+    "question": "การควบคุมคุณภาพของเครื่อง gamma camera ที่จำเป็นต้องทำทุกเช้าก่อนตรวจผู้ป่วยคือ",
+    "choices": {
+      "ก": "Spatial resolution",
+      "ข": "Flood field uniformity",
+      "ค": "Count-rate performance",
+      "ง": "Spatial linearity",
+      "จ": "System sensitivity"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 43,
+    "question": "ข้อใดมี Integral Uniformity (IU) ที่บริเวณ central field of view ของเครื่อง gamma camera ดีที่สุด",
+    "choices": {
+      "ก": "20%",
+      "ข": "15%",
+      "ค": "10%",
+      "ง": "5%",
+      "จ": "2%"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 44,
+    "question": "จงคำนวณค่า sensitivity ของเครื่อง gamma camera จากการวัด Tc-99m 2.0  mCiในเวลา 2นาที ได้ค่านับวัดเป็น 10000",
+    "choices": {
+      "ก": "2,500  cps/mCi",
+      "ข": "2,500 cpm/mCi",
+      "ค": "5,000 cpm/mCi",
+      "ง": "5,000  cps.mCi",
+      "จ": "20,000 cpm.mCi"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 45,
+    "question": "ในการถ่ายรูปแบบ static เช่น Lung scan ควรตั้ง matrix size เป็น",
+    "choices": {
+      "ก": "32 x 32",
+      "ข": "64 x 64",
+      "ค": "128 x 256",
+      "ง": "256 x 256",
+      "จ": "256 x 512\nWant high resolution"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 46,
+    "question": "ข้อใดที่ผู้ปฏิบัติงานไม่จำเป็นต้องใช้ในขณะเตรียมเภสัชรังสี",
+    "choices": {
+      "ก": "สวมถุงมือ",
+      "ข": "สวมเสื้อคลุม",
+      "ค": "สวมเสื้อตะกั่ว",
+      "ง": "ใช้ syringe shield",
+      "จ": "ใช้ปากคีบช่วยเมื่อหยิบขวดยารังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 47,
+    "question": "Tc-99m  มีความแรงรังสีเป็น 20.0 mCi/ml ที่เวลา 8.00 น. ถ้าต้องการ 10 mCiเพื่อนำมาฉีดผู้ป่วย เวลา 14.00 น.  ต้องเตรียม Tc-99m  ปริมาตรประมาณเท่าใด",
+    "choices": {
+      "ก": "0.4 ml",
+      "ข": "0.5 ml",
+      "ค": "1.0 ml",
+      "ง": "1.5 ml",
+      "จ": "2.0 ml\n99mTc = 6 hr (1 half life)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 48,
+    "question": "ในการตรวจผู้ป่วยด้วยเครื่อง Gamma camera เจ้าหน้าที่รังสีเทคนิคควรปฏิบัติอย่างไร",
+    "choices": {
+      "ก": "นั่งอยู่ใกล้เตียงเพื่อเป็นกำลังใจแก่ผู้ป่วย",
+      "ข": "อธิบายขั้นตอนของการตรวจแก่ผู้ป่วยก่อนทำการตรวจ",
+      "ค": "ดูแลผู้ป่วยที่ระยะใกล้เท่าที่จำเป็นหลังจากนั้นจึงถอยมาดูแลในระยะห่าง",
+      "ง": "ควรอยู่นอกห้องเพราะผู้ป่วยมีปริมาณรังสีสูง",
+      "จ": "ข้อ ข. และ ค."
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 49,
+    "question": "ข้อใดถูกต้องที่สุดในการตรวจ bone scan",
+    "choices": {
+      "ก": "ใช้ High energy collimator และ หัววัดชิดกับผู้ป่วย",
+      "ข": "ใช้ Low energy general purpose collimator และ หัววัดห่างกับผู้ป่วย",
+      "ค": "ใช้ Low energy high resolution collimator และ หัววัดชิดกับผู้ป่วย",
+      "ง": "ใช้ Low energy high resolution collimator และ หัววัดห่างกับผู้ป่วย",
+      "จ": "ใช้ Low energy general purpose collimator และ หัววัดชิดกับผู้ป่วย"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 50,
+    "question": "ข้อใดถูกต้องเกี่ยวกับ Star artifact",
+    "choices": {
+      "ก": "เกิดจากการเคลื่อนไหวของผู้ป่วยขณะเก็บข้อมูล",
+      "ข": "เกิดจากการเก็บข้อมูลแบบ Continuous",
+      "ค": "เกิดจากหัวรัดรังสีไม่ Uniform",
+      "ง": "ขจัดได้โดยใช้วิธี  Simple backprojection",
+      "จ": "ขจัดได้และลดการ Blur โดยใช้ Ramp filter"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 51,
+    "question": "Bull's eye' artifact ของภาพ SPECT จากการถ่าย point source เกิดจากอะไร",
+    "choices": {
+      "ก": "pixel size error",
+      "ข": "COR shifting",
+      "ค": "ADC failure",
+      "ง": "system non-uniformity",
+      "จ": "movement"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 52,
+    "question": "ข้อใดไม่เกี่ยวข้องกับ PET",
+    "choices": {
+      "ก": "coincidence circuit",
+      "ข": "photon energy 511 KeV",
+      "ค": "nuclear reactor",
+      "ง": "2D และ 3D acquisition",
+      "จ": "line of response (LOR)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 53,
+    "question": "หัววัดรังสีของเครื่อง gamma camera ขนาดเส้นผ่าศูนย์กลาง 35 ซม. จะให้ค่า resolution ดีที่สุดที่ค่า matrix size ขนาด",
+    "choices": {
+      "ก": "32x32",
+      "ข": "64x64",
+      "ค": "128x128",
+      "ง": "256x256",
+      "จ": "512x512"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 54,
+    "question": "จุดที่เล็กที่สุดใน Digital Image คือ",
+    "choices": {
+      "ก": "Nibble",
+      "ข": "voxel",
+      "ค": "pixel",
+      "ง": "byte",
+      "จ": "bit"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 55,
+    "question": "การใช้ 99mTc-MIBI ถ่ายภาพเพื่อค้นหา parathyroid adenoma นิยมใช้เทคนิคใด (ข้อสอบ 2/2552)",
+    "choices": {
+      "ก": "Dynamic เป็นเวลา 1นาที",
+      "ข": "Dynamic เป็นเวลา 5นาที",
+      "ค": "Static image ที่เวลา 30นาที หลังฉีด",
+      "ง": "Static image ที่เวลา 1ชั่วโมง หลังฉีด",
+      "จ": "Static image ที่เวลา 10นาที และ 2ชั่วโมง หลังฉีด"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 56,
+    "question": "18F-FDG เป็นสารเภสัชรังสีที่ใช้ตรวจหาก้อนมะเร็งได้ดี เพราะเหตุผลใด",
+    "choices": {
+      "ก": "เซลล์มะเร็งใช้น้ าตาลได้มากกว่าเซลล์ปกติ",
+      "ข": "18F เป็น positron emitter",
+      "ค": "FDG เป็นนํ้าตาลที่พบในก้อนมะเร็ง",
+      "ง": "การสร้างภาพด้วยเครื่อง SPECT จะให้ Sensitivity สูง",
+      "จ": "ใช้ได้กับเครื่อง PET-CT เท่านั้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 57,
+    "question": "เทคนิคการถ่ายภาพใดที่ใช้ประเมิน Testicular torsion",
+    "choices": {
+      "ก": "ใช้เฉพาะ Dynamic image ใน 1 นาทีแรก เพื่อดู blood flow",
+      "ข": "ใช้เฉพาะ Static image ที่ 5 นาที เพื่อดู blood pool",
+      "ค": "ใช้เฉพาะ Static image ที่ 120 นาที เพื่อดู testicular uptake",
+      "ง": "ใช้ทั้ง Dynamic image ใน 1 นาทีแรก และ Serial static images หลังจากนั้น",
+      "จ": "ใช้เฉพาะ Serial static images หลัง 5นาที"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 58,
+    "question": "การทำ Nine-point smooth เพื่อปรับภาพดิจิตอลใช้ค่านับวัดจากจำนวน matrix เท่าใด",
+    "choices": {
+      "ก": "1 x 9",
+      "ข": "9 x 9",
+      "ค": "3 x 6",
+      "ง": "3 x 3",
+      "จ": "5 x 4\n9:ละ 9 pixel (kernel filter)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 59,
+    "question": "การทำ Attenuation correction มีวัตถุประสงค์เพื่ออะไร",
+    "choices": {
+      "ก": "แก้ไขการขยับของอวัยวะระหว่างการถ่ายภาพ",
+      "ข": "ปรับเพื่อชดเชยการดูดกลืนรังสีโดยคอลลิเมเตอร์",
+      "ค": "ลดค่านับวัดที่มากเกินจริงเนื่องจากการเกิด pulse pileup",
+      "ง": "ปรับค่านับวัดที่ถูกลดทอนไป เพราะการเดินทางของรังสีผ่านตัวกลางต่างๆ",
+      "จ": "ปรับแก้การสลายตัวของนิวไคลด์รังสีที่ใช้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 60,
+    "question": "เครื่องถ่ายภาพแบบ PET-CT ที่มี gantry เดียวกันมีข้อดีคือข้อใด",
+    "choices": {
+      "ก": "มีสถิติของการนับวัดที่ดีกว่า",
+      "ข": "แก้ปัญหาการซ้อนภาพ PET กับ CT ที่ไม่ตรงกันได้",
+      "ค": "ประหยัดค่าใช้จ่ายมากกว่า",
+      "ง": "ผู้ป่วยได้รับรังสีน้อยลง",
+      "จ": "แก้ปัญหา non-uniformity ได้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 61,
+    "question": "สารกัมมันตรังสีในข้อใดต่อไปนี้ที่ไม่เหมาะกับการนำมาสร้างภาพด้วย SPECT",
+    "choices": {
+      "ก": "Tl-201",
+      "ข": "P-32",
+      "ค": "I-131",
+      "ง": "Tc-99m",
+      "จ": "In-111"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 62,
+    "question": "ในการตรวจ Bone scan โดยใช้ Low energy high-resolution collimator นั้นจะมีผลอย่างไร เมื่อเปรียบเทียบกับการใช้ Low energy all purpose collimator",
+    "choices": {
+      "ก": "Sensitivity เพิ่มขึ้น",
+      "ข": "Resolution เพิ่มขึ้น",
+      "ค": "ลดระยะเวลาในการถ่ายภาพ",
+      "ง": "Image contrast เพิ่มขึ้น",
+      "จ": "ไม่มีอะไรเปลี่ยนแปลง\nScan time <นาน=น เ?อใAไC resolution DE=น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 63,
+    "question": "ข้อใดต่อไปนี้ไม่ใช่การควบคุมคุณภาพของ SPECT",
+    "choices": {
+      "ก": "Center of rotation",
+      "ข": "Geometric efficiency",
+      "ค": "Intrinsic uniformity",
+      "ง": "High count rate performance",
+      "จ": "System sensitivity\nPET"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 64,
+    "question": "ข้อใดต่อไปนี้กล่าวไม่ถูกต้องเกี่ยวกับการถ่ายภาพ thyroid gland",
+    "choices": {
+      "ก": "สามารถดูขนาดและตำแหน่งของ thyroid gland ได้",
+      "ข": "ผู้ป่วยสามารถกลืนน้ าลายได้ระหว่างการตรวจ",
+      "ค": "สามารถใช้ 131I หรือ 99mTc",
+      "ง": "วาง radioactive marker บริเวณ xiphoid process",
+      "จ": "สามารถใช้ Pin hole collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 65,
+    "question": "สารเภสัชรังสีใดต่อไปนี้ไม่สามารถนำมาตรวจหัวใจได้",
+    "choices": {
+      "ก": "99mTc-RBC",
+      "ข": "99mTc-MIBI",
+      "ค": "99mTc-tetrofosmin",
+      "ง": "99mTc-MAA",
+      "จ": "Tl-201\nUptake D lung"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 66,
+    "question": "สารเภสัชรังสีที่นิยมใช้ในการตรวจสแกนกระดูกคือข้อใค",
+    "choices": {
+      "ก": "99mTc-MDP",
+      "ข": "18F-FDG",
+      "ค": "99mTc-MIBI",
+      "ง": "99mTc-MAA",
+      "จ": "131I\nBone scanMetabolic trappingParathyroid scanLung"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 67,
+    "question": "High pass Filter ที่ใช้ในการ reconstruction ภาพของเครื่อง SPECT คือข้อใด",
+    "choices": {
+      "ก": "Prazenfilter",
+      "ข": "Hamming filter",
+      "ค": "Butterworth filter",
+      "ง": "Ramp filter",
+      "จ": "Metz filter\nลด star artifactลด noiseResolution recoveryลด noiseลด noiseAllow high frequency (high noise)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 68,
+    "question": "ข้อความใดไม่ถูกต้องในการถ่ายภาพสะแกนทางเดินน้ าดี (Hepatobiliary scan)",
+    "choices": {
+      "ก": "ถ่ายภาพจนเห็นสารเภสัชรังสีในถุงน้ าดีและลำไส้",
+      "ข": "ถ่ายภาพ dynamic หรือ static ในท่า anterior view",
+      "ค": "ถ่ายภาพ right lateral view เพื่อแยก ไต ออกจากลำไส้",
+      "ง": "ผู้ป่วยไม่ต้องอดอาหารและน้ า",
+      "จ": "ตำแหน่งของหัวใจควรอยู่ในภาพ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 69,
+    "question": "ข้อใดไม่ถูกต้องในการทำ radionuclide renography",
+    "choices": {
+      "ก": "ผู้ป่วยนอนหงายใต้ gamma detector",
+      "ข": "ฉีดสารเภสัชรังสีเข้าหลอดเลือดดำแบบ Bolus",
+      "ค": "บันทีกภาพทันทีที่ฉีดสารเภสัชรังสี",
+      "ง": "สามารถใช้ Tc-99m MAG-3 หรือ T-99m DTPA ในการตรวจ",
+      "จ": "ใช้เวลาตรวจประมาณ 30นาที"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 70,
+    "question": "สารกัมมันตรังสีในข้อใดเป็นสารกัมมันตรังสีในอุดมคติที่ใช้ในการถ่ายภาพทางเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "Tc-99m, I-131",
+      "ข": "Tc-99m, I-123",
+      "ค": "Ga-67, I-123",
+      "ง": "I-131, Tl-201",
+      "จ": "I-131, Sm-153"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 71,
+    "question": "ป้ายที่ขวดของสารเภสัชรังสีเขียนว่า 7000 MBq/ml  เราเรียกค่านี้ว่า",
+    "choices": {
+      "ก": "Sensitivity",
+      "ข": "Concentration",
+      "ค": "Radiochemical activity",
+      "ง": "Radiopharmacueticalactivity",
+      "จ": "Immunoreactivity"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 72,
+    "question": "Radiochemical impurity ของสารเภสัชรังสีถ้าสูงเกินกำหนด เมื่อฉีดให้ผู้ป่วยแล้วจะทำให้เกิดผลในข้อใด",
+    "choices": {
+      "ก": "ผู้ป่วยได้รับอันตรายจากรังสีเกินกำหนด",
+      "ข": "ผู้ปฏิบัติงานได้รับอันตรายจากรังสีเกินกำหนด",
+      "ค": "ผู้ป่วยจะเกิดอาการไข้",
+      "ง": "ภาพที่ได้จะเกิด non-uniformity",
+      "จ": "นิวไคลด์รังสีบางส่วนเข้าไปสะสมในอวัยวะอื่นที่ไม่ใช่อวัยวะเป้าหมาย"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 73,
+    "question": "ข้อใดต่อไปนี้ถูกต้องเกี่ยวกับเครื่อง cyclotron",
+    "choices": {
+      "ก": "ในเครื่อง cyclotron เมื่อรัศมีวงโคจรของอนุภาคเพิ่มขึ้น อนุภาคจะมีความเร็วสูงขึ้น",
+      "ข": "ในเครื่อง cyclotron อาศัย deflector ช่วยในการเร่งอนุภาค",
+      "ค": "I-131 ผลิตจากเครื่อง cyclotron",
+      "ง": "เครื่อง cyclotron ไม่ต้องอาศัยสนามแม่เหล็ก",
+      "จ": "อนุภาคในเครื่อง cyclotron เคลื่อนที่เป็นเส้นโค้งได้ เพราะแรงของสนามไฟฟ้า"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 74,
+    "question": "ในการถ่ายภาพด้วย 99mTc-MDP และเห็น uptake ของสารเภสัชรังสีที่ต่อมนํ้าลายแสดงว่ามีสาเหตุจากข้อใด",
+    "choices": {
+      "ก": "ให้สารเภสัชรังสีแก่ผู้ป่วยมากเกิน",
+      "ข": "ผู้ป่วยเป็น lymphangitis",
+      "ค": "มี free Tc-99m pertechnetate",
+      "ง": "ใช้เวลาในการถ่ายภาพไม่เพียงพอ",
+      "จ": "ถ่ายภาพทันทีหลังจากได้รับ 99mTc-MDP"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 75,
+    "question": "นิวไคลด์ที่ไม่ได้มาจากการผลิตด้วยเครื่อง cyclotron คือข้อใด",
+    "choices": {
+      "ก": "Carbon-11",
+      "ข": "Nitrogen-13",
+      "ค": "Oxygen-15",
+      "ง": "Fluorine-18",
+      "จ": "Molybdenium-99"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 76,
+    "question": "การเกิดปฏิกิริยา Fission สามารถพบได้ในการผลิตสารกัมตภาพรังสีด้วยอะไร",
+    "choices": {
+      "ก": "Cyclotron",
+      "ข": "Nuclear reactor",
+      "ค": "Radionuclide generator",
+      "ง": "การสลายตัวตามธรรมชาติ",
+      "จ": "Linear accelerator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 77,
+    "question": "สารที่ใช้ elute 99mTcจาก Mo-99/Tc-99m generator คือสารใด",
+    "choices": {
+      "ก": "Hydrochloric acid",
+      "ข": "Sodium hydroxide",
+      "ค": "น้ าบริสุทธิ์",
+      "ง": "Normal saline",
+      "จ": "น้ าแร่"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 78,
+    "question": "การทดสอบความบริสุทธิ์ทางนิวไคลด์รังสี (Radionucildicpurity) ของ Mo-99/Tc-99m generator เพื่อทดสอบการปนเปื้อนของอะไร",
+    "choices": {
+      "ก": "Al3+",
+      "ข": "99mTc",
+      "ค": "99Mo",
+      "ง": "99Tc",
+      "จ": "99mTcO-4"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 79,
+    "question": "สารเภสัชรังสี 100mCiเมื่อตั้งทิ้งไว้ 24ชั่วโมง วัดปริมาณรังสีได้เพียง 6.25mCiสารนี้คือข้อใด",
+    "choices": {
+      "ก": "Tl-201",
+      "ข": "Tc-99m pertechnetate",
+      "ค": "I-131Lipiodol",
+      "ง": "Sr-87m",
+      "จ": "Molidinum-99\n99mTc = 6 hr (1 half life)24 hr (4 half life)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 80,
+    "question": "สารกัมมันตรังสีที่ใช้แพร่หลายในการทำ PET scan คือข้อใด",
+    "choices": {
+      "ก": "F-18",
+      "ข": "Tc-99m",
+      "ค": "Tl-201",
+      "ง": "I-131",
+      "จ": "Ga-67\nใA positron"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 81,
+    "question": "กลไกใดที่ต่อมไทรอยด์ใช้ในการดูดจับ I-131",
+    "choices": {
+      "ก": "Adsorption",
+      "ข": "Active transport",
+      "ค": "Capillary blockage",
+      "ง": "Phagocytosis",
+      "จ": "Receptor binding"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 82,
+    "question": "กลไกใดที่ใช้ในการตรวจ Lung perfusion scan",
+    "choices": {
+      "ก": "Adsorption",
+      "ข": "Active transport",
+      "ค": "Capillary blockage",
+      "ง": "Phagocytosis",
+      "จ": "Receptor binding"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 83,
+    "question": "อวัยวะใดไม่ดูดจับ Tc-99m pertechnetate",
+    "choices": {
+      "ก": "ปอด",
+      "ข": "ต่อมไทรอยด์",
+      "ค": "เยื่อบุกระเพาะอาหาร",
+      "ง": "Choroid plexus",
+      "จ": "ต่อมน้ าลาย"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 84,
+    "question": "หลังจากฉีดยา Tc-99m MDP ยาส่วนหนึ่งไปจับที่กระดูก ยาที่เหลือจะถูกขับออกทางอวัยวะใด",
+    "choices": {
+      "ก": "ลำไส้ใหญ่",
+      "ข": "ไต",
+      "ค": "ทางเดินน้ าดี",
+      "ง": "ต่อมน้ าลาย",
+      "จ": "ปอด"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 85,
+    "question": "ในการทำสะแกนกระดูก หลังจากฉีดสารเภสัชรังสี เพื่อให้ได้ภาพคมชัด ผู้ป่วยต้องปฏิบัติตัวอย่างไร",
+    "choices": {
+      "ก": "ออกกำลังกาย",
+      "ข": "นอนพักผ่อน",
+      "ค": "ดื่มน้ ามากๆ",
+      "ง": "รับประทานยาระงับประสาทอย่างอ่อน",
+      "จ": "อ่านหนังสือ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 86,
+    "question": "ความผิดปรกติใดที่ไม่พบในการถ่ายสะแกนกระดูก",
+    "choices": {
+      "ก": "มะเร็ง",
+      "ข": "กระดูกอักเสบ",
+      "ค": "กระดูกหัก แตก ร้าว",
+      "ง": "วัตถุแปลกปลอมปิดกั้นรังสี",
+      "จ": "กระดูกพรุน\nOsteoporosis (DEXA)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 87,
+    "question": "ข้อใดถูกต้องในการสะแกนกระดูก",
+    "choices": {
+      "ก": "กระดูกของเด็กจะดูดจับสารรังสีได้ดีกว่าผู้สูงอายุ",
+      "ข": "ผุ้ป่วยต้องงดอาหารและน้ าหลังจากฉีดสารรังสี",
+      "ค": "ในรายที่สงสัยกระดูกหัก ต้องทำสะแกนกระดูกก่อนการตรวจอย่างอื่น",
+      "ง": "Hot lesion ในภาพสะแกน แสดงว่าผู้ป่วยเป็นมะเร็งแบบแพร่กระจาย",
+      "จ": "ถ่ายภาพสะแกนกระดูกทันทีหลังจากฉีดสารเภสัชรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 88,
+    "question": "ตามคำจำกัดความของ WHO ค่า T-score เท่าใด แสดงว่ามีภาวะ Osteoporosis",
+    "choices": {
+      "ก": "T-score = -1.0",
+      "ข": "T-score = -1.7",
+      "ค": "T-score = -2.0",
+      "ง": "T-score = -2.2",
+      "จ": "T-score = -3.0"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 89,
+    "question": "ผู้ใดไม่มีความเสี่ยงที่จะเป็นโรคกระดูกพรุน",
+    "choices": {
+      "ก": "สตรีวัยหมดประจำเดือน",
+      "ข": "ผู้ชายสูงวัย",
+      "ค": "ผู้ที่สูบบุหรี่จัด",
+      "ง": "ผู้ที่ใช้ยา steroid เป็นประจำ",
+      "จ": "นักกีฬา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 90,
+    "question": "ในการตรวจ Myocardial perfusion SPECT exercise stress test ในผู้ป่วยชายอายุ 70ปี เพื่อให้ผลถูกต้องแม่นยำ ก่อนฉีดสารเภสัชรังสี ควรให้ชีพจรของผู้ป่วยมีอัตราอย่างน้อยที่สุดเท่าไร",
+    "choices": {
+      "ก": "127  bpm",
+      "ข": "137  bpm",
+      "ค": "148  bpm",
+      "ง": "159  bpm",
+      "จ": "160  bpm"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 91,
+    "question": "บริเวณที่กล้ามเนื้อหัวใจมีเลือดไปเลี้ยงไม่พอภาพ Stress-rest myocardial perfusion SPECT จะมีลักษณะอย่างไร",
+    "choices": {
+      "ก": "Perfusion ลดลงทั้งคู่",
+      "ข": "Perfusion ลดลงเฉพาะในภาพ stress",
+      "ค": "Perfusion เพิ่มขึ้นเฉพาะในภาพ stress",
+      "ง": "Perfusion เพิ่มขึ้นในภาพ stress และลดลงในภาพ rest",
+      "จ": "Perfusion เพิ่มขึ้นทั้งคู่\nIschemic"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 92,
+    "question": "ข้อใดที่ไม่ใช่ข้อมูลที่ได้จากการตรวจ ECG gate blood pool study",
+    "choices": {
+      "ก": "ขนาดของหลอดเลือดหัวใจที่ตีบ (coronary stenosis)",
+      "ข": "ลักษณะการบีบตัวของกล้ามเนื้อหัวใจ (wall motion)",
+      "ค": "ค่า Ejection fraction (EF)",
+      "ง": "ค่า EDV and ESV",
+      "จ": "Aneurysm"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 93,
+    "question": "ผู้ป่วยควรอยู่ในท่าใด ขณะฉีด Tc-99m MAA",
+    "choices": {
+      "ก": "นั่ง",
+      "ข": "นอนหงาย",
+      "ค": "นอนคว่ า",
+      "ง": "ยืน",
+      "จ": "ท่าใดก็ได้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 94,
+    "question": "ลักษณะ V/Q scan ที่บ่งถึง acute pulmonary embolism คือข้อใด",
+    "choices": {
+      "ก": "มี segmental defect ในภาพ ventilation แต่ปรกติในภาพ perfusion",
+      "ข": "มี non-segmental defect ในภาพ ventilation แต่ปรกติในภาพ perfusion",
+      "ค": "มี segmental defect ในภาพ perfusion แต่ปรกติในภาพ ventilation",
+      "ง": "มี segmental perfusion defect ตรงกับ ventilation defect",
+      "จ": "มี segmental perfusion defect ตรงกับ ventilation defect และภาพ x-ray ผิดปรกติ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 95,
+    "question": "ในภาพสะแกนอวัยวะใดๆ ด้วย Technetium compound ถ้าเห็นต่อมไทรอยด์ท่านคิดว่าเกิดจากสาเหตุใด",
+    "choices": {
+      "ก": "การแตกตัวของเภสัชรังสี",
+      "ข": "Right to left shunt",
+      "ค": "ใช้ high voltage ไม่ถูกต้อง",
+      "ง": "ผู้ป่วยไม่ได้งดอาหารและน้ า",
+      "จ": "ถ่ายภาพสะแกนเร็วเกินไป"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 96,
+    "question": "สารเภสัชรังสีใดที่ไม่ใช้ในการตรวจ Lung ventilation scan",
+    "choices": {
+      "ก": "Technegas",
+      "ข": "Xenon-133",
+      "ค": "Iodine-123",
+      "ง": "Tc-99m phytate aerosol",
+      "จ": "Tc-99m DTPA aerosol"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 97,
+    "question": "การทำ Venogram ร่วมกับ Perfusion scan ควรใช้สารเภสัชรังสีชนิดใด",
+    "choices": {
+      "ก": "Tc-99m RBC",
+      "ข": "Tc-99m phytate",
+      "ค": "Tc-99m MAA",
+      "ง": "Tc-99m DTPA",
+      "จ": "Tc-99m Sulfur colloid\nUptake D lung"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 98,
+    "question": "Tc-99m/Tl-201 subtraction technique มีประโยชน์ในการตรวจอวัยวะใด",
+    "choices": {
+      "ก": "Heart",
+      "ข": "Liver",
+      "ค": "Thyroid gland",
+      "ง": "Parathyroid gland",
+      "จ": "Salivary gland"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 99,
+    "question": "ใน radioimmunoassay (RIA) ใช้สารกัมมันตรังสีติดฉลากกับตัวใด",
+    "choices": {
+      "ก": "Standard",
+      "ข": "Antigen",
+      "ค": "Antibody",
+      "ง": "QC sample",
+      "จ": "Buffer\nLabel antigen"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 100,
+    "question": "ข้อห้ามในการใช้ไอโอดีน-131รักษาโรคคือข้อใด",
+    "choices": {
+      "ก": "ผู้ป่วยสูงอายุ",
+      "ข": "ผู้ป่วยมีประวัติแพ้อาหารทะเล",
+      "ค": "ผู้ป่วยแป็นโรคภูมิแพ้",
+      "ง": "ผู้ป่วยกําลังตั้งครรภ์",
+      "จ": "ไม่มีข้อห้ามใดๆ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 101,
+    "question": "ใน Immunoradiometric assay (IRMA) ใช้สารกัมมันตรังสีติดฉลากกับตัวใด",
+    "choices": {
+      "ก": "Standard",
+      "ข": "Antigen",
+      "ค": "Antibody",
+      "ง": "QC sample",
+      "จ": "Buffer\nLabel antibody 2 ค\"ง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 102,
+    "question": "การตรวจใดที่ไม่จําเป็นต้องมีการป้องกันอันตรายจากรังสี",
+    "choices": {
+      "ก": "เอกซเรย์นิ้วเท้า",
+      "ข": "ถ่ายภาพ CT สมอง",
+      "ค": "ถ่ายภาพสะแกนกระดูกข้อมือ",
+      "ง": "ทํา Technetium thyroid scan ในผู้ใหญ่",
+      "จ": "ตรวจอัลทราซาวด์ช่องท้องของหญิงมีครรภ์ 3เดือนแรก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 103,
+    "question": "ขณะถ่ายภาพสะแกนภายในห้องตรวจ ที่ใดมีรังสีสูงสุด",
+    "choices": {
+      "ก": "ในถังขยะ",
+      "ข": "พื้นห้อง",
+      "ค": "เพดานห้องเหนือเตียงผู้ป่วย",
+      "ง": "ในตัวผู้ป่วย",
+      "จ": "เครื่องควบคุมการถ่ายภาพ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 104,
+    "question": "โรคใดที่ไม่สามารถรักษาด้วยสารเภสัชรังสี",
+    "choices": {
+      "ก": "Hyperthyroidism",
+      "ข": "Thyroid cancer",
+      "ค": "Severe bone pain from cancer metastases",
+      "ง": "Neuroblastoma",
+      "จ": "Myocardial ischemia"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 105,
+    "question": "ในการทํา 24 hour thyroid uptake ก่อนการรักษาคอพอกเป็นพิษด้วย ไอโอดีน-131 ผู้ป่วยควรหยุดยา antithyroid drug อย่างน้อยกี่วัน",
+    "choices": {
+      "ก": "1-3",
+      "ข": "7-10",
+      "ค": "11-14",
+      "ง": "15-20",
+      "จ": "21-25"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 106,
+    "question": "I-131 Total body scan มีประโยชน์ในการติดตามการรักษาโรคใด",
+    "choices": {
+      "ก": "Anaplastic thyroid carcinoma",
+      "ข": "Medullary thyroid carcinoma",
+      "ค": "Papillary thyroid carcinoma",
+      "ง": "Lymphoma",
+      "จ": "Hyperthyroidism"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 107,
+    "question": "Captopril renal scan and renogram ใช้ตรวจผู้ป่วยในรายที่สงสัยภาวะใด",
+    "choices": {
+      "ก": "มีนิ่วอุดตันในทางเดินปัสสาวะ",
+      "ข": "ไตข้างหนึ่งข้างใดทํางานผิดปรกติ",
+      "ค": "มี vesicouretericreflux",
+      "ง": "มี renal artery stenosis",
+      "จ": "มี acute rejection of transplanted kidney\nยาลดความ*นโล-ต"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 108,
+    "question": "สารเภสัชรังสีใดที่ใช้ตรวจผู้ป่วยที่สงสัยว่ามีเลือดออกในช่องท้อง",
+    "choices": {
+      "ก": "Tc-99m MIBI",
+      "ข": "Tc-99m DISIDA",
+      "ค": "Tc-99m DTPA",
+      "ง": "Tc-99m RBC",
+      "จ": "Tc-99m MAA"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 109,
+    "question": "ผู้ป่วยที่มีเลือดออกทางอุจจาระ สงสัยว่าจะมี Meckel’s diverticulum ควรทําการตรวจด้วยวิธีใด",
+    "choices": {
+      "ก": "Tc-99m pertechnetate anterior abdominal scan",
+      "ข": "Tc-99m RBC anterior abdominal scan",
+      "ค": "I-131 Whole body scan",
+      "ง": "Tl-201 Intestinal perfusion SPECT",
+      "จ": "Tc-99m MAA intra-arterial injection imaging\nRight lower quadrant"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 110,
+    "question": "ข้อใดไม่ใช่ตัวอย่างการรักษาโรคด้วยสารเภสัชรังสี",
+    "choices": {
+      "ก": "Hyperthyroidism by I-131",
+      "ข": "Neuroblastoma by I-131 MIBG",
+      "ค": "Thyroid cancer by I-131",
+      "ง": "Hepatoma by I-123 Lipiodol",
+      "จ": "Colorectal cancer by F-18 FDG\nมะเ1ง2บ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 111,
+    "question": "Radiopharmaceutical impurity สามารถตรวจพบได้โดยวิธีใด",
+    "choices": {
+      "ก": "Dose calibration",
+      "ข": "Gamma ray spectral analysis",
+      "ค": "Chromatography",
+      "ง": "Colorimeter",
+      "จ": "Survey meter"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 112,
+    "question": "เมื่อสงสัยว่าผู้ป่วยมี recurrent ของ well differentiated thyroid carcinoma ควรเจาะเลือดหาค่าใด",
+    "choices": {
+      "ก": "Serum AFP",
+      "ข": "Serum CEA",
+      "ค": "Serum alkaline phosphatase",
+      "ง": "Serum thyroglobulin",
+      "จ": "Serum thyroxin"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 113,
+    "question": "Multiple hot spots ที่พบในภาพ perfusion lung images เกิดจากสาเหตุใด",
+    "choices": {
+      "ก": "ฉีดสารเภสัชรังสีเร็วเกินไป",
+      "ข": "มีสาร Tc-99m phytate ปนเป์์อน",
+      "ค": "ฉีดสารเภสัชรังสีในขณะที่ผู้ป่วยนั่ง",
+      "ง": "มี Multiple pulmonary metastases",
+      "จ": "มีเลือดผู้ป่วยย้อนกลับมาผสมกับสารเภสัชรังสีใน syringe ก่อนฉีด"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 114,
+    "question": "ข้อความใดไม่ถูกต้องเกี่ยวกับ Renal scan and Renogram",
+    "choices": {
+      "ก": "First phase of renal curve (30-60 second) ประเมิน renal blood flow",
+      "ข": "Uptake phase ประเมิน renal function",
+      "ค": "Second phase ประเมิน cortical and collecting system clearance",
+      "ง": "Peak activity ของไตทั้งสองข้าง ปรกติจะไม่เกิน 5นาที",
+      "จ": "Lasix ใช้ฉีดนาทีที่ 15 เพื่อ exclude complete renal outflow tract obstruction"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 115,
+    "question": "สารเภสัชรังสีที่ใช้ในการสะแกน Salivary gland คือข้อใด",
+    "choices": {
+      "ก": "Tc-99m Pertechnetate",
+      "ข": "Tc-99m MIBI",
+      "ค": "Tc-99m DISIDA",
+      "ง": "Tc-99m MDP",
+      "จ": "Tc-99m ECD"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 116,
+    "question": "Tc-99m DTPA เป็นสารเภสัชรังสีที่ไม่ใช้ในการตรวจในข้อใด",
+    "choices": {
+      "ก": "Renal imaging",
+      "ข": "Lung ventilation imaging",
+      "ค": "Brain imaging",
+      "ง": "Bone imaging",
+      "จ": "Vascular imaging"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 117,
+    "question": "อุปกรณ์ในข้อใดต่อไปนี้ที่ไม่เหมาะสมสําหรับผู้ปฏิบัติงานในการใช้ป้องกันรังสีขณะฉีดสารเภสัชรังสีให้กับผู้ป่วย",
+    "choices": {
+      "ก": "syringe shield",
+      "ข": "lead eyeglasses",
+      "ค": "glove",
+      "ง": "lead apron",
+      "จ": "Contact lens"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 118,
+    "question": "ผู้ป่วยที่ได้รับไอโอดีนรังสีปริมาณเท่าไร ต้องนอนโรงพยาบาลในหอผู้ป่วยที่แยกออกจากหอผู้ป่วยอื่น",
+    "choices": {
+      "ก": "มากกว่า 5 mCi",
+      "ข": "มากกว่า 10 mCi",
+      "ค": "มากกว่า 20 mCi",
+      "ง": "มากกว่า 30 mCi",
+      "จ": "ต้องนอนโรงพยาบาลทุกคน ไม่ว่าจะได้รับปริมาณเท่าไรก็ตาม"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 119,
+    "question": "ข้อใดต่อไปนี้เป็นหน่วยวัด Absorbed dose",
+    "choices": {
+      "ก": "Curies",
+      "ข": "Becquerel",
+      "ค": "Gray",
+      "ง": "rem",
+      "จ": "Sievert"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 120,
+    "question": "ข้อใดมีผลน้อยที่สุด ในการป้องกันอันตรายจากรังสีในงานด้านเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "ระยะทาง",
+      "ข": "ระยะเวลา",
+      "ค": "วัสดุกําบัง",
+      "ง": "ความแรงของสารกัมมันตรังสี",
+      "จ": "เสื้อคลุม"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 121,
+    "question": "บุคคลในข้อใดต่อไปมีโอกาสที่จะเกิดการปนเป์์อนจากสารรังสีมากที่สุด",
+    "choices": {
+      "ก": "นาย ก ไม่รับประทานอาหารและเครื่องดื่มในขณะปฏิบัติงานในห้องเตรียมสารเภสัชรังสี",
+      "ข": "นาย ข สวมเสื้อคลุมและถุงมือทุกครั้งในขณะปฏิบัติงานในห้องเตรียมสาร  เภสัชรังสี",
+      "ค": "นาย ค ใช้ปากดูดหลอดแก้วเพื่อดูดสารเภสัชรังสีในขณะปฏิบัติงานในห้องเตรียมสารเภสัชรังสี",
+      "ง": "นาย ง เตรียมสารเภสัชรังสีชนิดที่ระเหยได้ในตู้ปลอดเชื้อ (Biohazard)",
+      "จ": "นาย จ ใช้อุปกรณ์ปากคีบ (Forceps) ในการจับขวดสารเภสัชรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 122,
+    "question": "วัตถุประสงค์หลักในการทดสอบด้วย Wipe testing คือข้อใด",
+    "choices": {
+      "ก": "เพื่อวัดการปนเป์์อนสารเภสัชรังสี",
+      "ข": "เพื่อวัดปริมาณสารเภสัชรังสี",
+      "ค": "เพื่อวัดชนิดของสารเภสัชรังสี",
+      "ง": "เพื่อวัดความแรงของสารเภสัชรังสี",
+      "จ": "เพื่อวัดการสลายตัวของสารเภสัชรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 123,
+    "question": "ข้อใดต่อไปนี้ไม่ถือเป็นกากกัมมันตรังสีชนิดของแข็ง (Solid waste)",
+    "choices": {
+      "ก": "ขวดแก้วใส่สารเภสัชรังสีที่ใช้หมดแล้ว",
+      "ข": "เข็มฉีดยาที่ผ่านการใช้ฉีดสารเภสัชรังสีให้ผู้ป่วย",
+      "ค": "ปัสสาวะของผู้ป่วยที่ได้รับสารเภสัชรังสี",
+      "ง": "กระดาษทิชชูที่เป์์อนสารเภสัชรังสี",
+      "จ": "Tc-99m generator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 124,
+    "question": "บุคคลในข้อใดต่อไปนี้ควรงดรับการรักษาด้วยสารกัมมันตรังสีมากที่สุด",
+    "choices": {
+      "ก": "หญิงวัยหมดประจําเดือน",
+      "ข": "ผู้ป่วยโรคมะเร็งต่อมไทรอยด์",
+      "ค": "ผู้ป่วยที่มีโรคประจําตัว",
+      "ง": "ผู้ที่กําลังจะแต่งงาน",
+      "จ": "หญิงมีครรภ์"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 125,
+    "question": "ข้อใดต่อไปนี้ไม่ใช่สาเหตุของการปนเป์์อนทางสารรังสี",
+    "choices": {
+      "ก": "อุบัติเหตุขณะปฎิบัติงาน",
+      "ข": "การรั่วซึมจากภาชนะที่บรรจุ",
+      "ค": "การฟุ้งกระจายของสารรังสี",
+      "ง": "การใช้ถุงมือที่ปนเป์์อนสารรังสีไปจับวัสดุอื่น",
+      "จ": "ผู้ป่วยที่ได้รับการรักษาด้วยรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 126,
+    "question": "ข้อใดไม่ใช่ pathway ที่สารกัมมันตรังสีเข้าสู่ภายในร่างกาย",
+    "choices": {
+      "ก": "การหายใจ",
+      "ข": "การรับประทาน",
+      "ค": "ผิวหนัง",
+      "ง": "บาดแผล",
+      "จ": "การใกล้ชิดผู้ป่วยที่ได้รับการฝังแร่ Ir-192"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 127,
+    "question": "การใช้ Syringe shield ในขณะเตรียมสารเภสัชรังสีเพื่อวัตถุประสงค์ในข้อใดมากที่สุด",
+    "choices": {
+      "ก": "ลดการปนเป์์อนสารเภสัชรังสี",
+      "ข": "ป้องกันการเกิดอุบัติเหตุ",
+      "ค": "ลดการได้รับรังสี",
+      "ง": "ลดระยะเวลาในการทํางาน",
+      "จ": "สะดวกให้การจับหลอดฉีดยา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 128,
+    "question": "สารกัมมันตรังสีชนิดใดต้องเก็บในตู้ปลอดเชื้อ (Biohazard) เพื่อป้องกันการฟุ้งกระจายทางรังสี",
+    "choices": {
+      "ก": "Cs-137",
+      "ข": "Co-60",
+      "ค": "Ba-133",
+      "ง": "I-131",
+      "จ": "Ir-192"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 129,
+    "question": "คุณสมบัติของ Tc-99m คือข้อใด?",
+    "choices": {
+      "ก": "มีครึ่งชีวิต 6วัน และสลายตัวให้อนุภาคเบตา",
+      "ข": "มีครึ่งชีวิต 6วัน และสลายตัวให้รังสีแกมมา",
+      "ค": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้อนุภาคเบตา",
+      "ง": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้รังสีแกมมา",
+      "จ": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้อนุภาคแอลฟา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 130,
+    "question": "รอยโรคใดที่ทําให้เกิด cold lesion ในภาพถ่าย bone",
+    "choices": {
+      "ก": "Bone metastases",
+      "ข": "Osteomyelitis",
+      "ค": "Bone cyst",
+      "ง": "Primary bone carcinomaจ  Avascular necrosis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 131,
+    "question": "Critical organ ของการตรวจ 99mTc-MDP bone scan คือข้อใด?",
+    "choices": {
+      "ก": "Bone marrow",
+      "ข": "Kidney",
+      "ค": "Urinary bladder",
+      "ง": "Stomach",
+      "จ": "Thyroid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 132,
+    "question": "ในภาพ 99mTc-MDP bone scan พบการจับสารเภสัชรังสีในกระเพาะอาหาร, ต่อมไทรอยด์ และต่อมนํ้าลาย เป็นเพราะเหตุใด?",
+    "choices": {
+      "ก": "ได้รับการถ่ายภาพเร็วกว่าเวลาที่กําหนด",
+      "ข": "มี Free pertechnetate ในสารเภสัชรังสีที่ฉีด",
+      "ค": "มีการทํางานของไตผิดปกติ",
+      "ง": "มี Leakage บริเวณที่ฉีดสารเภสัชรังสี",
+      "จ": "ได้รับการฉีดสารเภสัชรังสีมากเกินไป"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 133,
+    "question": "สารเภสัชรังสีที่ใช้ในการตรวจ perfusion lung scan คือข้อใด?",
+    "choices": {
+      "ก": "Tc-99m pyrophosphase",
+      "ข": "Tc-99m DTPA",
+      "ค": "Tc-99m phytate",
+      "ง": "Tc-99m MAA",
+      "จ": "Tc-99m MAG3"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 134,
+    "question": "หลักการวินิจฉัยโรค pulmonary embolism จากการตรวจ lung scan คือข้อใด?",
+    "choices": {
+      "ก": "มี defect ที่เหมือนกันทั้งใน perfusion และ ventilation scan",
+      "ข": "มี defect ใน ventilation scan แต่ perfusion scan ปกติ",
+      "ค": "มี defect ใน perfusion scan แต่ ventilation scan ปกติ",
+      "ง": "มี defect เป็นรูปสามเหลี่ยมที่ขั้วปอด",
+      "จ": "ไม่สามารถวินิจฉัยได้จาก ventilation และ perfusion scan"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 135,
+    "question": "ในการตรวจ Tc-99m labeled RBC จะพบ physiologic activity ได้อวัยวะต่อไปนี้ แต่จะไม่พบในข้อใด?",
+    "choices": {
+      "ก": "หลอดเลือด",
+      "ข": "ถุงน้ําดี",
+      "ค": "ลําไส้ใหญ่",
+      "ง": "ม้าม",
+      "จ": "ห้องหัวใจ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 136,
+    "question": "เทคนิคการถ่ายภาพ parathyroid scan ข้อใดผิด?",
+    "choices": {
+      "ก": "Tc-99m pertechnetate/Tc-99m MIBI subtraction",
+      "ข": "การถ่ายภาพ early และ delayed หลังฉีด Tc-99m MIBI",
+      "ค": "Tc-99m pertechnetate/Tl-201 subtraction",
+      "ง": "การถ่ายภาพ early และ delayed หลังฉีด Tl-201",
+      "จ": "การถ่ายภาพ early และ delayed หลังฉีด Tc-99m MIBI ร่วมกับ SPECT/CT"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 137,
+    "question": "รังสีที่ใช้ในการรักษาโรคทางเวชศาสตร์นิวเคลียร์คือข้อใด",
+    "choices": {
+      "ก": "แกมมา",
+      "ข": "เอกซเรย์",
+      "ค": "เบตา",
+      "ง": "แอลฟา",
+      "จ": "นิวตรอน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 138,
+    "question": "การเตรียมตัวผู้ป่วยสําหรับการตรวจ 18F-FDG PET/CT ข้อใดไม่ถูกต้อง?",
+    "choices": {
+      "ก": "งดกินอาหารอย่างน้อย 4-6ชั่วโมง",
+      "ข": "งดออกกําลังกายอย่างน้อย 24ชั่วโมง",
+      "ค": "งดดื่มน้ําอย่างน้อย 4-6ชั่วโมง",
+      "ง": "งดดื่มชากาแฟอย่างน้อย 24ชั่วโมง",
+      "จ": "ทานอาหารที่มีคาร์โบไฮเดรตต่ําอย่างน้อย 24ชั่วโมง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 139,
+    "question": "ผู้ป่วยกลุ่มใดที่สามารถรับการรักษาภาวะไทรอยด์เป็นพิษด้วย I-131?",
+    "choices": {
+      "ก": "สตรีตั้งครรภ์",
+      "ข": "สตรีที่อยู่ระหว่างให้นมบุตร",
+      "ค": "ผู้ป่วยเด็ก",
+      "ง": "พบค่า I-131 uptake ที่ 24ชั่วโมงเป็น 10%",
+      "จ": "ผู้ป่วยที่ทานยาหรืออาหารที่มีไอโอดีนเป็นส่วนประกอบจํานวนมาก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 140,
+    "question": "หลักการวินิจฉัย infracted myocardium จากการตรวจ myocardial perfusion study มีลักษณะเป็นอย่างไร?",
+    "choices": {
+      "ก": "เห็น defect ในภาวะ stress แต่ในภาวะ rest จะปกติ",
+      "ข": "เห็น defect ในภาวะ rest แต่ในภาวะ stress จะปกติ",
+      "ค": "เห็น defect ทั้งในภาวะ rest และ stress",
+      "ง": "กล้ามเนื้อหัวใจจับสารเภสัชรังสีมากขึ้นในภาวะ stress แต่ในภาวะ rest จะปกติ",
+      "จ": "กล้ามเนื้อหัวใจจับสารเภสัชรังสีมากขึ้นในภาวะ rest แต่ในภาวะ stress จะปกติ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 141,
+    "question": "ในภาพ 99mTc-MDP bone scan ของเด็กพบมีการจับสารเภสัชรังสีสูงในตําแหน่งใด?",
+    "choices": {
+      "ก": "Diaphysesof long bone",
+      "ข": "Breast tissue",
+      "ค": "Costochondral junctions and epiphyseal plates",
+      "ง": "Lumbar spine and cranium",
+      "จ": "Skull"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 142,
+    "question": "I-131 นํามาใช้รักษาโรคใดในเวชศาสตร์นิวเคลียร์?",
+    "choices": {
+      "ก": "Hyperthyroidism ใน subacute thyroiditis",
+      "ข": "Well differentiated medullary CA thyroid",
+      "ค": "Iodine deficiency",
+      "ง": "Graves’s disease",
+      "จ": "Hypothyroidism"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 143,
+    "question": "จุดประสงค์ของการทํา Radioactive Iodine Uptake (RAIU) ตรงกับข้อใด?",
+    "choices": {
+      "ก": "ตรวจหาระดับ thyroid hormone",
+      "ข": "ประเมินขนาดของต่อม thyroid",
+      "ค": "ตรวจการทํางานของต่อม thyroid",
+      "ง": "ตรวจหารอยโรคที่ต่อม thyroid",
+      "จ": "ตรวจหา Ectopic thyroid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 144,
+    "question": "การเตรียมตัวผู้ป่วยก่อนการตรวจ Radioactive Iodine Uptake (RAIU) ข้อใดไม่จําเป็น?",
+    "choices": {
+      "ก": "งดน้ําและอาหารอย่างน้อย 12ชั่วโมง ก่อนตรวจ",
+      "ข": "งดยาในกลุ่ม antithyroidประมาณ 1สัปดาห์ก่อนตรวจ",
+      "ค": "งดการตรวจที่มีการใช้ contrast media ในวันตรวจ",
+      "ง": "งดอาหารทะเลประมาณ 1สัปดาห์ก่อนตรวจ",
+      "จ": "งดธัยรอยด์ฮอร์โมนประมาณ 4สัปดาห์ก่อนตรวจ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 145,
+    "question": "ข้อบ่งชี้ทางคลินิกของการตรวจ thyroid scan ไม่ใช่ข้อใด?",
+    "choices": {
+      "ก": "ตรวจหา thyroid homone",
+      "ข": "มะเร็งต่อม thyroid",
+      "ค": "ผู้ป่วยมีคอพอก",
+      "ง": "ติดตามผลการรักษาโรค thyroiditis",
+      "จ": "หาตําแหน่ง ectopic thyroid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 146,
+    "question": "ข้อบ่งชี้ของการตรวจโดยใช้เครื่อง DEXA คือข้อใด?",
+    "choices": {
+      "ก": "การแตกหักของกระดูก",
+      "ข": "การกระจายของมะเร็งมาที่กระดูก",
+      "ค": "กรณีที่ไม่สามารถตรวจรอยโรคได้โดยใช้เอกซเรย์",
+      "ง": "ประเมินความหนาแน่นกระดูก",
+      "จ": "ติดตามผลการรักษามะเร็งกระดูก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 147,
+    "question": "สารเภสัชรังสีในข้อใดที่ใช้ในการตรวจการทํางานของ Renal tubular?",
+    "choices": {
+      "ก": "99mTc-DMSA",
+      "ข": "99mTc-MDP",
+      "ค": "99mTc-DTPA",
+      "ง": "99mTc-RBC",
+      "จ": "99mTc-MAG3"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 148,
+    "question": "สารเภสัชรังสีในข้อใดที่ใช้ในการวินิจฉัย Renal scar ทางเวชศาสตร์นิวเคลียร์?",
+    "choices": {
+      "ก": "99mTc-DMSA",
+      "ข": "99mTc-MDP",
+      "ค": "99mTc-DTPA",
+      "ง": "99mTc-RBC",
+      "จ": "99mTc-MAG3"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 149,
+    "question": "สารเภสัชรังสีที่ใช้ในการตรวจการทํางานของไต ในผู้ป่วยที่มีภาวการณ์ทํางานของไตแย่มาก?",
+    "choices": {
+      "ก": "99mTc-DMSA",
+      "ข": "99mTc-MDP",
+      "ค": "99mTc-MIBI",
+      "ง": "99mTc-DTPA",
+      "จ": "99mTc-MAG3"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 150,
+    "question": "99mTcที่ได้จาก Generator มีเลข oxidation เท่าไร?",
+    "choices": {
+      "ก": "+7",
+      "ข": "-7",
+      "ค": "+1",
+      "ง": "-1",
+      "จ": "0"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 151,
+    "question": "ภาพ normal bone scan ที่ตรวจโดยใช้ 99mTc-MDP จะเห็นลักษณะดังต่อไปนี้ ยกเว้นข้อใด",
+    "choices": {
+      "ก": "มีการกระจายตัวของสารเภสัชรังสีเหมือนกัน (symmetry) ทั้งด้านซ้ายและขวาของผู้ป่วย",
+      "ข": "เห็น activity ในต่อม thyroid",
+      "ค": "เห็น activity ที่ไต",
+      "ง": "มีการสะสมของสารเภสัชรังสีสูงใน epiphyseal plate ในเด็ก",
+      "จ": "มีการกระจายตัวของสารเภสัชรังสีในกระดูกส่วนต่างๆ แบบสม่ําเสมอทั้งตัว"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 152,
+    "question": "ข้อด้อยของการตรวจ 99mTc-MDP whole bone scan คือข้อใด",
+    "choices": {
+      "ก": "เป็นการตรวจที่ low specificity",
+      "ข": "เป็นการตรวจที่ high specificity",
+      "ค": "เป็นการตรวจที่ low sensitivity",
+      "ง": "เป็นการตรวจที่ high sensitivity",
+      "จ": "มีขั้นตอนการเตรียมตัวผู้ป่วยที่ยุ่งยาก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 153,
+    "question": "99Mo/99mTcGenerator ข้อใดไม่ถูกต้อง?",
+    "choices": {
+      "ก": "Eluent คือ นํ้าบริสุทธิ์",
+      "ข": "Daughter คือ 99mTc",
+      "ค": "Adsorbent Material คือ Alumina",
+      "ง": "Eluate คือ 99mTcO4-",
+      "จ": "Parent คือ 99Mo\nNormal saline"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 154,
+    "question": "สารที่ใช้ elute99mTcจาก 99Mo/99mTcGenerator คือสารใด?",
+    "choices": {
+      "ก": "Normal saline",
+      "ข": "Hydrochloric acid",
+      "ค": "Sodium hydroxide",
+      "ง": "น้ําบริสุทธิ์",
+      "จ": "น้ําแร่"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 155,
+    "question": "ข้อใดเป็นการทดสอบการปนเป์์อนของ 99mTcจาก 99Mo ?",
+    "choices": {
+      "ก": "Radionuclide purity",
+      "ข": "Radiochemical purity",
+      "ค": "Chemical purity",
+      "ง": "Sterile technique",
+      "จ": "Physical property"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 156,
+    "question": "99Mo Breakthrough เป็นการควบคุมคุณภาพของสารเภสัชรังสีในข้อใด?",
+    "choices": {
+      "ก": "Radionuclide purity",
+      "ข": "Toxicity",
+      "ค": "Chemical purity",
+      "ง": "Physical property",
+      "จ": "Radiochemical purity"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 157,
+    "question": "99Mo Breakthrough เป็นการทดสอบคุณภาพของสารเภสัชรังสี เพื่อวัตถุประสงค์ใด",
+    "choices": {
+      "ก": "ตรวจสอบกัมมันตภาพของสารเภสัชรังสีให้ตรงความต้องการ",
+      "ข": "ทดสอบการปนเป์์อนของเชื้อโรค",
+      "ค": "ตรวจสอบรูปแบบทางเคมีของสาเภสัชรังสี",
+      "ง": "ทดสอบขนาดอนุภาคของสารเภสัชรังสี",
+      "จ": "ทดสอบการปนเป์์อนของสารกัมมันตรังสีตัวแม่ใน 99mTc"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 158,
+    "question": "Stannous chloride ใส่เพื่อวัตถุประสงค์หลักในข้อใด?",
+    "choices": {
+      "ก": "ลดเลขออกซิเดชั่นของ 99mTc",
+      "ข": "เพิ่มประสิทธิภาพการติดสลาก",
+      "ค": "ทําลายเชื้อโรคและสารก่อไข้",
+      "ง": "ลด Free radical",
+      "จ": "ช่วยให้สารเภสัชรังสีมีความเสถียรมากขึ้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 159,
+    "question": "เทคนิคที่ใช้ทดสอบ Radiochemical purity คือ",
+    "choices": {
+      "ก": "Thin layer chromatography",
+      "ข": "High pressure liquid chromatography",
+      "ค": "Electrophoresis",
+      "ง": "Column chromatography",
+      "จ": "Filtration"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 160,
+    "question": "ข้อใดเป็นการทดสอบการปนเป์์อนของสารเภสัชรังสี 99mTc-MDP จาก free99mTcpertechnetate?",
+    "choices": {
+      "ก": "Radiochemical purity",
+      "ข": "Radionuclide purity",
+      "ค": "Chemical purity",
+      "ง": "Sterile technique",
+      "จ": "Radiochemical purity\n???"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 161,
+    "question": "กลไกใดที่ต่อมไทรอยด์ใช้ในการดูดจับ 131I?",
+    "choices": {
+      "ก": "Active transport",
+      "ข": "Adsorption",
+      "ค": "Capillary blockage",
+      "ง": "Phagocytosis",
+      "จ": "Receptor binding"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 162,
+    "question": "สารเภสัชรังสี 99mTc-MDP ใช้ในการตรวจอวัยวะใด?",
+    "choices": {
+      "ก": "กระดูก",
+      "ข": "หัวใจ",
+      "ค": "ต่อมไทรอยด์",
+      "ง": "สมอง",
+      "จ": "ตับ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 163,
+    "question": "การตรวจทางเวชศาสตร์นิวเคลียร์มีข้อดีอย่างไร?",
+    "choices": {
+      "ก": "ใช้ระยะเวลาในการตรวจนาน และเป็นแบบ invasive",
+      "ข": "เป็นการตรวจการทํางานของอวัยวะที่สนใจ",
+      "ค": "มีรังสีตกค้างในร่างกายปริมาณสูง จึงต้องมีการแยกออกจากกลุ่มผู้ป่วยอื่นๆ",
+      "ง": "เป็นการตรวจที่ทารกในครรภ์จะได้รับปริมาณรังสีสูง จึงห้ามตรวจในสตรีมีครรภ์",
+      "จ": "ราคาถูก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 164,
+    "question": "I-131 เพื่อใช้รักษาโรคชนิดใด?",
+    "choices": {
+      "ก": "Hypothyroidism",
+      "ข": "Thyroiditis",
+      "ค": "Medullary thyroid cancer",
+      "ง": "Iodine deficiency of thyroid",
+      "จ": "Graves’s disease"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 165,
+    "question": "Tc-99m pertechnetate จะถูกจับในอวัยวะใด?",
+    "choices": {
+      "ก": "ท่อไต",
+      "ข": "ปอด",
+      "ค": "กระเพาะอาหาร",
+      "ง": "หลอดเลือด",
+      "จ": "พาราไทรอยด์"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 166,
+    "question": "การตรวจ Myocardial perfusion หัววัดรังสีต้องหมุนเป็นมุมกี่องศา?",
+    "choices": {
+      "ก": "90",
+      "ข": "120",
+      "ค": "180",
+      "ง": "240",
+      "จ": "300"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 167,
+    "question": "ในการรักษา Hyperthyroidism ด้วย I-131 ความแรงรังสีมากกว่าเท่าใด ที่ผู้ป่วยต้องพักในหอพักผู้ป่วย?",
+    "choices": {
+      "ก": "45 mCi",
+      "ข": "40 mCi",
+      "ค": "30 mCi",
+      "ง": "25 mCi",
+      "จ": "15 mCi"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 168,
+    "question": "ลักษณะต่อมไทรอยด์โตร่วมกับ Hyperthyroid ที่มี subacute thyroiditis จะมีค่า uptake และลักษณะภาพของต่อมไทรอยด์ เป็นอย่างไร?",
+    "choices": {
+      "ก": "ต่ํา และไม่เห็นต่อมไทรอยด์",
+      "ข": "ต่ํา แต่เห็นต่อมไทรอยด์ปกติ",
+      "ค": "สูง แต่ไม่เห็นต่อมไทรอยด์",
+      "ง": "สูง และเห็นต่อมไทรอยด์ชัดเจน",
+      "จ": "เป็นไปได้ทุกกรณี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 169,
+    "question": "การตรวจ thyroid scan ในผู้ป่วยที่มี thyroid nodule ลักษณะของภาพจะเป็นอย่างไร?",
+    "choices": {
+      "ก": "Cold nodule",
+      "ข": "Warm nodule",
+      "ค": "Hot nodule",
+      "ง": "Multiple nodules",
+      "จ": "เป็นไปได้ทุกกรณี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 170,
+    "question": "ภาวะการ uptake ของต่อมไทรอยด์ที่ตํ่ากว่าปกติ ไม่ได้เกิดจากสาเหตุใด?",
+    "choices": {
+      "ก": "การได้รับ Iodine overload",
+      "ข": "ภาวะของ subacute thyroiditis",
+      "ค": "การได้รับการรักษาด้วย thyroid hormone",
+      "ง": "ภาวะขาดไอโอดีน",
+      "จ": "ได้รับ KClO4-"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 171,
+    "question": "ข้อใดไม่ใช่ข้อบ่งชี้ของการตรวจ bone scan ในทางเวชศาสตร์นิวเคลียร์?",
+    "choices": {
+      "ก": "การแพร่กระจายของมะเร็งมาที่กระดูก",
+      "ข": "Osteomyelitis ในระยะแรก",
+      "ค": "ติดตามผลการรักษาหลังการฉายรังสี",
+      "ง": "Bone marrow space",
+      "จ": "Bone infection"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 172,
+    "question": "ข้อใดเป็นข้อบ่งชี้ของการตรวจ 3-phase bone scan?",
+    "choices": {
+      "ก": "Osteomyelitis และ diskitis",
+      "ข": "Osteoporosis และ cellulitis",
+      "ค": "Osteomyelitis และ cellulitis",
+      "ง": "Osteoporosis และ diskitis",
+      "จ": "Osteoporosisและ septic arthritis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 173,
+    "question": "สารเภสัชรังสีที่ใช้ในการตรวจตับคือข้อใด?",
+    "choices": {
+      "ก": "131I-MIBG",
+      "ข": "131I-hippurate",
+      "ค": "99mTc-MIBI",
+      "ง": "99mTc-pertechnetate",
+      "จ": "99mTc-sulfur colloid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 174,
+    "question": "หลังรักษาผู้ป่วยมะเร็งไทรอยด์ด้วยไอโอดีนรังสี ผู้ป่วยควรได้รับคําแนะนําในการปฏิบัติตัวเมื่อกลับไปอยู่ที่บ้าน คําแนะนําที่ผู้ป่วยควรปฏิบัติอย่างน้อย 3 –4วัน เมื่อกลับไปอยู่ที่บ้านดังต่อไปนี้ ข้อใดไม่ถูกต้อง?",
+    "choices": {
+      "ก": "ราดน้ําลงในโถส้วมหรือชักโครกอย่างน้อยสองครั้งหลังปัสสาวะ",
+      "ข": "หลีกเลี่ยงการสัมผัสใกล้ชิดกับสตรีมีครรภ์และเด็ก",
+      "ค": "หลีกเลี่ยงการรับประทานอาหารที่มีไอโอดีนสูง",
+      "ง": "ไม่รับประทานอาหารหรือดื่มน้ําร่วมภาชนะกับผู้อื่น",
+      "จ": "แยกทําความสะอาดเสื้อผ้าและและของใช้ส่วนตัวจากบุคคลอื่นในครอบครัว"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 175,
+    "question": "ชนิดหัววัดรังสีของเครื่อง thyroid uptake คือข้อใด?",
+    "choices": {
+      "ก": "Scintillation detector",
+      "ข": "Proportional counter",
+      "ค": "Ionization chamber",
+      "ง": "Geiger-Mueller counter",
+      "จ": "Semi-conductor"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 176,
+    "question": "False negative ในการตรวจด้วย PET scan มักจะพบได้ในผู้ป่วยโรคใด",
+    "choices": {
+      "ก": "larynx cancer",
+      "ข": "prostate cancer",
+      "ค": "colorectal cancer",
+      "ง": "breast cancer",
+      "จ": "CA ovary"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 177,
+    "question": "การตรวจทางเวชศาสตร์นิวเคลียร์ในผู้ป่วยเด็ก ข้อใดไม่ถูกต้อง",
+    "choices": {
+      "ก": "สามารถทําการตรวจได้โดยใช้หลัก ALARA (Aa Low As Reasonable Achievably)",
+      "ข": "ควรสร้างความคุ้นเคยกับผู้ป่วยเด็ก",
+      "ค": "สร้างบรรยากาศในห้องตรวจให้เหมาะสาหรับผู้ป่วยเด็ก",
+      "ง": "อธิบายขั้นตอนวิธีการตรวจให้ผู้ป่วยทราบ",
+      "จ": "ให้ผู้ปกครองเข้ามาดูแลได้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 178,
+    "question": "การตรวจ sentinel node เป็นการตรวจเพื่ออะไร",
+    "choices": {
+      "ก": "วินิจฉัยของการอุดตันของหลอดน้ําเหลือง",
+      "ข": "วิเคราะห์หาตําแหน่งของต่อมน้ําเหลืองต่อมแรกที่อาจมีการแพร่กระจายของมะเร็ง",
+      "ค": "พิสูจน์ว่าได้มีการแพร่กระจายของมะเร็งเข้าสู่ต่อมน้ําเหลืองแล้ว",
+      "ง": "วินิจฉัยว่าได้มีการแพร่กระจายของมะเร็งเข้าสู่หลอดน้ําเหลืองแล้ว",
+      "จ": "ตรวจหามะเร็งต่อมน้ําเหลือง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 179,
+    "question": "ภาพ normal bone scan ที่ตรวจโดยใช้ 99mTc-MDP จะเห็นลักษณะดังต่อไปนี้ ยกเว้นข้อใด?",
+    "choices": {
+      "ก": "มีการกระจายตัวของสารเภสัชรังสีเหมือนกัน (symmetry) ทั้งด้านซ้ายและขวาของผู้ป่วย",
+      "ข": "เห็น activity ในต่อม thyroid",
+      "ค": "เห็น activity ที่ไต",
+      "ง": "มีการสะสมของสารเภสัชรังสีสูงใน epiphyseal plate ในเด็ก",
+      "จ": "มีการกระจายตัวของสารเภสัชรังสีในกระดูกส่วนต่างๆ แบบสม่ําเสมอทั้งตัว"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 180,
+    "question": "ปัจจัยที่ไม่มีผลต่อค่า Sensitivity ของเครื่อง gamma camera คือข้อใด?",
+    "choices": {
+      "ก": "ความหนาของ Camera crystal",
+      "ข": "ความยาวของรู Collimator",
+      "ค": "Light guide/pipe",
+      "ง": "Instrument dead time",
+      "จ": "ความกว้างของรู Collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 181,
+    "question": "Gas amplification เป็นปรากฏการณ์ที่เกิดขึ้นในบริเวณใดของ voltage response curve ของ gas-filled detector?",
+    "choices": {
+      "ก": "Recombination",
+      "ข": "Ionization",
+      "ค": "Proportional",
+      "ง": "Continuous discharge",
+      "จ": "Spontaneous discharge"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 182,
+    "question": "ในการถ่ายภาพ PET การนับวัด photon 2 ตัว ที่ไม่ได้มาจากปฏิกิริยา annihilation เดียวกันภายใน coincidence timing window เรียกว่าอะไร?",
+    "choices": {
+      "ก": "True coincidence",
+      "ข": "Scatter coincidence",
+      "ค": "Random coincidence",
+      "ง": "Prompt coincidence",
+      "จ": "Total coincidence"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 183,
+    "question": "เวลาที่เหมาะสําหรับการส่งตรวจ PET scan ในผู้ป่วยมะเร็งในข้อใด",
+    "choices": {
+      "ก": "6สัปดาห์ หลังผ่าตัด",
+      "ข": "6 สัปดาห์ หลังได้รับการรักษาด้วย colony stimulating factor",
+      "ค": "6สัปดาห์ หลังได้รับการฉายรังสี",
+      "ง": "6เดือน หลังผ่าตัด",
+      "จ": "6วัน ก่อนผ่าตัด"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 184,
+    "question": "การทดสอบ Energy resolution ของเครื่อง gamma camera โดยใช้ Cs-137 ถ้าวัด full width at half maximum (FWHM) ได้ 53 keV และ photo peak energy เท่ากับ 662 keV จงคํานวณหาเปอร์เซนต์ energy resolution?",
+    "choices": {
+      "ก": "0.08%",
+      "ข": "8%",
+      "ค": "1.3%",
+      "ง": "12.5%",
+      "จ": "10%\n%energy resolution = FWHM/Energy at photopeak x 100= 53/662 x 100 = 8%"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 185,
+    "question": "เมื่อเกิดอุบัติเหตุทางรังสี เครื่องมือชนิดใดที่ใช้วัดปริมาณรังสีปนเป์์อน?",
+    "choices": {
+      "ก": "Thermoluminescentdosimeter",
+      "ข": "Geiger-Mueller counter",
+      "ค": "Ionization chamber",
+      "ง": "Pocket dosimeter",
+      "จ": "OSL"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 186,
+    "question": "การเกิด 1 ion pair ในอากาศ จะต้องใช้พลังงานเฉลี่ยของโฟตอนเท่าไหร่?",
+    "choices": {
+      "ก": "60 eV",
+      "ข": "16 keV",
+      "ค": "5 eV",
+      "ง": "34 eV",
+      "จ": "40 keV"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 187,
+    "question": "คุณสมบัติของ parallel hole collimator คือข้อใด?",
+    "choices": {
+      "ก": "Resolution จะแย่ลง เมื่อเพิ่มระยะทางจากแหล่งกําเนิดรังสีถึง collimator",
+      "ข": "Sensitivity และ resolution จะเพิ่มขึ้นเมื่อเพิ่มขนาดเส้นผ่านศูนย์รูของ collimator",
+      "ค": "Low energy collimator สามารถใช้กับการตรวจ I-131 study ได้",
+      "ง": "Sensitivity จะเพิ่มขึ้นเมื่อเพิ่มความยาวรูของ collimator",
+      "จ": "Sensitivity จะเพิ่มขึ้นเมื่อลดระยะทางจากแหล่งกําเนิดรังสีถึง collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 188,
+    "question": "ความสูงของสัญญาณที่ได้จากหัววัดรังสีชนิด gas-filled ไม่ขึ้นกับข้อใด?",
+    "choices": {
+      "ก": "จํานวนคู่ ion ที่เกิดขึ้น",
+      "ข": "จํานวนโฟตอนแสงที่เกิดขึ้น",
+      "ค": "ปริมาตรของ gas ภายในหัววัด",
+      "ง": "แรงดันของ gas ภายในหัววัด",
+      "จ": "ขนาดของหัววัดรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 189,
+    "question": "ในการถ่ายภาพ PET โฟตอน 2 ตัวในทิศทางตรงกันข้ามจะถูกนับวัดโดยผลึก ภายใน coincidence timing window การเรืองแสงที่เกิดขึ้นในผลึกจะถูกเชื่อมต่อเป็นเส้นตรงเรียกว่าอะไร?",
+    "choices": {
+      "ก": "Line of origination",
+      "ข": "Line of action",
+      "ค": "Line of response",
+      "ง": "Line of flight",
+      "จ": "Line integral"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 190,
+    "question": "Spatial resolution ของภาพถ่ายเครื่อง gamma camera ไม่ขึ้นกับข้อใด?",
+    "choices": {
+      "ก": "ระยะห่างระหว่าง collimator กับผู้ป่วย",
+      "ข": "ขนาดรูของ collimator",
+      "ค": "ความยาวของรู collimator",
+      "ง": "ขนาดของ matrix ที่ใช้",
+      "จ": "จํานวนค่านับวัด\nContrast"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 191,
+    "question": "Attenuation มีผลต่อคุณภาพของภาพอย่างไร?",
+    "choices": {
+      "ก": "ทําให้ค่านับวัดน้อยกว่าปกติ",
+      "ข": "ทําให้ resolution ของภาพแย่ลง",
+      "ค": "ทําให้ความคมชัดของภาพดีขึ้น",
+      "ง": "ทําให้ภาพมีความเข้มมากกว่าความเป็นจริง",
+      "จ": "ทําให้ image noise ลดลง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 192,
+    "question": "คุณสมบัติของผลึกเรืองแสงในอุดมคติของหัววัดรังสีไม่ใช่ข้อใด?",
+    "choices": {
+      "ก": "สามารถเรืองแสงได้ในอุณหภูมิห้อง",
+      "ข": "การเรืองแสงที่เกิดขึ้นควรเกิดเป็นระยะเวลานานๆ",
+      "ค": "ไม่ไวต่อความชื้น",
+      "ง": "ควรจะมีความหนาแน่นสูงเพื่อให้โฟตอนถูกดูดกลืนไว้หมด",
+      "จ": "สามารถเปลี่ยนพลังงานของรังสีให้เป็นโฟตอนแสงได้อย่างมีประสิทธิภาพ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 193,
+    "question": "การสร้างภาพ 3 มิติด้วย iterative method ไม่ตรงกับข้อใด?",
+    "choices": {
+      "ก": "สามารถแก้ไขปัจจัยที่มีผลต่อคุณภาพของภาพได้",
+      "ข": "ใช้วิธีทางสถิติมาช่วยในการปรับปรุงภาพ",
+      "ค": "จํานวน projection ไม่เพียงพอจะทําให้มี streak artifact ในภาพ",
+      "ง": "คุณภาพของภาพขึ้นอยู่กับจํานวนรอบ (iteration)",
+      "จ": "เป็นการนําภาพสมมุติมาเปรียบเทียบกับภาพถ่ายที่วัดได้ แล้วนําเอาค่าผิดพลาดนั้นมาแก้ไข"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 194,
+    "question": "หน้าที่หลักของ PM tube คือข้อใด?",
+    "choices": {
+      "ก": "ขยายสัญญาณให้มีขนาดพอเหมาะ",
+      "ข": "เปลี่ยนโฟตอนแสงที่ได้จากผลึกเรืองแสงให้เป็นสัญญาณไฟฟ้า",
+      "ค": "คัดเลือกสัญญาณที่จะนับวัด",
+      "ง": "ปรับรูปร่างของสัญญาณให้เหมาะสม",
+      "จ": "เปลี่ยนพลังงานของโฟตอนที่เข้ามาทําปฏิกิริยาให้เป็นโฟตอนแสง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 195,
+    "question": "คุณสมบัติของ collimator ไม่ใช่ข้อใด?",
+    "choices": {
+      "ก": "ทําด้วยสารที่มีความหนาแน่นสูง",
+      "ข": "ช่วยลด scatter",
+      "ค": "ช่วยลดปริมาณรังสีที่ผู้ป่วยได้รับ",
+      "ง": "ยอมให้โฟตอนที่มีทิศทางตามแนวรูของ collimator ผ่านไปได้",
+      "จ": "โฟตอนที่เข้าในทิศทางอื่นจะถูกดูดกลืนในผนังของ collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 196,
+    "question": "คุณสมบัติของ parallel hole collimator ไม่ตรงกับข้อใด?",
+    "choices": {
+      "ก": "ชนิด low energy high resolution ให้ resolution ที่ดีกว่า low energy all purpose",
+      "ข": "ชนิด low energy high sensitivity ให้ sensitivity ที่ดีกว่า low energy all purpose",
+      "ค": "ชนิด high energy เหมาะกับการนํามาใช้กับโฟตอนที่มีพลังงานมากกว่า 300 keV",
+      "ง": "ชนิด low energy all purpose ให้ resolution ที่แย่กว่า low energy high sensitivity",
+      "จ": "ชนิด low energy all purpose สามารถนํามาใช้ในการตรวจที่ใช้สารกัมมันตรังสี Tc-99m ได้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 197,
+    "question": "ค่านับวัดมีผลต่อคุณภาพของภาพอย่างไร?",
+    "choices": {
+      "ก": "ค่านับวัดมากขึ้น resolution ของภาพดีขึ้น",
+      "ข": "ค่านับวัดมากขึ้น contrast ของภาพเพิ่มขึ้น",
+      "ค": "ค่านับวัดน้อย noise ในภาพลดลง",
+      "ง": "ค่านับวัดน้อย resolution ของภาพดีขึ้น",
+      "จ": "ค่านับวัดมากขึ้น resolution ของภาพดีขึ้นแต่ contrast ของภาพลดลง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 198,
+    "question": "หัววัดรังสีของเครื่อง gamma camera เป็นชนิดใด?",
+    "choices": {
+      "ก": "Scintillation detector",
+      "ข": "Geiger muller detector",
+      "ค": "Proportional detector",
+      "ง": "Semiconductor detector",
+      "จ": "Ionization detector"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 199,
+    "question": "Collimator ที่ไม่เหมาะสมกับการถ่ายภาพ 99mTcคือข้อใด?",
+    "choices": {
+      "ก": "High energy collimator",
+      "ข": "Low energy general purpose collimator",
+      "ค": "Low energy high sensitivity",
+      "ง": "Low energy high resolution collimator",
+      "จ": "Pin hole collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 200,
+    "question": "การทํา QC ของเครื่องgamma Camera ไม่ใช่ข้อใด?",
+    "choices": {
+      "ก": "Center of rotation",
+      "ข": "Uniformity",
+      "ค": "Energy resolution",
+      "ง": "Spatial resolution",
+      "จ": "Sensitivity\nSPECT"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 201,
+    "question": "Bull's eye' artifact ของภาพ SPECT จากการถ่าย point source เกิดจากอะไร?",
+    "choices": {
+      "ก": "Center of rotation ผิดปกติ",
+      "ข": "Photomultiplier tube เสีย",
+      "ค": "crystal crack",
+      "ง": "Intrinsic non-uniformity",
+      "จ": "Extrinsic non-uniformity"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 202,
+    "question": "การทํา QC ของเครื่อง dose calibrator ไม่ใช่ข้อใด?",
+    "choices": {
+      "ก": "Uniformity",
+      "ข": "Precision",
+      "ค": "Accuracy",
+      "ง": "Linearity",
+      "จ": "Geometry\nGamma camera, SPECT"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 203,
+    "question": "Collimator ใดทําให้ได้ภาพที่มีขนาดใหญ่ขึ้น?",
+    "choices": {
+      "ก": "Flat field",
+      "ข": "Diverging",
+      "ค": "Converging",
+      "ง": "High sensitivity",
+      "จ": "High resolution"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 204,
+    "question": "เครื่องมือชนิดใดเหมาะสําหรับการสํารวจการเปรอะเป์์อนของสารกัมมันตรังสี?",
+    "choices": {
+      "ก": "OSL",
+      "ข": "Pocket dosimeter",
+      "ค": "Ionization chamber",
+      "ง": "Geiger-Muller counter",
+      "จ": "Proportional counter"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 205,
+    "question": "ส่วนประกอบของเครื่อง gamma camera ที่เปลี่ยนโฟตอนให้เป็นโฟตอนแสงคือข้อใด?",
+    "choices": {
+      "ก": "Collimator",
+      "ข": "Preamplifier",
+      "ค": "Scintillation crystal",
+      "ง": "PM tube",
+      "จ": "Pulse height analyzer"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 206,
+    "question": "เครื่อง survey meter ประเภทใดใช้วัดรังสีในบริเวณที่มี low-level gamma radiation?",
+    "choices": {
+      "ก": "Ionization chamber",
+      "ข": "Thermoluminescence detector",
+      "ค": "Semiconductor Detector",
+      "ง": "Geiger Muller Counter",
+      "จ": "Proportional Counter"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 207,
+    "question": "Cadmium zinc telluride (CZT) เป็นหัววัดชนิดใด",
+    "choices": {
+      "ก": "Gas-filled detector",
+      "ข": "Scintillation detector",
+      "ค": "Solid state detector",
+      "ง": "Phoswichdetector",
+      "จ": "Compton detector"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 208,
+    "question": "เครื่อง PET แบบ 2D ต่างจากแบบ 3D อย่างไร",
+    "choices": {
+      "ก": "มีจํานวนหัววัดน้อยกว่า",
+      "ข": "มี septa กั้นระหว่างวงของหัววัด (ring)",
+      "ค": "มีความไวมากกว่า",
+      "ง": "มีความถูกต้องมากกว่า",
+      "จ": "ถูกทุกข้อ\n! septumNo septum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 209,
+    "question": "Fourier Rebinning(FORE) ใช้เพื่อจุดประสงค์ใด",
+    "choices": {
+      "ก": "ใช้ในการสร้างภาพ 3มิติ",
+      "ข": "ใช้ในการลด scatter",
+      "ค": "ใช้ในการคํานวณหา energy resolution",
+      "ง": "ใช้ในการขจัด noise",
+      "จ": "ใช้ในการยุบข้อมูลจาก 3D ให้เป็น 2D"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 210,
+    "question": "ถ้าใช้ตะกั่วกั้นรังสีเบตาพลังงานสูง อาจทําให้เกิดอะไรได้บ้าง",
+    "choices": {
+      "ก": "Auger electron",
+      "ข": "Internal conversion electron",
+      "ค": "Photoelectron",
+      "ง": "Characteristic X-ray",
+      "จ": "BremstralungX-ray"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 211,
+    "question": "Half-value layer ของรังสีแกมมาที่พลังงาน 511 keV มีค่าโดยประมาณในข้อใด",
+    "choices": {
+      "ก": "5มิลลิเมตรของตะกั่ว",
+      "ข": "7มิลลิเมตรของตะกั่ว",
+      "ค": "10มิลลิเมตรของตะกั่ว",
+      "ง": "12มิลลิเมตรของตะกั่ว",
+      "จ": "15มิลลิเมตรของตะกั่ว"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 212,
+    "question": "การถ่ายภาพ SPECT โดยใช้ body contour ในการหมุนรอบผู้ป่วยจะทําให้ภาพดีขึ้นเนื่องจากสิ่งใด",
+    "choices": {
+      "ก": "Temporal resolution",
+      "ข": "Spatial resolution",
+      "ค": "Reconstruction times",
+      "ง": "Acquisition times",
+      "จ": "Patient comfort"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 213,
+    "question": "การถ่ายภาพโดยใช้ matrix size ขนาด 128 x128 และ detector มี FOV ขนาด 35 cm pixel size จะมีขนาดกี่ mm?",
+    "choices": {
+      "ก": "0.37",
+      "ข": "2.73",
+      "ค": "3.14",
+      "ง": "4.48",
+      "จ": "5.91"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 214,
+    "question": "การถ่ายภาพ whole bone scan จะทําหลังจากฉีด 99mTc-MDP เป็นเวลาเท่าไร?",
+    "choices": {
+      "ก": "10 นาที",
+      "ข": "30 นาที",
+      "ค": "1 ชั่วโมง",
+      "ง": "2-3 ชั่วโมง",
+      "จ": "24 ชั่วโมง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 215,
+    "question": "มุมมาตรฐานที่ใช้ในการถ่ายภาพ lung perfusion คือมุมใด?",
+    "choices": {
+      "ก": "Anterior และ SPECT",
+      "ข": "Anterior และ Posterior เท่านั้น",
+      "ค": "Posterior และ Oblique เท่านั้น",
+      "ง": "Anterior, Posterior, Lateral และ SPECT",
+      "จ": "Anterior, Posterior, Lateral และ Oblique"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 216,
+    "question": "ในการตรวจ gated blood pool โดยถ่ายภาพทั้งหมด 30 frame ด้วย matrix size ขนาด 128 x 128 แบบ byte mode จะใช้หน่วยความจําเท่าไร?",
+    "choices": {
+      "ก": "983,040 bytes",
+      "ข": "491,520 bytes",
+      "ค": "16,384 bytes",
+      "ง": "3,840 bytes",
+      "จ": "546 bytes\nMemory required = matrix size x No. of pixel (byte) x no. of image= 128x128 x 1 x 30"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 217,
+    "question": "ในการถ่ายภาพ PET เมื่อสารเภสัชรังสีมีความแรงสูงจะทําให้เกิดอะไร?",
+    "choices": {
+      "ก": "Dead timeลดลง",
+      "ข": "Random event เพิ่มขึ้น",
+      "ค": "Attenuation เพิ่มขึ้น",
+      "ง": "Resolution เพิ่มขึ้น",
+      "จ": "Scatter ลดขึ้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 218,
+    "question": "เทคนิคการถ่ายภาพ static ใช้กับการตรวจใด?",
+    "choices": {
+      "ก": "Phase แรก ของ 3-phase bone scan",
+      "ข": "Gated blood pool",
+      "ค": "Myocardial perfusion SPECT",
+      "ง": "Thyroid imaging",
+      "จ": "Renogram"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 219,
+    "question": "เมื่อเปลี่ยน collimator จาก low energy all purpose / general purpose เป็นชนิด low energy high resolution และต้องการเก็บค่านับวัดให้ได้เท่าเดิม เวลาที่ใช้ในการถ่ายภาพจะเปลี่ยนไปอย่างไร?",
+    "choices": {
+      "ก": "เท่ากัน",
+      "ข": "ลดลง",
+      "ค": "เพิ่มขึ้น",
+      "ง": "คาดเดาไม่ได้",
+      "จ": "ไม่ขึ้นกับชนิดของ collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 220,
+    "question": "ในการถ่ายภาพด้วย parallel hole collimator ทําให้ภาพ resolution ดีขึ้นได้ด้วยวิธีใด?",
+    "choices": {
+      "ก": "เพิ่ม window width ของ pulse-height analyzer",
+      "ข": "เลื่อน detector ให้ชิดกับผู้ป่วยมากขึ้น",
+      "ค": "ใช้ชนิด low energy high sensitivity แทนชนิด low energy all purpose/general purpose",
+      "ง": "แสดงภาพโดยใช้ gray scale ช่วงแคบๆ",
+      "จ": "เพิ่มปริมาณสารเภสัชรังสีที่ฉีดให้ผู้ป่วย"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 221,
+    "question": "ในการใช้ Butterworth filter ด้วย order คงที่ จะใช้ cutoff frequency เท่าใดจึงจะให้ภาพที่ smooth ที่สุด?",
+    "choices": {
+      "ก": "0.64 cycles/pixel",
+      "ข": "0.50 cycles/pixel",
+      "ค": "0.42 cycles/pixel",
+      "ง": "0.33 cycles/pixel",
+      "จ": "0.15 cycles/pixel\nCutoff frequency \"อย ภาพ smooth Resolution ลดลง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 222,
+    "question": "เทคนิคใดที่ใช้ในการขจัด star artifact ที่เกิดระหว่างการสร้างภาพโดยใช้วิธี Back projection?",
+    "choices": {
+      "ก": "Center of rotation offset correction",
+      "ข": "Ramp filter",
+      "ค": "ลดจํานวนมุมในการถ่ายภาพให้มากเกินพอ",
+      "ง": "Uniformity correction",
+      "จ": "Attenuation correction"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 223,
+    "question": "Streak artifact ที่เกิดขึ้นระหว่างการสร้างภาพ SPECT สามารถลดลงได้โดยวิธีใด?",
+    "choices": {
+      "ก": "เพิ่มเวลาในการเก็บภาพต่อ projection",
+      "ข": "ลดเวลาในการเก็บภาพต่อ projection",
+      "ค": "เพิ่มจํานวน projection",
+      "ง": "ลดจํานวน projection",
+      "จ": "ใช้ ramp filter"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 224,
+    "question": "ในภาพถ่าย I-131 whole body scan มี artifact ลักษณะเป็น bright star shape ใน FOV อะไรเป็นสาเหตุให้เกิด artifact ดังกล่าว?",
+    "choices": {
+      "ก": "PM tube ทํางานผิดปกติ",
+      "ข": "ใช้ low energy collimator",
+      "ค": "ตั้ง energy window ไม่เหมาะสม",
+      "ง": "Crystal เสียหาย",
+      "จ": "การสร้างภาพด้วยวิธี simple back projection"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 225,
+    "question": "การถ่าย SPECT มีข้อดีเหนือกว่า planar คือ",
+    "choices": {
+      "ก": "มี resolution ดีกว่า",
+      "ข": "มี contrast ดีกว่า",
+      "ค": "มี sensitivity และ resolution ดีกว่า",
+      "ง": "มี contrast และ resolution ดีกว่า",
+      "จ": "ไม่มีการซ้อนทับของอวัยวะ และมี resolution ดีกว่า"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 226,
+    "question": "ข้อแนะนําให้ผู้ป่วยปฏิบัติตัวอย่างไรหลังได้รับการฉีด F-18 FDG ?",
+    "choices": {
+      "ก": "เดินไปที่ใดก็ได้และกลับมาที่ห้อง scan ภายใน 90นาทีหลังฉีด",
+      "ข": "ควรพักในห้องที่เตรียมไว้จนกว่าจะถึงเวลา scan",
+      "ค": "ให้ญาติมาดูแลผู้ป่วยในห้องพักได้",
+      "ง": "ทานอาหารที่ไขมันสูงเพื่อขับ activity ที่ไม่จําเป็นออกจากระบบทางเดินน้ําดี",
+      "จ": "ทานอาหารที่มีคาร์โบไฮเดรตสูง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 227,
+    "question": "ในการทํา 3-phase bone study ควรถ่าย phase ที่ 2 ห่างจาก phase ที่ 1นานเท่าไร?",
+    "choices": {
+      "ก": "3ชั่วโมง",
+      "ข": "1ชั่วโมง",
+      "ค": "45นาที",
+      "ง": "20นาที",
+      "จ": "ถ่ายหลังจาก phase ที่ 1ทันที"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 228,
+    "question": "ในการถ่ายภาพ 99mTc-MDP whole body bone scan ใช้ collimator ชนิดใด?",
+    "choices": {
+      "ก": "High energy collimator",
+      "ข": "Medium energy collimator",
+      "ค": "Low energy high resolution",
+      "ง": "Low energy high sensitivity",
+      "จ": "Fan beam collimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 229,
+    "question": "จุดประสงค์การตรวจ MUGA คือข้อใด?",
+    "choices": {
+      "ก": "Left ventricular ejection fraction",
+      "ข": "Cardiac blood flow",
+      "ค": "Wall thickness",
+      "ง": "Infraction",
+      "จ": "Interventricular shunt"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 230,
+    "question": "เทคนิคการถ่ายภาพเพื่อดู renal function คือข้อใด?",
+    "choices": {
+      "ก": "Tomographic acquisition",
+      "ข": "Whole Body acquisition",
+      "ค": "Dynamic acquisition mode",
+      "ง": "Static acquisition mode",
+      "จ": "Gated acquisition mode"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 231,
+    "question": "Sinogram จากการถ่ายภาพแบบ SPECT คือข้อใด?",
+    "choices": {
+      "ก": "Sinogram คือ การแสดงภาพโดยภาพ projection ในแนวแกน x ที่สัมพันธ์กับมุมที่เปลี่ยนไป (แกน y)",
+      "ข": "Sinogram คือ ภาพ projection",
+      "ค": "Sinogram คือ การนําเอาภาพ projection มาแสดงในแนวแกน y",
+      "ง": "Sinogram คือ ภาพ sine wave ที่เปลี่ยนไปตามมุมที่หัววัดหมุนรอบ",
+      "จ": "Sinogram คือ การแสดงภาพ cosine wave"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 232,
+    "question": "ในการถ่ายภาพโดยใช้ 99mTc, 20%energy window หมายถึงการตั้งช่วง Lower leveldiscriminator และ Upper leveldiscriminator ในช่วงใด (99mTcมีพลังงานแกมมา 140keV)?",
+    "choices": {
+      "ก": "112keV ถึง 168keV",
+      "ข": "120keV ถึง 160keV",
+      "ค": "120keV ถึง 140keV",
+      "ง": "112keV ถึง 140keV",
+      "จ": "140keV ถึง 168keV"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 233,
+    "question": "การทํา Attenuation correction ในการถ่ายภาพรังสีแกมมามีวัตถุประสงค์เพื่ออะไร?",
+    "choices": {
+      "ก": "ปรับค่านับวัดที่ถูกลดทอนไปเพราะการเดินทางของรังสีผ่านตัวกลางต่างๆ",
+      "ข": "แก้ไขการขยับของอวัยวะระหว่างการถ่ายภาพ",
+      "ค": "ปรับเพื่อชดเชยการดูดกลืนรังสีโดยคอลลิเมเตอร์",
+      "ง": "ลดค่านับวัดที่เกิดจากรังสีกระเจิง",
+      "จ": "ปรับแก้การสลายตัวของนิวไคลด์รังสีที่ใช้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 234,
+    "question": "การใช้ Low energy high-resolution collimator มีข้อดีอย่างไร?",
+    "choices": {
+      "ก": "Resolution ของภาพเพิ่มขึ้น",
+      "ข": "Sensitivity ในการนับวัดเพิ่มขึ้น",
+      "ค": "ลดระยะเวลาในการถ่ายภาพ",
+      "ง": "แยกพลังงานของสารเภสัชรังสีดีขึ้น",
+      "จ": "ไม่มีอะไรเปลี่ยนแปลง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 235,
+    "question": "การถ่ายภาพทางเวชศาสตร์นิวเคลียร์ โดยให้ด้านหน้าของผู้ป่วยเข้าหาและชิดกับหัววัดเรียกการจัดท่านี้ว่าอะไร?",
+    "choices": {
+      "ก": "Anterior view",
+      "ข": "Posterior view",
+      "ค": "Left lateral view",
+      "ง": "Right lateral view",
+      "จ": "Left anterior oblique view"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 236,
+    "question": "การถ่ายภาพ 99mTc-MDP whole bone scan ควรเลือกใช้ collimator ชนิดใด?",
+    "choices": {
+      "ก": "HEHR",
+      "ข": "HEGP",
+      "ค": "MEGP",
+      "ง": "LEHR",
+      "จ": "LEHS"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 237,
+    "question": "ข้อใดไม่นํามาใช้ในการคํานวณค่าเปอร์เซ็นต์ uptake ของต่อมไทรอยด์?",
+    "choices": {
+      "ก": "Standard neck phantom",
+      "ข": "Thigh phantom",
+      "ค": "Neck",
+      "ง": "Thigh",
+      "จ": "Room background"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 238,
+    "question": "Artifact แบบใดสามารถ correct ได้โดยใช้ Ramp filter?",
+    "choices": {
+      "ก": "Star",
+      "ข": "Doughnut",
+      "ค": "Bull’s eye",
+      "ง": "Ring",
+      "จ": "Streaking"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 239,
+    "question": "ธาตุ 23592U มีจํานวนโปรตอนเท่าไร?",
+    "choices": {
+      "ก": "235",
+      "ข": "92",
+      "ค": "143",
+      "ง": "327",
+      "จ": "200"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 240,
+    "question": "ผังการสลายตัวของสารกัมมันตรังสี99mTcแสดงดังภาพ เป็นการสลายตัวแบบใด?",
+    "choices": {
+      "ก": "Isomeric transition",
+      "ข": "Electron capture",
+      "ค": "Positron decay",
+      "ง": "Beta decay",
+      "จ": "Alpha decay"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 241,
+    "question": "ความแรงรังสี 1Ci เท่ากับกี่ Bq?",
+    "choices": {
+      "ก": "3.7x 1010",
+      "ข": "3.7x 109",
+      "ค": "3.7x 108",
+      "ง": "3.7x 107",
+      "จ": "3.7x 106"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 242,
+    "question": "Specific activity หมายถึงข้อใด?",
+    "choices": {
+      "ก": "ความแรงรังสีสารกัมมันตรังสีต่อมวลของสารกัมมันตรังสี",
+      "ข": "ความเข้มข้นสารกัมมันตรังสีต่อมวลของสารกัมมันตรังสี",
+      "ค": "ปริมาณของสารกัมมันตรังสีต่อมวลของสารกัมมันตรังสี",
+      "ง": "มวลของสารกัมมันตรังสี",
+      "จ": "ความบริสุทธ์ของสารกัมมันตรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 243,
+    "question": "กระบวนการใดที่ทําให้เกิดคู่ไอออน เมื่อรังสีผ่านมากระทบกับวัตถุตัวกลาง?",
+    "choices": {
+      "ก": "Ionization",
+      "ข": "Excitation",
+      "ค": "Decay",
+      "ง": "Recombination",
+      "จ": "Annihilation"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 244,
+    "question": "อิเล็กตรอนที่ปล่อยออกมาจากนิวเคลียสของอะตอมที่ไม่มีความเสถียรเรียกว่าอะไร?",
+    "choices": {
+      "ก": "Auger electron",
+      "ข": "Conversion electron",
+      "ค": "Beta particle",
+      "ง": "Alpha particle",
+      "จ": "Antineutrino"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 245,
+    "question": "การทดสอบ linearity ของเครื่อง dose calibrator ควรทําบ่อยเพียงใด?",
+    "choices": {
+      "ก": "ทุกป๊",
+      "ข": "ทุก 3เดือน",
+      "ค": "ทุกเดือน",
+      "ง": "ทุกวัน",
+      "จ": "ทุกสัปดาห์"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 246,
+    "question": "การทํา center of rotation (COR) ของเครื่องถ่ายภาพ SPECT ควรทําบ่อยเพียงใด?",
+    "choices": {
+      "ก": "ทุกวัน",
+      "ข": "ทุกเดือน",
+      "ค": "ทุกสัปดาห์",
+      "ง": "ทุก 3เดือน",
+      "จ": "ทุกป๊"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 247,
+    "question": "การทํา extrinsic flood field uniformity ควรทําบ่อยเพียงใด?",
+    "choices": {
+      "ก": "ทุกวัน",
+      "ข": "ทุกสัปดาห์",
+      "ค": "ทุกเดือน",
+      "ง": "ทุก 3เดือน",
+      "จ": "ทุกป๊\nWith colimator"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 248,
+    "question": "ในการทํา uniformity ของเครื่องถ่ายภาพ gamma camera ข้อใดผิด?",
+    "choices": {
+      "ก": "เป็นการตรวจสอบดูการทํางานของ PM tube",
+      "ข": "นิยมใช้ Co-57 sheet source ในการทํา system uniformity",
+      "ค": "ควรทําการทดสอบแบบทั้ง intrinsic และ extrinsic uniformity",
+      "ง": "ภาพที่ได้จากการทํา uniformity ควรมีความสม่ําเสมอของค่านับวัด",
+      "จ": "นิยมใช้ 4 quadrant bar phantom มาวางคั่นระหว่าง collimator กับ Co-57 sheet source\nSpatial resolution"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 249,
+    "question": "การทํา Extrinsic quality control ของเครื่อง gamma camera หมายถึงข้อใด?",
+    "choices": {
+      "ก": "การทดสอบโดยไม่มี collimator",
+      "ข": "การทดสอบโดยมี collimator",
+      "ค": "การทดสอบชิ้นส่วนภายในเครื่องถ่ายภาพ",
+      "ง": "การทดสอบชิ้นส่วนภายนอกเครื่องถ่ายภาพ",
+      "จ": "การทดสอบความไวของหัววัดต่อรังสีภายนอกห้อง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 250,
+    "question": "Intrinsic non-uniformity ไม่ได้เกิดจากสาเหตุใด?",
+    "choices": {
+      "ก": "PM tube เสีย",
+      "ข": "Crystal แตก",
+      "ค": "Collimator ชํารุด",
+      "ง": "Spatial distortion",
+      "จ": "สารรังสีปนเป์์อนบนหัววัดรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 251,
+    "question": "จุดประสงค์หลักของการทํา center of rotation คือข้อใด?",
+    "choices": {
+      "ก": "ขจัด artifact ที่เกิดขึ้นในภาพจากการที่หัววัดรังสีไม่ได้ระนาบ",
+      "ข": "ลดความแปรปรวนของการนับวัดรังสีในแต่ละบริเวณของcrystal",
+      "ค": "ให้แน่ใจว่าทุก pixel มีขนาดเท่ากันทั่วทั้ง FOV",
+      "ง": "ให้จุดศูนย์กลางในการคํานวณภาพตรงกับจุดศูนย์กลางการหมุนของหัววัดรังสี",
+      "จ": "ให้ภาพที่ได้มีความสม่ําเสมอของค่านับวัด"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 252,
+    "question": "ในการทดสอบ constancy ของเครื่อง dose calibrator ใช้สารกัมมันตรังสีชนิดใด?",
+    "choices": {
+      "ก": "Tc-99m",
+      "ข": "Cs-137",
+      "ค": "I-125",
+      "ง": "I-131",
+      "จ": "Thallium-201"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 253,
+    "question": "ในการถ่ายภาพ line source 2 อันที่วางห่างกัน 15 cm เท่ากับ 45 pixels ด้วย matrix size ขนาด 128×128 pixel จะมีขนาดกี่มิลลิเมตร?",
+    "choices": {
+      "ก": "0.12",
+      "ข": "1.2",
+      "ค": "0.33",
+      "ง": "3.3",
+      "จ": "4.2\n15/45 = 0.33 cm = 0.33 x 10 = 3.33 mm"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 254,
+    "question": "การทํา blank scan ของเครื่องถ่ายภาพ PET ควรทําบ่อยเพียงใด?",
+    "choices": {
+      "ก": "ทุกชั่วโมง",
+      "ข": "ทุกวัน",
+      "ค": "ทุกสัปดาห์",
+      "ง": "ทําทุกครั้งก่อนการถ่ายภาพคนไข้",
+      "จ": "ทุกเดือน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 255,
+    "question": "การทดสอบ spatial resolution ของเครื่องถ่ายภาพ gamma camera ข้อใดผิด?",
+    "choices": {
+      "ก": "เป็นการทดสอบความสามารถของเครื่องในการแยกรอยโรคได้ดีเพียงใด",
+      "ข": "ควรทําการทดสอบแบบทั้ง intrinsic และ system resolution",
+      "ค": "สามารถใช้ 4 quadrant bar phantom ในการทดสอบ",
+      "ง": "System resolution ดีกว่า intrinsic resolution",
+      "จ": "การทํา System resolution จะใช้ Co-57 sheet source วางทับลงบน bar phantom"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 256,
+    "question": "การทํา intrinsic uniformity flood ของเครื่องgamma camera ตรงกับข้อใด?",
+    "choices": {
+      "ก": "ถ่ายภาพ Tc-99m point source โดยไม่ต้องถอด collimator ออก",
+      "ข": "ถ่ายภาพ Co-57 sheet source โดยไม่ต้องถอด collimator ออก",
+      "ค": "ถ่ายภาพ Tc-99m point source โดยถอด collimator ออก",
+      "ง": "ถ่ายภาพ line source 2 อันที่วางห่างกัน 10 เซนติเมตร โดยถอด collimator ออก",
+      "จ": "ถ่ายภาพ line source 2 อันที่วางห่างกัน 10 เซนติเมตร โดยไม่ต้องถอด collimator ออก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 257,
+    "question": "การทํา QC ของเครื่อง thyroid uptake ไม่ใช่ข้อใด?",
+    "choices": {
+      "ก": "Chi-square test",
+      "ข": "Voltage calibration",
+      "ค": "Constancy test",
+      "ง": "Spatial resolution",
+      "จ": "Energy spectrum\nGamma camera"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 258,
+    "question": "การทํา QC ของเครื่อง dose calibrator ไม่ใช่ข้อใด?",
+    "choices": {
+      "ก": "Linearity of activity response",
+      "ข": "Energy resolution",
+      "ค": "Accuracy test",
+      "ง": "Geometry dependence",
+      "จ": "Constancy test\nThyroid uptake"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 259,
+    "question": "Center of rotation (COR) offset จะทําให้เกิด artifact ใดในภาพถ่าย SPECT?",
+    "choices": {
+      "ก": "Streak artifact",
+      "ข": "Non uniformity",
+      "ค": "Bulls eye ring artifact",
+      "ง": "Star artifact",
+      "จ": "Cold artifact"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 260,
+    "question": "บริเวณ central field of view (CFOV) คือบริเวณที่คิดเป็นกี่เปอร์เซนต์จากขนาดของ useful field of view (UFOV)?",
+    "choices": {
+      "ก": "75%",
+      "ข": "50%",
+      "ค": "95%",
+      "ง": "85%",
+      "จ": "60%"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 261,
+    "question": "การทํา QC ของเครื่อง SPECT ข้อใดผิด?",
+    "choices": {
+      "ก": "Uniformity flood",
+      "ข": "Spatial resolution",
+      "ค": "Center of rotation",
+      "ง": "Chi-square test",
+      "จ": "Energy resolution\nThyroid uptake"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 262,
+    "question": "ข้อใดเป็น daily QC ของเครื่อง gamma camera?",
+    "choices": {
+      "ก": "Uniformity",
+      "ข": "Spatial linearity",
+      "ค": "Spatial resolution",
+      "ง": "Count-rate performance",
+      "จ": "Multiple window spatial registration"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 263,
+    "question": "ข้อใดไม่ถูกต้องเกี่ยวกับ center of rotation (COR)?",
+    "choices": {
+      "ก": "เป็นการควบคุมคุณภาพแบบประจําวัน",
+      "ข": "ทดสอบจุดกึ่งกลางของหัววัดกับจุดกึ่งกลางในการคํานวณภาพ",
+      "ค": "ความคลาดเคลื่อนเป็นผลมาจาก Gantry alignment",
+      "ง": "ใช้ Point source ที่เป็น Tc-99m ในการควบคุมคุณภาพ",
+      "จ": "ความคลาดเคลื่อนของ COR ทําให้ภาพสูญเสียรายละเอียด\nQC weekly"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 264,
+    "question": "ตารางแสดงผลที่ได้จากการทํา energy resolution ของเครื่อง gamma camera ทุกๆ 4เดือน จากข้อมูลในตาราง ข้อใดถูกต้อง?",
+    "choices": {
+      "ก": "Energy resolution ของหัววัดรังสีดีขึ้น",
+      "ข": "Energy resolution ของหัววัดรังสีแย่ลง",
+      "ค": "หัววัดรังสีนี้ไม่ควรนํามาใช้งาน",
+      "ง": "ควรทําการทดสอบกับสารกัมมันตรังสีตัวอื่น",
+      "จ": "ความสามารถในการแยกพลังงานของรังสีดีขึ้นเดือน% energy resolution ของ Tc-99mมกราคม9.5เมษายน10.3กรกฎาคม10.9ตุลาคม11.8"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 265,
+    "question": "ประโยชน์ของการทํา CT scan ร่วมกับ SPECT หรือ PET คือ",
+    "choices": {
+      "ก": "ช่วยบอกตําแหน่งของรอยโรคเท่านั้น",
+      "ข": "ใช้ทํา scatter และ attenuation correction ในภาพ SPECT หรือ PET",
+      "ค": "ใช้ทํา attenuation correction และเพิ่ม count rate ในการเก็บภาพ SPECT หรือ PET",
+      "ง": "การทํา CT scan ใช้เวลาไม่มากและใช้ทํา attenuation correctionในภาพ SPECT หรือ PET",
+      "จ": "ใช้ทํา Attenuation correction ในภาพ SPECT หรือ PET และช่วยบอกตําแหน่งของรอยโรค"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 266,
+    "question": "การปรับค่า Cutoff frequency ของ filter มีผลอย่างไร?",
+    "choices": {
+      "ก": "Cutoff frequency ต่ําๆ จะได้ภาพที่ smooth",
+      "ข": "Cutoff frequency ต่ําๆ จะทําให้ภาพมี noise มาก",
+      "ค": "Cutoff frequency สูงๆ จะได้ภาพที่ resolution แย่",
+      "ง": "การปรับค่า cutoff frequency ไม่มีผลต่อภาพ",
+      "จ": "ไม่สามารถปรับค่า cutoff frequency ได้หลังจากการสร้างภาพ\nResolution แ,"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 267,
+    "question": "การทํา QC ของเครื่อง gamma Camera ไม่ใช่ข้อใด",
+    "choices": {
+      "ก": "Center of rotation (SPECT)",
+      "ข": "Uniformity",
+      "ค": "Energy resolution",
+      "ง": "Spatial resolution",
+      "จ": "Sensitivity"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 268,
+    "question": "ในการป้องกันอันตรายจากรังสีในงานด้านเวชศาสตร์นิวเคลียร์ ควรคํานึงปัจจัยข้อใดต่อไปนี้น้อยที่สุด",
+    "choices": {
+      "ก": "สมุดบันทึก",
+      "ข": "ระยะทาง",
+      "ค": "ระยะเวลา",
+      "ง": "วัสดุกาบัง",
+      "จ": "ความแรงรังสีของสารกัมมันตรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 269,
+    "question": "การใช้กําบังหลอดฉีดยา (Syringe shield) ในขณะเตรียมสารเภสัชรังสี เพื่อข้อใดต่อไปนี้มากที่สุด",
+    "choices": {
+      "ก": "เพื่อลดการได้รับรังสีของผู้ปฏิบัติงาน",
+      "ข": "เพื่อลดการปนเป์์อนสารเภสัชรังสี",
+      "ค": "เพื่อปกป้ดหลอดฉีดยา",
+      "ง": "เพื่อลดระยะเวลาในการทางาน",
+      "จ": "เพื่อสะดวกในการจับหลอดฉีดยา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 270,
+    "question": "เกี่ยวกับการตรวจ salivary scan ข้อใดไม่ถูกต้อง",
+    "choices": {
+      "ก": "ตรวจโดยการฉีด Tc-99m pertechnetate",
+      "ข": "ให้ผู้ป่วยกินน้ํามะนาวเพื่อดู uptake function ของต่อมน้ําลาย (เพื่อดู excretory function)",
+      "ค": "มีประโยชน์ในการวินิจฉัยภาวะปากแห้ง (xerostomia)",
+      "ง": "มีประโยชน์ในการวินิจฉัยเนื้องอกต่อมน้ําลาย",
+      "จ": "ให้ผู้ป่วยงดน้ํา และอาหารก่อนการตรวจ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 271,
+    "question": "การปฎิบัติตัวของผู้ป่วยโรคมะเร็งที่อยู่ระหว่างการได้รับการรักษาด้วย I-131 เพื่อป้องกันอันตรายจากรังสี ยกเว้นข้อใดต่อไปนี้",
+    "choices": {
+      "ก": "พักผ่อนอย่างเพียงพอ",
+      "ข": "นอนพักรักษาตัวแยกห้องกับผู้ป่วยทั่วไป",
+      "ค": "ใช้ห้องน้ําแยกกับผู้ป่วยทั่วไป",
+      "ง": "ใช้อุปกรณ์ในการรับประทานอาหารแยกกับผู้ป่วยทั่วไป",
+      "จ": "งดให้นมแก่บุตร"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 272,
+    "question": "วิธีปฏิบัติตนที่ถูกต้องของผู้ป่วยที่ได้รับ 131I ปริมาณ 100mCiคือข้อใด",
+    "choices": {
+      "ก": "ให้กลับบ้านโดยไม่ต้องมีคําแนะนา เพราะปริมาณที่ได้อยู่ในระดับที่ปลอดภัย",
+      "ข": "ให้กลับบ้านโดยห้ามเดินทางโดยรถโดยสารร่วมกับบุคคลอื่น",
+      "ค": "ให้กลับบ้าน และห้ามอยู่ใกล้เด็กและสตรีมีครรภ์",
+      "ง": "ให้นอนโรงพยาบาลและแยกห้องกับผู้ป่วยอื่นๆ",
+      "จ": "ข้อ ข และ ค ถูก\nเ.น 30 mCi = admit 0 รพ."
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 273,
+    "question": "ถ้าต้องเตรียมสารเภสัชรังสีที่มี Dose rate 2 mrem/hr. หลัง Shielding ที่มีความหนา 2 HVL ควรปฏิบัติงานได้มากที่สุดกี่ชั่วโมง จึงจะได้รับปริมาณรังสีไม่เกิน 10 mrem",
+    "choices": {
+      "ก": "2",
+      "ข": "5",
+      "ค": "10",
+      "ง": "20",
+      "จ": "40"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 274,
+    "question": "ข้อใดที่ไม่ใช่ปัจจัยที่มีผลต่อรายละเอียดของภาพ SPECT",
+    "choices": {
+      "ก": "ชนิดของคอลลิเมเตอร์",
+      "ข": "วัสดุที่ใช้ทําคอลลิเมเตอร์",
+      "ค": "พลังงานของรังสีแกมมา",
+      "ง": "ขนาดของเมทริกซ์",
+      "จ": "การเก็บข้อมูลแบบ Byte หรือ word mode"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 275,
+    "question": "Full width at half maximum (FWHM) เป็นดัชนีที่นิยมใช้วัดอะไร",
+    "choices": {
+      "ก": "Uniformity",
+      "ข": "Sensitivity",
+      "ค": "Intensity",
+      "ง": "Resolution",
+      "จ": "Dead time"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 276,
+    "question": "ในขณะถ่ายภาพด้วยการใช้ zoom mode จะทําให้มีผลอย่างไร",
+    "choices": {
+      "ก": "ขนาดเมทริกซ์เพิ่มขึ้น",
+      "ข": "field of view (FOV) ใหญ่ขึ้น",
+      "ค": "noise เพิ่มขึ้น",
+      "ง": "Spatial resolution ดีขึ้น",
+      "จ": "หน่วยความจําเพิ่มขึ้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 277,
+    "question": "ข้อใดต่อไปนี้เป็นหัววัดรังสีที่ใช้ในเครื่องถ่ายภาพทางเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "Scintillation detector",
+      "ข": "Ionization detector",
+      "ค": "Gas filled detector",
+      "ง": "Semiconductor detector",
+      "จ": "Slow neutron detector"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 278,
+    "question": "สําหรับเครื่องแกมมาคาเมรา สัญญาณแสงที่เกิดจากผลึก NaI(Tl) จะเข้าสู่อุปกรณ์ใดต่อไปนี้",
+    "choices": {
+      "ก": "Amplifier",
+      "ข": "Photomultiplier tubes",
+      "ค": "Collimator",
+      "ง": "Coincidence circuit",
+      "จ": "Pre-amplifier"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 279,
+    "question": "สําหรับเครื่องแกมมาคาเมรา ข้อใดไม่ใช่คุณสมบัติของคอลลิเมเตอร์",
+    "choices": {
+      "ก": "ช่วยลด scatter radiation",
+      "ข": "ทําด้วยวัสดุที่มีความหนาแน่นสูง",
+      "ค": "ช่วยลดปริมาณรังสีที่ผู้ป่วยได้รับ",
+      "ง": "ทําด้วยวัสดุที่มีเลขอะตอมสูง",
+      "จ": "Absorb รังสีซึ่งมีทิศทางที่ไม่ต้องการ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 280,
+    "question": "Positron range มีผลต่อข้อใดต่อไปนี้",
+    "choices": {
+      "ก": "Attenuation artifact",
+      "ข": "Motion artifact",
+      "ค": "Sensitivity",
+      "ง": "Spatial resolution",
+      "จ": "Patient positioning"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 281,
+    "question": "ข้อใดไม่นํามาใช้ในการคํานวณค่าเปอร์เซนต์ uptake ของต่อมไทรอยด์",
+    "choices": {
+      "ก": "standard neck phantom",
+      "ข": "thigh phantom",
+      "ค": "neck",
+      "ง": "thigh",
+      "จ": "room background"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 282,
+    "question": "ทุกข้อต่อไปนี้เป็นสารเภสัชรังสีที่ใช้ในการตรวจการทํางานของไต ยกเว้นข้อใด",
+    "choices": {
+      "ก": "DMSA",
+      "ข": "MAG3",
+      "ค": "DISIDA",
+      "ง": "DTPA",
+      "จ": "I-131 Hippuran\nHepatobiliary system"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 283,
+    "question": "การตรวจด้านเวชศาสตร์นิวเคลียร์ข้อใดที่ต้องมีการดูแลผู้ป่วยเป็นกรณีพิเศษ",
+    "choices": {
+      "ก": "การตรวจ thyroid uptake",
+      "ข": "การตรวจหา tumor marker",
+      "ค": "การรักษาโรคมะเร็งต่อมไทรอยด์",
+      "ง": "การตรวจภาวะทางสมองด้วยเครื่อง PET/CT",
+      "จ": "การตรวจแพร่กระจายของมะเร็งมาที่ กระดูกด้วยเครื่อง SPECT"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 284,
+    "question": "ข้อใดเหมาะสมที่สุด 18F-FDG เป็นสารเภสัชรังสีที่ใช้ตรวจหาก้อนมะเร็งได้ดี เพราะเหตุผลใด",
+    "choices": {
+      "ก": "เซลล์มะเร็งใช้น้ําตาลได้มากกว่าเซลล์ปกติ",
+      "ข": "18F เป็น positron emitter",
+      "ค": "FDG เป็นนํ้าตาลที่พบในก้อนมะเร็ง",
+      "ง": "การสร้างภาพด้วยเครื่อง PET-CT จะให้ Sensitivity สูง",
+      "จ": "ใช้ได้กับเครื่อง PET-CT เท่านั้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 285,
+    "question": "ถ้าต้องการถ่ายภาพ planar ทางเวชศาสตร์นิวเคลียร์ที่มี resolution ดีควรจะ",
+    "choices": {
+      "ก": "เพิ่มเวลาถ่ายภาพ",
+      "ข": "ลดระยะทางระหว่างผู้ป่วยกับหัววัดให้สั้นที่สุด",
+      "ค": "เพิ่มปริมาณรังสีที่ฉีดให้กับผู้ป่วย",
+      "ง": "ให้ผู้ป่วยนอนนิ่งๆ ให้มากที่สุด",
+      "จ": "จัดให้ผู้ป่วยอยู่ตรงกลาง field of view"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 286,
+    "question": "ในการตรวจ Radioactive thyroid uptake ถ้าผู้ป่วยมีขนาดของต่อมใหญ่กว่าปกติ ผู้ปฎิบัติงานควรปฏิบัติอย่างไรเพื่อทําให้การตรวจถูกต้องที่สุด",
+    "choices": {
+      "ก": "ลด Working distance ของเครื่อง",
+      "ข": "เพิ่มขนาด Visual field ในการตรวจ",
+      "ค": "เพิ่มจํานวนครั้งในการตรวจ",
+      "ง": "เพิ่ม dose ของสารเภสัชรังสี",
+      "จ": "เพิ่มเวลาในการเก็บข้อมูล"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 287,
+    "question": "ข้อใดต่อไปนี้ไม่มีผลต่อ spatial resolution ของภาพในการสร้างภาพ SPECT",
+    "choices": {
+      "ก": "ขนาดรูของ Collimator",
+      "ข": "ระยะทางจากตัวผู้ป่วยถึง Detector ของเครื่อง SPECT",
+      "ค": "พลังงานของ Gamma rays ที่ใช้ในการสร้างภาพ",
+      "ง": "Matrix size ในการเก็บข้อมูล",
+      "จ": "การเลือก Byte mode หรือ word mode ในการเก็บข้อมูล"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 288,
+    "question": "คุณสมบัติของ Tc-99m คือข้อใด",
+    "choices": {
+      "ก": "มีครึ่งชีวิต 6วัน และสลายตัวให้อนุภาคเบตา",
+      "ข": "มีครึ่งชีวิต 6วัน และสลายตัวให้รังสีแกมมา",
+      "ค": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้อนุภาคเบตา",
+      "ง": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้รังสีแกมมา",
+      "จ": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้อนุภาคแอลฟา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 289,
+    "question": "การตรวจเพื่อหา staging ของเนื้องอกชนิด neuroblastoma สามารถทําได้โดยใช้การตรวจชนิดใด",
+    "choices": {
+      "ก": "Tc-99m radioimmunoscintigraphy",
+      "ข": "Ga-67 citrate scan",
+      "ค": "Tc-99m MIBI scan",
+      "ง": "I-131 MIBG scan",
+      "จ": "ถูกทุกข้อ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 290,
+    "question": "สารเภสัชรังสีที่ใช้ในการตรวจทาง Oncology ข้อใดผิด",
+    "choices": {
+      "ก": "131I MIBG สามารถใช้ตรวจ Pheochromocytoma",
+      "ข": "201Tl thallous chloride บอกถึง viability ของ tumor ได้",
+      "ค": "67Ga citrate มีความจําเพาะเจาะจงกับ Non-Hodgkin’s lymphoma   (Ga-67และ F-18 FDG จับกับ tumor เกือบทุกชนิด ไม่มีความจําเพาะเจาะจง)",
+      "ง": "Radioimmunographyมีประโยชน์ในการตรวจมะเร็งลําไส้ใหญ่",
+      "จ": "ผิดทุกข้อ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 291,
+    "question": "จุดประสงค์ของการสร้างภาพ thyroid gland ตรงกับข้อใด",
+    "choices": {
+      "ก": "ตรวจดูระดับฮอร์โมนของต่อมไทรอยด์",
+      "ข": "ตรวจขนาดของต่อมไทรอยด์",
+      "ค": "ตรวจการทํางานของต่อมไทรอยด์",
+      "ง": "ตรวจการทํางานของต่อมพิทูอิทารี",
+      "จ": "ถูกหมดทุกข้อ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 292,
+    "question": "สารเภสัชรังสีในข้อใดที่สามารถใช้ตรวจ Radioactive thyroid uptake ได้",
+    "choices": {
+      "ก": "131I",
+      "ข": "99mTc-MDP",
+      "ค": "125I",
+      "ง": "99mTcO4-",
+      "จ": "67Ga"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 293,
+    "question": "สารเภสัชรังสีที่ฉีดให้กับผู้ป่วยเพื่อใช้ในการวินิจฉัยโรคควรมีคุณสมบัติในอุดมคติตามข้อต่อไปนี้ ยกเว้นข้อใด",
+    "choices": {
+      "ก": "ปราศจากเชื้อโรค",
+      "ข": "ให้รังสีแกมมา",
+      "ค": "มี specific activity สูง",
+      "ง": "ต้องมีผลต่อขบวนการทางชีวเคมีในร่างกาย",
+      "จ": "ไม่มีสารกัมมันตรังสีตัวอื่นปน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 294,
+    "question": "99mTc เป็น radionuclide ที่ผลิตได้มาจากข้อใด",
+    "choices": {
+      "ก": "Generator",
+      "ข": "Cyclotron",
+      "ค": "Synchrotron",
+      "ง": "Nuclear reactor",
+      "จ": "มาจากธรรมชาติ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 295,
+    "question": "ข้อใดเป็นวิธีที่เหมาะสมในการตรวจหา Bone metastasis",
+    "choices": {
+      "ก": "Bone densitometry",
+      "ข": "Radioimmunoassay",
+      "ค": "Bone scan",
+      "ง": "Ultrasound",
+      "จ": "ข้อ ก และ ค ถูก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 296,
+    "question": "ข้อใดเป็นสารเภสัชรังสีที่ใช้ในการตรวจหัวใจ",
+    "choices": {
+      "ก": "131I",
+      "ข": "99mTc-MIBI",
+      "ค": "99mTc-MDP",
+      "ง": "99mTcO4-",
+      "จ": "67Ga"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 297,
+    "question": "ข้อใดเป็นสารเภสัชรังสีที่สามารถใช้รักษาโรคทางเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "201Tl",
+      "ข": "18F",
+      "ค": "99mTc-MAA",
+      "ง": "131I",
+      "จ": "99mTc-RBC"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 298,
+    "question": "การทํา Chromatography test เป็นการทดสอบคุณสมบัติใดของสารเภสัชรังสี",
+    "choices": {
+      "ก": "Aluminum Contamination",
+      "ข": "Molybdenum breakthrough",
+      "ค": "Radionuclide purity",
+      "ง": "Radiochemical purity",
+      "จ": "Chemical purity"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 299,
+    "question": "สารเภสัชรังสีในข้อใดต่อไปนี้เหมาะสําหรับการตรวจ thyroid scan",
+    "choices": {
+      "ก": "99mTcO4–, I-125",
+      "ข": "I-131, I-124",
+      "ค": "I-127, 99mTcO4–",
+      "ง": "99mTcO4–, I-123",
+      "จ": "I-125, I-127"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 300,
+    "question": "ซีเซียม137 (Cs-137) มีค่าครึ่งชีวิตนานประมาณเท่าไร",
+    "choices": {
+      "ก": "6 ชั่วโมง",
+      "ข": "8 วัน",
+      "ค": "74 วัน",
+      "ง": "5.26 ปี",
+      "จ": "30 ปี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 301,
+    "question": "Half life ของ I-125มีค่าประมาณ",
+    "choices": {
+      "ก": "110ชั่วโมง",
+      "ข": "140ชั่วโมง",
+      "ค": "1,100ชั่วโมง",
+      "ง": "1,140ชั่วโมง",
+      "จ": "1,400ชั่วโมง59.49 day (ประมาณ 60 'น)60 x 24 = 1440 hr"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 302,
+    "question": "กลไกใดที่ต่อมไทรอยด์ใช้ในการดูดจับ I-131",
+    "choices": {
+      "ก": "Receptor binding",
+      "ข": "Absorption",
+      "ค": "Phagocytosis",
+      "ง": "Active transport",
+      "จ": "Capillary blockage"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 303,
+    "question": "ข้อใด ไม่ใช่ ข้อบ่งชี้ของการตรวจ bone scan ในทางเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "Osteomyelitis ในระยะแรก",
+      "ข": "การแพร่กระจายของมะเร็งมาที่กระดูก",
+      "ค": "Bone marrow space",
+      "ง": "Bone infection",
+      "จ": "ติดตามผลการรักษาหลังการฉายรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 304,
+    "question": "ในขณะถ่ายภาพด้วยการใช้ zoom mode จะทำให้มีผลอย่างไร",
+    "choices": {
+      "ก": "หน่วยความจำเพิ่มขึ้น",
+      "ข": "Noise เพิ่มขึ้น",
+      "ค": "Spatial resolution ดีขึ้น",
+      "ง": "Field of view (FOV) ใหญ่ขึ้น",
+      "จ": "ขนาดเมทริกซ์เพิ่มขึ้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 305,
+    "question": "Tc-99m มีความแรงรังสีเป็น 20 mCi/ml ที่เวลา 8.00 น. ถ้าต้องการ 10 mCiเพื่อนำมาฉีดผู้ป่วยเวลา 14.00 น. ต้องเตรียม Tc-99m ปริมาตรเท่าใด",
+    "choices": {
+      "ก": "1.0 ml",
+      "ข": "1.5 ml",
+      "ค": "2.0 ml",
+      "ง": "0.4 ml",
+      "จ": "0.5 ml"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 306,
+    "question": "เราสามารถลด ‘Streak artifact’ ของภาพ SPECT โดยการกระทำดังนี้",
+    "choices": {
+      "ก": "เพิ่มเวลาในการเก็บข้อมูล",
+      "ข": "เพิ่มจำนวนของ projection",
+      "ค": "เพิ่ม count per pixel",
+      "ง": "เพิ่ม matrix size",
+      "จ": "เพิ่ม injected dose"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 307,
+    "question": "Technetium pertechnetate ใช้ในการตรวจข้อใด",
+    "choices": {
+      "ก": "Liver",
+      "ข": "Thyroid",
+      "ค": "Brain",
+      "ง": "Gated blood pool",
+      "จ": "Bone"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 308,
+    "question": "ในการถ่ายภาพด้วย parallel hole collimator ทำให้ภาพมี resolution ดีขึ้นได้ด้วยวิธีใด",
+    "choices": {
+      "ก": "เลื่อน detector ให้ชิดกับผู้ป่วยมากขึ้น",
+      "ข": "เพิ่มปริมาณสารเภสัชรังสีที่ฉีดให้ผู้ป่วย",
+      "ค": "เพิ่ม window width ของ pulse-height analyzer",
+      "ง": "ใช้ชนิด low energy high sensitivity แทนชนิด low energy all purpose/ general purpose",
+      "จ": "แสดงภาพโดยใช้gray scale ช่วงแคบๆ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 309,
+    "question": "Full width at half maximum (FWHM) เป็นดัชนีที่ใช้วัดอะไร",
+    "choices": {
+      "ก": "Intensity",
+      "ข": "Uniformity",
+      "ค": "Dead time",
+      "ง": "Sensitivity",
+      "จ": "Resolution"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 310,
+    "question": "ในการถ่ายภาพ Tc99m-MDP whole body bone scan ควรใช้ collimator ชนิดใด",
+    "choices": {
+      "ก": "Medium Energy All Purpose",
+      "ข": "Low Energy High Resolution",
+      "ค": "Low Energy All Purpose",
+      "ง": "High Energy High Resolution",
+      "จ": "Medium Energy General Purpose"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 311,
+    "question": "สารเภสัชรังสีในข้อใด ที่ใช้ตรวจผู้ป่วยที่สงสัยว่ามีภาวะ GI Bleeding",
+    "choices": {
+      "ก": "Tc-99m blood platelets",
+      "ข": "Tc-99m DTPA",
+      "ค": "Tc-99m human serum albumin",
+      "ง": "Tc-99m red blood cells",
+      "จ": "Tc-99m MAG3"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 312,
+    "question": "ในการถ่ายภาพโดยใช้ Tc-99m, 20%energy window หมายถึงการตั้งช่วง Lower leveldiscriminator และ upper leveldiscriminator ในช่วงใด (Tc-99mมีพลังงานแกมมา 140keV)",
+    "choices": {
+      "ก": "126 keV ถึง 140 keV",
+      "ข": "120 keV ถึง 160 keV",
+      "ค": "140 keV ถึง 168 keV",
+      "ง": "126 keV ถึง 154 keV",
+      "จ": "126 keV ถึง 168 keV"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 313,
+    "question": "สารกัมมันตรังสีที่ใช้แพร่หลายในการทำ PET scan คือข้อใด",
+    "choices": {
+      "ก": "Tl-201",
+      "ข": "F-18",
+      "ค": "Tc-99m",
+      "ง": "Ga-67",
+      "จ": "I-131"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 314,
+    "question": "ในการตรวจ bone scan แนะนำให้ผู้ป่วยดื่มน้ ามากๆ หลังฉีดสารเภสัชรังสีเพื่อวัตถุประสงค์ใด",
+    "choices": {
+      "ก": "Increase tissue uptake",
+      "ข": "Decrease activity",
+      "ค": "Increase bone uptake",
+      "ง": "Decrease scanning time",
+      "จ": "Increase signal-to-noise ratio\n???"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 315,
+    "question": "บริเวณที่กล้ามเนื้อหัวใจมีเลือดไปเลี้ยงไม่พอ (Ischemia) ภาพจากการตรวจหัวใจในภาวะ Stress และ Rest ของการตรวจ Myocardial perfusion SPECT จะมีลักษณะอย่างไร",
+    "choices": {
+      "ก": "Perfusion เพิ่มขึ้นทั้งในภาพ Stress และ Rest",
+      "ข": "Perfusion ลดลงเฉพาะในภาพ Stress",
+      "ค": "Perfusion ลดลงทั้งในภาพ Stress และ Rest",
+      "ง": "Perfusion เพิ่มขึ้นเฉพาะในภาพ Stress",
+      "จ": "Perfusion เพิ่มขึ้นในภาพ Stress และลดลงในภาพ Res"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 316,
+    "question": "ซีเซียม 137 (Cs-137) มีค่าครึ่งชีวิตนานประมาณเท่าไร",
+    "choices": {
+      "ก": "6ชั่วโมง",
+      "ข": "8วัน",
+      "ค": "5.26ปี",
+      "ง": "30ปี",
+      "จ": "74วัน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 317,
+    "question": "การถ่ายภาพเพื่อประเมินการทำงานของหัวใจห้องล่างซ้าย โดยการคำนวณค่า ejection fraction หัววัดของเครื่อง Gamma camera ต้องอยู่ในตำแหน่งใด",
+    "choices": {
+      "ก": "RAO ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด",
+      "ข": "RPO ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด",
+      "ค": "LPO ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด",
+      "ง": "LAO ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด",
+      "จ": "Anterior ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 318,
+    "question": "ส่วนที่ทำหน้าที่คัดเลือกสัญญาณในหัววัดแบบ Scintillation Detector System คือข้อใด",
+    "choices": {
+      "ก": "High-voltage supply",
+      "ข": "Pulse height analyzer",
+      "ค": "Detector",
+      "ง": "Amplifier",
+      "จ": "Preamplifier"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 319,
+    "question": "ค่าครึ่งชีวิตของสารรังสีหมายถึงข้อใด",
+    "choices": {
+      "ก": "ระยะเวลาที่สารรังสีมีการสลายตัวจากธาตุหนึ่งไปเป็นอีกธาตุหนึ่ง",
+      "ข": "ปริมาณรังสีที่ลดลดเหลือครึ่งหนึ่งของค่าปริมาณรังสีเริ่มต้น",
+      "ค": "ระยะเวลาที่ปริมาณรังสีลดลงเหลือครึ่งหนึ่งของค่าปริมาณรังสีเริ่มต้น",
+      "ง": "ปริมาณรังสีของธาตุตัวใหม่ที่ได้จากการสลายตัวของสารรังสีเริ่มต้น",
+      "จ": "ไม่มีข้อใดถูก"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 320,
+    "question": "เหตุใดต้องให้ผู้ป่วยหายใจเข้าลึกๆ ขณะฉีดสารเภสัชรังสีเพื่อตรวจ Lung Perfusion Scan",
+    "choices": {
+      "ก": "สารเภสัชรังสีเข้าปอดได้เร็วยิ่งขึ้น",
+      "ข": "ทำให้เห็น Pulmonary embolism ในปอดชัดเจนขึ้น",
+      "ค": "ลดอาการเจ็บปวดขณะฉีด",
+      "ง": "การกระจายตัวของสารเภสัชรังสีเป็นไปอย่างสม่ าเสมอ",
+      "จ": "บริหารปอดผู้ป่วยก่อนการถ่ายภาพ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 321,
+    "question": "ข้อดีของการสร้างภาพด้วยวิธี ordered subset expectation maximization (OSEM) คือข้อใด",
+    "choices": {
+      "ก": "สามารถแก้ไขปัจจัยที่มีผลต่อคุณภาพของภาพได้",
+      "ข": "ไม่ต้องใช้matrix size ขนาดเล็ก",
+      "ค": "ใช้เวลาในการสร้างภาพน้อยลงเมื่อเปรียบเทียบกับวิธี Filtered back projection",
+      "ง": "สามารถลด noise ในภาพได้โดยเพิ่มจำนวนรอบในการสร้างภาพ",
+      "จ": "ทำให้ Resolution ของภาพดีขึ้นได้โดยลดจำนวนรอบในการสร้างภาพให้น้อยลง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 322,
+    "question": "ในการตรวจแบบ dynamic เช่น การตรวจ renogram ด้วย Tc-99m DTPA การตั้งโปรโตคอลในข้อใดเหมาะสมที่สุด",
+    "choices": {
+      "ก": "High energy general purposecollimator, matrix size 256 x 256",
+      "ข": "Low energy general purpose collimator, matrix size 128 x 128",
+      "ค": "High energy general purposecollimator, matrix size 64 x 64",
+      "ง": "Low energy high resolution collimator, matrix size 256 x 256",
+      "จ": "Low energy general purpose collimator, matrix size 256 x 256"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 323,
+    "question": "ข้อใดไม่ใช่ปัจจัยที่ส่งผลต่อค่า Standard Uptake Value ในภาพถ่าย PET",
+    "choices": {
+      "ก": "ชนิดของสารรังสี",
+      "ข": "ความหนาของผู้ป่วย",
+      "ค": "น้ าหนักตัวของผู้ป่วย",
+      "ง": "เวลาที่ทำการฉีด",
+      "จ": "ค่าปริมาณรังสี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 324,
+    "question": "ข้อใดคือคุณสมบัติของ HDR unit ที่ใช้อิริเดียม 192 (Ir-192) เป็นต้นกำเนิดรังสีในการรักษามะเร็งปากมดลูก",
+    "choices": {
+      "ก": "มีพลังงานเฉลี่ย 380 keV และค่าครึ่งชีวิตประมาณ 30วัน",
+      "ข": "ภายในเครื่องประกอบด้วยต้นกำเนิดรังสีเรียงต่อกันหลายเม็ด",
+      "ค": "เป็นการให้ปริมาณรังสีเพียงครั้งเดียว",
+      "ง": "ใช้สำหรับการรักษาแบบ Permanent intracavitary",
+      "จ": "เป็นเครื่องที่มีอัตราการให้ปริมาณรังสีต่อหน่วยเวลาสูงกว่า 12 Gy/hr"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 325,
+    "question": "Coincidence detection คือหลักการถ่ายภาพของเครื่องใด",
+    "choices": {
+      "ก": "Gamma camera",
+      "ข": "Scintimammography",
+      "ค": "Thyroid uptake",
+      "ง": "SPECT",
+      "จ": "PET"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 326,
+    "question": "ในการถ่ายภาพ Bone Scan เมื่อรังสีแพทย์สงสัยในบริเวณ Pelvis ว่าเป็นกระเพาะปัสสาวะ ท่านจะถ่ายภาพ Pelvis เพิ่มในท่าใด",
+    "choices": {
+      "ก": "Right Anterior Oblique",
+      "ข": "Posterior",
+      "ค": "Left Posterior Oblique",
+      "ง": "Right Posterior Oblique",
+      "จ": "Anterior"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 327,
+    "question": "ค่านับวัดมีผลต่อคุณภาพของภาพในทางเวชศาสตร์นิวเคลียร์อย่างไร",
+    "choices": {
+      "ก": "ค่านับวัดน้อยลง Resolution ของภาพดีขึ้น",
+      "ข": "ค่านับวัดมากขึ้น Contrast ของภาพเพิ่มขึ้น",
+      "ค": "ค่านับวัดมากขึ้น Resolution ของภาพดีขึ้น แต่ Contrast ของภาพลดลง",
+      "ง": "ค่านับวัดมากขึ้น Resolution ของภาพดีขึ้น",
+      "จ": "ค่านับวัดน้อยลง Noise ในภาพลดลง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 328,
+    "question": "การตรวจทางเวชศาสตร์นิวเคลียร์มีข้อดีอย่างไร",
+    "choices": {
+      "ก": "ราคาถูก",
+      "ข": "ใช้ระยะเวลาในการตรวจนาน และเป็นแบบ Invasive",
+      "ค": "มีรังสีตกค้างในร่างกายปริมาณสูง จึงต้องมีการแยกออกจากกลุ่มผู้ป่วยอื่น",
+      "ง": "เป็นการตรวจที่ทำให้ทารกในครรภ์จะได้รับปริมาณรังสีสูง จึงห้ามตรวจในสตรีมีครรภ์",
+      "จ": "เป็นการตรวจการทำงานของอวัยวะที่สนใจ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 329,
+    "question": "ผู้ป่วยหญิงอายุ 65 ปี ได้รับการวินิจฉัยว่ามีภาวะ Follicular Thyroid Cancer และสงสัยว่ามี Bone metastasis ผู้ป่วยควรได้รับการตรวจทางเวชศาสตร์นิวเคลียร์ในข้อใด",
+    "choices": {
+      "ก": "Whole body Tc-99m Pertechnetate scan",
+      "ข": "Whole body bone densitometry",
+      "ค": "Whole body I-131 scan",
+      "ง": "Whole body X-ray plain radiograph",
+      "จ": "Bone scan"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 330,
+    "question": "หากท่านต้องการถ่ายภาพต่อมไทรอยด์ให้ได้ภาพที่มี Spatial resolution ดี ท่านควรทำอย่างไร",
+    "choices": {
+      "ก": "ตั้ง Matrix size ให้มีขนาดเล็กลง",
+      "ข": "จัดให้ผู้ป่วยอยู่ตรงกลาง Field of view",
+      "ค": "ลดระยะทางระหว่างผู้ป่วยกับหัววัดรังสีให้น้อยที่สุด",
+      "ง": "เพิ่มปริมาณสารเภสัชรังสีที่ฉีดให้กับผู้ป่วย",
+      "จ": "เพิ่มเวลาในการถ่ายภาพในนานขึ้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 331,
+    "question": "Center of rotation (COR) offset จะทำให้เกิด Artifact ใดในภาพถ่าย Trans axial SPECT",
+    "choices": {
+      "ก": "Bullseye ring artifact",
+      "ข": "Non uniformity",
+      "ค": "Streak artifact",
+      "ง": "Cold artifact",
+      "จ": "Star artifact"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 332,
+    "question": "สำหรับเครื่อง Gamma Camera สัญญาณแสงที่เกิดจากผลึก Nal(TI) จะเข้าสู่อุปกรณ์ใดดังต่อไปนี้",
+    "choices": {
+      "ก": "Amplifier",
+      "ข": "Collimator",
+      "ค": "Coincidence circuit",
+      "ง": "Pre-amplifier",
+      "จ": "Photomultiplier tube"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 333,
+    "question": "ข้อใดไม่ใช่ประโยชน์ของการทำ CT ร่วมกับ SPECT",
+    "choices": {
+      "ก": "ช่วยให้การระบุตำแหน่งของรอยโรคดีขึ้น",
+      "ข": "นำมาใช้ในการทำ  Scatter correction",
+      "ค": "ให้ข้อมูลเกี่ยวกับ Anatomy และนำมาวินิจฉัยร่วมกับภาพ SPECT",
+      "ง": "นำภาพมาทำ Fused SPECT/CT",
+      "จ": "นำมาใช้ในการทำ Attenuation correction"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 334,
+    "question": "ในการทำ Venogram ร่วมกับ Lung perfusion scan ควรใช้สารเภสัชรังสีชนิดใด",
+    "choices": {
+      "ก": "Tc-99m MAA",
+      "ข": "Tc-99m DTPA",
+      "ค": "Tc-99m RBC",
+      "ง": "Tc-99m Sulfur Colloid",
+      "จ": "Tc-99m Phytate"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 335,
+    "question": "ในการถ่ายภาพ PET การนับวัด Photon ที่มีพลังงาน 511 keV จำนวน 2 ตัว ซึ่งไม่ได้เกิดจากอันตรกิริยา Annihilation เดียวกัน ภายใน Coincidence timing window เรียกว่าอะไร",
+    "choices": {
+      "ก": "Total coincidence",
+      "ข": "Random coincidence",
+      "ค": "True coincidence",
+      "ง": "Prompt coincidence",
+      "จ": "Scatter coincidence"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 336,
+    "question": "คุณภาพของภาพจะป็นอย่างไร เมื่อเพิ่มจำนวน Iterations ในการสร้างภาพ SPECT",
+    "choices": {
+      "ก": "คุณภาพของภาพไม่เปลี่ยนแปลง",
+      "ข": "Resolution ของภาพน้อยลง",
+      "ค": "Image noise เพิ่มขี้น",
+      "ง": "ค่านับวัดของภาพเพิ่มขึ้น",
+      "จ": "ภาพ Smooth มากขึ้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 337,
+    "question": "ผู้ป่วยมาเข้ารับการตรวจ Myocardial perfusion SPECT โดยกำหนด Total angular range เป็น 180องศา จะต้องถ่ายภาพในช่วงมุมใด",
+    "choices": {
+      "ก": "RAO 45 degree –LPO 45 degree",
+      "ข": "LAO 70 degree –RPO 70 degree",
+      "ค": "LAO 45 degree –RPO 45 degree",
+      "ง": "Left lateral –Right lateral",
+      "จ": "Anterior –Posterior \n???"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 338,
+    "question": "การใช้ Nine –point smoothing filter เพื่อปรับภาพดิจิตอล ใช้ค่านับวัดจากจำนวน Matrix เท่าใด",
+    "choices": {
+      "ก": "5x4",
+      "ข": "3x3",
+      "ค": "3x6",
+      "ง": "9x9",
+      "จ": "1x9"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 339,
+    "question": "การถ่ายภาพแบบ Dynamic collection ทางเวชศาสตร์นิงเคลียร์ นิยมใช้ในการตรวจใด",
+    "choices": {
+      "ก": "การทำงานของหัวใจ",
+      "ข": "การทำงานของไต",
+      "ค": "การทำงานของตับ",
+      "ง": "การทำงานของไทรอยด์",
+      "จ": "การทำงานของปอด"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 340,
+    "question": "ทุกข้อต่อไปนี้เป็นสารเภสัชรังสีที่ใช้ในการตรวจการทำงานของไตยกเว้นข้อใด",
+    "choices": {
+      "ก": "Tc-99 DMSA",
+      "ข": "Tc-99 MAG3",
+      "ค": "Tc-99 DISIDA",
+      "ง": "I-131 Hippuran",
+      "จ": "Tc-99 DTPA"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 341,
+    "question": "เทคนิคใดที่ใช้ในการขจัด Star artifact ที่เกิดระหว่างการสร้างภาพโดยใช้ Back projection",
+    "choices": {
+      "ก": "ลดจำนวนมุมในการถ่ายภาพให้มากเกินพอ",
+      "ข": "Ramp filter",
+      "ค": "Uniformity correction",
+      "ง": "Attenuation correction",
+      "จ": "Center of rotation offset correction"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 342,
+    "question": "การปรับค่า Cut off frequency ของ Butterwort filter มีผลอย่างไร",
+    "choices": {
+      "ก": "Cut off frequency สูงๆ จะได้ภาพ Resolution แย่",
+      "ข": "ไม่สามารถปรับค่า Cut off frequency ได้หลังจากการสร้างภาพ",
+      "ค": "Cut off frequency ต่ าๆ จะทำให้ภาพมี Noise มาก",
+      "ง": "การปรับค่า Cut off frequency ไม่มีผลต่อภาพ",
+      "จ": "Cut off frequency ต่ าๆ จะได้ภาพที่ Smooth"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 343,
+    "question": "ข้อใดเป็นการทดสอบการปนเปื้อนของสารเภสัชรังสี Tc-99m MDP จาก Free Tc-99 Pertechnetate",
+    "choices": {
+      "ก": "Chemical purity",
+      "ข": "Radionuclide purity",
+      "ค": "Radiophysicalpurity",
+      "ง": "Sterile technique",
+      "จ": "Radiochemical purity"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 344,
+    "question": "รังสีที่ใช้ในการรักษาทางเวชศาสตร์นิวเคลียร์",
+    "choices": {
+      "ก": "อนุภาคเบตาลบ",
+      "ข": "อนุภาคเบตาบวก",
+      "ค": "อิเล็กตรอน",
+      "ง": "โปรตอน",
+      "จ": "รังสีแกมมา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 345,
+    "question": "ผู้ป่วยที่ได้รับการรักษาด้วยไอโอดีน-131โดยไม่ต้องให้คำแนะนำแบบเข้มงวด เพื่อป้องกันอันตรายจากรังสีให้กับบุคคลในครอบครัวและบุคคลทั่วไปคือ",
+    "choices": {
+      "ก": "ผู้ป่วยมะเร็งไทรอยด์ที่ได้รับไอโอดีน-131ระหว่าง 8ถึง 30มิลลิคูรี",
+      "ข": "ผู้ป่วยที่ได้รับไอโอดีน-131ในร่างกายไม่เกิน 30มิลลิคูรี",
+      "ค": "ผู้ป่วยที่มีบุตรอายุต่ ากว่า 10ปี",
+      "ง": "ผู้ป่วยที่อยู่บ้านคนเดียว",
+      "จ": "ผู้ป่วยคอพอกเป็นพิษที่ได้รับไอโอดีน-131น้อยกว่าหรือเท่ากับ 8มิลลิคูรี"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 346,
+    "question": "การควบคุมคุณภาพของสารเภสัชรังสีในข้อใดที่ควรทำประจำทุกวันก่อนการตรวจผู้ป่วย",
+    "choices": {
+      "ก": "Radiochemical purity",
+      "ข": "Physical test",
+      "ค": "Toxicity test",
+      "ง": "Aluminum contamination",
+      "จ": "ถูกทุกข้อ"
+    },
+    "explanation": "",
+    "answer": ""
+  }
+]
