@@ -1,0 +1,3213 @@
+[
+  {
+    "id": 1,
+    "question": "เส้นสมมติที่ลากจากรูหูถึงหางตา เรียกว่า",
+    "choices": {
+      "ก": "Obitomeatalbase line (OMBL)",
+      "ข": "Infraorbitomeatalbase line",
+      "ค": "Intermeatusbase line",
+      "ง": "Interpupillary base line",
+      "จ": "Inter auditory base line\nOuter canthus - EAM"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 2,
+    "question": "เส้นสมมติที่ลากระหว่างกึ่งกลางเบ้าตาทั้งสองข้างเรียกว่า",
+    "choices": {
+      "ก": "Obito-meatal base line (OMBL)",
+      "ข": "Infraorbitomeatalbase line",
+      "ค": "Intermeatusbase line",
+      "ง": "Interpupillary base line",
+      "จ": "Inter auditory base line"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 3,
+    "question": "การจัดท่าสำหรับการถ่ายภาพ Routine of skull",
+    "choices": {
+      "ก": "PA และ Lateral",
+      "ข": "PA, Lateral  และ Waters",
+      "ค": "เฉพาะ Lateral",
+      "ง": "Waters และ Lateral",
+      "จ": "Caldwell และ Towne’s"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 4,
+    "question": "การจัดท่าเพื่อถ่ายภาพรังสีกะโหลกศีรษะผู้ป่วยได้รับอุบัติเหตุมาเมื่อ 3ชั่วโมง ก่อนถึงโรงพยาบาล ท่าที่ไม่ควรถ่ายโดยเด็ดขาด",
+    "choices": {
+      "ก": "Skull series",
+      "ข": "Routine skull",
+      "ค": "Base of skull",
+      "ง": "Facial",
+      "จ": "Lateral cross table\nโดยเฉพาะ submentovertex ไม่ควรถ่าย"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 5,
+    "question": "การถ่ายภาพ “Towne” เอียงหลอดเอกซเรย์อย่างไร",
+    "choices": {
+      "ก": "30 องศา Cephalad",
+      "ข": "30 องศา Caudad",
+      "ค": "12 องศา Cephalad",
+      "ง": "12 องศา Caudad",
+      "จ": "45 องศา Cephalad\n2.5 นิ้วเหนือ glabella + ผ่านแนว EAM"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 6,
+    "question": "ท่าที่ใช้สำหรับการถ่ายเพื่อดูกระดูก Zygomatic bone",
+    "choices": {
+      "ก": "Towne’s",
+      "ข": "Waters",
+      "ค": "Lateral",
+      "ง": "Stenver’s",
+      "จ": "Rhese’s"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 7,
+    "question": "การถ่ายภาพ Paranasal sinus เพื่อดูส่วนของ Sphenoid sinus ควรถ่ายภาพในท่า",
+    "choices": {
+      "ก": "Waters",
+      "ข": "Waters open mouth",
+      "ค": "Caldwell",
+      "ง": "PA",
+      "จ": "Towne’s"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 8,
+    "question": "การถ่ายภาพในท่า Waters’ ควรใช้จุดอ้างอิงจุดใดเหมาะสม",
+    "choices": {
+      "ก": "Inion",
+      "ข": "Acanthion",
+      "ค": "Gonion",
+      "ง": "Glabella",
+      "จ": "Nasion"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 9,
+    "question": "ท่าใดที่ใช้สำหรับการวินิจฉัยบริเวณ Mastoid tip (Process)",
+    "choices": {
+      "ก": "Lateral",
+      "ข": "Law’s",
+      "ค": "Towne‘s",
+      "ง": "Stenver’s",
+      "จ": "Rhese’s\nOptic foramen"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 10,
+    "question": "ท่าที่ใช้สำหรับการถ่ายภาพเพื่อดู Mastoid part (Body)",
+    "choices": {
+      "ก": "Lateral",
+      "ข": "Law’s",
+      "ค": "Towne‘s",
+      "ง": "Stenver’s",
+      "จ": "Rhese’s"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 11,
+    "question": "การถ่ายภาพรังสีกะโหลกศีรษะที่ใช้สำหรับการตรวจสอบกระดูกแตกหักบริเวณหน้า (Facial)",
+    "choices": {
+      "ก": "Water’s view",
+      "ข": "Towne’s",
+      "ค": "Stenver’s",
+      "ง": "Fuch",
+      "จ": "Law’s"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 12,
+    "question": "การถ่ายภาพกะโหลกศีรษะสำหรับตรวจความผิดปกติที่บริเวณฐานกะโหลก ควรถ่ายภาพในท่าใด",
+    "choices": {
+      "ก": "Oblique of skull",
+      "ข": "Stenver’s",
+      "ค": "Submentovertex",
+      "ง": "Towne’s",
+      "จ": "Caldwell’s"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 13,
+    "question": "ระนาบที่แบ่งร่างกายออกเป็นข้างซ้ายและขวา คือระนาบใด",
+    "choices": {
+      "ก": "Transverse plane",
+      "ข": "Coronal plane",
+      "ค": "Sagittal plane",
+      "ง": "Frontal plane",
+      "จ": "Axial plane"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 14,
+    "question": "Sternal angle อยู่ตรงกับระดับใดของกระดูกสันหลัง",
+    "choices": {
+      "ก": "C4-C5",
+      "ข": "T1-T2",
+      "ค": "T2-T3",
+      "ง": "T3-T4",
+      "จ": "T4-T5"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 15,
+    "question": "Petrous portion เป็นส่วนของกระดูกใด",
+    "choices": {
+      "ก": "Frontal bone",
+      "ข": "Nasal bone",
+      "ค": "Temporal bone",
+      "ง": "Maxillary bone",
+      "จ": "Occipital bone"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 16,
+    "question": "เยื่อหุ้มสมองชั้นใดอยู่ในสุด",
+    "choices": {
+      "ก": "Scalp",
+      "ข": "Pia mater",
+      "ค": "Dura mater",
+      "ง": "Arachnoid mater",
+      "จ": "Aponeurosis\n1st2nd Skull\n3rd4th5th6th Brain"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 17,
+    "question": "อวัยวะในข้อใด จัดอยู่ในหูชั้นกลาง",
+    "choices": {
+      "ก": "Internal auditory canal",
+      "ข": "Semicircular canal",
+      "ค": "Cochlea",
+      "ง": "Vestibule",
+      "จ": "Ear ossicle"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 18,
+    "question": "Esophagus อยู่ต่อจากส่วนใด",
+    "choices": {
+      "ก": "Nasopharynx",
+      "ข": "Oropharynx",
+      "ค": "Laryngopharynx",
+      "ง": "Oesopharynx",
+      "จ": "Trachea"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 19,
+    "question": "หลอดคอ (Trachea) แตกแขนงเป็นหลอดลมใหญ่ข้างซ้ายและขวาในระดับใด",
+    "choices": {
+      "ก": "Suprasternal notch",
+      "ข": "Sternal angle",
+      "ค": "Jugular notch",
+      "ง": "กึ่งกลาง Body of sternum",
+      "จ": "Xiphoid process\nBifurcation of trachea\nT4-T5"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 20,
+    "question": "หัวใจห้องใดที่มีกล้ามเนื้อหนาที่สุด",
+    "choices": {
+      "ก": "Right atrium",
+      "ข": "Right ventricle",
+      "ค": "Atrial appendage",
+      "ง": "Left atrium",
+      "จ": "Left ventricle"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 21,
+    "question": "ข้อใดไม่ใช่แขนงของหลอดเลือด Aortic arch",
+    "choices": {
+      "ก": "Right brachiocephalic artery",
+      "ข": "Left brachiocephalic artery",
+      "ค": "Left subclavian artery",
+      "ง": "Left common carotid artery",
+      "จ": "Innominate artery\nไม่มีชื่อ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 22,
+    "question": "Common bile duct กับ Main pancreatic duct นำน้ าดีและน้ าย่อยอาหารมาเทเข้าสู่ลำไส้ Duodenum ส่วนใด………….",
+    "choices": {
+      "ก": "Duodenal bulb (cap)",
+      "ข": "Superior duodenum (1st duodenum)",
+      "ค": "Descending duodenum (2st duodenum)",
+      "ง": "Transverse duodenum (3st duodenum)",
+      "จ": "Ascending duodenum (4st duodenum)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 23,
+    "question": "แขนงแรกของเส้นเลือด Abdominal aorta คือ……………….",
+    "choices": {
+      "ก": "Superior mesenteric artery",
+      "ข": "Renal artery",
+      "ค": "Common iliac artery",
+      "ง": "Celiac trunk",
+      "จ": "Inferior mesenteric artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 24,
+    "question": "เส้นเลือด Superior mesenteric vein กับ Splenic vein รวมกัน และน้ าเลือดไปเทเข้าสู่เส้นเลือดใด",
+    "choices": {
+      "ก": "Inferior vena cava",
+      "ข": "Portal vein",
+      "ค": "Common iliac vein",
+      "ง": "Inferior mesenteric vein",
+      "จ": "Hepatic vein"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 25,
+    "question": "อวัยวะในข้อใดที่ไม่อยู่ใน Pelvic cavity",
+    "choices": {
+      "ก": "Ureter",
+      "ข": "Urethra",
+      "ค": "Rectum",
+      "ง": "Uterus",
+      "จ": "Testis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 26,
+    "question": "Pouch of Douglas หรือ Cul-De-Sac เป็นแอ่งที่อยู่ระหว่าง Uterus กับอวัยวะใด",
+    "choices": {
+      "ก": "Rectum",
+      "ข": "Vagina",
+      "ค": "Urethra",
+      "ง": "Ovary",
+      "จ": "Uterine tube"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 27,
+    "question": "ข้อใดไม่พบในบริเวณ Perineum",
+    "choices": {
+      "ก": "Anus",
+      "ข": "Scrotum",
+      "ค": "Vulva",
+      "ง": "Rectum",
+      "จ": "Penis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 28,
+    "question": "Vagina อยู่ระหว่าง Urinary bladder กับอวัยวะใด……………….",
+    "choices": {
+      "ก": "Uterus",
+      "ข": "Rectum",
+      "ค": "Vulva",
+      "ง": "Uterine tube",
+      "จ": "Ovary"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 29,
+    "question": "Shoulder joint ประกอบขึ้นโดยส่วน Humeral head กับส่วนใดของกระดูก Scapula",
+    "choices": {
+      "ก": "Coracoid process",
+      "ข": "Glenoid cavity",
+      "ค": "Spine of scapula",
+      "ง": "Acromion process",
+      "จ": "Coronoid process"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 30,
+    "question": "ส่วนของ Capitulum of humerus ไปเชื่อมกับส่วนใด เพื่อประกอบเป็น Elbow joint",
+    "choices": {
+      "ก": "Head of radius",
+      "ข": "Olecanonprocess",
+      "ค": "Trochlear notch of ulna",
+      "ง": "Styloid process of ulna",
+      "จ": "Head of ulna"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 31,
+    "question": "Vertebral prominensหมายถึงข้อใด",
+    "choices": {
+      "ก": "Acromion process",
+      "ข": "Spinous process of C7",
+      "ค": "Inion",
+      "ง": "Spinous process of T1",
+      "จ": "Transverse process of C7"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 32,
+    "question": "ข้อใดหมายถึงปุ่มนูนด้านหลังมือขณะกำมือ",
+    "choices": {
+      "ก": "Carpal bone",
+      "ข": "Base of metacarpal bone",
+      "ค": "Head of metacarpal bone",
+      "ง": "Base of proximal phalanx",
+      "จ": "Head of proximal phalanges"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 33,
+    "question": "ตำแหน่งของ Apex of Heart อยู่ตรงบริเวณใด",
+    "choices": {
+      "ก": "Left Intercostal space ที่ 1",
+      "ข": "Left Intercostal space ที่ 3",
+      "ค": "Left Intercostal space ที่ 5",
+      "ง": "Left Costal cartilage ที่ 2",
+      "จ": "Left Costal cartilage ที่ 5"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 34,
+    "question": "Head of pancreas อยู่ตรงกับบริเวณใดของช่องท้อง",
+    "choices": {
+      "ก": "Umbilical region",
+      "ข": "Right Hypochondrium region",
+      "ค": "Left Hypochondrium region",
+      "ง": "Hypogastric region",
+      "จ": "Right lumbar region"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 35,
+    "question": "Vermiform appendix อยู่ตรงกับบริเวณใดของช่องท้อง",
+    "choices": {
+      "ก": "Umbilical region",
+      "ข": "Right Hypochondrium region",
+      "ค": "Right Iliac region",
+      "ง": "Hypogastric region",
+      "จ": "Right lumbar region"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 36,
+    "question": "การถ่ายภาพรังสีทรวงอกท่า PA สามารถใช้ระดับใดของกระดูก Scapula เป็นตัวบอกตำแหน่งของจุดกึ่งกลางรังสี",
+    "choices": {
+      "ก": "Superior angle",
+      "ข": "Spine of scapula",
+      "ค": "Acromion process",
+      "ง": "Inferior angle",
+      "จ": "Vertebral border\n(Nipple line = T7)"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 37,
+    "question": "ตำแหน่งของ Bifucationof Common iliac artery คือ ข้อใด",
+    "choices": {
+      "ก": "T4-5",
+      "ข": "T7-8",
+      "ค": "T11-12",
+      "ง": "L1-2",
+      "จ": "L4-5\niliac crest"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 38,
+    "question": "กระดูกข้อมือชิ้นใดที่ Articulate กับกระดูก First metacarpal",
+    "choices": {
+      "ก": "Scaphoid",
+      "ข": "Lunate",
+      "ค": "Trapezium",
+      "ง": "Trapezoid",
+      "จ": "Capitate\nเชื่อมกับ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 39,
+    "question": "Fracture บริเวณ 5thMetacarpal bone ส่วน neck และ shaft มีชื่อเรียกว่า................",
+    "choices": {
+      "ก": "Barton’s fx.",
+      "ข": "Bennett’s fx.",
+      "ค": "Jone’sfx.",
+      "ง": "Colles’ fx.",
+      "จ": "Boxer’s fx."
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 40,
+    "question": "Fracture บริเวณกระดูก fibula และ tibia ส่วนปลาย ร่วมกับการเคลื่อนของข้อเท้ามีชื่อเรียกว่า.........",
+    "choices": {
+      "ก": "Pott’s fx.",
+      "ข": "Jone’sfx.",
+      "ค": "Colles’ fx.",
+      "ง": "Monteggiafx.",
+      "จ": "Bennett’s fx.\n\n41.ท่าที่ใช้ดู Intervertebral foramen บริเวณกระดูกสันหลังส่วนอก คือก. APข. Posterior Oblique 45oค. AP open–mouthง. Lateralจ. Transthoracic view\nT-spine\nT-spineLateral : intervertebral foramenOblique : Zygapophyseal joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 42,
+    "question": "Fracture ในข้อใดเกิดขึ้นบริเวณกระดูก Zygomatic ซึ่งทำให้กระดูก Zygomatic หลุดออกจากกระดูกที่ไปเชื่อม",
+    "choices": {
+      "ก": "Tripod fracture",
+      "ข": "Le Fort fracture",
+      "ค": "Blowout fracture",
+      "ง": "Depressed fracture",
+      "จ": "Commuted fracture"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 43,
+    "question": "ในเด็กเล็กอาจมีการอุดกั้นทางเดินหายใจ จากการโตของ Adenoid gland เป็นต่อมน้ าเหลืองที่อยู่บริเวณใด",
+    "choices": {
+      "ก": "Laryngopharynx",
+      "ข": "Hypopharynx",
+      "ค": "Nasopharynx",
+      "ง": "Oropharynx",
+      "จ": "แทรกกระจายในทุกข้อที่กล่าวมา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 44,
+    "question": "ส่วนของกระดูก Temporal bone ที่มีอวัยวะที่สำคัญในการรับฟังและการทรงตัวของร่างกาย คือ",
+    "choices": {
+      "ก": "Squamous part",
+      "ข": "Zygomatic part",
+      "ค": "Tympanic part",
+      "ง": "Mastoid part",
+      "จ": "Petrous part"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 45,
+    "question": "เมื่อสงสัยพยาธิสภาพของทรวงอกบริเวณ Lung apex ภาพรังสีทรวงอกท่าใด สามารถแสดงพยาธิสภาพได้ดีที่สุด",
+    "choices": {
+      "ก": "Lateral",
+      "ข": "Lateral decubitus",
+      "ค": "PA upright",
+      "ง": "Apical lordotic",
+      "จ": "AP supine"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 46,
+    "question": "โรคในข้อต่อใด เมื่อเกิดพยาธิสภาพในทรวงอกแล้ว ที่ทำให้ภาพรังสีทรวงอกดูขาวทึบกว่าปกติ?",
+    "choices": {
+      "ก": "Asthma",
+      "ข": "Atelectasis",
+      "ค": "Emphysema",
+      "ง": "Pneumothorax",
+      "จ": "Hypoplasia of vascular structure\nภาวะปอดแฟบ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 47,
+    "question": "เทคนิคการตรวจพิเศษทางรังสีใดที่เหมาะสำหรับวินิจฉัยดู Vesicoureteral reflux",
+    "choices": {
+      "ก": "IVP",
+      "ข": "RP",
+      "ค": "Cystography",
+      "ง": "VCUG",
+      "จ": "Urethography"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 48,
+    "question": "การตรวจ BE (barium enema) ท่านอนคว่ า Negative contrast media เห็นในส่วนใดของลำไส้ใหญ่",
+    "choices": {
+      "ก": "Transverse colon/ Ascending colon",
+      "ข": "Transverse colon/ Descending colon",
+      "ค": "Transverse colon / Sigmoid colon",
+      "ง": "Transverse colon / Rectum",
+      "จ": "Ascending colon / Descending colon\nAir"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 49,
+    "question": "ส่วนใดที่มีน้ าเลี้ยงสมองและไขสันหลัง หล่อเลี้ยงอยู่",
+    "choices": {
+      "ก": "Dura mater",
+      "ข": "Arachnoid mater",
+      "ค": "Pia mater",
+      "ง": "Subdural space",
+      "จ": "Subarachnoid space"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 50,
+    "question": "ลักษณะใดของ Epidural cerebral hemorrhage ที่เด่นชัดแตกต่างไปจาก hemorrhage อื่นๆ",
+    "choices": {
+      "ก": "Crescent shape",
+      "ข": "Biconvex shape",
+      "ค": "Ring enhanced",
+      "ง": "Hypodensity",
+      "จ": "Mid cerebral and Irregular shape\nSubdural hematomaLemon shape / contact lens"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 51,
+    "question": "ส่วนที่เชื่อมระหว่าง 3rdVentricle กับ 4thVentricle คือ",
+    "choices": {
+      "ก": "Foramen of Magendie",
+      "ข": "Foramen of Monro",
+      "ค": "Aqueduct of sylvius",
+      "ง": "Foramen Ovalae",
+      "จ": "Sagittal fissure\nCerebral aqueduct"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 52,
+    "question": "Hippocampus volume loss เป็นลักษณะของพยาธิสภาพใด",
+    "choices": {
+      "ก": "Parkinson’s Disease",
+      "ข": "Alzheimer’s Disease",
+      "ค": "Toxoplasmosis",
+      "ง": "Cerebritis",
+      "จ": "Encephalitis\nความจำ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 53,
+    "question": "Foramen magnum มองเห็นได้ในท่าใด",
+    "choices": {
+      "ก": "Posteroanterior",
+      "ข": "Anteroposterior",
+      "ค": "Caldwell’s method",
+      "ง": "Towne’s method",
+      "จ": "Water’s method"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 54,
+    "question": "Zygomatic arch เป็นส่วนที่เกิดจากการเชื่อมกันระหว่างกระดูก Zygomatic กับกระดูก……",
+    "choices": {
+      "ก": "Parietal",
+      "ข": "Maxilla",
+      "ค": "Mandible",
+      "ง": "Temporal",
+      "จ": "Sphenoid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 55,
+    "question": "Sella turcica เป็นที่อยู่ของอวัยวะใด",
+    "choices": {
+      "ก": "Optic nerve",
+      "ข": "Internal carotid artery",
+      "ค": "Internal jugular vein",
+      "ง": "Thalamus",
+      "จ": "Pituitary gland"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 56,
+    "question": "Angle of mandible มีชื่อเรียกอีกอย่างว่า………………..",
+    "choices": {
+      "ก": "Gonion",
+      "ข": "Inion",
+      "ค": "Nasion",
+      "ง": "Acanthion",
+      "จ": "Glabella"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 57,
+    "question": "หลอดเลือดที่ไปเลี้ยงกล้ามเนื้อหัวใจ เป็นแขนงของหลอดเลือดใด",
+    "choices": {
+      "ก": "Aortic arch",
+      "ข": "Thoracic aorta",
+      "ค": "Brachiocephalic trunk",
+      "ง": "Ascending aorta",
+      "จ": "Descending aorta"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 58,
+    "question": "Intervertebral foramen ของกระดูกสันหลังส่วนคอ มองเห็นได้จากท่าใด",
+    "choices": {
+      "ก": "Anteroposterior (AP)",
+      "ข": "Oblique 45o",
+      "ค": "Oblique 70o",
+      "ง": "Lateral",
+      "จ": "Posteroanterior (PA)\nC-spine AP axial oblique"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 59,
+    "question": "การตรวจ Myelogram มีการฉีดสารทึบรังสีเข้าไปในส่วนใด",
+    "choices": {
+      "ก": "Vertebral foramen",
+      "ข": "Intervertebral foramen",
+      "ค": "Subarachnoid space",
+      "ง": "Subdural space",
+      "จ": "Intervertebral disc"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 60,
+    "question": "ภาพรังสี Normal KUB ที่มีคุณภาพดี ต้องเห็นเงาของกล้ามเนื้อใดชัดเจนที่สุด",
+    "choices": {
+      "ก": "Latissimusdorsi",
+      "ข": "Pectoralis major",
+      "ค": "Psoas",
+      "ง": "Rectus abdominis",
+      "จ": "Serratus anterior\nKidney Ureter Bladder"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 61,
+    "question": "เส้นสมมติที่ลากจากใต้ตาถึงรูหูเรียกว่าอะไร",
+    "choices": {
+      "ก": "Orbitomeatal line",
+      "ข": "Infraorbitomeatalline",
+      "ค": "Intermeatusline",
+      "ง": "Interpupillary line",
+      "จ": "Inter auditory line"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 62,
+    "question": "ต่อมน้ าลายที่ใหญ่ที่สุดในร่างกาย คือ",
+    "choices": {
+      "ก": "Maxillary gland",
+      "ข": "Thyroid gland",
+      "ค": "Parotid gland",
+      "ง": "Submaxillary gland",
+      "จ": "Submandibular gland"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 63,
+    "question": "ในท่า Anatomical position ฝ่ามือจะหันไปทางใด",
+    "choices": {
+      "ก": "หันไปทางด้านหน้า",
+      "ข": "หันไปทางด้านหลัง",
+      "ค": "หันออกจากล้าตัว",
+      "ง": "หันเข้าหาล้าตัว",
+      "จ": "หันไปทางใดก็ได้"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 64,
+    "question": "กระดูกชิ้นใด เป็นกระดูกเท้า",
+    "choices": {
+      "ก": "Capitate",
+      "ข": "Cuboid",
+      "ค": "Hamate",
+      "ง": "Scaphoid",
+      "จ": "Trapezium"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 65,
+    "question": "กล่องเสียงอยู่ตรงกับกระดูกสันหลังระดับใด",
+    "choices": {
+      "ก": "C1-C3",
+      "ข": "C3-C6",
+      "ค": "C6-T1",
+      "ง": "T1-T3",
+      "จ": "T3-T6"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 66,
+    "question": "ข้อใดเป็นส่วนของลำไส้เล็ก",
+    "choices": {
+      "ก": "Caecum",
+      "ข": "Jejunum",
+      "ค": "Hepatic flexure",
+      "ง": "Ilium",
+      "จ": "Rectum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 67,
+    "question": "หลอดเลือดใดนำเลือดออกจากหัวใจห้องล่างขวา (Right ventricle)",
+    "choices": {
+      "ก": "Superior vena cave",
+      "ข": "Inferior vena cave",
+      "ค": "Pulmonary artery",
+      "ง": "Pulmonary vein",
+      "จ": "Ascending aorta"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 68,
+    "question": "ตำแหน่งที่ตั้งปกติของไตอยู่ตรงกับกระดูกสันหลังระดับใด",
+    "choices": {
+      "ก": "T5-T8",
+      "ข": "T8-T11",
+      "ค": "T12-L3",
+      "ง": "L3-L5",
+      "จ": "L5-S1"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 69,
+    "question": "Colles’ fracture เกี่ยวข้องกับบริเวณส่วนปลายของกระดูกใด",
+    "choices": {
+      "ก": "Femur",
+      "ข": "Fibula",
+      "ค": "Humerus",
+      "ง": "Radius",
+      "จ": "Ulna\nDistal radius fracture"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 70,
+    "question": "กระดูกใดเป็น Cranial bones",
+    "choices": {
+      "ก": "Lacrimal",
+      "ข": "Maxillary",
+      "ค": "Palatine",
+      "ง": "Sphenoid",
+      "จ": "Zygoma"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 71,
+    "question": "การถ่ายภาพเอกซเรย์ เพื่อดูกระดูกซี่โครงใน Rt. หรือ Lt. Posterior oblique projection ควรให้จุดกึ่งกลางของแสงลงที่ตำแหน่งใด",
+    "choices": {
+      "ก": "T3",
+      "ข": "T4",
+      "ค": "T5",
+      "ง": "T6",
+      "จ": "T7\nLAO"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 72,
+    "question": "ระบบประสาทในขณะที่ยังเป็น Embryonic disc ในส่วนที่อยู่ Forebrain คือ",
+    "choices": {
+      "ก": "Hypophysis",
+      "ข": "Olfactory placode",
+      "ค": "Optic area",
+      "ง": "Lens placode",
+      "จ": "Optic chiasma"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 73,
+    "question": "Neural plate จะเจริญเติบโตไปเป็น",
+    "choices": {
+      "ก": "Neural groove",
+      "ข": "Neural fold",
+      "ค": "Neural cell",
+      "ง": "Neural crest",
+      "จ": "Neural tube"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 74,
+    "question": "Nervous system เจริญเติบโตมาจาก",
+    "choices": {
+      "ก": "Extoderm",
+      "ข": "Ectoderm",
+      "ค": "Endoderm",
+      "ง": "Mesoderm",
+      "จ": "Enterderm"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 75,
+    "question": "Sulcus limitans แบ่ง Neural tube ออกเป็น",
+    "choices": {
+      "ก": "Dorsal กับ Plantar plates",
+      "ข": "Sensory กับ Motor",
+      "ค": "ส่วนที่ทำหน้าที่ Sensory กับ Co-ordinating ของ Motor",
+      "ง": "Alar กับ Basal plates",
+      "จ": "Dorsal กับ Caudal plates"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 76,
+    "question": "Forebrain เจริญเติบโตไปเป็น",
+    "choices": {
+      "ก": "Rhombencephalon",
+      "ข": "Mesencephalon",
+      "ค": "Prosencephalon",
+      "ง": "Procencephalon",
+      "จ": "Diencephalon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 77,
+    "question": "Optic vesicle เจริญเติบโตอยู่ในส่วน",
+    "choices": {
+      "ก": "Mesencephalon",
+      "ข": "Rhombencephalon",
+      "ค": "Presencephalon",
+      "ง": "Prosencephalon",
+      "จ": "Metencephalon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 78,
+    "question": "ในวันที่ 28 ของการเจริญเติบโตในครรภ์ ระบบประสาทจะมีการงอตัว (Flexure) 2 ตำแหน่ง คือ",
+    "choices": {
+      "ก": "Cephalic กับ Cervical flexure",
+      "ข": "Cervical กับ Thoracic flexure",
+      "ค": "Cephalic กับ Caudal flexure",
+      "ง": "Cervical กับ Thoracic flexure",
+      "จ": "Clavicle กับ Thoracic flexure"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 79,
+    "question": "Rhombencephalon อยู่ระหว่าง",
+    "choices": {
+      "ก": "Mesencephalon กับ Prosencephalon",
+      "ข": "Spinal medulla กับ Forebrain",
+      "ค": "Midbrain กับ Spinal medulla",
+      "ง": "Hindbrain กับ Spinal medulla",
+      "จ": "Forebrain กับ Midbrain"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 80,
+    "question": "Telencephalic vesicle แล Diencephalon เจริญเติบโตมาจาก",
+    "choices": {
+      "ก": "Mesencephalon",
+      "ข": "Prosencephalon",
+      "ค": "Rhombencephalon",
+      "ง": "Spinal Medulla",
+      "จ": "Metencephalon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 81,
+    "question": "Rhombencephalon เจริญเติบโตไปเป็น",
+    "choices": {
+      "ก": "Diencephalon กับ Metencephalon",
+      "ข": "Telencephalic vesicle กับ Diencephalon",
+      "ค": "Mesencephalon กับ Myelencephalon",
+      "ง": "Myelencephalon กับ Metencephalon",
+      "จ": "Mesencephalon กับ Metencephalon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 82,
+    "question": "Cerebral aqueduct หรือ Aqueduct of Sylvius เจริญเติบโตมาจาก",
+    "choices": {
+      "ก": "Mesocele",
+      "ข": "Metacele",
+      "ค": "Myelocele",
+      "ง": "Telocele",
+      "จ": "Diocele"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 83,
+    "question": "Cerebellum และ Pons เจริญเติบโตมาจาก",
+    "choices": {
+      "ก": "Prosencephalon",
+      "ข": "Mesencephalon",
+      "ค": "Metencephalon",
+      "ง": "Myelencephalon",
+      "จ": "Rhombencephalon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 84,
+    "question": "Cervical spinal nerve มีทั้งหมดกี่คู่",
+    "choices": {
+      "ก": "7คู่",
+      "ข": "12คู่",
+      "ค": "5คู่",
+      "ง": "8คู่",
+      "จ": "10คู่\nC-spine (vertebral body) 7 อัน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 85,
+    "question": "Spinal medulla มีการโป่งออก (Enlargement) 2 บริเวณ คือ",
+    "choices": {
+      "ก": "Cervical กับ Lumbosacral enlargements",
+      "ข": "Cervical กับ Thoracolumbar enlargements",
+      "ค": "Cervicothoracic กับ Lumbar enlargements",
+      "ง": "Thoracic กับ Lumbar enlargements",
+      "จ": "Cervical กับ Sacrococcygeal enlargements"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 86,
+    "question": "Foramen of Magendie มีทางเข้าสู่",
+    "choices": {
+      "ก": "Lateral ventricle",
+      "ข": "Third ventricle",
+      "ค": "Fourth ventricle",
+      "ง": "Central canal",
+      "จ": "Cerebral aqueduct"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 87,
+    "question": "Aqueduct of Sylvius อยู่ระหว่าง",
+    "choices": {
+      "ก": "Lateral ventricles ทั้งสอง",
+      "ข": "Lateral กับ Third ventricles",
+      "ค": "Second กับ Third ventricles",
+      "ง": "Fourth ventricle กับ Spinal cord",
+      "จ": "Third กับ Fourth ventricles\nCerebral aqueduct"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 88,
+    "question": "ส่วนใดของสมองอยู่ชิดกับ Skull",
+    "choices": {
+      "ก": "Central canal",
+      "ข": "Marginal layer",
+      "ค": "Mantle layer",
+      "ง": "Ependymal layer",
+      "จ": "Basal Layer"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 89,
+    "question": "Neuroglial cells of the Central nervous system ประกอบด้วย",
+    "choices": {
+      "ก": "Microglial cell กับ Astrocyte",
+      "ข": "Oligodendrocyte กับ Unipolar cell",
+      "ค": "Ependymal cell กับ Schwann cell",
+      "ง": "Astrocyte กับ Bipolar cell",
+      "จ": "Microglial cell กับ Multipolar cell"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 90,
+    "question": "Typical spinal nerve จะปรากฏอยู่ในระดับ",
+    "choices": {
+      "ก": "Cervical spinal nerve",
+      "ข": "Thoracic spinal nerve",
+      "ค": "Thoracolumbar nerve",
+      "ง": "Lumbar spinal nerve",
+      "จ": "Sacral spinal nerve"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 91,
+    "question": "Autonomic innervation จะควบคุม",
+    "choices": {
+      "ก": "Striated กับ Cardiac muscles",
+      "ข": "Smooth กับ Striated muscles",
+      "ค": "Excretory muscle",
+      "ง": "Cardiac กับ Smooth muscles",
+      "จ": "Secretory กับ Excretory muscles"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 92,
+    "question": "ข้อความใดถูก",
+    "choices": {
+      "ก": "Autonomic nervous system ประกอบด้วย Sympathetic กับ Parasympathetic system",
+      "ข": "Parasympathetic system จะมี ganglion อยู่ไกลกับอวัยวะที่ดูแล",
+      "ค": "Sympathetic system อยู่ในระดับ C1-L2",
+      "ง": "Parasympathetic system อยู่ในระดับ T1-L2",
+      "จ": "Autonomic nervous system ประกอบด้วย Parasympathetic system อย่างเดียว"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 93,
+    "question": "Parasympathetic system จะปรากฏอยู่ในส่วน",
+    "choices": {
+      "ก": "Cranial nerve คู่ที่ 3, 5, 7, 9 และ Sacral nerve คู่ที่ 2, 3และ 4",
+      "ข": "Cranial nerve คู่ที่ 3, 5, 9, 10 และ Sacral nerve คู่ที่ 3, 4และ 5",
+      "ค": "Cranial nerve คู่ที่ 3, 5, 7, 9 และ Sacral nerve คู่ที่ 2, 3และ 4",
+      "ง": "Cranial nerve คู่ที่ 5, 7, 9, 10 และ Sacral nerve คู่ที่ 1, 2และ 3",
+      "จ": "Cranial nerve คู่ที่ 3, 7, 9, 10 และ Sacral nerve คู่ที่ 2, 3และ 4"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 94,
+    "question": "Spinal nerve ที่ออกจาก Spinal cord มีทั้งหมด",
+    "choices": {
+      "ก": "30คู่",
+      "ข": "31คู่",
+      "ค": "32คู่",
+      "ง": "33คู่",
+      "จ": "12คู่"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 95,
+    "question": "Central pathway for Taste sensation อยู่ที่",
+    "choices": {
+      "ก": "Cerebrum",
+      "ข": "Cerebellum",
+      "ค": "Pons",
+      "ง": "Medulla oblongata",
+      "จ": "Midbrain"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 96,
+    "question": "Cerebral cortex ส่วน Parietal lobe ที่ชิดกับ Falx cerebri จะเกี่ยวข้องกับส่วน",
+    "choices": {
+      "ก": "ศีรษะ",
+      "ข": "ลิ้น",
+      "ค": "ฝ่าเท้า",
+      "ง": "ฝ่ามือ",
+      "จ": "ท้อง"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 97,
+    "question": "Cutaneous nerves ของมือประกอบด้วย",
+    "choices": {
+      "ก": "Radial กับ Ulnar nerves",
+      "ข": "Radial, Median และ Digital nerves",
+      "ค": "Ulnar, Median และ Palmar nerves",
+      "ง": "Median, Radial และ Ulnar nerves",
+      "จ": "Median กับ Palmar nerves"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 98,
+    "question": "Olfactory area อยู่ที่บริเวณ",
+    "choices": {
+      "ก": "ด้านบนของ Nasal cavity ชิดกับ Cribriform plate of ethmoid bone",
+      "ข": "Middle concha",
+      "ค": "ด้านล่างของ Nasal septum",
+      "ง": "Inferior concha",
+      "จ": "Vomer"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 99,
+    "question": "ข้อความใดถูก",
+    "choices": {
+      "ก": "Internal carotid artery แยกเป็น Anterior และ Anterior communicating arteries",
+      "ข": "Basilar artery แยกเป็น Middle cerebral arteries 2 เส้น",
+      "ค": "Vertebral arteries 2 เส้น รวมเป็น Basilar artery 1 เส้น",
+      "ง": "Posterior communicating artery ต่อกับ Middle cerebral artery",
+      "จ": "Posterior cerebral artery ต่อกับ Middle communicating artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 100,
+    "question": "Vestibular nerve เลี้ยง",
+    "choices": {
+      "ก": "Saccule, Utricle และ Semicircular ducts",
+      "ข": "Cochlear duct",
+      "ค": "Tympanic membrane",
+      "ง": "Organ of Hearing",
+      "จ": "Organ of Equilibrium"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 101,
+    "question": "Parasympathetic system ของ cranial nerve ที่ไปดูแลอวัยวะต่างๆ มีดังนี้",
+    "choices": {
+      "ก": "Ciliary ganglion เกี่ยวกับตา",
+      "ข": "Pterygopalatine ganglion เกี่ยวกับ Salivary glands",
+      "ค": "Oticganglion เกี่ยวกับ Palatine gland",
+      "ง": "Sympathetic ganglion ควบคุมกล้ามเนื้อทั้งหมด",
+      "จ": "Motor ganglion อยู่ที่ Dorsal root"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 102,
+    "question": "Occipitoparietal หมายถึง Suture ใด",
+    "choices": {
+      "ก": "Bregma",
+      "ข": "Sagittal suture",
+      "ค": "Coronal suture",
+      "ง": "Lambdoid suture",
+      "จ": "Squamosal suture"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 103,
+    "question": "คำว่า “back” มีความหมายพ้องกับคำใด",
+    "choices": {
+      "ก": "Posterior",
+      "ข": "Anterior",
+      "ค": "Interior",
+      "ง": "Inferior",
+      "จ": "Superior"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 104,
+    "question": "คำศัพท์ในข้อใดที่มีความหมายพ้องกัน",
+    "choices": {
+      "ก": "Caudal -Head ends",
+      "ข": "Plantar –Palmar",
+      "ค": "Axial –Oblique",
+      "ง": "Crown –Sagittal",
+      "จ": "Proximal-Inferior\nฝ่าเท้าฝ่ามือ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 105,
+    "question": "Skeletal system มีความสัมพันธ์กับระบบใดมากที่สุด",
+    "choices": {
+      "ก": "Nervous system",
+      "ข": "Urinary system",
+      "ค": "Lymphatic system",
+      "ง": "Circulartorysystem",
+      "จ": "Muscular system"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 106,
+    "question": "Hand ประกอบด้วยกระดูกชุดใด",
+    "choices": {
+      "ก": "Carpal bone + Metacarpal bone",
+      "ข": "Carpal bone + Metacarpal bone + Phalanges",
+      "ค": "Phalanges + Radius + Ulna",
+      "ง": "Matacarpalbone + Phalanges",
+      "จ": "Carpal bone + Phalanges"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 107,
+    "question": "กระดูกต่อไปนี้จัดอยู่ใน Lower extremity ยกเว้นข้อใด",
+    "choices": {
+      "ก": "Tibia",
+      "ข": "Hip bone",
+      "ค": "Patella",
+      "ง": "Calcaneus",
+      "จ": "Sacrum\nPelvis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 108,
+    "question": "Pelvic Girdle ประกอบด้วยกระดูกอะไรบ้าง",
+    "choices": {
+      "ก": "Ilium + Ischium + Pubic symphysis",
+      "ข": "Ileum + Ischium + Pubic symphysis",
+      "ค": "Ilium + Ischium + Pubis",
+      "ง": "Ilium + Ischium + Pedicle",
+      "จ": "Ileum + Ischium + Pubis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 109,
+    "question": "Vertebral prominensพบได้ที่กระดูกใด",
+    "choices": {
+      "ก": "C6",
+      "ข": "L5",
+      "ค": "T11",
+      "ง": "T12",
+      "จ": "C7"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 110,
+    "question": "ข้อใดไม่ใช่ข้อความที่เกี่ยวข้องกับ Appendicular skeleton",
+    "choices": {
+      "ก": "Lower Extremity ประกอบด้วยกระดูก 62ชิ้น",
+      "ข": "Upper Extremity ประกอบด้วยกระดูก 64ชิ้น",
+      "ค": "Tarsal bone สามารถพบได้ที่ Lower Extremity เท่านั้น",
+      "ง": "Phalanges สามารถพบได้ที่ Lower Extremity เท่านั้น",
+      "จ": "Metacarpal bone สามารถพบได้ที่ Upper Extremity เท่านั้น"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 111,
+    "question": "เซลล์หลักที่ทำให้ compact bone คงอยู่ได้คือเซลล์ใด",
+    "choices": {
+      "ก": "Chrondroblast",
+      "ข": "Chondrocyte",
+      "ค": "Fibrocartilage",
+      "ง": "Osteocyte",
+      "จ": "Osteoclast"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 112,
+    "question": "การซ่อมแซมกระดูกส่วนที่หักให้ประสานกันเหมือนเดิม เรียกว่าอะไร",
+    "choices": {
+      "ก": "Bone Scan",
+      "ข": "Bone Reconstruction",
+      "ค": "Bone Regeneration",
+      "ง": "Bone Repairing",
+      "จ": "Bone Remodeling"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 113,
+    "question": "Cranial bone of Skull ประกอบด้วยกระดูกดังต่อไปนี้ ยกเว้นข้อใด",
+    "choices": {
+      "ก": "Maxilla",
+      "ข": "Sphenoid",
+      "ค": "Occipital",
+      "ง": "Parietal",
+      "จ": "Ethmoid\nFacial bone"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 114,
+    "question": "ข้อใดไม่ใช่หน้าที่ของกระดูก",
+    "choices": {
+      "ก": "ทำให้สามารถเคลื่อนไหวได้",
+      "ข": "ผลิตฟอสฟอรัส",
+      "ค": "เก็บสะสม Triglyceride",
+      "ง": "ป้องกันอวัยวะภายใน",
+      "จ": "เป็น bone marrow เพื่อผลิต blood cell"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 115,
+    "question": "นายสมัยประสบอุบัติเหตุกระดูก Pisiform แตก จากข้อความดังกล่าวนายสมัยได้รับบาดเจ็บบริเวณใด",
+    "choices": {
+      "ก": "Elbow joint",
+      "ข": "Ankle joint",
+      "ค": "Wrist joint",
+      "ง": "Inferior radio-ulnar joint",
+      "จ": "Carpo-metacarpal joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 116,
+    "question": "อาการที่แนวกระดูกสันหลังคดไปทางด้าน lateral เรียกว่าอะไร",
+    "choices": {
+      "ก": "Lordosis",
+      "ข": "Osteoporosis",
+      "ค": "Kyphosis",
+      "ง": "Gomphosis",
+      "จ": "Scoliosis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 117,
+    "question": "ข้อใดไม่สามารถพบได้ในกระดูก Ulna",
+    "choices": {
+      "ก": "Styloid process",
+      "ข": "Ulnar notch",
+      "ค": "Radial notch",
+      "ง": "Trochlear notch",
+      "จ": "Olecranon process"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 118,
+    "question": "กระดูกในข้อใดต่อไปนี้จัดเป็น axial skeleton",
+    "choices": {
+      "ก": "Tarsus",
+      "ข": "Hip bone",
+      "ค": "Scapula",
+      "ง": "Metacarpus",
+      "จ": "Auditory ossicles"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 119,
+    "question": "Joint ในข้อใดจัดเป็น Uniaxial joint",
+    "choices": {
+      "ก": "Elbow joint",
+      "ข": "Hip joint",
+      "ค": "Wrist joint",
+      "ง": "Knee joint",
+      "จ": "Metacarpo–phalangeal joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 120,
+    "question": "ส่วนที่เป็นร่องบริเวณ Anterior surface of the proximal end of humerus เรียกว่าอะไร",
+    "choices": {
+      "ก": "Intercondylar fossa",
+      "ข": "Coronoid fossa",
+      "ค": "Olecranon fossa",
+      "ง": "Intertubercular sulcus",
+      "จ": "Trochlear notch"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 121,
+    "question": "ยายแช่มลื่นล้มจนกระดูกสะโพกหัก (hip bone) กระดูกที่หักจัดเป็นกระดูกประเภทใด",
+    "choices": {
+      "ก": "Irregular bone",
+      "ข": "Long bone",
+      "ค": "Pneumatic bone",
+      "ง": "Short bone",
+      "จ": "Flat bone"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 122,
+    "question": "คำว่า “Transverse plane” มีความหมายพ้องกับคำใด",
+    "choices": {
+      "ก": "Coronal plane",
+      "ข": "Vertical plane",
+      "ค": "Sagittal plane",
+      "ง": "Horizontal plane",
+      "จ": "Frontal plane \nAxial plane"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 123,
+    "question": "Shoulder Girdle ประกอบด้วยกระดูกอะไรบ้าง",
+    "choices": {
+      "ก": "Cervical + Humerus",
+      "ข": "Cervical + Scapula",
+      "ค": "Clavicle + Scapula",
+      "ง": "Scapula + Humerus",
+      "จ": "Clavicle + Humerus"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 124,
+    "question": "คำว่า “arm” มีความหมายสัมพันธ์กับกระดูกใด",
+    "choices": {
+      "ก": "Radius",
+      "ข": "Radius + Ulna",
+      "ค": "Humerus",
+      "ง": "Humerus + Radius + Ulna",
+      "จ": "Ulna"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 125,
+    "question": "นางยืนประสบอุบัติเหตุหกล้ม โครงสร้างใดของ femur ที่มีโอกาสหักมากที่สุด",
+    "choices": {
+      "ก": "Body of femur",
+      "ข": "Medial epicondyle",
+      "ค": "Lesser trochanter",
+      "ง": "Head of femur",
+      "จ": "Neck of femur"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 126,
+    "question": "ข้อต่อใดต่อไปนี้จัดเป็นชนิด ball and socket",
+    "choices": {
+      "ก": "Ankle joint + Elbow joint",
+      "ข": "Knee joint + Ankle joint",
+      "ค": "Hip joint + Shoulder joint",
+      "ง": "Shoulder joint + Elbow joint",
+      "จ": "Hip joint + Knee joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 127,
+    "question": "Acetabulum สัมพันธ์กับ joint ใด",
+    "choices": {
+      "ก": "Hip joint",
+      "ข": "Shoulder joint",
+      "ค": "Knee joint",
+      "ง": "Elbow joint",
+      "จ": "Ankle joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 128,
+    "question": "โครงกระดูกของมนุษย์แบ่งได้เป็น 2บริเวณคือ",
+    "choices": {
+      "ก": "Vertebral column + Upper extremity",
+      "ข": "Vertebral column + Appendicular skeleton",
+      "ค": "Upper extremity + Lower extremity",
+      "ง": "Vertebral column + Lower extremity",
+      "จ": "Axial skeleton + Appendicular skeleton \n\n129.Xiphi–sternal junction เป็นบริเวณที่ Rib ใดมาเกาะ ก. 1strib ข. 2ndrib ค. 4thrib ง. 5thrib จ. 7thrib"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 130,
+    "question": "คำว่า “Tail” มีความหมายตรงข้ามกับคำใด",
+    "choices": {
+      "ก": "Inferior",
+      "ข": "Lower end",
+      "ค": "Distal",
+      "ง": "Caudal",
+      "จ": "Cranial"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 131,
+    "question": "Fibular notch เป็นโครงสร้างของกระดูกใด",
+    "choices": {
+      "ก": "Tibia + Fibula",
+      "ข": "Tibia",
+      "ค": "Patella",
+      "ง": "Fibula",
+      "จ": "Femur"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 132,
+    "question": "ข้อต่อระหว่างกระดูกนิ้วหัวแม่มือทั้งสองชิ้นเรียกว่า",
+    "choices": {
+      "ก": "First interphalangeal joint",
+      "ข": "Second interphalangeal joint",
+      "ค": "Third interphalangeal joint",
+      "ง": "First metacarpophalangeal joint",
+      "จ": "Second metacarpophalangeal joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 133,
+    "question": "ลักษณะของภาพรังสีที่ไม่เหมาะสมของมือท่า PA projection เป็นอย่างไร",
+    "choices": {
+      "ก": "การเว้าเข้าของกระดูกฝ่ามือและนิ้วมือทั้งสองข้างเท่ากัน",
+      "ข": "Interphalangeal joints และ Metacarpophalangeal joints เปิดชัดเจน",
+      "ค": "นิ้วมือแต่ละนิ้วแยกออกจากกันและไม่ซ้อนทับกัน",
+      "ง": "เนื้อเยื่อทั้งสองข้างของกระดูกนิ้วมือเท่ากัน",
+      "จ": "ไม่เห็นส่วนปลายของกระดูกแขน"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 134,
+    "question": "กระดูกข้อมือชิ้นใด มักเกิดการหักบ่อยที่สุด",
+    "choices": {
+      "ก": "Pisiform",
+      "ข": "Scaphoid",
+      "ค": "Capitate",
+      "ง": "Trapezium",
+      "จ": "Hamate"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 135,
+    "question": "Colles’ fracture เกี่ยวข้องกับบริเวณส่วนปลายของกระดูกชิ้นใด",
+    "choices": {
+      "ก": "femur",
+      "ข": "fibula",
+      "ค": "humerus",
+      "ง": "radius",
+      "จ": "Ulna\nDistal radius fracture"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 136,
+    "question": "กระดูก Malleus พบได้ในส่วนใด",
+    "choices": {
+      "ก": "ankle",
+      "ข": "eardrum",
+      "ค": "mandible",
+      "ง": "sphenoid",
+      "จ": "vomer"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 137,
+    "question": "คำว่า “Floating ribs” หมายถึงซี่โครงซี่ใด",
+    "choices": {
+      "ก": "ที่ 1และ ที่ 2",
+      "ข": "ที่ 3ถึงที่ 7",
+      "ค": "ที่ 8ถึงที่ 12",
+      "ง": "ที่ 11ถึงที่ 12",
+      "จ": "vertersternal ribs"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 138,
+    "question": "เมื่อหัวใจเกิดไปอยู่ทางด้านขวาของทรวงอก ทางการแพทย์จะเรียกว่าอะไร",
+    "choices": {
+      "ก": "Cardioverter",
+      "ข": "Dextrocardia",
+      "ค": "Cardiomotility",
+      "ง": "Dextropedal",
+      "จ": "Retrocardia"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 139,
+    "question": "หลอดเลือดแดงและหลอดเลือดดำที่นำโลหิตไปสู่และออกจากหัวใจไปยังปอด คือ หลอดเลือดใด",
+    "choices": {
+      "ก": "Coronary vessels",
+      "ข": "Inferior vena cava",
+      "ค": "Pulmonary vessels",
+      "ง": "Superior vena cava",
+      "จ": "Thoracic aorta"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 140,
+    "question": "Ascites หมายถึง การที่มีของเหลวสะสมอยู่ภายในส่วนใดของร่างกาย",
+    "choices": {
+      "ก": "Pericardium",
+      "ข": "Peritoneum",
+      "ค": "Pleura",
+      "ง": "Meninges",
+      "จ": "Menisci"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 141,
+    "question": "ช่องเปิดที่อยู่ระหว่างกระเพาะอาหาร และลำไส้เล็กส่วนต้น เรียกว่าอะไร",
+    "choices": {
+      "ก": "Esophageal hiatus",
+      "ข": "Fundus",
+      "ค": "Pylorus",
+      "ง": "Pyloric canal",
+      "จ": "Insizuraangularis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 142,
+    "question": "เอนไซม์ที่ทำหน้าที่ย่อยอาหารสร้างและขับออกมาจากอวัยวะใด",
+    "choices": {
+      "ก": "Adrenal gland",
+      "ข": "Colon",
+      "ค": "Pancreas",
+      "ง": "Liver",
+      "จ": "Spleen"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 143,
+    "question": "ช่องเปิดที่ผิดปกติตั้งแต่กำเนิด ที่อยู่ระหว่าง pulmonary artery และ aorta เรียกว่าอะไร",
+    "choices": {
+      "ก": "Patent ductus arteriosus",
+      "ข": "Cardiac conduction defect",
+      "ค": "Fallot’s syndrome",
+      "ง": "Cardiac tamponade",
+      "จ": "Congenital heart disease"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 144,
+    "question": "ต่อมชนิดใดอยู่ใน Sella turcica",
+    "choices": {
+      "ก": "Adrenal gland",
+      "ข": "Pancreas",
+      "ค": "Pituitary gland",
+      "ง": "Thymus gland",
+      "จ": "Thyroid gland"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 145,
+    "question": "Internal carotid artery จ่ายโลหิตให้กับอวัยวะใด",
+    "choices": {
+      "ก": "Eye and Cerebrum",
+      "ข": "Bronchial tubes and Esophagus",
+      "ค": "Face, Ear and Forehead",
+      "ง": "Mouth, Tongue and Throat",
+      "จ": "Thyroid, Tongue and Throat"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 146,
+    "question": "การที่มีอากาศเข้าไปสะสมอยู่ในเยื่อหุ้มปอดทางการแพทย์เรียกว่า",
+    "choices": {
+      "ก": "Pneumoperitoneum",
+      "ข": "Pneumothorax",
+      "ค": "Pleural effusion",
+      "ง": "Hemothorax",
+      "จ": "Hydropneumothorax"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 147,
+    "question": "ส่วนใดของลำไส้ใหญ่ที่พบได้ในบริเวณ Iliac ข้างซ้าย",
+    "choices": {
+      "ก": "Appendix",
+      "ข": "Ascending colon",
+      "ค": "Sigmoid colon",
+      "ง": "Splenic flexure",
+      "จ": "Transverse colon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 148,
+    "question": "ลักษณะของอวัยวะภายในที่มีรูทะลุเปิดสู่ภายนอก เรียกว่า",
+    "choices": {
+      "ก": "Flexure",
+      "ข": "Perforation",
+      "ค": "Melena",
+      "ง": "Sinus",
+      "จ": "Varix"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 149,
+    "question": "ต่อมน้ าลายที่มีขนาดใหญ่ที่สุดในร่างกายคือต่อมอะไร",
+    "choices": {
+      "ก": "Maxillary gland",
+      "ข": "Thyroid gland",
+      "ค": "Parotid gland",
+      "ง": "Submaxillary gland",
+      "จ": "Submandibular gland"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 150,
+    "question": "อวัยวะใดไม่สามารถตรวจด้วยเครื่องอัลตราซาวด์",
+    "choices": {
+      "ก": "Breast",
+      "ข": "Lung",
+      "ค": "Pancreas",
+      "ง": "Scrotum",
+      "จ": "Urinary bladder"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 151,
+    "question": "เส้นเลือดแดงที่ใช้ในการตรวจจับชีพจรของผู้ป่วยโดยทั่วๆ ไป คือ",
+    "choices": {
+      "ก": "Brachial artery",
+      "ข": "Pedal artery",
+      "ค": "Axilla artery",
+      "ง": "Radial artery",
+      "จ": "Peplitealartery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 152,
+    "question": "อวัยวะใดเรียกได้ว่าเป็น Air sac",
+    "choices": {
+      "ก": "Larynx",
+      "ข": "Trachea",
+      "ค": "Bronchi",
+      "ง": "Alveoli",
+      "จ": "Lung"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 153,
+    "question": "อวัยวะใดมิได้อยู่ภายใน Mediastinum",
+    "choices": {
+      "ก": "ต่อมไธมัส",
+      "ข": "หัวใจ",
+      "ค": "หลอดเลือดแดงใหญ่",
+      "ง": "ปอด",
+      "จ": "หลอดลม"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 154,
+    "question": "Trochlea และ Capitulum เป็นส่วนหนึ่งของกระดูกใด",
+    "choices": {
+      "ก": "Ulna",
+      "ข": "Radius",
+      "ค": "Humerus",
+      "ง": "Tibia",
+      "จ": "Fibula"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 155,
+    "question": "ชื่อใดต่อไปนี้มิได้เป็นส่วนประกอบทางกายวิภาคศาสตร์ของไต",
+    "choices": {
+      "ก": "Pelvis",
+      "ข": "Calyx",
+      "ค": "Utricle",
+      "ง": "Medulla",
+      "จ": "Infundibulum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 156,
+    "question": "ส่วนประกอบสำคัญ 3 ส่วน ของกระดูกหน้าอก (sternum) ได้แก่ Body, Xiphoid และ .............",
+    "choices": {
+      "ก": "Acromion",
+      "ข": "Glenoid",
+      "ค": "Manubrium",
+      "ง": "Pedicle",
+      "จ": "Odontoid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 157,
+    "question": "ข้อใดต่อไปนี้ไม่จัดเป็น Surface anatomy",
+    "choices": {
+      "ก": "Jugular notch",
+      "ข": "Intervertebral disc of T4-T5",
+      "ค": "Iliac crest",
+      "ง": "Costal margin",
+      "จ": "Umbilicus"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 158,
+    "question": "ข้อใดต่อไปนี้ไม่ใช่ข้อต่อชนิด Synovial joint",
+    "choices": {
+      "ก": "Suture joint",
+      "ข": "Pivot joint",
+      "ค": "Hinge joint",
+      "ง": "Condyloid joint",
+      "จ": "Ball and socket joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 159,
+    "question": "ข้อใดต่อไปนี้ไม่ใช่กระดูกกะโหลกศีรษะ (Cranium bone)",
+    "choices": {
+      "ก": "Frontal bone",
+      "ข": "Inferior nasal concha",
+      "ค": "Temporal bone",
+      "ง": "Ethmoid bone",
+      "จ": "Sphemoidbone \nFacial bone"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 160,
+    "question": "ข้อต่อใดต่อไปนี้ไม่สามารถสังเกตได้จากด้านข้างของกะโหลกศีรษะ",
+    "choices": {
+      "ก": "Coronal suture",
+      "ข": "Sagittal suture",
+      "ค": "Squamous suture",
+      "ง": "Lambdoid suture",
+      "จ": "Sphenoparietalsuture"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 161,
+    "question": "ข้อใดต่อไปนี้เป็นช่องทางติดต่อระหว่าง 3rdกับ 4thventricle",
+    "choices": {
+      "ก": "ข้อใดต่อไปนี้เป็นช่องทางติดต่อระหว่าง 3rdกับ 4thventricle Foramen of Monro",
+      "ข": "Interventricular foramen",
+      "ค": "Cerebral aqueduct",
+      "ง": "Foramen of Luchka",
+      "จ": "Foramen of Magendie"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 162,
+    "question": "หลอดเลือดใดต่อไปนี้ไม่ใช่ส่วนประกอบของ Circle of Willis",
+    "choices": {
+      "ก": "Anterior cerebral artery",
+      "ข": "Anterior communicating artery",
+      "ค": "Middle cerebral artery",
+      "ง": "Posterior cerebral artery",
+      "จ": "Posterior communicating artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 163,
+    "question": "หลอดเลือดใดต่อไปนี้ ไม่พบอยู่ในบริเวณลำคอ",
+    "choices": {
+      "ก": "Subclavian artery",
+      "ข": "External carotid artery",
+      "ค": "Internal carotid artery",
+      "ง": "Common carotid artery",
+      "จ": "Superior vena cava"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 164,
+    "question": "หลอดเลือดใดต่อไปนี้ที่นำเลือดจากปอดกลับเข้าสู่หัวใจ",
+    "choices": {
+      "ก": "Ascending aorta",
+      "ข": "Inferior vena cava",
+      "ค": "Pulmonary artery",
+      "ง": "Pulmonary vein",
+      "จ": "Superior vena cava"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 165,
+    "question": "ข้อใดคือกระดูกรยางค์ (Appendicular skeleton)",
+    "choices": {
+      "ก": "Clavicle",
+      "ข": "Hyoid",
+      "ค": "Lumbar vertebra",
+      "ง": "Sternum",
+      "จ": "Skull\nAxialAxialAxialAxial"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 166,
+    "question": "ข้อใดคือกระดูกแกนกลาง (Axial skeleton)",
+    "choices": {
+      "ก": "Humerus",
+      "ข": "Occipital",
+      "ค": "Calcaneous",
+      "ง": "Trapezium",
+      "จ": "Scaphoid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 167,
+    "question": "กระดูกข้อมือชิ้นใดที่เชื่อมกับกระดูก First metacarpal",
+    "choices": {
+      "ก": "Scaphoid",
+      "ข": "Lunate",
+      "ค": "Trapezium",
+      "ง": "Trapezoid",
+      "จ": "Capitate"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 168,
+    "question": "Vertebral prominence หมายถึงข้อใด",
+    "choices": {
+      "ก": "Acromion process",
+      "ข": "Spinous process of C7",
+      "ค": "Innion",
+      "ง": "Spinous process of T1",
+      "จ": "Transverse process of C7"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 169,
+    "question": "อวัยวะในข้อใดต่อไปนี้อยู่ใน Abdominal cavity",
+    "choices": {
+      "ก": "Heart and lungs",
+      "ข": "Reproductive organs and urinary bladder",
+      "ค": "Liver, spleen, stomach",
+      "ง": "Testes and ovaries",
+      "จ": "Vocal fold and larynx"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 170,
+    "question": "อวัยวะหรือส่วนต่อไปนี้ ข้อใดอยู่ใน Midsagittal plane ของร่างกาย",
+    "choices": {
+      "ก": "Sternum",
+      "ข": "External acoustic meatus",
+      "ค": "Clavicle",
+      "ง": "Ilium",
+      "จ": "Scapula"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 171,
+    "question": "Adam’s apple หมายถึงข้อใด",
+    "choices": {
+      "ก": "Pharynx",
+      "ข": "Epiglottis",
+      "ค": "Cricoidscartilage",
+      "ง": "Thyroid cartilage",
+      "จ": "Piriform recess"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 172,
+    "question": "ข้อใดคือลำไส้เล็กส่วนปลายสุด",
+    "choices": {
+      "ก": "Ileum",
+      "ข": "Cecum",
+      "ค": "Descending duodenum",
+      "ง": "Ascending duodenum",
+      "จ": "Jejunum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 173,
+    "question": "Right colic flexure อยู่ระหว่างลำไส้ส่วนใด",
+    "choices": {
+      "ก": "Transverse colon กับ Descending colon",
+      "ข": "Cecum กับ Ascending colon",
+      "ค": "Ascending colon กับ Transverse colon",
+      "ง": "Descending colon กับ Rectum",
+      "จ": "Sigmoid colon กับ Rectum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 174,
+    "question": "Common bile duct นำน้ าดีเทเข้าสู่ลำไส้เล็กส่วนใด",
+    "choices": {
+      "ก": "Duodenal bulb",
+      "ข": "Descending duodenum",
+      "ค": "Transverse duodenum",
+      "ง": "Ascending duodenum",
+      "จ": "Horizontal duodenum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 175,
+    "question": "ข้อใดไม่ใช่ Paranasal sinus",
+    "choices": {
+      "ก": "Frontal sinus",
+      "ข": "Ethmoid air cells",
+      "ค": "Mastoid air cells",
+      "ง": "Maxillary sinus",
+      "จ": "Sphenoid sinus"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 176,
+    "question": "Coronary artery แตกแขนงมาจากหลอดเลือดใด",
+    "choices": {
+      "ก": "Aortic arch",
+      "ข": "Ascending aorta",
+      "ค": "Descending aorta",
+      "ง": "Brachiocephalic artery",
+      "จ": "Subclavian artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 177,
+    "question": "ข้อใดใช้เป็นตัวแบ่งขอบเขตระหว่าง Abdominal cavity กับ Pelvic cavity",
+    "choices": {
+      "ก": "Pubic symphysis",
+      "ข": "Diaphragm",
+      "ค": "Umbilicus",
+      "ง": "Pelvic brim",
+      "จ": "Pelvic diaphragm"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 178,
+    "question": "Petrous portion เป็นส่วนของกระดูกใด",
+    "choices": {
+      "ก": "Frontal bone",
+      "ข": "Nasal bone",
+      "ค": "Temporal bone",
+      "ง": "Maxillary bone",
+      "จ": "Occipital bone"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 179,
+    "question": "เยื่อหุ้มสมองชั้นใดอยู่ในสุด",
+    "choices": {
+      "ก": "Scalp",
+      "ข": "Pia mater",
+      "ค": "Dura mater",
+      "ง": "Arachnoid mater",
+      "จ": "Aponeurosis\n1st2nd skull\n3rd4th5th6th Brain"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 180,
+    "question": "Esophagus อยู่ต่อจากส่วนใด",
+    "choices": {
+      "ก": "Nasopharynx",
+      "ข": "Oropharynx",
+      "ค": "Laryngopharynx",
+      "ง": "Oesopharynx",
+      "จ": "Trachea"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 181,
+    "question": "หัวใจห้องใดที่มีกล้ามเนื้อหนาและแข็งแรงที่สุด",
+    "choices": {
+      "ก": "Right atrium",
+      "ข": "Right ventricle",
+      "ค": "Atrial appendage",
+      "ง": "Left atrium",
+      "จ": "Left ventricle"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 182,
+    "question": "ตำแหน่งของ Bifurcation of Common iliac artery?",
+    "choices": {
+      "ก": "T4-5",
+      "ข": "T7",
+      "ค": "T12",
+      "ง": "L1",
+      "จ": "L4-5"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 183,
+    "question": "แคลเซียมที่สร้างขึ้นใหม่เพื่อซ่อมแซมกระดูกที่มีการแตกหรือหัก มองเห็นบนภาพรังสีเป็นเงาสีขาว มีศัพท์เรียกว่าอะไร",
+    "choices": {
+      "ก": "Osteoclast",
+      "ข": "Callus",
+      "ค": "Osteophyte",
+      "ง": "Spur",
+      "จ": "Spongy bone\n???"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 184,
+    "question": "“คอ” ของ Scotty dog ในภาพรังสีท่า Oblique 45oบริเวณกระดูกสันหลังส่วนเอว คือส่วนใด",
+    "choices": {
+      "ก": "Pedicle",
+      "ข": "Pars interarticularis",
+      "ค": "Superior articular process",
+      "ง": "Spinous process",
+      "จ": "Body"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 185,
+    "question": "การตรวจพิเศษทางรังสีของระบบทางเดินอาหาร ส่วนใดมองเห็นเป็นลักษณะคล้ายกับ Feathery type (ขนนก)",
+    "choices": {
+      "ก": "Superior Duodenum",
+      "ข": "Jejunum",
+      "ค": "Terminal Ileum",
+      "ง": "Caecum",
+      "จ": "Colon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 186,
+    "question": "Vesicovaginal fistula เกิดจากการเชื่อมท่อระหว่าง vagina กับอวัยวะใด",
+    "choices": {
+      "ก": "Seminal vesicle",
+      "ข": "Urinary bladder",
+      "ค": "Uterus",
+      "ง": "Uterine tube",
+      "จ": "Urethra"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 187,
+    "question": "Subdural hematoma เกิดขึ้นจากเลือดออกบริเวณสมองระหว่างส่วนใด",
+    "choices": {
+      "ก": "Inner table กับ Dura matter",
+      "ข": "Dipole กับ Inner table",
+      "ค": "Dura matter กับ Archanoidmatter",
+      "ง": "Pia matter กับ Archanoidmatter",
+      "จ": "Pia matter กับ Cistern\nCrescent shape"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 188,
+    "question": "Duodenal ulcer พบบ่อยที่สุดบริเวณใดของ Duodenum",
+    "choices": {
+      "ก": "Superior",
+      "ข": "Descending",
+      "ค": "Transverse",
+      "ง": "Ascending",
+      "จ": "Horizintal"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 189,
+    "question": "ข้อใดต่อไปนี้ไม่จัดเป็น Surface anatomy",
+    "choices": {
+      "ก": "Jugular notch",
+      "ข": "Intervertebral disc of T4-T5",
+      "ค": "Iliac crest",
+      "ง": "Costal margin",
+      "จ": "Umbilicus"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 190,
+    "question": "ข้อใดต่อไปนี้กล่าวไม่ถูกต้อง",
+    "choices": {
+      "ก": "Central sulcus เป็นแนวแบ่งสมองส่วน Frontal lobe กับ Parietal lobe",
+      "ข": "Longitudinal fissure แบ่งสมองออกเป็น 2ซีก ซ้าย-ขวา",
+      "ค": "Lateral sulcus เป็นแนวแบ่งสมองส่วน Frontal lobe กับ Temporal lobe",
+      "ง": "Lateral sulcus เป็นแนวแบ่งสมองส่วน Parietal lobe กับ Temporal lobe",
+      "จ": "Lateral sulcus เป็นแนวแบ่งสมองส่วน Occipital lobe กับ Temporal lobe"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 191,
+    "question": "Thalamus จัดอยู่ในสมองส่วนใด",
+    "choices": {
+      "ก": "Cerebrum",
+      "ข": "Diencephalon",
+      "ค": "Mid brain",
+      "ง": "Pons",
+      "จ": "Cerebellum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 192,
+    "question": "บริเวณของสมองที่ทำหน้าที่เกี่ยวกับการมองเห็นนั้นอยู่ที่ใด",
+    "choices": {
+      "ก": "Frontal lobe",
+      "ข": "Parietal lobe",
+      "ค": "Temporal lobe",
+      "ง": "Occipital lobe",
+      "จ": "Insula lobe"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 193,
+    "question": "ถ้าตัดตามขวาง Axial section ผ่านระดับ Midbrain ของสมองจะไม่พบโครงสร้างใดต่อไปนี้",
+    "choices": {
+      "ก": "Superior colliculus",
+      "ข": "Inferior colliculus",
+      "ค": "Cerebral peduncle",
+      "ง": "Tegmentum",
+      "จ": "4thventricle"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 194,
+    "question": "ช่องทางติดต่อระหว่าง Lateral ventricle กับ 3rdventricle คือข้อใด",
+    "choices": {
+      "ก": "Foramen of Monro",
+      "ข": "Cerebral aqueduct",
+      "ค": "Foramen of Luchka",
+      "ง": "Foramen of Magendie",
+      "จ": "Foramen of Magnum\nInterventicular foramen"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 195,
+    "question": "หากต้องการตัดผ่าน 4thventricle จะต้องตัดผ่านระดับใดของสมอง",
+    "choices": {
+      "ก": "Forebrain",
+      "ข": "Thalamus",
+      "ค": "Mid Brain",
+      "ง": "Hypothalamus",
+      "จ": "Hind Brain"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 196,
+    "question": "จงเรียงลำดับ Surface anatomy บริเวณลำคอจาก Superior ไป Inferior ให้ถูกต้องa. Cricoid cartilageb. Laryngeal protuberancec. Hyoid boned. Jugular notch",
+    "choices": {
+      "ก": "c a d b",
+      "ข": "c b d a",
+      "ค": "c d a b",
+      "ง": "c b a d",
+      "จ": "c a b d\n1st2nd3rd\n4thThyroid cartilage"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 197,
+    "question": "โรคใดต่อไปนี้เกิดจากความผิดปกติของ Hippocampus",
+    "choices": {
+      "ก": "Alzheimer",
+      "ข": "Parkinson",
+      "ค": "Huntington’s chorea",
+      "ง": "Senile dementia",
+      "จ": "Mental retardation\nความจำ"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 198,
+    "question": "Adenoid gland อยู่ในส่วนใดของ Pharynx",
+    "choices": {
+      "ก": "Nasopharynx",
+      "ข": "Oropharynx",
+      "ค": "Larygohparynx",
+      "ง": "Nasal cavity",
+      "จ": "Superior nasal concha"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 199,
+    "question": "กระดูกในข้อใดต่อไปนี้จัดอยู่ในกลุ่ม Axial skeleton",
+    "choices": {
+      "ก": "Scapula",
+      "ข": "Ribs",
+      "ค": "Hip bones",
+      "ง": "Patella",
+      "จ": "Carpal bones"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 200,
+    "question": "กลไกการหดตัวของกล้ามเนื้อลาย (Skeletal muscle) ต้องอาศัยไอออนใดเป็นหลัก",
+    "choices": {
+      "ก": "Na+",
+      "ข": "H+",
+      "ค": "K+",
+      "ง": "Cl-",
+      "จ": "Ca2+"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 201,
+    "question": "อวัยวะในข้อใดไม่จัดอยู่ใน Digestive system",
+    "choices": {
+      "ก": "Gallbladder",
+      "ข": "Pancreas",
+      "ค": "Teeth",
+      "ง": "Spleen",
+      "จ": "Colon"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 202,
+    "question": "ข้อใดกล่าวถูกต้องเกี่ยวกับระบบขับถ่ายปัสสาวะ",
+    "choices": {
+      "ก": "เส้นเลือดแดงที่มาเลี้ยงไตคือ kidney artery",
+      "ข": "Bowman’s capsule คือ ส่วนของเส้นเลือดฝอย ซึ่งทำหน้าที่ในการกรองของเสียออกจากเลือด",
+      "ค": "ตำแหน่งของไตข้างขวาตั้งอยู่สูงกว่าไตข้างซ้าย",
+      "ง": "Urethra เป็นส่วนที่รับของเสียที่กรองมาจากไตไปสู่กระเพาะปัสสาวะ",
+      "จ": "กระเพาะปัสสาวะถูกควบคุมได้ทั้ง voluntary และ involuntary control"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 203,
+    "question": "ข้อใดไม่ถูกต้องเกี่ยวกับระบบประสาท",
+    "choices": {
+      "ก": "Nervous tissue ประกอบไปด้วย neuron และ supporting cell (neuroglia)",
+      "ข": "Central nervous system (CNS) ประกอบไปด้วย Brain และ Spinal cord",
+      "ค": "Peripheral nervous system (PNS) ประกอบไปด้วย Cranial nerves และ Spinal nerves",
+      "ง": "Somatic nervous system ควบคุมการทำงานของต่อมและอวัยวะภายในต่างๆ ของร่างกาย",
+      "จ": "Autonomic nervous system (ANS) ประกอบไปด้วย Parasympathetic และ Sympathetic division"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 204,
+    "question": "กระดูกชิ้นใดต่อไปนี้คือส่วนของกระดูกเท้า",
+    "choices": {
+      "ก": "Cuboid",
+      "ข": "Hamate",
+      "ค": "Lunate",
+      "ง": "Scaphoid",
+      "จ": "Trapezium"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 205,
+    "question": "CollesFracture คือ fracture ที่เกิดกับ",
+    "choices": {
+      "ก": "Humerus",
+      "ข": "Ulna",
+      "ค": "Radius",
+      "ง": "Femur",
+      "จ": "ไม่มีข้อถูก\nDistal radius fracture"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 206,
+    "question": "ข้อใดบอกความสัมพันธ์ถูกต้อง",
+    "choices": {
+      "ก": "กระดูก Ulna อยู่ lateral ต่อ กระดูก Radius",
+      "ข": "กระดูก Sternum อยู่ posterior ต่อ Heart",
+      "ค": "Rectum อยู่ anterior ต่อ Urinary bladder",
+      "ง": "Adrenal gland อยู่ superior ต่อ Kidney",
+      "จ": "กระดูก Femur  อยู่ distal ต่อ กระดูก Tibia"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 207,
+    "question": "อวัยวะใดอยู่ในบริเวณ Epigastric region",
+    "choices": {
+      "ก": "Appendix",
+      "ข": "Descending colon",
+      "ค": "Gallbladder",
+      "ง": "Ileum",
+      "จ": "Stomach"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 208,
+    "question": "Glenohumeral joint หมายถึงข้อใด",
+    "choices": {
+      "ก": "Elbow joint",
+      "ข": "Hip joint",
+      "ค": "Knee joint",
+      "ง": "Shoulder joint",
+      "จ": "Wrist joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 209,
+    "question": "Medial และ Lateral condyles ของกระดูก Femur วางตัวอยู่บนกระดูกชิ้นใด",
+    "choices": {
+      "ก": "Calcaneous",
+      "ข": "Fibula",
+      "ค": "Patella",
+      "ง": "Radius",
+      "จ": "Tibia"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 210,
+    "question": "ท่าใดดีที่สุดสำหรับการดู Occipital skull fracture",
+    "choices": {
+      "ก": "Caldwell",
+      "ข": "Lateral",
+      "ค": "PA",
+      "ง": "Towne",
+      "จ": "Water"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 211,
+    "question": "ท่าใดดีที่สุดสำหรับการดู Facial fracture",
+    "choices": {
+      "ก": "Caldwell",
+      "ข": "Lateral",
+      "ค": "PA",
+      "ง": "Towne",
+      "จ": "Water"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 212,
+    "question": "ข้อใดเป็นโพรงอากาศที่ใหญ่ที่สุดของระบบทางเดินหายใจ",
+    "choices": {
+      "ก": "Cavernous sinus",
+      "ข": "Ethmoidal sinus",
+      "ค": "Frontal sinus",
+      "ง": "Maxillary sinus",
+      "จ": "Sphenoidal sinus"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 213,
+    "question": "ความผิดปกติชนิดใดที่เห็นจากการถ่ายภาพรังสีทรวงอก (Chest radiograph) ได้ยากที่สุด",
+    "choices": {
+      "ก": "Lung cancer",
+      "ข": "Mediastinal mass",
+      "ค": "Pleural effusion",
+      "ง": "Pneumonia",
+      "จ": "Pneumothorax"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 214,
+    "question": "อวัยวะใดที่ไม่เห็นจากการถ่ายภาพรังสีทรวงอกปกติ (normal chest radiograph)",
+    "choices": {
+      "ก": "Aorta",
+      "ข": "Esophagus",
+      "ค": "Heart",
+      "ง": "Pulmonary artery",
+      "จ": "Trachea"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 215,
+    "question": "ข้อใดเป็นความผิดปกติจากภาพถ่ายรังสีทรวงอก (Chest radiograph) นี้",
+    "choices": {
+      "ก": "Atelectasis",
+      "ข": "Pleural effusion",
+      "ค": "Pneumonia",
+      "ง": "Pneumothorax",
+      "จ": "Tuberculosis"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 216,
+    "question": "ข้อใดเป็นส่วนของลำไส้เล็ก",
+    "choices": {
+      "ก": "Cecum",
+      "ข": "Descending",
+      "ค": "Hepatic flexure",
+      "ง": "Jejunum",
+      "จ": "Rectum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 217,
+    "question": "หลอดเลือดใดเป็นแขนงของ arch of aorta",
+    "choices": {
+      "ก": "Left brachiocephalic artery",
+      "ข": "Left coronary artery",
+      "ค": "Right brachiocephalic artery",
+      "ง": "Right common carotid artery",
+      "จ": "Right subclavian artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 218,
+    "question": "ภาพนี้แสดงส่วนใดของทางเดินอาหารในการตรวจ long GI study",
+    "choices": {
+      "ก": "Ascending colon",
+      "ข": "Descending colon",
+      "ค": "Duodenum",
+      "ง": "Ileum",
+      "จ": "Jejunum\nFeathery type"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 219,
+    "question": "ชายวัยรุ่นถูกคนร้ายตีศีรษะบริเวณ pterion และกระโหลกศีรษะแตก แพทย์พบว่ามีเลือดออกบริเวณใต้เยื่อหุ้มสมอง ท่านคิดว่าหลอดเลือดใดน่าจะแตกมากที่สุด",
+    "choices": {
+      "ก": "Anterior cerebral artery",
+      "ข": "Anterior inferior cerebellar artery",
+      "ค": "Middle cerebral artery",
+      "ง": "Middle meningeal artery",
+      "จ": "Posterior cerebral artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 220,
+    "question": "เวลาหัวใจห้องล่างซ้าย (Left ventricle) บีบตัวลิ้นหัวใจชนิดใดเปิด",
+    "choices": {
+      "ก": "Aortic valve",
+      "ข": "Bicuspid valve",
+      "ค": "Mitral valve",
+      "ง": "Pulmonary valve",
+      "จ": "Tricuspid valve"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 221,
+    "question": "หลอดเลือดใดนำเลือดออกจากหัวใจห้องล่างขวา (Right ventricle)",
+    "choices": {
+      "ก": "Superior vena cava",
+      "ข": "Inferior vena cava",
+      "ค": "Pulmonary artery",
+      "ง": "Pulmonary vein",
+      "จ": "Ascending aorta"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 222,
+    "question": "จากภาพบริเวณที่ลูกศรชี้คือสมองส่วนใด",
+    "choices": {
+      "ก": "Cerebellum",
+      "ข": "Diencephalon",
+      "ค": "Medulla oblongata",
+      "ง": "Midbrain",
+      "จ": "Pons"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 223,
+    "question": "จากภาพการตรวจ IVP ข้อใดเป็นส่วนที่ลูกศรชี้",
+    "choices": {
+      "ก": "Major calyx",
+      "ข": "Minor calyx",
+      "ค": "Renal papilla",
+      "ง": "Renal pelvis",
+      "จ": "Ureter"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 224,
+    "question": "ข้อใดเป็นท่อปัสสาวะผู้ชายส่วนที่มีกล้ามเนื้อลายเป็นหูรูดอยู่ล้อมรอบ ทำหน้าที่ควบคุมการขับถ่ายปัสสาวะ",
+    "choices": {
+      "ก": "Prostatic part",
+      "ข": "Membranous part",
+      "ค": "Spongy part",
+      "ง": "Penile part",
+      "จ": "Bulbous part"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 225,
+    "question": "จากภาพในบริเวณวงกลม คือต่อมไร้ท่อชนิดใด",
+    "choices": {
+      "ก": "Adrenal gland",
+      "ข": "Hypothalamus",
+      "ค": "Parathyroid gland",
+      "ง": "Pineal gland",
+      "จ": "Pituitary gland"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 226,
+    "question": "จากภาพการตรวจ Barium enema  ข้อใดเป็นส่วนที่อยู่ในวงกลม",
+    "choices": {
+      "ก": "Appendix",
+      "ข": "Cecum",
+      "ค": "Ileocecal valve",
+      "ง": "Jejunum",
+      "จ": "Rectum"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 227,
+    "question": "ข้อใดคือกระดูกที่ลูกศรชี้ในภาพ",
+    "choices": {
+      "ก": "Capitate",
+      "ข": "Hamate",
+      "ค": "Lunate",
+      "ง": "Trapezium",
+      "จ": "Trapezoid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 228,
+    "question": "จากภาพแสดงเส้นอ้างอิงในภาพรังสีเชิงกราน “iliopectineal line” หมายถึงเส้นใด",
+    "choices": {
+      "ก": "L1",
+      "ข": "L2",
+      "ค": "L3",
+      "ง": "L4",
+      "จ": "L5"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 229,
+    "question": "หมายเลข 5ในภาพ คือ หลอดเลือดอะไร",
+    "choices": {
+      "ก": "Carotid siphon",
+      "ข": "Middle cerebral",
+      "ค": "Internal Carotid artery",
+      "ง": "External Carotid artery",
+      "จ": "Basilar artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 230,
+    "question": "ข้อต่อชนิดใดต่อไปนี้ที่พบว่ามีของเหลวอยู่ในบริเวณข้อต่อ",
+    "choices": {
+      "ก": "Fibrous joint",
+      "ข": "Synovial joint",
+      "ค": "Socket joint",
+      "ง": "Cartilaginous joint",
+      "จ": "Gliding joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 231,
+    "question": "อวัยวะในข้อใดที่ทะลุผ่านจาก diaphragm สู่ช่องท้องในระดับที่ต่ าที่สุด",
+    "choices": {
+      "ก": "Aorta",
+      "ข": "Esophagus",
+      "ค": "Renal artery",
+      "ง": "Trachea",
+      "จ": "Inferior vena cava\nT12T10\nT8"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 232,
+    "question": "ข้อใดอยู่นอกเส้นทางเดินน้ าดีที่สร้างจากตับไปยังลำไส้เล็กส่วนต้น",
+    "choices": {
+      "ก": "Cystic duct",
+      "ข": "Right hepatic duct",
+      "ค": "Common hepatic duct",
+      "ง": "Pancreatic duct",
+      "จ": "Common bile duct"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 233,
+    "question": "หลอดเลือดที่เลี้ยงหัวใจ Coronary arteries เป็นแขนงของหลอดเลือดใด",
+    "choices": {
+      "ก": "Thoracic aorta",
+      "ข": "Ascending aorta",
+      "ค": "Subclavian artery",
+      "ง": "Arch of aorta",
+      "จ": "Left common carotid artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 234,
+    "question": "พยาธิสภาพของทรวงอกใดที่มีความทึบต่อรังสีแตกต่างจากข้ออื่น",
+    "choices": {
+      "ก": "Pleural effusion",
+      "ข": "Lung mass",
+      "ค": "Pneumonia",
+      "ง": "Pneumothorax",
+      "จ": "Pneumonitis from Covid-19"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 235,
+    "question": "ข้อใดต่อไปนี้ไม่จัดอยู่ใน Circle of Willis",
+    "choices": {
+      "ก": "Anterior cerebral artery",
+      "ข": "Internal carotid artery",
+      "ค": "Posterior communicating artery",
+      "ง": "Posterior cerebral artery",
+      "จ": "Basilar artery"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 236,
+    "question": "ข้อใดเป็นแกนที่ใช้แบ่งร่างกายออกเป็นด้านซ้ายขวาเท่ากัน",
+    "choices": {
+      "ก": "Mid-coronal plane",
+      "ข": "Mid-transverse plane",
+      "ค": "Mid-axillary plane",
+      "ง": "Mid-horizontal plane",
+      "จ": "Mid-sagittal plane"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 237,
+    "question": "Adenoid gland อยู่ในส่วนใดของ Pharynx",
+    "choices": {
+      "ก": "Nasopharynx",
+      "ข": "Superior nasal concha",
+      "ค": "Laryngopharynx",
+      "ง": "Nasal cavity",
+      "จ": "Oropharynx"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 238,
+    "question": "ข้อต่อใดที่มีลักษณะเป็น Ball and Socket Joints",
+    "choices": {
+      "ก": "Ankle",
+      "ข": "Wrist",
+      "ค": "Shoulder",
+      "ง": "Knee",
+      "จ": "Hand"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 239,
+    "question": "กระดูก Talus ทางด้านล่างต่อกับกระดูกอะไร",
+    "choices": {
+      "ก": "2ndCuneiform",
+      "ข": "Subtarlarjoint",
+      "ค": "Navicular",
+      "ง": "Calcaneus",
+      "จ": "Cuboid"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 240,
+    "question": "บริเวณใดของสมองที่ทำหน้าที่เกี่ยวกับการมองเห็น",
+    "choices": {
+      "ก": "Occipital lobe",
+      "ข": "Parietal lobe",
+      "ค": "Frontal lobe",
+      "ง": "Insula lobe",
+      "จ": "Temporal lobe"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 241,
+    "question": "ส่วนของกระดูกสันหลังที่ยื่นออกมาทางด้านหลังเป็นที่เกาะของกล้ามเนื้อและเอ็นต่างๆ คือข้อใด",
+    "choices": {
+      "ก": "Lamina",
+      "ข": "Spinous process",
+      "ค": "Vertebral arch",
+      "ง": "Pedicle",
+      "จ": "Transverse process"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 242,
+    "question": "Spleen อยู่ในช่องท้องส่วนใด เมื่อแบ่งช่องท้องออกเป็น Nine abdominal regions",
+    "choices": {
+      "ก": "Right lumbar region",
+      "ข": "Epigastric region",
+      "ค": "Left hypochondriac region",
+      "ง": "Right hypochondriac region",
+      "จ": "Left iliac region"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 243,
+    "question": "ข้อต่อระหว่างกระดูก Calcaneus และ Talus คือข้อใด",
+    "choices": {
+      "ก": "Mortise joint",
+      "ข": "Subtalar joint",
+      "ค": "Patellofemoral joint",
+      "ง": "SI joint",
+      "จ": "Tibiofibular joint\nTalocalcaneal joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 244,
+    "question": "กระดูกข้อมือชิ้นใหญ่ที่สุด คือกระดูกใด และเห็นชัดเจนจากการถ่ายเอกซเรย์ท่าใด",
+    "choices": {
+      "ก": "Capitate, Ulna deviation",
+      "ข": "Pisiform, Ulna deviation",
+      "ค": "Scaphoid, Ulna deviation",
+      "ง": "Capitate, Radius deviation",
+      "จ": "Scaphoid, Radius deviation"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 245,
+    "question": "ข้อต่อบริเวณ Lateral ของกระดูกไหปลาร้าคือข้อใด",
+    "choices": {
+      "ก": "Sternoclavicular joint",
+      "ข": "Manubriosternal joint",
+      "ค": "Acromioclavicular joint",
+      "ง": "Glenohumeral joint",
+      "จ": "Scapulohumeral joint"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 246,
+    "question": "การเคลื่อนไหวของร่างกายข้อใดกล่าวได้ถูกต้อง",
+    "choices": {
+      "ก": "Pronation คือการหมุนกระดูกปลายแขนเพื่อคว่ าฝ่ามือลง",
+      "ข": "Supination คือการบิดข้อมือไปด้านกระดูก radius",
+      "ค": "Plantar flexion คือการกระดกปลายเท้าขึ้น",
+      "ง": "Eversion คือการบิดข้อเท้าเพื่อหมุนเท้าเข้าแกนกลางของร่างกาย",
+      "จ": "Dorsiflexion คือการเหยียดเท้าออกจากกระดูกขา"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 247,
+    "question": "ท่าใดดีที่สุดสำหรับการดู Occipital skull fracture",
+    "choices": {
+      "ก": "PA",
+      "ข": "Water",
+      "ค": "Town",
+      "ง": "Caldwell",
+      "จ": "Lateral"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 248,
+    "question": "Surface landmark และ Body structure คู่ใดต่อไปนี้ไม่สอดคล้องกัน",
+    "choices": {
+      "ก": "Vertebral prominens/ C7",
+      "ข": "Jugular notch/ T1",
+      "ค": "Anterior superior iliac spine/ S1-S2",
+      "ง": "Xiphoid process/ T10",
+      "จ": "Iliac crest/ L4"
+    },
+    "explanation": "",
+    "answer": ""
+  },
+  {
+    "id": 249,
+    "question": "จากภาพตำแหน่งหมายเลข 3และ 4คือส่วนใดตามลำดับ",
+    "choices": {
+      "ก": "Navicular, Talus",
+      "ข": "Calcaneus, Talus",
+      "ค": "Cuboid, Calcaneus",
+      "ง": "Cuboid, Talus",
+      "จ": "Navicular, Calcaneus,"
+    },
+    "explanation": "",
+    "answer": ""
+  }
+]
