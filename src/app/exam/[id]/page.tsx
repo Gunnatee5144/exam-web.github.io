@@ -1,25 +1,25 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import {
-  Container,
-  Typography,
-  Box,
-  Button,
-  Card,
-  CardContent,
-  Radio,
-  RadioGroup,
-  FormControlLabel,
-  FormControl,
-  LinearProgress,
-  Paper,
-  Divider,
-  Snackbar,
-  Alert,
-  Skeleton,
-  Fade,
-  keyframes
+import { 
+  Container, 
+  Typography, 
+  Box, 
+  Button, 
+  Card, 
+  CardContent, 
+  Radio, 
+  RadioGroup, 
+  FormControlLabel, 
+  FormControl, 
+  LinearProgress, 
+  Divider, 
+  Snackbar, 
+  Alert, 
+  Skeleton, 
+  Fade, 
+  keyframes,
+  Chip
 } from '@mui/material';
 import { useRouter, useParams } from 'next/navigation';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
@@ -28,16 +28,12 @@ import FactCheckIcon from '@mui/icons-material/FactCheck';
 import RestartAltIcon from '@mui/icons-material/RestartAlt';
 import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
 import NoteAltOutlinedIcon from '@mui/icons-material/NoteAltOutlined';
+import LightbulbIcon from '@mui/icons-material/Lightbulb';
+import CancelRoundedIcon from '@mui/icons-material/CancelRounded';
 
 const fadeInUp = keyframes`
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
-`;
-
-const pulseSoft = keyframes`
-  0% { transform: scale(1); opacity: 0.8; }
-  50% { transform: scale(1.05); opacity: 1; }
-  100% { transform: scale(1); opacity: 0.8; }
 `;
 
 interface Choice {
@@ -50,6 +46,7 @@ interface Question {
   choices: Choice;
   explanation: string;
   answer: string;
+  is_ai?: boolean;
 }
 
 export default function ExamPage() {
@@ -61,6 +58,7 @@ export default function ExamPage() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<{ [key: number]: string }>({});
   const [submitted, setSubmitted] = useState(false);
+  const [showAnswer, setShowAnswer] = useState(false);
   
   const [toast, setToast] = useState({ open: false, message: '', severity: 'success' as 'success' | 'info' | 'warning' | 'error' });
   const [transitioning, setTransitioning] = useState(false);
@@ -71,7 +69,7 @@ export default function ExamPage() {
   useEffect(() => {
     if (!params?.id) return;
     
-    fetch(`/exam_${params.id}.json`)
+    fetch(`/exam_${params.id}.json?v=${new Date().getTime()}`)
       .then((res) => {
         if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
         return res.json();
@@ -103,7 +101,7 @@ export default function ExamPage() {
       });
   }, [params?.id, storageKey]);
 
-  const saveProgress = (newAnswers: any, newIndex: number, isStarted: boolean, isSubmitted: boolean) => {
+  const saveProgress = (newAnswers: { [key: number]: string }, newIndex: number, isStarted: boolean, isSubmitted: boolean) => {
     localStorage.setItem(storageKey, JSON.stringify({
       answers: newAnswers,
       currentIndex: newIndex,
@@ -121,6 +119,7 @@ export default function ExamPage() {
     setCurrentIndex(0);
     setAnswers({});
     setSubmitted(false);
+    setShowAnswer(false);
     saveProgress({}, 0, true, false);
     window.scrollTo({ top: 0, behavior: 'smooth' });
     showToast('เริ่มการทำแบบทดสอบ', 'success');
@@ -128,6 +127,7 @@ export default function ExamPage() {
 
   const handleResume = () => {
     setStarted(true);
+    setShowAnswer(false);
     window.scrollTo({ top: 0, behavior: 'smooth' });
     showToast('โหลดข้อมูลที่บันทึกไว้', 'info');
   };
@@ -137,6 +137,7 @@ export default function ExamPage() {
     setCurrentIndex(0);
     setAnswers({});
     setSubmitted(false);
+    setShowAnswer(false);
     saveProgress({}, 0, true, false);
     window.scrollTo({ top: 0, behavior: 'smooth' });
     showToast('เริ่มทำข้อสอบใหม่', 'info');
@@ -152,6 +153,7 @@ export default function ExamPage() {
   const handleNext = () => {
     if (currentIndex < questions.length - 1) {
       setTransitioning(true);
+      setShowAnswer(false);
       setTimeout(() => {
         const nextIdx = currentIndex + 1;
         setCurrentIndex(nextIdx);
@@ -165,6 +167,7 @@ export default function ExamPage() {
   const handlePrev = () => {
     if (currentIndex > 0) {
       setTransitioning(true);
+      setShowAnswer(false);
       setTimeout(() => {
         const prevIdx = currentIndex - 1;
         setCurrentIndex(prevIdx);
@@ -177,6 +180,7 @@ export default function ExamPage() {
 
   const handleSubmit = () => {
     setSubmitted(true);
+    setShowAnswer(false);
     saveProgress(answers, currentIndex, true, true);
     window.scrollTo({ top: 0, behavior: 'smooth' });
     showToast('ส่งคำตอบเรียบร้อย', 'success');
@@ -350,9 +354,30 @@ export default function ExamPage() {
                   bgcolor: '#FAFAFA', 
                   border: '1px solid #EEEEEE',
                 }}>
-                  <Typography variant="subtitle1" sx={{ fontWeight: 600, color: '#111', mb: q.explanation ? 2 : 0 }}>
-                    คำตอบที่คุณเลือก: {answers[index] ? `${answers[index]}. ${q.choices[answers[index]]}` : 'ไม่ได้ตอบ'}
-                  </Typography>
+                  <Box sx={{ display: 'flex', alignItems: 'center', mb: q.answer ? 2 : 0 }}>
+                    <Typography variant="subtitle1" sx={{ fontWeight: 600, color: '#111' }}>
+                      คำตอบที่คุณเลือก: {answers[index] ? `${answers[index]}. ${q.choices[answers[index]]}` : 'ไม่ได้ตอบ'}
+                    </Typography>
+                    {answers[index] && q.answer && (
+                      answers[index] === q.answer ? (
+                        <CheckCircleRoundedIcon sx={{ ml: 2, color: '#2e7d32' }} />
+                      ) : (
+                        <CancelRoundedIcon sx={{ ml: 2, color: '#d32f2f' }} />
+                      )
+                    )}
+                  </Box>
+
+                  <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: q.explanation ? 2 : 0 }}>
+                    {q.answer && (
+                      <Typography variant="subtitle1" sx={{ fontWeight: 700, color: '#2e7d32' }}>
+                        เฉลย: {q.answer}. {q.choices[q.answer]}
+                      </Typography>
+                    )}
+                    {q.is_ai && (
+                      <Chip label="เฉลยและคำอธิบายโดย AI" size="small" sx={{ bgcolor: 'rgba(46, 125, 50, 0.1)', color: '#2e7d32', fontWeight: 600, fontSize: '0.7rem', ml: 2 }} />
+                    )}
+                  </Box>
+
                   {q.explanation && (
                     <>
                       <Divider sx={{ my: 2, borderColor: '#EAEAEA' }} />
@@ -462,55 +487,105 @@ export default function ExamPage() {
                           control={<Radio sx={{ color: '#CCC', '&.Mui-checked': { color: '#111' }, p: 1, mr: 1 }} />}
                           label={
                             <Box sx={{ display: 'flex', alignItems: 'center' }}>
-                              <Typography variant="subtitle1" sx={{ fontWeight: 700, color: isSelected ? '#111' : '#888', mr: 3 }}>
+                              <Typography variant="subtitle1" sx={{ fontWeight: 700, color: (isSelected || (showAnswer && currentQ?.answer === key)) ? '#111' : '#888', mr: 3 }}>
                                 {key}.
                               </Typography>
-                              <Typography variant="body1" sx={{ color: isSelected ? '#111' : '#444', fontWeight: isSelected ? 500 : 400, lineHeight: 1.5 }}>
+                              <Typography variant="body1" sx={{ color: (isSelected || (showAnswer && currentQ?.answer === key)) ? '#111' : '#444', fontWeight: (isSelected || (showAnswer && currentQ?.answer === key)) ? 700 : 400, lineHeight: 1.5 }}>
                                 {text}
                               </Typography>
+                              {showAnswer && currentQ?.answer === key && (
+                                <CheckCircleRoundedIcon sx={{ ml: 2, color: '#2e7d32', fontSize: 20 }} />
+                              )}
                             </Box>
                           }
-                          sx={{ width: '100%', m: 0, '.MuiFormControlLabel-label': { width: '100%' } }}
+                          sx={{ 
+                            width: '100%', 
+                            m: 0, 
+                            '.MuiFormControlLabel-label': { width: '100%' },
+                            ...(showAnswer && currentQ?.answer === key && {
+                              '& .MuiTypography-root': { color: '#2e7d32 !important' }
+                            })
+                          }}
                         />
                       </Box>
                     );
                   })}
                 </RadioGroup>
               </FormControl>
+
+              {showAnswer && (currentQ?.answer || currentQ?.explanation) && (
+                <Fade in={showAnswer}>
+                  <Box sx={{ mt: 4, p: 3, borderRadius: 3, bgcolor: '#f1f8e9', border: '1px solid #dcedc8' }}>
+                    <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', mb: 1 }}>
+                      {currentQ?.answer && (
+                        <Typography variant="subtitle1" sx={{ fontWeight: 700, color: '#2e7d32' }}>
+                          เฉลย: {currentQ.answer}. {currentQ.choices[currentQ.answer]}
+                        </Typography>
+                      )}
+                      {currentQ?.is_ai && (
+                        <Chip label="เฉลยและคำอธิบายโดย AI" size="small" sx={{ bgcolor: 'rgba(46, 125, 50, 0.1)', color: '#2e7d32', fontWeight: 600, fontSize: '0.7rem' }} />
+                      )}
+                    </Box>
+                    {currentQ?.explanation && (
+                      <Typography variant="body2" sx={{ color: '#558b2f', lineHeight: 1.6 }}>
+                        {currentQ.explanation}
+                      </Typography>
+                    )}
+                  </Box>
+                </Fade>
+              )}
             </CardContent>
           </Fade>
           
           {/* Navigation Footer */}
-          <Box sx={{ p: 3, borderTop: '1px solid #EAEAEA', display: 'flex', justifyContent: 'space-between', bgcolor: '#FAFAFA' }}>
+          <Box sx={{ p: 3, borderTop: '1px solid #EAEAEA', display: 'flex', justifyContent: 'space-between', alignItems: 'center', bgcolor: '#FAFAFA' }}>
             <Button 
               variant="text" 
               onClick={handlePrev} 
               disabled={currentIndex === 0} 
               startIcon={<ArrowBackIcon />}
-              sx={{ color: '#666', fontWeight: 600, px: 3, '&.Mui-disabled': { color: '#CCC' } }}
+              sx={{ color: '#666', fontWeight: 600, px: 2, '&.Mui-disabled': { color: '#CCC' } }}
             >
               ย้อนกลับ
             </Button>
+
+            <Button 
+              variant="outlined"
+              onClick={() => setShowAnswer(!showAnswer)}
+              startIcon={<LightbulbIcon />}
+              sx={{ 
+                borderRadius: 30, 
+                px: 3, 
+                borderColor: showAnswer ? '#111' : '#DDD', 
+                color: showAnswer ? '#111' : '#666',
+                fontWeight: 600,
+                '&:hover': { borderColor: '#111', bgcolor: 'transparent' }
+              }}
+            >
+              {showAnswer ? 'ปิดเฉลย' : 'ดูเฉลย'}
+            </Button>
             
-            {currentIndex === questions.length - 1 ? (
-              <Button 
-                variant="contained" 
-                onClick={handleSubmit} 
-                endIcon={<FactCheckIcon />}
-                sx={{ borderRadius: 30, px: 4, bgcolor: '#111', color: '#fff', '&:hover': { bgcolor: '#333' }, fontWeight: 600 }}
-              >
-                ส่งคำตอบ
-              </Button>
-            ) : (
-              <Button 
-                variant="contained" 
-                onClick={handleNext} 
-                endIcon={<ArrowForwardIcon />}
-                sx={{ borderRadius: 30, px: 4, bgcolor: '#111', color: '#fff', '&:hover': { bgcolor: '#333' }, fontWeight: 600 }}
-              >
-                ถัดไป
-              </Button>
-            )}
+            <Box>
+              {currentIndex === questions.length - 1 ? (
+                <Button 
+                  variant="contained" 
+                  onClick={handleSubmit} 
+                  endIcon={<FactCheckIcon />}
+                  sx={{ borderRadius: 30, px: 4, bgcolor: '#111', color: '#fff', '&:hover': { bgcolor: '#333' }, fontWeight: 600 }}
+                >
+                  ส่งคำตอบ
+                </Button>
+              ) : (
+                <Button 
+                  variant="contained" 
+                  onClick={handleNext} 
+                  endIcon={<ArrowForwardIcon />}
+                  sx={{ borderRadius: 30, px: 4, bgcolor: '#111', color: '#fff', '&:hover': { bgcolor: '#333' }, fontWeight: 600 }}
+                >
+                  ถัดไป
+                </Button>
+              )}
+            </Box>
           </Box>
         </Card>
       </Container>

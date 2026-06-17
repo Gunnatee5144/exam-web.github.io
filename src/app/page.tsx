@@ -216,6 +216,7 @@ export default function Dashboard() {
     { id: '2566_anatomy', title: 'กายวิภาคศาสตร์และสรีรวิทยา 2566', questions: 247, status: 'ready', color: '#4facfe', subtitle: 'Anatomy & Physiology' },
     { id: '2566_diagnostic', title: 'รังสีวินิจฉัย 2566', questions: 640, status: 'ready', color: '#00f2fe', subtitle: 'Diagnostic Radiology' },
     { id: '2566_nuclear', title: 'เวชศาสตร์นิวเคลียร์ 2566', questions: 346, status: 'ready', color: '#fa709a', subtitle: 'Nuclear Medicine' },
+    { id: '2566_radiation', title: 'รังสีรักษา 2566', questions: 336, status: 'ready', color: '#a18cd1', subtitle: 'Radiation Therapy' },
     { id: '2566_law', title: 'กฎหมายและจรรยาบรรณ 2566', questions: 314, status: 'ready', color: '#fee140', subtitle: 'Law & Ethics' },
     { id: '2566_patient_care', title: 'การดูแลผู้ป่วย รังสีฟิสิกส์ ฯ', questions: 706, status: 'ready', color: '#43e97b', subtitle: 'Patient Care & Physics' }
   ];

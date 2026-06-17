@@ -3,6 +3,9 @@ import json
 import re
 
 def fix_thai_chars(text):
+    if not text:
+        return ""
+        
     mapping = {
         'ÿ': 'ส',
         'ü': 'ว',
@@ -28,7 +31,7 @@ def fix_thai_chars(text):
     for k, v in mapping.items():
         text = text.replace(k, v)
         
-    # Fix the separated สระอำ (e.g. "ท า" -> "ทำ")
+    # Fix common Thai character patterns
     text = re.sub(r'([ก-ฮ])\s+า', r'\1ำ', text)
     
     return text
@@ -37,8 +40,13 @@ def parse_pdf(pdf_path):
     reader = PyPDF2.PdfReader(pdf_path)
     full_text = ""
     for page in reader.pages:
-        full_text += page.extract_text() + "\n"
-    
+        try:
+            page_text = page.extract_text()
+            if page_text:
+                full_text += page_text + "\n"
+        except:
+            continue
+
     full_text = fix_thai_chars(full_text)
     
     # Fix specific OCR artifacts
@@ -57,7 +65,12 @@ def parse_pdf(pdf_path):
         q_id = int(q_num_str)
         
         # Extract the question and the choices from q_text
-        match = re.search(r'(.*?)(?=ก\.)ก\.(.*?)(?=ข\.)ข\.(.*?)(?=ค\.)ค\.(.*?)(?=ง\.)ง\.(.*?)(?:(?=จ\.)จ\.(.*?))?$', q_text, re.DOTALL)
+        # Use a more robust regex to capture everything after the last choice as trailing text
+        match = re.search(r'(.*?)(?=ก\.)ก\.(.*?)(?=ข\.)ข\.(.*?)(?=ค\.)ค\.(.*?)(?=ง\.)ง\.(.*?)(?:(?=จ\.)จ\.(.*))?$', q_text, re.DOTALL)
+        
+        explanation = ""
+        answer = ""
+        
         if match:
             question_text = match.group(1).strip()
             choices = {
@@ -66,8 +79,20 @@ def parse_pdf(pdf_path):
                 "ค": match.group(4).strip(),
                 "ง": match.group(5).strip()
             }
+            
+            last_choice_key = "ง"
+            last_choice_text = match.group(5).strip()
+            
             if match.group(6):
                 choices["จ"] = match.group(6).strip()
+                last_choice_key = "จ"
+                last_choice_text = match.group(6).strip()
+            
+            # Check if the last choice has a newline, which often indicates an explanation follows
+            if "\n" in last_choice_text:
+                parts = last_choice_text.split("\n", 1)
+                choices[last_choice_key] = parts[0].strip()
+                explanation = parts[1].strip()
         else:
             # Fallback if no choices found
             question_text = q_text.strip()
@@ -77,8 +102,8 @@ def parse_pdf(pdf_path):
             "id": q_id,
             "question": question_text,
             "choices": choices,
-            "explanation": "",
-            "answer": ""
+            "explanation": explanation,
+            "answer": answer
         })
     
     return questions
