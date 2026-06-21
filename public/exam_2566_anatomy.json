@@ -9,9 +9,8 @@
       "ง": "Interpupillary base line",
       "จ": "Inter auditory base line"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Outer canthus - EAM",
+    "answer": "ก"
   },
   {
     "id": 2,
@@ -23,9 +22,8 @@
       "ง": "Interpupillary base line",
       "จ": "Inter auditory base line"
     },
-    "explanation": "เส้นสมมติที่ลากจากรูหูถึงหางตา เรียกว่า Intermeatusbase line",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 3,
@@ -37,13 +35,12 @@
       "ง": "Waters และ Lateral",
       "จ": "Caldwell และ Towne’s"
     },
-    "explanation": "การจัดท่าสำหรับการถ่ายภาพ Routine of skull คือ PA และ Lateral",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 4,
-    "question": "การจัดท่าเพื่อถ่ายภาพรังสีกะโหลกศีรษะผู้ป่วยได้รับอุบัติเหตุมาเมื่อ 3ชั่วโมง ก่อนถึงโรงพยาบาล ท่าที่ไม่ควรถ่ายโดยเด็ดขาด",
+    "question": "การจัดท่าเพื่อถ่ายภาพรังสีกะโหลกศีรษะผู้ป่วยได้รับอุบัติเหตุมาเมื่อ 3ชั่วโมง \nก่อนถึงโรงพยาบาล ท่าที่ไม่ควรถ่ายโดยเด็ดขาด",
     "choices": {
       "ก": "Skull series",
       "ข": "Routine skull",
@@ -51,9 +48,8 @@
       "ง": "Facial",
       "จ": "Lateral cross table"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "โดยเฉพาะ submentovertex ไม่ควรถ่าย",
+    "answer": "ค"
   },
   {
     "id": 5,
@@ -65,9 +61,8 @@
       "ง": "12 องศา Caudad",
       "จ": "45 องศา Cephalad"
     },
-    "explanation": "การถ่ายภาพ “Towne” เอียงหลอดเอกซเรย์อย่าง 12 องศา Cephalad เพื่อให้กระดูก Zygomatic bone มองเห็นชัดเจน",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "2.5 นิ้วเหนือ glabella + ผ่านแนว EAM",
+    "answer": "ข"
   },
   {
     "id": 6,
@@ -79,9 +74,8 @@
       "ง": "Stenver’s",
       "จ": "Rhese’s"
     },
-    "explanation": "ท่าที่ใช้สำหรับการถ่ายเพื่อดูกระดูก Zygomatic bone คือ ท่า Stenver’s",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 7,
@@ -93,9 +87,8 @@
       "ง": "PA",
       "จ": "Towne’s"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 8,
@@ -107,9 +100,8 @@
       "ง": "Glabella",
       "จ": "Nasion"
     },
-    "explanation": "เพราะจุดที่เรากำหนดไว้ควรอยู่ในแนวตั้งและตรงกลางของใบหน้าเพื่อให้การถ่ายภาพมีความแม่นยำมากที่สุด",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 9,
@@ -121,9 +113,8 @@
       "ง": "Stenver’s",
       "จ": "Rhese’s"
     },
-    "explanation": "เพราะท่า Lateral จะทำให้กระดูก Mastoid tip มองเห็นได้ชัดเจนและตรงตามแนวตั้ง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Optic foramen",
+    "answer": "ง"
   },
   {
     "id": 10,
@@ -135,13 +126,12 @@
       "ง": "Stenver’s",
       "จ": "Rhese’s"
     },
-    "explanation": "เพราะท่า Lateral ช่วยให้เห็นชัดเจนมากที่สุดของ Mastoid part (Body)",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 11,
-    "question": "การถ่ายภาพรังสีกะโหลกศีรษะที่ใช้สำหรับการตรวจสอบกระดูกแตกหักบริเวณหน้า (Facial)",
+    "question": "การถ่ายภาพรังสีกะโหลกศีรษะที่ใช้สำหรับการตรวจสอบกระดูกแตกหักบริเวณ\nหน้า (Facial)",
     "choices": {
       "ก": "Water’s view",
       "ข": "Towne’s",
@@ -149,13 +139,12 @@
       "ง": "Fuch",
       "จ": "Law’s"
     },
-    "explanation": "เพราะการถ่ายภาพ Fuch ช่วยให้เห็นกระดูกแตกหักบริเวณหน้า (Facial) ได้ชัดเจนที่สุด",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 12,
-    "question": "การถ่ายภาพกะโหลกศีรษะสำหรับตรวจความผิดปกติที่บริเวณฐานกะโหลก ควรถ่ายภาพในท่าใด",
+    "question": "การถ่ายภาพกะโหลกศีรษะสำหรับตรวจความผิดปกติที่บริเวณฐานกะโหลก \nควรถ่ายภาพในท่าใด",
     "choices": {
       "ก": "Oblique of skull",
       "ข": "Stenver’s",
@@ -163,9 +152,8 @@
       "ง": "Towne’s",
       "จ": "Caldwell’s"
     },
-    "explanation": "เพราะท่า Submentovertex ช่วยให้เห็นความผิดปกติที่บริเวณฐานกะโหลกได้ชัดเจนมากที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 13,
@@ -177,9 +165,8 @@
       "ง": "Frontal plane",
       "จ": "Axial plane"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 14,
@@ -191,9 +178,8 @@
       "ง": "T3-T4",
       "จ": "T4-T5"
     },
-    "explanation": "Sternal angle อยู่ตรงกับระดับ T2-T3 ของกระดูกสันหลัง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 15,
@@ -205,9 +191,8 @@
       "ง": "Maxillary bone",
       "จ": "Occipital bone"
     },
-    "explanation": "Petrous portion เป็นส่วนของกระดูก Temporal bone",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 16,
@@ -219,9 +204,8 @@
       "ง": "Arachnoid mater",
       "จ": "Aponeurosis"
     },
-    "explanation": "เนื่องจาก Dura mater เป็นเยื่อหุ้มสมองที่แข็งแรงและมีความหนาแน่นสูง ดังนั้นจึงอยู่ในสุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "1st\n2nd Skull\n3rd\n4th\n5th\n6th Brain",
+    "answer": "ข"
   },
   {
     "id": 17,
@@ -233,9 +217,8 @@
       "ง": "Vestibule",
       "จ": "Ear ossicle"
     },
-    "explanation": "Cochlea จัดอยู่ในหูชั้นกลางและเป็นอวัยวะที่มีบทบาทสำคัญในการรับรู้เสียง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 18,
@@ -247,9 +230,8 @@
       "ง": "Oesopharynx",
       "จ": "Trachea"
     },
-    "explanation": "Esophagus อยู่ต่อจากส่วน Oesopharynx ซึ่งเป็นส่วนแรกของกระเพาะอาหาร",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 19,
@@ -261,9 +243,8 @@
       "ง": "กึ่งกลาง Body of sternum",
       "จ": "Xiphoid process"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Bifurcation of trachea\nT4-T5",
+    "answer": "ข"
   },
   {
     "id": 20,
@@ -275,9 +256,8 @@
       "ง": "Left atrium",
       "จ": "Left ventricle"
     },
-    "explanation": "เนื่องจากกล้ามเนื้อหนาในห้องซ้ายของหัวใจเป็นส่วนประกอบสำคัญของห้องเหล่านี้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 21,
@@ -289,13 +269,12 @@
       "ง": "Left common carotid artery",
       "จ": "Innominate artery"
     },
-    "explanation": "Innominate artery เป็นหลอดเลือดที่เกิดจากการรวมกันของ common carotid และ brachiocephalic arteries ซึ่งไม่ใช่แขนของหลอดเลือด Aortic arch",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "ไม่มีชื่อ",
+    "answer": "จ"
   },
   {
     "id": 22,
-    "question": "Common bile duct กับ Main pancreatic duct นำน้ าดีและน้ าย่อยอาหารมาเทเข้าสู่ลำไส้ Duodenum ส่วนใด………….",
+    "question": "Common bile duct กับ Main pancreatic duct นำน้ าดีและน้ าย่อยอาหาร\nมาเทเข้าสู่ลำไส้ Duodenum ส่วนใด………….",
     "choices": {
       "ก": "Duodenal bulb (cap)",
       "ข": "Superior duodenum (1st duodenum)",
@@ -303,9 +282,8 @@
       "ง": "Transverse duodenum (3st duodenum)",
       "จ": "Ascending duodenum (4st duodenum)"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 23,
@@ -317,13 +295,12 @@
       "ง": "Celiac trunk",
       "จ": "Inferior mesenteric artery"
     },
-    "explanation": "แขนแรกของเส้นเลือด Abdominal aorta คือ Celiac trunk ซึ่งเป็นแขนที่เกิดจากเส้นเลือด Common iliac artery และ Superior mesenteric artery",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 24,
-    "question": "เส้นเลือด Superior mesenteric vein กับ Splenic vein รวมกัน และน้ าเลือดไปเทเข้าสู่เส้นเลือดใด",
+    "question": "เส้นเลือด Superior mesenteric vein กับ Splenic vein รวมกัน และน้ า\nเลือดไปเทเข้าสู่เส้นเลือดใด",
     "choices": {
       "ก": "Inferior vena cava",
       "ข": "Portal vein",
@@ -331,9 +308,8 @@
       "ง": "Inferior mesenteric vein",
       "จ": "Hepatic vein"
     },
-    "explanation": "เส้นเลือด Superior mesenteric vein กับ Splenic vein รวมกัน และน้ าเลือดไปเทเข้าสู่เส้นเลือด Portal vein ซึ่งเป็นหนึ่งในเส้นทางหลักในการนำเลือดไปยังลำไส้ใหญ่",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 25,
@@ -345,13 +321,12 @@
       "ง": "Uterus",
       "จ": "Testis"
     },
-    "explanation": "เพราะอวัยวะเพศชายอยู่ในบริเวณนอก Pelvic cavity",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 26,
-    "question": "Pouch of Douglas หรือ Cul-De-Sac เป็นแอ่งที่อยู่ระหว่าง Uterus กับอวัยวะใด",
+    "question": "Pouch of Douglas หรือ Cul-De-Sac เป็นแอ่งที่อยู่ระหว่าง Uterus กับ\nอวัยวะใด",
     "choices": {
       "ก": "Rectum",
       "ข": "Vagina",
@@ -359,9 +334,8 @@
       "ง": "Ovary",
       "จ": "Uterine tube"
     },
-    "explanation": "เพราะ Pouch of Douglas อยู่ระหว่าง Uterus กับ Ovary",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 27,
@@ -373,9 +347,8 @@
       "ง": "Rectum",
       "จ": "Penis"
     },
-    "explanation": "เพราะ Scrotum อยู่ในบริเวณ Perineum แต่ไม่อยู่ในบริเวณที่เกี่ยวข้องโดยตรงกับอวัยวะเพศชาย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 28,
@@ -387,13 +360,12 @@
       "ง": "Uterine tube",
       "จ": "Ovary"
     },
-    "explanation": "เพราะอวัยวะต่างๆ อยู่ในลำดับของตัวสตรี และ vagina อยู่ระหว่างอวัยวะ Rectum กับ Uterus",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 29,
-    "question": "Shoulder joint ประกอบขึ้นโดยส่วน Humeral head กับส่วนใดของกระดูก Scapula",
+    "question": "Shoulder joint ประกอบขึ้นโดยส่วน Humeral head กับส่วนใดของกระดูก \nScapula",
     "choices": {
       "ก": "Coracoid process",
       "ข": "Glenoid cavity",
@@ -401,13 +373,12 @@
       "ง": "Acromion process",
       "จ": "Coronoid process"
     },
-    "explanation": "เพราะ Glenoid cavity เป็นรูปร่างที่เหมาะสมสำหรับส่วนของกระดูก Humerus และ Coracoid process คือส่วนที่ติดกับหัวกระดูก Scapula",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 30,
-    "question": "ส่วนของ Capitulum of humerus ไปเชื่อมกับส่วนใด เพื่อประกอบเป็น Elbow joint",
+    "question": "ส่วนของ Capitulum of humerus ไปเชื่อมกับส่วนใด เพื่อประกอบเป็น \nElbow joint",
     "choices": {
       "ก": "Head of radius",
       "ข": "Olecanonprocess",
@@ -415,9 +386,8 @@
       "ง": "Styloid process of ulna",
       "จ": "Head of ulna"
     },
-    "explanation": "เพราะ Capitulum of humerus ไปเชื่อมกับ Trochlear notch of ulna เพื่อประกอบเป็น Elbow joint",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 31,
@@ -429,9 +399,8 @@
       "ง": "Spinous process of T1",
       "จ": "Transverse process of C7"
     },
-    "explanation": "เนื่องจาก Vertebral prominens คือส่วนของกระดูกสันหลังที่มีความชัดเจนที่สุด และในกรณีนี้คือ Spinous process of C7",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 32,
@@ -443,9 +412,8 @@
       "ง": "Base of proximal phalanx",
       "จ": "Head of proximal phalanges"
     },
-    "explanation": "เพราะปุ่มนูนด้านหลังมือขณะกำมือ คือ Head of proximal phalanges ซึ่งเป็นชิ้นส่วนของกระดูกข้อมือที่อยู่ใกล้กับปลายข้อ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 33,
@@ -457,9 +425,8 @@
       "ง": "Left Costal cartilage ที่ 2",
       "จ": "Left Costal cartilage ที่ 5"
     },
-    "explanation": "เนื่องจาก Apex of Heart อยู่ในบริเวณ Left Intercostal space ที่ 5 ซึ่งเป็นตำแหน่งที่กระดูกสันหลังและหลอดเลือดหัวใจตัดกัน",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 34,
@@ -471,9 +438,8 @@
       "ง": "Hypogastric region",
       "จ": "Right lumbar region"
     },
-    "explanation": "เนื่องจากกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation จึงเป็นที่นิยมใช้เป็นตัวบอกตำแหน่งของจุดกึ่งกลางรังสี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 35,
@@ -485,13 +451,12 @@
       "ง": "Hypogastric region",
       "จ": "Right lumbar region"
     },
-    "explanation": "Vermiform appendix อยู่ในบริเวณ Right Iliac region ซึ่งเป็นเหตุผลว่าทำไมจึงถือว่าเป็นคำตอบที่ถูกต้อง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 36,
-    "question": "การถ่ายภาพรังสีทรวงอกท่า PA สามารถใช้ระดับใดของกระดูก Scapula เป็นตัวบอกตำแหน่งของจุดกึ่งกลางรังสี",
+    "question": "การถ่ายภาพรังสีทรวงอกท่า PA สามารถใช้ระดับใดของกระดูก Scapula เป็น\nตัวบอกตำแหน่งของจุดกึ่งกลางรังสี",
     "choices": {
       "ก": "Superior angle",
       "ข": "Spine of scapula",
@@ -499,9 +464,8 @@
       "ง": "Inferior angle",
       "จ": "Vertebral border"
     },
-    "explanation": "การถ่ายภาพรังสีทรวงอกท่า PA สามารถใช้ Spine of scapula เป็นตัวบอกตำแหน่งของจุดกึ่งกลางรังสีได้ดีที่สุด เนื่องจากเป็นจุดที่มีความชัดเจนมากที่สุด",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "(Nipple line = T7)",
+    "answer": "ง"
   },
   {
     "id": 37,
@@ -513,9 +477,8 @@
       "ง": "L1-2",
       "จ": "L4-5"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "iliac crest",
+    "answer": "จ"
   },
   {
     "id": 38,
@@ -527,13 +490,12 @@
       "ง": "Trapezoid",
       "จ": "Capitate"
     },
-    "explanation": "เนื่องจาก Scaphoid เป็นกระดูกข้อมือชิ้นแรกที่ articulate กับ First metacarpal",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "เชื่อมกับ",
+    "answer": "ค"
   },
   {
     "id": 39,
-    "question": "Fracture บริเวณ 5thMetacarpal bone ส่วน neck และ shaft มีชื่อเรียกว่า................",
+    "question": "Fracture บริเวณ 5thMetacarpal bone ส่วน neck และ shaft มีชื่อเรียกว่า\n................",
     "choices": {
       "ก": "Barton’s fx.",
       "ข": "Bennett’s fx.",
@@ -541,13 +503,12 @@
       "ง": "Colles’ fx.",
       "จ": "Boxer’s fx."
     },
-    "explanation": "Fracture บริเวณ 5thMetacarpal bone ส่วน neck และ shaft มีชื่อเรียกว่า Jone’sfx.",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 40,
-    "question": "Fracture บริเวณกระดูก fibula และ tibia ส่วนปลาย ร่วมกับการเคลื่อนของข้อเท้ามีชื่อเรียกว่า.........",
+    "question": "Fracture บริเวณกระดูก fibula และ tibia ส่วนปลาย ร่วมกับการเคลื่อนของ\nข้อเท้ามีชื่อเรียกว่า.........",
     "choices": {
       "ก": "Pott’s fx.",
       "ข": "Jone’sfx.",
@@ -555,13 +516,12 @@
       "ง": "Monteggiafx.",
       "จ": "Bennett’s fx."
     },
-    "explanation": "เพราะ Monteggia fx. เป็นคำอธิบายถึงการบาดเจ็บที่เกิดขึ้นเมื่อกระดูก fibula และ radius ของแขนแตกหรือหักพรุนพร้อมกับการเคลื่อนของข้อเท้า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "41.ท่าที่ใช้ดู Intervertebral foramen บริเวณกระดูกสันหลังส่วนอก คือ\nก. AP\nข. Posterior Oblique 45o\nค. AP open–mouth\nง. Lateral\nจ. Transthoracic view\nT-spine\nT-spineLateral : intervertebral foramenOblique : Zygapophyseal joint",
+    "answer": "ก"
   },
   {
     "id": 42,
-    "question": "Fracture ในข้อใดเกิดขึ้นบริเวณกระดูก Zygomatic ซึ่งทำให้กระดูก Zygomatic หลุดออกจากกระดูกที่ไปเชื่อม",
+    "question": "Fracture ในข้อใดเกิดขึ้นบริเวณกระดูก Zygomatic ซึ่งทำให้กระดูก \nZygomatic หลุดออกจากกระดูกที่ไปเชื่อม",
     "choices": {
       "ก": "Tripod fracture",
       "ข": "Le Fort fracture",
@@ -569,13 +529,12 @@
       "ง": "Depressed fracture",
       "จ": "Commuted fracture"
     },
-    "explanation": "เพราะ Le Fort fracture เป็นคำอธิบายถึงการบาดเจ็บที่เกิดขึ้นเมื่อกระดูก Zygomatic หลุดออกจากกระดูก Frontal และ Parietal",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 43,
-    "question": "ในเด็กเล็กอาจมีการอุดกั้นทางเดินหายใจ จากการโตของ Adenoid gland เป็นต่อมน้ าเหลืองที่อยู่บริเวณใด",
+    "question": "ในเด็กเล็กอาจมีการอุดกั้นทางเดินหายใจ จากการโตของ Adenoid gland \nเป็นต่อมน้ าเหลืองที่อยู่บริเวณใด",
     "choices": {
       "ก": "Laryngopharynx",
       "ข": "Hypopharynx",
@@ -583,13 +542,12 @@
       "ง": "Oropharynx",
       "จ": "แทรกกระจายในทุกข้อที่กล่าวมา"
     },
-    "explanation": "เพราะ Nasopharynx เป็นคำอธิบายถึงการโตของ Adenoid gland ที่อยู่บริเวณนี้ ซึ่งสามารถอุดกั้นทางเดินหายใจได้",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 44,
-    "question": "ส่วนของกระดูก Temporal bone ที่มีอวัยวะที่สำคัญในการรับฟังและการทรงตัวของร่างกาย คือ",
+    "question": "ส่วนของกระดูก Temporal bone ที่มีอวัยวะที่สำคัญในการรับฟังและการทรง\nตัวของร่างกาย คือ",
     "choices": {
       "ก": "Squamous part",
       "ข": "Zygomatic part",
@@ -597,13 +555,12 @@
       "ง": "Mastoid part",
       "จ": "Petrous part"
     },
-    "explanation": "เพราะกระดูก Temporal bone มีอวัยวะที่สำคัญในการรับฟังและการทรงตัวของร่างกาย เช่น หูและหูใหญ่",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 45,
-    "question": "เมื่อสงสัยพยาธิสภาพของทรวงอกบริเวณ Lung apex ภาพรังสีทรวงอกท่าใด สามารถแสดงพยาธิสภาพได้ดีที่สุด",
+    "question": "เมื่อสงสัยพยาธิสภาพของทรวงอกบริเวณ Lung apex ภาพรังสีทรวงอกท่าใด \nสามารถแสดงพยาธิสภาพได้ดีที่สุด",
     "choices": {
       "ก": "Lateral",
       "ข": "Lateral decubitus",
@@ -611,13 +568,12 @@
       "ง": "Apical lordotic",
       "จ": "AP supine"
     },
-    "explanation": "เนื่องจาก Lung apex มองเห็นได้ชัดเจนที่สุดในท่า Apical lordotic projection",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 46,
-    "question": "โรคในข้อต่อใด เมื่อเกิดพยาธิสภาพในทรวงอกแล้ว ที่ทำให้ภาพรังสีทรวงอกดูขาวทึบกว่าปกติ?",
+    "question": "โรคในข้อต่อใด เมื่อเกิดพยาธิสภาพในทรวงอกแล้ว ที่ทำให้ภาพรังสีทรวงอกดู\nขาวทึบกว่าปกติ?",
     "choices": {
       "ก": "Asthma",
       "ข": "Atelectasis",
@@ -625,13 +581,12 @@
       "ง": "Pneumothorax",
       "จ": "Hypoplasia of vascular structure"
     },
-    "explanation": "เพราะเมื่อเกิดพยาธิสภาพในทรวงอกจาก Atelectasis จะทำให้ภาพรังสีทรวงอกดูขาวทึบกว่าปกติ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "ภาวะปอดแฟบ",
+    "answer": "ข"
   },
   {
     "id": 47,
-    "question": "เทคนิคการตรวจพิเศษทางรังสีใดที่เหมาะสำหรับวินิจฉัยดู Vesicoureteral reflux",
+    "question": "เทคนิคการตรวจพิเศษทางรังสีใดที่เหมาะสำหรับวินิจฉัยดู Vesicoureteral \nreflux",
     "choices": {
       "ก": "IVP",
       "ข": "RP",
@@ -639,13 +594,12 @@
       "ง": "VCUG",
       "จ": "Urethography"
     },
-    "explanation": "เพราะ VCUG สามารถตรวจสอบการไหลของน้ำในอุจจาระและหลอดเลือดได้อย่างชัดเจน และสามารถวินิจฉัย Vesicoureteral reflux ได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 48,
-    "question": "การตรวจ BE (barium enema) ท่านอนคว่ า Negative contrast media เห็นในส่วนใดของลำไส้ใหญ่",
+    "question": "การตรวจ BE (barium enema) ท่านอนคว่ า Negative contrast media \nเห็นในส่วนใดของลำไส้ใหญ่",
     "choices": {
       "ก": "Transverse colon/ Ascending colon",
       "ข": "Transverse colon/ Descending colon",
@@ -653,9 +607,8 @@
       "ง": "Transverse colon / Rectum",
       "จ": "Ascending colon / Descending colon"
     },
-    "explanation": "เพราะ BE (barium enema) สามารถเห็นในส่วนของลำไส้ใหญ่ที่มีเส้นเลือดและเนื้อเยื่อที่มีความหนาแน่นมากกว่า ซึ่งรวมถึง Transverse colon และ Sigmoid colon",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Air",
+    "answer": "จ"
   },
   {
     "id": 49,
@@ -667,13 +620,12 @@
       "ง": "Subdural space",
       "จ": "Subarachnoid space"
     },
-    "explanation": "เพราะ Dura mater เป็นส่วนนั้นที่มีน้ำเลี้ยงสมองและไขสันหลัง หล่อเลี้ยงอยู่",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 50,
-    "question": "ลักษณะใดของ Epidural cerebral hemorrhage ที่เด่นชัดแตกต่างไปจาก hemorrhage อื่นๆ",
+    "question": "ลักษณะใดของ Epidural cerebral hemorrhage ที่เด่นชัดแตกต่างไปจาก \nhemorrhage อื่นๆ",
     "choices": {
       "ก": "Crescent shape",
       "ข": "Biconvex shape",
@@ -681,9 +633,8 @@
       "ง": "Hypodensity",
       "จ": "Mid cerebral and Irregular shape"
     },
-    "explanation": "เนื่องจาก hemorrhage Epidural cerebral มีลักษณะเป็นรูปหัวใจและมีความสมมาตร ซึ่งแตกต่างจาก hemorrhage อื่นๆ ที่มีลักษณะไม่สมมาตร",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Subdural hematoma\nLemon shape / contact lens",
+    "answer": "ข"
   },
   {
     "id": 51,
@@ -695,9 +646,8 @@
       "ง": "Foramen Ovalae",
       "จ": "Sagittal fissure"
     },
-    "explanation": "ส่วนที่เชื่อมระหว่าง 3rdVentricle กับ 4thVentricle คือ Aqueduct of Sylvius ซึ่งเป็นช่องที่ทำให้เลือดไหลจาก Ventricle ที่หนึ่งไปยัง Ventricle ที่สี่",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Cerebral aqueduct",
+    "answer": "ค"
   },
   {
     "id": 52,
@@ -709,9 +659,8 @@
       "ง": "Cerebritis",
       "จ": "Encephalitis"
     },
-    "explanation": "Hippocampus volume loss เป็นลักษณะของ Alzheimer’s Disease ซึ่งเป็นโรคสมองชนิดหนึ่งที่ทำให้เกิดการเสื่อมของโครงสร้างสมอง รวมถึง Hippocampus",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "ความจำ",
+    "answer": "ข"
   },
   {
     "id": 53,
@@ -723,13 +672,12 @@
       "ง": "Towne’s method",
       "จ": "Water’s method"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 54,
-    "question": "Zygomatic arch เป็นส่วนที่เกิดจากการเชื่อมกันระหว่างกระดูก Zygomatic กับกระดูก……",
+    "question": "Zygomatic arch เป็นส่วนที่เกิดจากการเชื่อมกันระหว่างกระดูก Zygomatic \nกับกระดูก……",
     "choices": {
       "ก": "Parietal",
       "ข": "Maxilla",
@@ -737,9 +685,8 @@
       "ง": "Temporal",
       "จ": "Sphenoid"
     },
-    "explanation": "Zygomatic arch เป็นส่วนที่เกิดจากการเชื่อมกันระหว่างกระดูก Zygomatic กับกระดูก Maxilla",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 55,
@@ -751,9 +698,8 @@
       "ง": "Thalamus",
       "จ": "Pituitary gland"
     },
-    "explanation": "Sella turcica เป็นที่อยู่ของอวัยวะ Pituitary gland",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 56,
@@ -765,9 +711,8 @@
       "ง": "Acanthion",
       "จ": "Glabella"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 57,
@@ -779,9 +724,8 @@
       "ง": "Ascending aorta",
       "จ": "Descending aorta"
     },
-    "explanation": "หลอดเลือดที่ไปเลี้ยงกล้ามเนื้อหัวใจ เป็นแขนงของหลอดเลือด Thoracic aorta",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 58,
@@ -793,9 +737,8 @@
       "ง": "Lateral",
       "จ": "Posteroanterior (PA)"
     },
-    "explanation": "Intervertebral foramen ของกระดูกสันหลังส่วนคอ มองเห็นได้จากท่า Lateral",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "C-spine AP axial oblique",
+    "answer": "ข"
   },
   {
     "id": 59,
@@ -807,9 +750,8 @@
       "ง": "Subdural space",
       "จ": "Intervertebral disc"
     },
-    "explanation": "เพราะสารทึบรังสีจะเข้าไปในส่วน Subarachnoid space ซึ่งเป็นสภาพแวดล้อมรอบๆ ส่วนสันหลัง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 60,
@@ -821,9 +763,8 @@
       "ง": "Rectus abdominis",
       "จ": "Serratus anterior"
     },
-    "explanation": "เพราะกล้ามเนื้อ Rectus abdominis มีความหนาและแข็งแรง ทำให้เห็นเงาของมันชัดเจนที่สุดในภาพรังสี Normal KUB ที่มีคุณภาพดี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Kidney Ureter Bladder",
+    "answer": "ค"
   },
   {
     "id": 61,
@@ -835,9 +776,8 @@
       "ง": "Interpupillary line",
       "จ": "Inter auditory line"
     },
-    "explanation": "เพราะเส้นสมมติ Infraorbitomeatalline คือเส้นแบ่งระหว่างรูหูและจตุภาคส่วนล่างของใบหน้า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 62,
@@ -849,9 +789,8 @@
       "ง": "Submaxillary gland",
       "จ": "Submandibular gland"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 63,
@@ -863,9 +802,8 @@
       "ง": "หันเข้าหาล้าตัว",
       "จ": "หันไปทางใดก็ได้"
     },
-    "explanation": "ฝ่ามือในตำแหน่ง Anatomical position หันเข้าหาล้าตัว",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 64,
@@ -877,9 +815,8 @@
       "ง": "Scaphoid",
       "จ": "Trapezium"
     },
-    "explanation": "กระดูก Hamate เป็นกระดูกเท้า",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 65,
@@ -891,9 +828,8 @@
       "ง": "T1-T3",
       "จ": "T3-T6"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 66,
@@ -905,9 +841,8 @@
       "ง": "Ilium",
       "จ": "Rectum"
     },
-    "explanation": "ลำไส้เล็กประกอบด้วย Caecum, Hepatic flexure และ Rectum ส่วนใหญ่ของลำไส้เล็กอยู่ในกระเพาะอาหาร (Stomach) และลำไส้ใหญ่ (Jejunum) และส่วนที่เหลือเป็นลำไส้เล็ก",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 67,
@@ -919,9 +854,8 @@
       "ง": "Pulmonary vein",
       "จ": "Ascending aorta"
     },
-    "explanation": "หลอดเลือด Pulmonary artery เป็นหลอดเลือดที่นำเลือดออกจากหัวใจห้องล่างขวา (Right ventricle) และไปยังหลอดเลือดปอด (Pulmonary circulation)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 68,
@@ -933,9 +867,8 @@
       "ง": "L3-L5",
       "จ": "L5-S1"
     },
-    "explanation": "เพราะตำแหน่งของไตอยู่ตรงกลางระหว่างกระดูกสันหลังระดับ T12-L3 และมองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 69,
@@ -947,9 +880,8 @@
       "ง": "Radius",
       "จ": "Ulna"
     },
-    "explanation": "Colles’ fracture เกี่ยวข้องกับบริเวณส่วนปลายของกระดูก Radius",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Distal radius fracture",
+    "answer": "ง"
   },
   {
     "id": 70,
@@ -961,13 +893,12 @@
       "ง": "Sphenoid",
       "จ": "Zygoma"
     },
-    "explanation": "กระดูก Lacrimal เป็นหนึ่งใน Cranial bones ซึ่งเป็นกระดูกที่อยู่ในหัวและใบหน้า",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 71,
-    "question": "การถ่ายภาพเอกซเรย์ เพื่อดูกระดูกซี่โครงใน Rt. หรือ Lt. Posterior oblique projection ควรให้จุดกึ่งกลางของแสงลงที่ตำแหน่งใด",
+    "question": "การถ่ายภาพเอกซเรย์ เพื่อดูกระดูกซี่โครงใน Rt. หรือ Lt. Posterior oblique \nprojection ควรให้จุดกึ่งกลางของแสงลงที่ตำแหน่งใด",
     "choices": {
       "ก": "T3",
       "ข": "T4",
@@ -975,9 +906,8 @@
       "ง": "T6",
       "จ": "T7"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "LAO",
+    "answer": "จ"
   },
   {
     "id": 72,
@@ -989,9 +919,8 @@
       "ง": "Lens placode",
       "จ": "Optic chiasma"
     },
-    "explanation": "เนื่องจากระบบประสาท Forebrain ยังเป็น Embryonic disc จึงมี Optic area เป็นส่วนหนึ่งของระบบประสาทในขณะนั้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 73,
@@ -1003,9 +932,8 @@
       "ง": "Neural crest",
       "จ": "Neural tube"
     },
-    "explanation": "Neural plate จะเจริญเติบโตไปเป็น Neural tube ซึ่งเป็นส่วนประกอบหลักของสมองและร่างกาย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 74,
@@ -1017,9 +945,8 @@
       "ง": "Mesoderm",
       "จ": "Enterderm"
     },
-    "explanation": "เนื่องจาก Ectoderm เป็นชั้นแรกที่พัฒนาและสร้างส่วนประกอบหลักของระบบประสาท",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 75,
@@ -1031,9 +958,8 @@
       "ง": "Alar กับ Basal plates",
       "จ": "Dorsal กับ Caudal plates"
     },
-    "explanation": "Sulcus limitans แบ่ง Neural tube ออกเป็นส่วนที่มีหน้าที่ Sensory และ Co-ordinating ของ Motor",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 76,
@@ -1045,9 +971,8 @@
       "ง": "Procencephalon",
       "จ": "Diencephalon"
     },
-    "explanation": "Forebrain เจริญเติบโตไปเป็น Prosencephalon ซึ่งประกอบด้วย Cerebrum และ Cerebellum",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 77,
@@ -1059,13 +984,12 @@
       "ง": "Prosencephalon",
       "จ": "Metencephalon"
     },
-    "explanation": "เนื่องจากข้อมูลเกี่ยวกับการเจริญเติบโตของระบบประสาทในครรภ์ ข้อเท็จจริงคือ Prosencephalon (forebrain) เจริญเติบโตในส่วนนี้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 78,
-    "question": "ในวันที่ 28 ของการเจริญเติบโตในครรภ์ ระบบประสาทจะมีการงอตัว (Flexure) 2 ตำแหน่ง คือ",
+    "question": "ในวันที่ 28 ของการเจริญเติบโตในครรภ์ ระบบประสาทจะมีการงอตัว \n(Flexure) 2 ตำแหน่ง คือ",
     "choices": {
       "ก": "Cephalic กับ Cervical flexure",
       "ข": "Cervical กับ Thoracic flexure",
@@ -1073,9 +997,8 @@
       "ง": "Cervical กับ Thoracic flexure",
       "จ": "Clavicle กับ Thoracic flexure"
     },
-    "explanation": "ข้อมูลที่ถูกต้องคือ Rhombencephalon (hindbrain) เจริญเติบโตในครรภ์ระหว่างวันที่ 28 โดยมีการงอตัวที่ Thoracic และ Spinal medulla",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 79,
@@ -1087,9 +1010,8 @@
       "ง": "Hindbrain กับ Spinal medulla",
       "จ": "Forebrain กับ Midbrain"
     },
-    "explanation": "ข้อมูลที่ถูกต้องคือ Rhombencephalon (hindbrain) อยู่ระหว่าง Midbrain กับ Spinal medulla ในการเจริญเติบโตของระบบประสาทในครรภ์",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 80,
@@ -1101,9 +1023,8 @@
       "ง": "Spinal Medulla",
       "จ": "Metencephalon"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 81,
@@ -1115,9 +1036,8 @@
       "ง": "Myelencephalon กับ Metencephalon",
       "จ": "Mesencephalon กับ Metencephalon"
     },
-    "explanation": "เนื่องจาก Rhombencephalon เจริญเติบโตเป็น Myelencephalon และ Metencephalon",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 82,
@@ -1129,9 +1049,8 @@
       "ง": "Telocele",
       "จ": "Diocele"
     },
-    "explanation": "เนื่องจาก Mesocele เจริญเติบโตมาจาก Aqueduct of Sylvius",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 83,
@@ -1143,9 +1062,8 @@
       "ง": "Myelencephalon",
       "จ": "Rhombencephalon"
     },
-    "explanation": "เนื่องจาก Cerebellum และ Pons มาจาก Rhombencephalon ในระหว่างการเจริญเติบโต",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 84,
@@ -1157,9 +1075,8 @@
       "ง": "8คู่",
       "จ": "10คู่"
     },
-    "explanation": "Spinal nerve มีทั้งหมด 31 คู่ แต่เมื่อพิจารณาเฉพาะคู่ที่เกี่ยวข้องกับร่างกายมนุษย์ คือ 12 คู่สำหรับ Cervical และ Lumbar",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "C-spine (vertebral body) 7 อัน",
+    "answer": "ง"
   },
   {
     "id": 85,
@@ -1171,9 +1088,8 @@
       "ง": "Thoracic กับ Lumbar enlargements",
       "จ": "Cervical กับ Sacrococcygeal enlargements"
     },
-    "explanation": "Spinal medulla มีการโป่งออก (Enlargement) ที่ Cervical และ Lumbosacral",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 86,
@@ -1185,9 +1101,8 @@
       "ง": "Central canal",
       "จ": "Cerebral aqueduct"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 87,
@@ -1199,9 +1114,8 @@
       "ง": "Fourth ventricle กับ Spinal cord",
       "จ": "Third กับ Fourth ventricles"
     },
-    "explanation": "เนื่องจาก Aqueduct of Sylvius อยู่ระหว่าง Second และ Third ventricles",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Cerebral aqueduct",
+    "answer": "จ"
   },
   {
     "id": 88,
@@ -1213,9 +1127,8 @@
       "ง": "Ependymal layer",
       "จ": "Basal Layer"
     },
-    "explanation": "เนื่องจากส่วนของสมองนี้อยู่ชิดกับ Skull โดยเฉพาะอย่างยิ่งที่จุดเริ่มต้นของ Central canal",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 89,
@@ -1227,9 +1140,8 @@
       "ง": "Astrocyte กับ Bipolar cell",
       "จ": "Microglial cell กับ Multipolar cell"
     },
-    "explanation": "เนื่องจากเซลล์เม็ดขาวของระบบประสาทกลางประกอบด้วยเซลล์เม็ดขาวแบบเดี่ยวและเซลล์ออสตรอซิต โดยเฉพาะอย่างยิ่ง เซลล์เม็ดขาวแบบเดี่ยวมีบทบาทสำคัญในการรักษาสุขภาพของระบบประสาทกลาง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 90,
@@ -1241,9 +1153,8 @@
       "ง": "Lumbar spinal nerve",
       "จ": "Sacral spinal nerve"
     },
-    "explanation": "เนื่องจากเส้นประสาทส่วนใหญ่จะปรากฏในระดับโครโมแซตหรือทอราคอลัมบาร์ ซึ่งเป็นบริเวณที่มีการผสมกันระหว่างหลังและขา",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 91,
@@ -1255,23 +1166,21 @@
       "ง": "Cardiac กับ Smooth muscles",
       "จ": "Secretory กับ Excretory muscles"
     },
-    "explanation": "เนื่องจากการควบคุมของระบบประสาทส่วนอัตอนอมิกคือการควบคุมการทำงานของกล้ามเนื้อสMOOTH และกล้ามเนื้อร่างกายอื่นๆ ที่ไม่มีการยึดติดกับกระดูก",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 92,
     "question": "ข้อความใดถูก",
     "choices": {
-      "ก": "Autonomic nervous system ประกอบด้วย Sympathetic กับ Parasympathetic system",
+      "ก": "Autonomic nervous system ประกอบด้วย Sympathetic กับ \nParasympathetic system",
       "ข": "Parasympathetic system จะมี ganglion อยู่ไกลกับอวัยวะที่ดูแล",
       "ค": "Sympathetic system อยู่ในระดับ C1-L2",
       "ง": "Parasympathetic system อยู่ในระดับ T1-L2",
-      "จ": "Autonomic nervous system ประกอบด้วย Parasympathetic system อย่างเดียว"
+      "จ": "Autonomic nervous system ประกอบด้วย Parasympathetic system"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "อย่างเดียว",
+    "answer": "ข"
   },
   {
     "id": 93,
@@ -1283,9 +1192,8 @@
       "ง": "Cranial nerve คู่ที่ 5, 7, 9, 10 และ Sacral nerve คู่ที่ 1, 2และ 3",
       "จ": "Cranial nerve คู่ที่ 3, 7, 9, 10 และ Sacral nerve คู่ที่ 2, 3และ 4"
     },
-    "explanation": "Parasympathetic system จะปรากฏอยู่ในส่วนของ Cranial nerve คู่ที่ 3, 5, 7, 9 และ Sacral nerve คู่ที่ 2, 3และ 4",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 94,
@@ -1297,9 +1205,8 @@
       "ง": "33คู่",
       "จ": "12คู่"
     },
-    "explanation": "Spinal nerve ที่ออกจาก Spinal cord มีทั้งหมด 31 คู่",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 95,
@@ -1311,13 +1218,12 @@
       "ง": "Medulla oblongata",
       "จ": "Midbrain"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 96,
-    "question": "Cerebral cortex ส่วน Parietal lobe ที่ชิดกับ Falx cerebri จะเกี่ยวข้องกับส่วน",
+    "question": "Cerebral cortex ส่วน Parietal lobe ที่ชิดกับ Falx cerebri จะเกี่ยวข้องกับ\nส่วน",
     "choices": {
       "ก": "ศีรษะ",
       "ข": "ลิ้น",
@@ -1325,9 +1231,8 @@
       "ง": "ฝ่ามือ",
       "จ": "ท้อง"
     },
-    "explanation": "เนื่องจากพาริเอตัล โลบของสมองอยู่ใกล้กับ Falx cerebri จึงเกี่ยวข้องกับศีรษะ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 97,
@@ -1339,9 +1244,8 @@
       "ง": "Median, Radial และ Ulnar nerves",
       "จ": "Median กับ Palmar nerves"
     },
-    "explanation": "เนื่องจากมี Median, Radial และ Ulnar nerves ที่ประกอบกันจึงทำให้เกิดการรับรู้ผิวหนังของมือได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 98,
@@ -1353,23 +1257,21 @@
       "ง": "Inferior concha",
       "จ": "Vomer"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 99,
     "question": "ข้อความใดถูก",
     "choices": {
-      "ก": "Internal carotid artery แยกเป็น Anterior และ Anterior communicating arteries",
+      "ก": "Internal carotid artery แยกเป็น Anterior และ \nAnterior communicating arteries",
       "ข": "Basilar artery แยกเป็น Middle cerebral arteries 2 เส้น",
       "ค": "Vertebral arteries 2 เส้น รวมเป็น Basilar artery 1 เส้น",
       "ง": "Posterior communicating artery ต่อกับ Middle cerebral artery",
       "จ": "Posterior cerebral artery ต่อกับ Middle communicating artery"
     },
-    "explanation": "เนื่องจาก Vertebral arteries 2 เส้นรวมกันเป็น Basilar artery 1 เส้น และไม่แยกเป็นเส้นทางเดียว",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 100,
@@ -1381,13 +1283,12 @@
       "ง": "Organ of Hearing",
       "จ": "Organ of Equilibrium"
     },
-    "explanation": "เพราะVestibular nerve เลี้ยง Semicircular ducts และส่วนอื่นๆ ของระบบสมองสำหรับสมดุล",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 101,
-    "question": "Parasympathetic system ของ cranial nerve ที่ไปดูแลอวัยวะต่างๆ มีดังนี้",
+    "question": "Parasympathetic system ของ cranial nerve ที่ไปดูแลอวัยวะต่างๆ มี\nดังนี้",
     "choices": {
       "ก": "Ciliary ganglion เกี่ยวกับตา",
       "ข": "Pterygopalatine ganglion เกี่ยวกับ Salivary glands",
@@ -1395,9 +1296,8 @@
       "ง": "Sympathetic ganglion ควบคุมกล้ามเนื้อทั้งหมด",
       "จ": "Motor ganglion อยู่ที่ Dorsal root"
     },
-    "explanation": "Pterygopalatine ganglion เกี่ยวกับ Salivary glands เป็นหนึ่งในกลุ่มของ cranial nerve ที่ควบคุมการทำงานของ parasympathetic system",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 102,
@@ -1409,9 +1309,8 @@
       "ง": "Lambdoid suture",
       "จ": "Squamosal suture"
     },
-    "explanation": "Occipitoparietal หมายถึง Coronal suture คือส่วนที่เชื่อมระหว่าง occipital bone และ parietal bone ในบริเวณศีรษะ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 103,
@@ -1423,9 +1322,8 @@
       "ง": "Inferior",
       "จ": "Superior"
     },
-    "explanation": "คำว่า “back” มีความหมายพ้องกับคำว่า Anterior ซึ่งหมายถึงด้านหน้าหรือด้านเดียว",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 104,
@@ -1437,9 +1335,8 @@
       "ง": "Crown –Sagittal",
       "จ": "Proximal-Inferior"
     },
-    "explanation": "เพราะคำว่า Plantar หมายถึงพื้นผิวของเท้า และ Palmar หมายถึงพื้นผิวของมือ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "ฝ่าเท้า ฝ่ามือ",
+    "answer": "ข"
   },
   {
     "id": 105,
@@ -1451,9 +1348,8 @@
       "ง": "Circulartorysystem",
       "จ": "Muscular system"
     },
-    "explanation": "เนื่องจากกระดูกสันหลังและกระดูกต่างๆ มีความเชื่อมโยงกับระบบประสาทอย่างใกล้ชิด",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 106,
@@ -1465,9 +1361,8 @@
       "ง": "Matacarpalbone + Phalanges",
       "จ": "Carpal bone + Phalanges"
     },
-    "explanation": "เพราะมีกระดูก Carpals (กะโหลก) และกระดูก Metacarpal (ข้อศอก) รวมถึง Phalanges (ขนบ)",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 107,
@@ -1479,9 +1374,8 @@
       "ง": "Calcaneus",
       "จ": "Sacrum"
     },
-    "explanation": "เพราะกระดูก Calcaneus มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Pelvis",
+    "answer": "จ"
   },
   {
     "id": 108,
@@ -1493,9 +1387,8 @@
       "ง": "Ilium + Ischium + Pedicle",
       "จ": "Ileum + Ischium + Pubis"
     },
-    "explanation": "เพราะ Pelvic Girdle ประกอบด้วย Ilium + Ischium + Pubic symphysis",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 109,
@@ -1507,9 +1400,8 @@
       "ง": "T12",
       "จ": "C7"
     },
-    "explanation": "เพราะ Vertebral prominens พบได้ที่กระดูก T11",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 110,
@@ -1521,9 +1413,8 @@
       "ง": "Phalanges สามารถพบได้ที่ Lower Extremity เท่านั้น",
       "จ": "Metacarpal bone สามารถพบได้ที่ Upper Extremity เท่านั้น"
     },
-    "explanation": "เพราะ Phalanges สามารถพบได้ที่ Upper Extremity เท่านั้น และ Lower Extremity มีเท้าและข้อเท้า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 111,
@@ -1535,9 +1426,8 @@
       "ง": "Osteocyte",
       "จ": "Osteoclast"
     },
-    "explanation": "เพราะ Osteocyte คือเซลล์หลักที่ทำให้ compact bone คงอยู่ได้ค่าเนื่องจากมีความสามารถในการสื่อสารกับกระดูกอื่น ๆ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 112,
@@ -1549,9 +1439,8 @@
       "ง": "Bone Repairing",
       "จ": "Bone Remodeling"
     },
-    "explanation": "เพราะ Bone Regeneration คือการซ่อมแซมกระดูกส่วนที่หักให้ประสานกันเหมือนเดิม โดยการสร้างใหม่ของกระดูกผ่านกระบวนการฟื้นฟู",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 113,
@@ -1563,9 +1452,8 @@
       "ง": "Parietal",
       "จ": "Ethmoid"
     },
-    "explanation": "กระดูกกะโหลกศีรษะส่วน Cranial bones ประกอบด้วย 8 ชิ้น ได้แก่ Frontal (1), Parietal (2), Temporal (2), Occipital (1), Sphenoid (1) และ Ethmoid (1) ส่วน Maxilla นั้นเป็นกระดูกของใบหน้า (Facial bones) ไม่ใช่ Cranial bone จึงเป็นข้อยกเว้นในคำถามนี้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Facial bone",
+    "answer": "ก"
   },
   {
     "id": 114,
@@ -1577,13 +1465,12 @@
       "ง": "ป้องกันอวัยวะภายใน",
       "จ": "เป็น bone marrow เพื่อผลิต blood cell"
     },
-    "explanation": "กระดูกไม่มีหน้าที่ผลิตฟอสฟอรัส แต่กระดูกทำหน้าที่เป็นแหล่งสะสมแคลเซียมและฟอสฟอรัส (เก็บสะสมไว้ในรูป Hydroxyapatite) หน้าที่จริงของกระดูก ได้แก่ การค้ำจุนร่างกายและทำให้เคลื่อนไหวได้ (ก), การสะสม Triglyceride ใน Yellow bone marrow (ค), การป้องกันอวัยวะภายใน (ง) และการสร้างเม็ดเลือดใน Red bone marrow (จ)",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 115,
-    "question": "นายสมัยประสบอุบัติเหตุกระดูก Pisiform แตก จากข้อความดังกล่าวนายสมัยได้รับบาดเจ็บบริเวณใด",
+    "question": "นายสมัยประสบอุบัติเหตุกระดูก Pisiform แตก จากข้อความดังกล่าวนาย\nสมัยได้รับบาดเจ็บบริเวณใด",
     "choices": {
       "ก": "Elbow joint",
       "ข": "Ankle joint",
@@ -1591,9 +1478,8 @@
       "ง": "Inferior radio-ulnar joint",
       "จ": "Carpo-metacarpal joint"
     },
-    "explanation": "กระดูก Pisiform เป็นหนึ่งในกระดูก Carpal bones ทั้ง 8 ชิ้นของ้อมือ (Wrist joint) โดยอยู่ในแถวต้น (Proximal row) ร่วมกับ Scaphoid, Lunate และ Triquetrum กระดูก Pisiform มีลักษณะเป็นเม็ดเล็กกลมคล้ายเมล็ดถั่ว (Sesamoid bone) อยู่ด้านฝ่ามือ บริเวณ Hypothenar eminence",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 116,
@@ -1605,9 +1491,8 @@
       "ง": "Gomphosis",
       "จ": "Scoliosis"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 117,
@@ -1619,9 +1504,8 @@
       "ง": "Trochlear notch",
       "จ": "Olecranon process"
     },
-    "explanation": "เพราะกระดูก Ulna ไม่มี Olecranon process",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 118,
@@ -1633,9 +1517,8 @@
       "ง": "Metacarpus",
       "จ": "Auditory ossicles"
     },
-    "explanation": "เพราะกระดูก Hip bone เป็น part ของ axial skeleton",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 119,
@@ -1647,13 +1530,12 @@
       "ง": "Knee joint",
       "จ": "Metacarpo–phalangeal joint"
     },
-    "explanation": "เพราะมีการเคลื่อนไหวในแนวเดียวเพียงแนวเดียวเท่านั้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 120,
-    "question": "ส่วนที่เป็นร่องบริเวณ Anterior surface of the proximal end of humerus เรียกว่าอะไร",
+    "question": "ส่วนที่เป็นร่องบริเวณ Anterior surface of the proximal end of \nhumerus เรียกว่าอะไร",
     "choices": {
       "ก": "Intercondylar fossa",
       "ข": "Coronoid fossa",
@@ -1661,13 +1543,12 @@
       "ง": "Intertubercular sulcus",
       "จ": "Trochlear notch"
     },
-    "explanation": "เนื่องจากเป็นร่องบริเวณที่ติดกับกระดูกอีกสองเส้น (condyles) และมีความลึกและความกว้าง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 121,
-    "question": "ยายแช่มลื่นล้มจนกระดูกสะโพกหัก (hip bone) กระดูกที่หักจัดเป็นกระดูกประเภทใด",
+    "question": "ยายแช่มลื่นล้มจนกระดูกสะโพกหัก (hip bone) กระดูกที่หักจัดเป็นกระดูก\nประเภทใด",
     "choices": {
       "ก": "Irregular bone",
       "ข": "Long bone",
@@ -1675,9 +1556,8 @@
       "ง": "Short bone",
       "จ": "Flat bone"
     },
-    "explanation": "เพราะไม่มีรูปร่างหรือโครงสร้างที่ชัดเจนตามธรรมชาติ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 122,
@@ -1689,9 +1569,8 @@
       "ง": "Horizontal plane",
       "จ": "Frontal plane"
     },
-    "explanation": "เพราะคำว่า 'Transverse plane' หมายถึงระนาบที่ขนานกับเส้นผ่านศูนย์กลางของสิ่งอ้างอิง ในขณะที่ 'Coronal plane' หมายถึงระนาบที่ขนานกับแกนหลัก",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Axial plane",
+    "answer": "ง"
   },
   {
     "id": 123,
@@ -1703,9 +1582,8 @@
       "ง": "Scapula + Humerus",
       "จ": "Clavicle + Humerus"
     },
-    "explanation": "Shoulder Girdle ประกอบด้วยกระดูก Clavicle และ Scapula",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 124,
@@ -1717,9 +1595,8 @@
       "ง": "Humerus + Radius + Ulna",
       "จ": "Ulna"
     },
-    "explanation": "คำว่า 'arm' มีความหมายสัมพันธ์กับ Humerus + Radius + Ulna เนื่องจากเป็นชื่อของส่วนต่างๆ ของแขนในระบบประสาทและกล้ามเนื้อ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 125,
@@ -1731,9 +1608,8 @@
       "ง": "Head of femur",
       "จ": "Neck of femur"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 126,
@@ -1745,9 +1621,8 @@
       "ง": "Shoulder joint + Elbow joint",
       "จ": "Hip joint + Knee joint"
     },
-    "explanation": "เนื่องจาก Hip joint + Shoulder joint เป็นชนิด ball and socket ที่มีการเคลื่อนไหวมากที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 127,
@@ -1759,9 +1634,8 @@
       "ง": "Elbow joint",
       "จ": "Ankle joint"
     },
-    "explanation": "Acetabulum คือโครงสร้างที่รับแรงดันจาก Head of femur ใน Hip joint",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 128,
@@ -1773,9 +1647,8 @@
       "ง": "Vertebral column + Lower extremity",
       "จ": "Axial skeleton + Appendicular skeleton"
     },
-    "explanation": "โครงกระดูกของมนุษย์แบ่งออกเป็นสองส่วนหลัก ได้แก่ สกุลตัว (Axial skeleton) และส่วนประกอบที่อยู่ห่างจากศีรษะ (Appendicular skeleton)",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "129.Xiphi–sternal junction เป็นบริเวณที่ Rib ใดมาเกาะ \nก. 1strib \nข. 2ndrib \nค. 4thrib \nง. 5thrib \nจ. 7thrib",
+    "answer": "จ"
   },
   {
     "id": 130,
@@ -1787,9 +1660,8 @@
       "ง": "Caudal",
       "จ": "Cranial"
     },
-    "explanation": "คำว่า 'Tail' มีความหมายตรงข้ามกับคำว่า 'Cranial', ซึ่งหมายถึงส่วนต่ำของกระดูกที่อยู่ห่างจากศีรษะ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 131,
@@ -1801,9 +1673,8 @@
       "ง": "Fibula",
       "จ": "Femur"
     },
-    "explanation": "Fibular notch เป็นโครงสร้างบนกระดูก Fibula",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 132,
@@ -1815,9 +1686,8 @@
       "ง": "First metacarpophalangeal joint",
       "จ": "Second metacarpophalangeal joint"
     },
-    "explanation": "นิ้วหัวแม่มือ (Thumb หรือ Digit I) ประกอบด้วยกระดูก Phalanx เพียง 2 ชิ้น คือ Proximal phalanx และ Distal phalanx ข้อต่อระหว่างกระดูกทั้งสองชิ้นนี้เรียกว่า Interphalangeal joint of the thumb หรือ First interphalangeal joint (IP joint) ซึ่งต่างจากนิ้วอื่นที่มี 3 ชิ้น และมีทั้ง Proximal interphalangeal joint (PIP) และ Distal interphalangeal joint (DIP)",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 133,
@@ -1829,9 +1699,8 @@
       "ง": "เนื้อเยื่อทั้งสองข้างของกระดูกนิ้วมือเท่ากัน",
       "จ": "ไม่เห็นส่วนปลายของกระดูกแขน"
     },
-    "explanation": "ในภาพรังสีมือท่า PA projection ที่ได้มาตรฐาน ควรเห็นส่วนปลายของกระดูกแขน (distal radius และ ulna) เสมอ เพื่อให้ครอบคลุมกระดูกข้อมือ (carpal bones) ทั้งหมด หากไม่เห็นส่วนปลายของกระดูกแขนถือว่าภาพไม่ครบถ้วนและไม่เหมาะสม ส่วนตัวเลือกอ่น ๆ ล้วนเป็นเกณฑ์ที่บ่งชี้ว่าภาพมีคุณภาพดี เช่น joint spaces เปิดชัด นิ้วไม่ซ้อนกัน และ soft tissue สองข้างเท่ากัน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 134,
@@ -1843,9 +1712,8 @@
       "ง": "Trapezium",
       "จ": "Hamate"
     },
-    "explanation": "กระดูก Scaphoid (หรือ Navicular) เป็นกระดูกข้อมือที่พบการหักบ่อยที่สุด คิดเป็นประมาณ 60–70% ของการหักกระดูกข้อมือทั้งหมด มักเกิดจากการล้มและใช้มือยันพื้นในท่า dorsiflexion ปัญหาสำคัญคือการหักบริเวณ waist ของ Scaphoid อาจทำให้เลือดไปเลี้ยงไม่เพียงพอ (avascular necrosis) ได้ เนื่องจากหลอดเลือดเข้าทางส่วนปลาย และบางครั้งภาพรังสีธรรมดาอาจไม่เห็นรอยหักในระยะแรก",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 135,
@@ -1857,9 +1725,8 @@
       "ง": "radius",
       "จ": "Ulna"
     },
-    "explanation": "Colles' fracture คือการหักของส่วนปลาย (distal end) ของกระดูก Radius โดยชิ้นกระดูกที่หักจะเคลื่อนไปทางด้านหลัง (dorsal displacement) และด้านข้าง (radial displacement) ทำให้เห็นลักษณะที่เรียกว่า 'dinner fork deformity' บนภาพรังสี มักเกิดจากการล้มและใช้มือยันพื้นในท่า extended wrist",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Distal radius fracture",
+    "answer": "ง"
   },
   {
     "id": 136,
@@ -1871,9 +1738,8 @@
       "ง": "sphenoid",
       "จ": "vomer"
     },
-    "explanation": "กระดูก Malleus เป็นหนึ่งในกระดูกหูชั้นกลาง (ossicles) 3 ชิ้น ได้แก่ Malleus, Incus และ Stapes ซึ่งอยู่ในหูชั้นกลาง (middle ear) บริเวณเยื่อแก้วหู (eardrum/tympanic membrane) โดย Malleus จะติดอยู่กับ tympanic membrane โดยตรง ทำหน้าที่รับและส่งต่อการสั่นสะเทือนของเสียงไปยัง Incus และ Stapes ตามลำดับ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 137,
@@ -1885,9 +1751,8 @@
       "ง": "ที่ 11ถึงที่ 12",
       "จ": "vertersternal ribs"
     },
-    "explanation": "คำว่า 'Floating ribs' หมายถึงซี่โครงซี่ที่ 11 และ 12 ซึ่งเป็นซี่โครงที่ไม่มีการยึดติดกับกระดูก sternum และไม่มีการเชื่อมต่อกับซี่โครงซี่อื่น ๆ ทางด้านหน้าเลย ต่างจาก True ribs (ซี่ที่ 1–7) ที่ยึดติดกับ sternum โดยตรง และ False ribs (ซี่ที่ 8–10) ที่เชื่อมต่อกับ costal cartilage ของซี่โครงซี่ที่ 7 อีกทอดหนึ่ง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 138,
@@ -1899,13 +1764,12 @@
       "ง": "Dextropedal",
       "จ": "Retrocardia"
     },
-    "explanation": "Dextrocardia คือภาวะที่หัวใจอยู่ทางด้านขวาของทรวงอก (mirror image) แทนที่จะอยู่ทางด้านซ้ายตามปกติ อาจพบร่วมกับ Situs inversus ซึ่งอวัยวะภายในทั้งหมดสลับข้าง ส่วน Cardioverter คืออุปกรณ์ไฟฟ้าที่ใช้แปลงจังหวะการเต้นของหัวใจ, Dextropedal หมายถึงความถนัดขวาของเท้า และ Retrocardia ไม่ใช่คำศัพท์ทางการแพทย์มาตรฐาน",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 139,
-    "question": "หลอดเลือดแดงและหลอดเลือดดำที่นำโลหิตไปสู่และออกจากหัวใจไปยังปอด คือ หลอดเลือดใด",
+    "question": "หลอดเลือดแดงและหลอดเลือดดำที่นำโลหิตไปสู่และออกจากหัวใจไปยังปอด \nคือ หลอดเลือดใด",
     "choices": {
       "ก": "Coronary vessels",
       "ข": "Inferior vena cava",
@@ -1913,9 +1777,8 @@
       "ง": "Superior vena cava",
       "จ": "Thoracic aorta"
     },
-    "explanation": "Pulmonary vessels หรือหลอดเลือดปอด ประกอบด้วย Pulmonary artery ที่นำเลือดำ (deoxygenated blood) จากหัวใจห้องขวา (right ventricle) ไปยังปอด และ Pulmonary vein ที่นำเลือดแดง (oxygenated blood) กลับจากปอดสู่หัวใจห้องซ้าย (left atrium) ส่วน Coronary vessels คือหลอดเลือดที่เลี้ยงกล้ามเนื้อหัวใจ, Inferior/Superior vena cava นำเลือดจากร่างกายกลับสู่หัวใจ และ Thoracic aorta นำเลือดออกจากหัวใจไปสู่ร่างกาย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 140,
@@ -1927,9 +1790,8 @@
       "ง": "Meninges",
       "จ": "Menisci"
     },
-    "explanation": "Ascites คือภาวะที่มีของเหลวสะสมอยู่ภายในช่องท้อง (Peritoneal cavity) หรือ Peritoneum สาเหตุที่พบ่อย ได้แก่ ตับแข็ง (Liver cirhosis), ภาวะหัวใจล้มเหลว, และมะเร็งในช่องท้อง ส่วนของเหลวใน Pericardium เรียกว่า Pericardial effusion, ใน Pleura เรียกว่า Pleural effusion และใน Meninges เรียกว่า Hydrocephalus หรือ Meningeal effusion",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 141,
@@ -1941,9 +1803,8 @@
       "ง": "Pyloric canal",
       "จ": "Insizuraangularis"
     },
-    "explanation": "เพราะช่องเปิดที่อยู่ระหว่างกระเพาะอาหาร และลำไส้เล็กส่วนต้น มองเห็นได้ชัดเจนที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 142,
@@ -1955,13 +1816,12 @@
       "ง": "Liver",
       "จ": "Spleen"
     },
-    "explanation": "เอนไซม์ที่ทำหน้าที่ย่อยอาหารสร้างและขับออกมาจากอวัยวะ Pancreas",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 143,
-    "question": "ช่องเปิดที่ผิดปกติตั้งแต่กำเนิด ที่อยู่ระหว่าง pulmonary artery และ aorta เรียกว่าอะไร",
+    "question": "ช่องเปิดที่ผิดปกติตั้งแต่กำเนิด ที่อยู่ระหว่าง pulmonary artery และ aorta \nเรียกว่าอะไร",
     "choices": {
       "ก": "Patent ductus arteriosus",
       "ข": "Cardiac conduction defect",
@@ -1969,9 +1829,8 @@
       "ง": "Cardiac tamponade",
       "จ": "Congenital heart disease"
     },
-    "explanation": "ช่องเปิดที่ผิดปกติตั้งแต่กำเนิด ที่อยู่ระหว่าง pulmonary artery และ aorta เรียกว่า Patent ductus arteriosus",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 144,
@@ -1983,9 +1842,8 @@
       "ง": "Thymus gland",
       "จ": "Thyroid gland"
     },
-    "explanation": "Pituitary gland (ต่อมใต้สมอง หรือ ต่อมพิทูอิทารี) ตั้งอยู่ใน Sella turcica ซึ่งเป็นโพรงรูปอานม้าบนกระดูก sphenoid ที่ฐานกะโหลกศีรษะ ทำหน้าที่ควบคุมการหลั่งฮอร์โมนต่าง ๆ ของร่างกาย ส่วน Adrenal gland อยู่เหนือไต, Pancreas อยู่ในช่องท้อง, Thymus อยู่ในช่องอก และ Thyroid อยู่บริเวณคอ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 145,
@@ -1997,9 +1855,8 @@
       "ง": "Mouth, Tongue and Throat",
       "จ": "Thyroid, Tongue and Throat"
     },
-    "explanation": "Internal carotid artery เป็นหลอดเลือดแงที่จ่ายเลือดหลักให้กับ cerebrum (สมองส่วนใหญ่) และ eye (ตา) ผ่านทาง ophthalmic artery ซึ่งเป็นกิ่งแรกของ internal carotid artery ส่วน external carotid artery จะจ่ายเลือดให้บริเวณใบหน้า ใบหู หน้าผาก ปาก ลิ้น และคอ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 146,
@@ -2011,9 +1868,8 @@
       "ง": "Hemothorax",
       "จ": "Hydropneumothorax"
     },
-    "explanation": "Pneumothorax คือภาวะที่มีอากาศสะสมอยู่ใน pleural space (ช่องระหว่างเยื่อหุ้มปอด) ส่งผลให้ปอดแฟบได้ ส่วน Pneumoperitoneum คืออากาศในช่องท้อง, Pleural effusion คือของเหลวในช่องเยื่อหุ้มปอด, Hemothorax คือเลือดในช่องเยื่อหุ้มปอด และ Hydropneumothorax คือภาวะที่มีทั้งของเหลวและอากาศอยู่ในช่องเยื่อหุ้มปอดพร้อมกัน",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 147,
@@ -2025,9 +1881,8 @@
       "ง": "Splenic flexure",
       "จ": "Transverse colon"
     },
-    "explanation": "เพราะลำไส้ใหญ่ข้างซ้ายมี Appendix ที่อยู่ใกล้กับ Iliac fossa",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 148,
@@ -2039,9 +1894,8 @@
       "ง": "Sinus",
       "จ": "Varix"
     },
-    "explanation": "เพราะอวัยวะภายในที่มีรูทะลุเปิดสู่ภายนอก เรียกว่า Sinus",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 149,
@@ -2053,9 +1907,8 @@
       "ง": "Submaxillary gland",
       "จ": "Submandibular gland"
     },
-    "explanation": "เพราะต่อมน้ าลาย Parotid gland มีขนาดใหญ่ที่สุดในร่างกาย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 150,
@@ -2067,9 +1920,8 @@
       "ง": "Scrotum",
       "จ": "Urinary bladder"
     },
-    "explanation": "เนื่องจากอวัยวะ Scrotum มีหนังผนึกและไม่มีน้ำมันลอย ทำให้ไม่สามารถตรวจด้วยเครื่องอัลตราซาวด์ได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 151,
@@ -2081,9 +1933,8 @@
       "ง": "Radial artery",
       "จ": "Peplitealartery"
     },
-    "explanation": "เส้นเลือดแดงที่ใช้ในการตรวจจับชีพจรของผู้ป่วยโดยทั่วๆ ไป คือ Radial artery เนื่องจากมีความสะดวกในการเข้าถึงและสามารถตรวจสอบได้ง่าย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 152,
@@ -2095,9 +1946,8 @@
       "ง": "Alveoli",
       "จ": "Lung"
     },
-    "explanation": "Alveoli เป็น Air sac ที่อยู่ภายในลิ้นชักซึ่งเป็นส่วนหนึ่งของระบบหายใจ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 153,
@@ -2109,9 +1959,8 @@
       "ง": "ปอด",
       "จ": "หลอดลม"
     },
-    "explanation": "เพราะอวัยวะต่างๆ มักจะอยู่ภายใน Mediastinum เช่น หัวใจ หลอดเลือดแดงใหญ่ และหลอดลม ในขณะที่ปอดอยู่ภายนอก",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 154,
@@ -2123,9 +1972,8 @@
       "ง": "Tibia",
       "จ": "Fibula"
     },
-    "explanation": "Trochlea และ Capitulum เป็นส่วนหนึ่งของกระดูก Humerus ซึ่งเป็นกระดูกที่เชื่อมต่อกับแขน",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 155,
@@ -2137,13 +1985,12 @@
       "ง": "Medulla",
       "จ": "Infundibulum"
     },
-    "explanation": "ไตประกอบด้วยส่วนต่างๆ เช่น Pelvis Calyx Utricle Medulla และ Infundibulum ดังนั้น ชื่อใดๆ ก็เป็นส่วนประกอบทางกายวิภาคศาสตร์ของไต",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 156,
-    "question": "ส่วนประกอบสำคัญ 3 ส่วน ของกระดูกหน้าอก (sternum) ได้แก่ Body, Xiphoid และ .............",
+    "question": "ส่วนประกอบสำคัญ 3 ส่วน ของกระดูกหน้าอก (sternum) ได้แก่ Body, \nXiphoid และ .............",
     "choices": {
       "ก": "Acromion",
       "ข": "Glenoid",
@@ -2151,9 +1998,8 @@
       "ง": "Pedicle",
       "จ": "Odontoid"
     },
-    "explanation": "กระดูกหน้าอก (Sternum) ประกอบด้วย 3 ส่วนหลัก ได้แก่ 1) Manubrium (ส่วนบน) 2) Body หรือ Gladiolus (ส่วนกลาง) และ 3) Xiphoid process (ส่วนปลายล่าง) ส่วน Acromion และ Glenoid เป็นส่วนของกระดูก Scapula, Pedicle เป็นส่วนของกระดูกสันหลัง และ Odontoid (Dens) เป็นส่วนของกระดูก C2 (Axis)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 157,
@@ -2165,9 +2011,8 @@
       "ง": "Costal margin",
       "จ": "Umbilicus"
     },
-    "explanation": "Surface anatomy หมายถึงจุดหรือโครงสร้างทางกายวิภาคที่สามารถมองเห็นหรือคลำได้จากภายนอกร่างกาย ได้แก่ Jugular notch (คลำได้ที่ด้านบนของ Manubrium), Iliac crest (คลำได้ที่สะโพก), Costal margin (ขอบชายโครง) และ Umbilicus (สะดือ) ส่วน Intervertebral disc ของ T4-T5 นั้นอยู่ลึกภายในร่างกาย ไม่สามารถมองเห็นหรือคลำได้โดยตรงจากภายนอก จึงไม่จัดเป็น Surface anatomy",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 158,
@@ -2179,9 +2024,8 @@
       "ง": "Condyloid joint",
       "จ": "Ball and socket joint"
     },
-    "explanation": "Suture joint เป็นข้อต่อชนิด Fibrous joint (ข้อต่อที่มีเนื้อเยื่อเส้นใยเชื่อมระหว่างกระดูก) พบในกะโหลกศีรษะ ไม่มี synovial cavity และไม่มีการเคลื่อนไหว ส่วน Pivot, Hinge, Condyloid และ Ball-and-socket joint ล้วนเป็น Synovial joint ที่มี synovial cavity, articular cartilage และ joint capsule ครบถ้วน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 159,
@@ -2193,9 +2037,8 @@
       "ง": "Ethmoid bone",
       "จ": "Sphemoidbone"
     },
-    "explanation": "เพราะข้ออื่นๆ มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "Facial bone",
+    "answer": "ข"
   },
   {
     "id": 160,
@@ -2207,23 +2050,21 @@
       "ง": "Lambdoid suture",
       "จ": "Sphenoparietalsuture"
     },
-    "explanation": "เพราะช่องว่างระหว่างขาและกระดูกกะโหลกศีรษะสามารถมองเห็นได้จากด้านล่างมากกว่าด้านข้าง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 161,
     "question": "ข้อใดต่อไปนี้เป็นช่องทางติดต่อระหว่าง 3rdกับ 4thventricle",
     "choices": {
-      "ก": "ข้อใดต่อไปนี้เป็นช่องทางติดต่อระหว่าง 3rdกับ 4thventricle Foramen of Monro",
+      "ก": "ข้อใดต่อไปนี้เป็นช่องทางติดต่อระหว่าง 3rdกับ 4thventricle \nForamen of Monro",
       "ข": "Interventricular foramen",
       "ค": "Cerebral aqueduct",
       "ง": "Foramen of Luchka",
       "จ": "Foramen of Magendie"
     },
-    "explanation": "เนื่องจากเป็นช่องทางติดต่อระหว่าง 3rdและ 4th ventricle โดยมีกระดูกสันหลังเป็นกรอบ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 162,
@@ -2235,9 +2076,8 @@
       "ง": "Posterior cerebral artery",
       "จ": "Posterior communicating artery"
     },
-    "explanation": "Middle cerebral artery (MCA) ไม่ใช่ส่วนประกอบของ Circle of Willis เนื่องจาก MCA แยกออกจาก internal carotid artery แล้ววิ่งออกด้านข้างโดยตรง ไม่ได้เป็นส่วนของวงแหวน Circle of Willis ประกอบด้วย: anterior cerebral artery (ACA) ทั้งสองข้าง, anterior communicating artery, internal carotid artery, posterior communicating artery และ posterior cerebral artery (PCA) ทั้งสองข้าง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 163,
@@ -2249,9 +2089,8 @@
       "ง": "Common carotid artery",
       "จ": "Superior vena cava"
     },
-    "explanation": "Superior vena cava (SVC) เป็นหลอดเลือดดำขนาดใหญ่ที่อยู่ในช่องก (thorax) ทำหน้าที่รับเลือดดำจากส่วนบนของร่างกายเข้าสู่หัวใจห้อง Right atrium โดยตรง ไม่ได้อยู่ในบริเวณลำคอ ส่วนหลอดเลือดอื่นๆ ในตัวเลือก ได้แก่ Subclavian artery, External carotid artery, Internal carotid artery และ Common carotid artery ล้วนมีส่วนทีิ่งผ่านหรืออยู่ในบริเวณลำคอทั้งสิ้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 164,
@@ -2263,9 +2102,8 @@
       "ง": "Pulmonary vein",
       "จ": "Superior vena cava"
     },
-    "explanation": "Pulmonary vein (หลอดเลือดดำปอด) เป็นหลอดเลือดเพียงชนิดเดียวในร่างกายที่เป็น vein แต่บรจุเลือดแดง (oxygenated blood) โดยทำหน้าที่นำเลือดที่ผ่านการแลกเปลี่ยนก๊าซที่ปอดแล้วกลับเข้าสู่หัวใจห้อง Left atrium มี 4 เส้น (2 เส้นจากปอดข้างละ 2 เส้น) ส่วน Pulmonary artery นำเลือดดำ (deoxygenated blood) จากหัวใจออกไปยังปอด และ Superior/Inferior vena cava นำเลือดดำจากร่างกายเข้าสู่หัวใจห้อง Right atrium",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 165,
@@ -2277,9 +2115,8 @@
       "ง": "Sternum",
       "จ": "Skull"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "Axial\nAxial\nAxial\nAxial",
+    "answer": "ก"
   },
   {
     "id": 166,
@@ -2291,9 +2128,8 @@
       "ง": "Trapezium",
       "จ": "Scaphoid"
     },
-    "explanation": "เพราะกระดูก Calcaneus เป็นส่วนหนึ่งของกระดูกแกนกลาง (Axial skeleton)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 167,
@@ -2305,9 +2141,8 @@
       "ง": "Trapezoid",
       "จ": "Capitate"
     },
-    "explanation": "เพราะกระดูก Scaphoid เชื่อมต่อกับกระดูก First metacarpal",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 168,
@@ -2319,9 +2154,8 @@
       "ง": "Spinous process of T1",
       "จ": "Transverse process of C7"
     },
-    "explanation": "Vertebral prominence หมายถึง Spinous process ของกระดูกสันหลังคอชิ้นที่ 7 (C7) ซึ่งมีปุ่ม spinous process ที่ยื่นออกมามากที่สุดและสามารถคลำได้ชัดเจนที่บริเวณต้นคอ จึงใช้เป็น bony landmark สำคัญในทางรังสีวิทยา",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 169,
@@ -2333,9 +2167,8 @@
       "ง": "Testes and ovaries",
       "จ": "Vocal fold and larynx"
     },
-    "explanation": "Abdominal cavity (ช่องท้อง) ประกอบด้วยอวัยวะต่างๆ ได้แก่ ตับ (liver) ม้าม (spleen) กระเพาะอาหาร (stomach) ลำไส้เล็ก ลำไส้ใหญ่ ตับอ่อน และไต ส่วน heart และ lungs อยู่ใน thoracic cavity, urinary bladder และ reproductive organs อยู่ใน pelvic cavity, testes อยู่ภายนอกช่องท้อง และ vocal fold กับ larynx อยู่บริเวณคอ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 170,
@@ -2347,9 +2180,8 @@
       "ง": "Ilium",
       "จ": "Scapula"
     },
-    "explanation": "Midsagittal plane (median plane) คือระนาบที่แบ่งร่างกายออกเป็นซีกซ้ายและขวาเท่ากัน โดยผ่านแนวกึ่งกลางของร่างกาย กระดูก sternum (กระดูกหน้าอก) ตั้งอยู่บนแนวกึ่งกลางของร่างกายพอดี จึงอยู่ใน midsagittal plane ส่วน external acoustic meatus, clavicle, ilium และ scapula ล้วนอยู่ด้านข้างของร่างกาย จึงไม่อยู่ใน midsagittal plane",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 171,
@@ -2361,9 +2193,8 @@
       "ง": "Thyroid cartilage",
       "จ": "Piriform recess"
     },
-    "explanation": "เพราะข้ออ่อนของ cartilage Thyroid มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 172,
@@ -2375,9 +2206,8 @@
       "ง": "Ascending duodenum",
       "จ": "Jejunum"
     },
-    "explanation": "ลำไส้เล็กส่วนปลายคือ Jejunum เนื่องจากมีความยาวและความกว้างน้อยกว่าลำไส้ทั้งอื่นๆ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 173,
@@ -2389,9 +2219,8 @@
       "ง": "Descending colon กับ Rectum",
       "จ": "Sigmoid colon กับ Rectum"
     },
-    "explanation": "Right colic flexure อยู่ระหว่าง Transverse colon กับ Descending colon เพราะเป็นจุดเปลี่ยนของลำไส้ใหญ่ในบริเวณนี้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 174,
@@ -2403,9 +2232,8 @@
       "ง": "Ascending duodenum",
       "จ": "Horizontal duodenum"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 175,
@@ -2417,9 +2245,8 @@
       "ง": "Maxillary sinus",
       "จ": "Sphenoid sinus"
     },
-    "explanation": "ข้ออื่นๆ ทั้งหมดเป็น Paranasal sinus แต่ Mastoid air cells ไม่ใช่",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 176,
@@ -2431,9 +2258,8 @@
       "ง": "Brachiocephalic artery",
       "จ": "Subclavian artery"
     },
-    "explanation": "Coronary artery แตกแขนงมาจาก Brachiocephalic artery",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 177,
@@ -2445,9 +2271,8 @@
       "ง": "Pelvic brim",
       "จ": "Pelvic diaphragm"
     },
-    "explanation": "เพราะกระดูก Pelvic brim เป็นขอบเขตที่ชัดเจนระหว่าง Abdominal cavity กับ Pelvic cavity",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 178,
@@ -2459,9 +2284,8 @@
       "ง": "Maxillary bone",
       "จ": "Occipital bone"
     },
-    "explanation": "Petrous portion เป็นส่วนหนึ่งของ Temporal bone ซึ่งเป็นผลมาจากกระบวนการพัฒนาของกระดูกTemporal",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 179,
@@ -2473,9 +2297,8 @@
       "ง": "Arachnoid mater",
       "จ": "Aponeurosis"
     },
-    "explanation": "Dura mater คือเยื่อหุ้มสมองที่อยู่ในสุด และเป็นเยื่อหนาและแข็งที่ปกคลุมสมองและแตกออกมาจากขอบเขตของ Cranium",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "1st\n2nd skull\n3rd\n4th\n5th\n6th Brain",
+    "answer": "ข"
   },
   {
     "id": 180,
@@ -2487,9 +2310,8 @@
       "ง": "Oesopharynx",
       "จ": "Trachea"
     },
-    "explanation": "เนื่องจาก Esophagus ต่อจาก Oesopharynx",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 181,
@@ -2501,9 +2323,8 @@
       "ง": "Left atrium",
       "จ": "Left ventricle"
     },
-    "explanation": "เนื่องจาก Left ventricle มีกล้ามเนื้อหนาและแข็งแรงที่สุด",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 182,
@@ -2515,13 +2336,12 @@
       "ง": "L1",
       "จ": "L4-5"
     },
-    "explanation": "เนื่องจาก Bifurcation of Common iliac artery อยู่ที่ L1",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 183,
-    "question": "แคลเซียมที่สร้างขึ้นใหม่เพื่อซ่อมแซมกระดูกที่มีการแตกหรือหัก มองเห็นบนภาพรังสีเป็นเงาสีขาว มีศัพท์เรียกว่าอะไร",
+    "question": "แคลเซียมที่สร้างขึ้นใหม่เพื่อซ่อมแซมกระดูกที่มีการแตกหรือหัก มองเห็นบน\nภาพรังสีเป็นเงาสีขาว มีศัพท์เรียกว่าอะไร",
     "choices": {
       "ก": "Osteoclast",
       "ข": "Callus",
@@ -2529,13 +2349,12 @@
       "ง": "Spur",
       "จ": "Spongy bone"
     },
-    "explanation": "เพราะ Callus คือการสร้างขึ้นใหม่ของกระดูกหลังการแตกหรือหัก",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "???",
+    "answer": "ค"
   },
   {
     "id": 184,
-    "question": "“คอ” ของ Scotty dog ในภาพรังสีท่า Oblique 45oบริเวณกระดูกสันหลังส่วนเอว คือส่วนใด",
+    "question": "“คอ” ของ Scotty dog ในภาพรังสีท่า Oblique 45oบริเวณกระดูกสันหลัง\nส่วนเอว คือส่วนใด",
     "choices": {
       "ก": "Pedicle",
       "ข": "Pars interarticularis",
@@ -2543,13 +2362,12 @@
       "ง": "Spinous process",
       "จ": "Body"
     },
-    "explanation": "“คอ” ของ Scotty dog ในภาพรังสีท่า Oblique 45oบริเวณกระดูกสันหลังส่วนเอว คือ Superior articular process",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 185,
-    "question": "การตรวจพิเศษทางรังสีของระบบทางเดินอาหาร ส่วนใดมองเห็นเป็นลักษณะคล้ายกับ Feathery type (ขนนก)",
+    "question": "การตรวจพิเศษทางรังสีของระบบทางเดินอาหาร ส่วนใดมองเห็นเป็นลักษณะ\nคล้ายกับ Feathery type (ขนนก)",
     "choices": {
       "ก": "Superior Duodenum",
       "ข": "Jejunum",
@@ -2557,9 +2375,8 @@
       "ง": "Caecum",
       "จ": "Colon"
     },
-    "explanation": "การตรวจพิเศษทางรังสีของระบบทางเดินอาหาร ส่วนใดมองเห็นเป็นลักษณะคล้ายกับ Feathery type (ขนนก) คือ Jejunum",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 186,
@@ -2571,9 +2388,8 @@
       "ง": "Uterine tube",
       "จ": "Urethra"
     },
-    "explanation": "เพราะ Vesicovaginal fistula เกิดจากการเชื่อมท่อระหว่าง vagina กับ Urinary bladder",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 187,
@@ -2585,9 +2401,8 @@
       "ง": "Pia matter กับ Archanoidmatter",
       "จ": "Pia matter กับ Cistern"
     },
-    "explanation": "เพราะ Subdural hematoma เกิดขึ้นจากเลือดออกบริเวณ Dura matter กับ Archanoidmatter",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Crescent shape",
+    "answer": "ค"
   },
   {
     "id": 188,
@@ -2599,9 +2414,8 @@
       "ง": "Ascending",
       "จ": "Horizintal"
     },
-    "explanation": "เพราะ Duodenal ulcer พบบ่อยที่สุดบริเวณ Ascending ของ Duodenum",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 189,
@@ -2613,9 +2427,8 @@
       "ง": "Costal margin",
       "จ": "Umbilicus"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 190,
@@ -2627,9 +2440,8 @@
       "ง": "Lateral sulcus เป็นแนวแบ่งสมองส่วน Parietal lobe กับ Temporal lobe",
       "จ": "Lateral sulcus เป็นแนวแบ่งสมองส่วน Occipital lobe กับ Temporal lobe"
     },
-    "explanation": "เนื่องจาก Lateral sulcus เป็นแนวแบ่งสมองส่วน Occipital lobe กับ Temporal lobe จริงๆ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 191,
@@ -2641,9 +2453,8 @@
       "ง": "Pons",
       "จ": "Cerebellum"
     },
-    "explanation": "Thalamus จัดอยู่ในกลุ่ม Diencephalon ซึ่งเป็นส่วนหนึ่งของสมอง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 192,
@@ -2655,13 +2466,12 @@
       "ง": "Occipital lobe",
       "จ": "Insula lobe"
     },
-    "explanation": "เพราะโครงสร้างของสมองอยู่ในพื้นที่ Occipital lobe ซึ่งมีหน้าที่เกี่ยวกับการมองเห็น",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 193,
-    "question": "ถ้าตัดตามขวาง Axial section ผ่านระดับ Midbrain ของสมองจะไม่พบโครงสร้างใดต่อไปนี้",
+    "question": "ถ้าตัดตามขวาง Axial section ผ่านระดับ Midbrain ของสมองจะไม่พบ\nโครงสร้างใดต่อไปนี้",
     "choices": {
       "ก": "Superior colliculus",
       "ข": "Inferior colliculus",
@@ -2669,9 +2479,8 @@
       "ง": "Tegmentum",
       "จ": "4thventricle"
     },
-    "explanation": "เพราะโครงสร้างที่ตัดตามขวาง Axial section ผ่านระดับ Midbrain ของสมองจะพบ Cerebral peduncle อยู่ด้านล่าง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 194,
@@ -2683,9 +2492,8 @@
       "ง": "Foramen of Magendie",
       "จ": "Foramen of Magnum"
     },
-    "explanation": "เพราะช่องทางระหว่าง Lateral ventricle กับ 3rdventricle คือ Foramen of Monro ซึ่งเป็นช่องทางหลักในการติดต่อระหว่างทั้งสองห้อง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Interventicular foramen",
+    "answer": "ก"
   },
   {
     "id": 195,
@@ -2697,13 +2505,12 @@
       "ง": "Hypothalamus",
       "จ": "Hind Brain"
     },
-    "explanation": "เพราะต้องผ่าน Forebrain และ Hippocampus ที่อยู่ในระดับ Forebrain",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 196,
-    "question": "จงเรียงลำดับ Surface anatomy บริเวณลำคอจาก Superior ไป Inferior ให้ถูกต้องa. Cricoid cartilageb. Laryngeal protuberancec. Hyoid boned. Jugular notch",
+    "question": "จงเรียงลำดับ Surface anatomy บริเวณลำคอจาก Superior ไป Inferior ให้ถูกต้อง\na. Cricoid cartilage\nb. Laryngeal protuberance\nc. Hyoid bone\nd. Jugular notch",
     "choices": {
       "ก": "c a d b",
       "ข": "c b d a",
@@ -2711,9 +2518,8 @@
       "ง": "c b a d",
       "จ": "c a b d"
     },
-    "explanation": "เรียงลำดับ Surface anatomy บริเวณลำคอจาก Superior ไป Inferior คือ: Laryngeal protuberance, Cricoid cartilage, Hyoid bone และ Jugular notch",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "1st\n2nd\n3rd\n4th\nThyroid cartilage",
+    "answer": "ง"
   },
   {
     "id": 197,
@@ -2725,9 +2531,8 @@
       "ง": "Senile dementia",
       "จ": "Mental retardation"
     },
-    "explanation": "Hippocampus มีความเกี่ยวข้องกับโรค Alzheimer ซึ่งเป็นโรคที่เกิดจากความผิดปกติของ Hippocampus",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "ความจำ",
+    "answer": "ก"
   },
   {
     "id": 198,
@@ -2739,9 +2544,8 @@
       "ง": "Nasal cavity",
       "จ": "Superior nasal concha"
     },
-    "explanation": "เนื่องจาก Adenoid gland อยู่ใน Nasopharynx จึงสามารถมองเห็นได้ชัดเจนในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 199,
@@ -2753,13 +2557,12 @@
       "ง": "Patella",
       "จ": "Carpal bones"
     },
-    "explanation": "กระดูก Hip bones จัดอยู่ในกลุ่ม Axial skeleton เนื่องจากเป็นส่วนหนึ่งของลำตัว",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 200,
-    "question": "กลไกการหดตัวของกล้ามเนื้อลาย (Skeletal muscle) ต้องอาศัยไอออนใดเป็นหลัก",
+    "question": "กลไกการหดตัวของกล้ามเนื้อลาย (Skeletal muscle) ต้องอาศัยไอออนใด\nเป็นหลัก",
     "choices": {
       "ก": "Na+",
       "ข": "H+",
@@ -2767,9 +2570,8 @@
       "ง": "Cl-",
       "จ": "Ca2+"
     },
-    "explanation": "การหดตัวของกล้ามเนื้อลาย (Skeletal muscle) ต้องอาศัยไอออน K+ เป็นหลัก เนื่องจากช่วยควบคุมการขยายและยืดตัวของมวลเซลล์",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 201,
@@ -2781,23 +2583,21 @@
       "ง": "Spleen",
       "จ": "Colon"
     },
-    "explanation": "เนื่องจาก Teeth ไม่ได้ถูกมองว่าเป็นส่วนหนึ่งของระบบทางเดินอาหาร (Digestive system) ในทางชีววิทยา",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 202,
     "question": "ข้อใดกล่าวถูกต้องเกี่ยวกับระบบขับถ่ายปัสสาวะ",
     "choices": {
       "ก": "เส้นเลือดแดงที่มาเลี้ยงไตคือ kidney artery",
-      "ข": "Bowman’s capsule คือ ส่วนของเส้นเลือดฝอย ซึ่งทำหน้าที่ในการกรองของเสียออกจากเลือด",
+      "ข": "Bowman’s capsule คือ ส่วนของเส้นเลือดฝอย ซึ่งทำหน้าที่ในการ\nกรองของเสียออกจากเลือด",
       "ค": "ตำแหน่งของไตข้างขวาตั้งอยู่สูงกว่าไตข้างซ้าย",
       "ง": "Urethra เป็นส่วนที่รับของเสียที่กรองมาจากไตไปสู่กระเพาะปัสสาวะ",
       "จ": "กระเพาะปัสสาวะถูกควบคุมได้ทั้ง voluntary และ involuntary control"
     },
-    "explanation": "เพราะ Urethra เป็นเส้นสัมผัสที่รับของเสียที่กรองมาจากไตไปสู่กระเพาะปัสสาวะ และไม่ใช่ส่วนของระบบขับถ่ายปัสสาวะ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 203,
@@ -2805,13 +2605,12 @@
     "choices": {
       "ก": "Nervous tissue ประกอบไปด้วย neuron และ supporting cell (neuroglia)",
       "ข": "Central nervous system (CNS) ประกอบไปด้วย Brain และ Spinal cord",
-      "ค": "Peripheral nervous system (PNS) ประกอบไปด้วย Cranial nerves และ Spinal nerves",
-      "ง": "Somatic nervous system ควบคุมการทำงานของต่อมและอวัยวะภายในต่างๆ ของร่างกาย",
-      "จ": "Autonomic nervous system (ANS) ประกอบไปด้วย Parasympathetic และ Sympathetic division"
+      "ค": "Peripheral nervous system (PNS) ประกอบไปด้วย Cranial nerves และ \nSpinal nerves",
+      "ง": "Somatic nervous system ควบคุมการทำงานของต่อมและอวัยวะภายในต่างๆ \nของร่างกาย",
+      "จ": "Autonomic nervous system (ANS) ประกอบไปด้วย Parasympathetic และ"
     },
-    "explanation": "เนื่องจาก Somatic nervous system ควบคุมการทำงานของต่อมและอวัยวะภายในต่างๆ ของร่างกาย และไม่ได้ถูกกล่าวถึงในคำถามนี้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Sympathetic division",
+    "answer": "ง"
   },
   {
     "id": 204,
@@ -2823,9 +2622,8 @@
       "ง": "Scaphoid",
       "จ": "Trapezium"
     },
-    "explanation": "เพราะกระดูก Cuboid มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 205,
@@ -2837,9 +2635,8 @@
       "ง": "Femur",
       "จ": "ไม่มีข้อถูก"
     },
-    "explanation": "CollesFracture คือ fracture ที่เกิดกับกระดูก Distal Radius",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Distal radius fracture",
+    "answer": "ค"
   },
   {
     "id": 206,
@@ -2851,9 +2648,8 @@
       "ง": "Adrenal gland อยู่ superior ต่อ Kidney",
       "จ": "กระดูก Femur  อยู่ distal ต่อ กระดูก Tibia"
     },
-    "explanation": "Adrenal gland อยู่ superior ต่อ Kidney และ Rectum อยู่ anterior ต่อ Urinary bladder จึงเป็นความสัมพันธ์ที่ถูกต้อง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 207,
@@ -2865,9 +2661,8 @@
       "ง": "Ileum",
       "จ": "Stomach"
     },
-    "explanation": "เนื่องจากอวัยวะที่อยู่ในบริเวณ Epigastric region คืออวัยวะที่ตั้งอยู่ใกล้กับลำไส้ใหญ่ และมักจะถูกตรวจสอบใน X-ray ของลำไส้ใหญ่",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 208,
@@ -2879,13 +2674,12 @@
       "ง": "Shoulder joint",
       "จ": "Wrist joint"
     },
-    "explanation": "Glenohumeral joint เป็นข้อศอก ซึ่งเป็นข้อต่อระหว่างกระดูกหัวแขนและกระดูกต้นแขน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 209,
-    "question": "Medial และ Lateral condyles ของกระดูก Femur วางตัวอยู่บนกระดูกชิ้นใด",
+    "question": "Medial และ Lateral condyles ของกระดูก Femur วางตัวอยู่บนกระดูก\nชิ้นใด",
     "choices": {
       "ก": "Calcaneous",
       "ข": "Fibula",
@@ -2893,9 +2687,8 @@
       "ง": "Radius",
       "จ": "Tibia"
     },
-    "explanation": "Medial และ Lateral condyles ของกระดูก Femur วางตัวอยู่บนกระดูกทibia",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 210,
@@ -2907,9 +2700,8 @@
       "ง": "Towne",
       "จ": "Water"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 211,
@@ -2921,9 +2713,8 @@
       "ง": "Towne",
       "จ": "Water"
     },
-    "explanation": "เพราะกระดูก Occipital มองเห็นได้ชัดที่สุดในท่าที่เรียกว่า Caldwell view",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 212,
@@ -2935,13 +2726,12 @@
       "ง": "Maxillary sinus",
       "จ": "Sphenoidal sinus"
     },
-    "explanation": "โพรงอากาศ Cavernous sinus เป็นโพรงอากาศที่ใหญ่ที่สุดของระบบทางเดินหายใจ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 213,
-    "question": "ความผิดปกติชนิดใดที่เห็นจากการถ่ายภาพรังสีทรวงอก (Chest radiograph) ได้ยากที่สุด",
+    "question": "ความผิดปกติชนิดใดที่เห็นจากการถ่ายภาพรังสีทรวงอก (Chest radiograph) \nได้ยากที่สุด",
     "choices": {
       "ก": "Lung cancer",
       "ข": "Mediastinal mass",
@@ -2949,9 +2739,8 @@
       "ง": "Pneumonia",
       "จ": "Pneumothorax"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 214,
@@ -2963,9 +2752,8 @@
       "ง": "Pulmonary artery",
       "จ": "Trachea"
     },
-    "explanation": "เนื่องจากอวัยวะ Trachea มีขนาดเล็กและไม่ค่อยมีปริมาณเนื้อเยื่อ ทำให้ไม่สามารถเห็นได้ในภาพถ่ายรังสีทรวงอกปกติ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 215,
@@ -2977,9 +2765,8 @@
       "ง": "Pneumothorax",
       "จ": "Tuberculosis"
     },
-    "explanation": "เพราะ Pleural effusion มักจะทำให้การมองเห็นของกระดูกและอวัยวะรอบๆ ท้องอ่อนลง และอาจทำให้ภาพถ่ายรังสีทรวงอกไม่ชัดเจน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 216,
@@ -2991,9 +2778,8 @@
       "ง": "Jejunum",
       "จ": "Rectum"
     },
-    "explanation": "ลำไส้เล็กประกอบด้วย Jejunum และ Ileum",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 217,
@@ -3005,9 +2791,8 @@
       "ง": "Right common carotid artery",
       "จ": "Right subclavian artery"
     },
-    "explanation": "Arch of aorta มีแขนแรกคือ Left brachiocephalic artery",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 218,
@@ -3019,13 +2804,12 @@
       "ง": "Ileum",
       "จ": "Jejunum"
     },
-    "explanation": "Ileum เป็นส่วนหนึ่งของลำไส้เล็กที่อยู่ใกล้กับ Duodenum",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Feathery type",
+    "answer": "จ"
   },
   {
     "id": 219,
-    "question": "ชายวัยรุ่นถูกคนร้ายตีศีรษะบริเวณ pterion และกระโหลกศีรษะแตก แพทย์พบว่ามีเลือดออกบริเวณใต้เยื่อหุ้มสมอง ท่านคิดว่าหลอดเลือดใดน่าจะแตกมากที่สุด",
+    "question": "ชายวัยรุ่นถูกคนร้ายตีศีรษะบริเวณ pterion และกระโหลกศีรษะแตก แพทย์\nพบว่ามีเลือดออกบริเวณใต้เยื่อหุ้มสมอง ท่านคิดว่าหลอดเลือดใดน่าจะแตกมากที่สุด",
     "choices": {
       "ก": "Anterior cerebral artery",
       "ข": "Anterior inferior cerebellar artery",
@@ -3033,9 +2817,8 @@
       "ง": "Middle meningeal artery",
       "จ": "Posterior cerebral artery"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 220,
@@ -3047,9 +2830,8 @@
       "ง": "Pulmonary valve",
       "จ": "Tricuspid valve"
     },
-    "explanation": "หลอดเลือด Middle cerebral artery มักจะแตกมากที่สุดเมื่อ pterion และกระโหลกศีรษะถูกทำร้าย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 221,
@@ -3061,9 +2843,8 @@
       "ง": "Pulmonary vein",
       "จ": "Ascending aorta"
     },
-    "explanation": "หลอดเลือด Pulmonary artery นำเลือดออกจากหัวใจห้องล่างขวา (Right ventricle)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 222,
@@ -3075,9 +2856,8 @@
       "ง": "Midbrain",
       "จ": "Pons"
     },
-    "explanation": "เนื่องจากพิกัดของสมองส่วนนั้นมองเห็นได้ชัดเจนที่สุดใน PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 223,
@@ -3089,13 +2869,12 @@
       "ง": "Renal pelvis",
       "จ": "Ureter"
     },
-    "explanation": "เพราะท่อปัสสาวะหลักเป็นส่วนที่มีความกว้างและยาวมาก และสามารถมองเห็นได้ง่ายใน IVP",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 224,
-    "question": "ข้อใดเป็นท่อปัสสาวะผู้ชายส่วนที่มีกล้ามเนื้อลายเป็นหูรูดอยู่ล้อมรอบ ทำหน้าที่ควบคุมการขับถ่ายปัสสาวะ",
+    "question": "ข้อใดเป็นท่อปัสสาวะผู้ชายส่วนที่มีกล้ามเนื้อลายเป็นหูรูดอยู่ล้อมรอบ ทำ\nหน้าที่ควบคุมการขับถ่ายปัสสาวะ",
     "choices": {
       "ก": "Prostatic part",
       "ข": "Membranous part",
@@ -3103,9 +2882,8 @@
       "ง": "Penile part",
       "จ": "Bulbous part"
     },
-    "explanation": "เนื่องจากส่วนนี้ประกอบด้วยกล้ามเนื้อลายซึ่งล้อมรอบเพื่อควบคุมการขับถ่ายปัสสาวะ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 225,
@@ -3117,9 +2895,8 @@
       "ง": "Pineal gland",
       "จ": "Pituitary gland"
     },
-    "explanation": "เนื่องจาก Parathyroid gland มักจะอยู่ในบริเวณใกล้กับวงกลม และสามารถเห็นได้ชัดเจนในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 226,
@@ -3131,9 +2908,8 @@
       "ง": "Jejunum",
       "จ": "Rectum"
     },
-    "explanation": "Ileocecal valve เป็นส่วนที่อยู่ภายในวงกลม เนื่องจากเป็นจุดตัดของลำไส้เล็กและลำไส้ใหญ่",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 227,
@@ -3145,13 +2921,12 @@
       "ง": "Trapezium",
       "จ": "Trapezoid"
     },
-    "explanation": "Lunate เป็นกระดูกที่ลูกศรชี้ในภาพ เนื่องจากเป็นกระดูกที่มีความคล้ายกับวงกลมและมักจะเห็นได้ชัดเจนในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 228,
-    "question": "จากภาพแสดงเส้นอ้างอิงในภาพรังสีเชิงกราน “iliopectineal line” หมายถึงเส้นใด",
+    "question": "จากภาพแสดงเส้นอ้างอิงในภาพรังสีเชิงกราน “iliopectineal line” หมายถึง\nเส้นใด",
     "choices": {
       "ก": "L1",
       "ข": "L2",
@@ -3159,9 +2934,8 @@
       "ง": "L4",
       "จ": "L5"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 229,
@@ -3173,9 +2947,8 @@
       "ง": "External Carotid artery",
       "จ": "Basilar artery"
     },
-    "explanation": "เนื่องจากหลอดเลือด Internal Carotid artery มีความกว้างและใหญ่กว่า ทำให้มองเห็นได้ชัดเจนในภาพรังสีเชิงกราน",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 230,
@@ -3187,9 +2960,8 @@
       "ง": "Cartilaginous joint",
       "จ": "Gliding joint"
     },
-    "explanation": "เพราะข้อต่อชนิด Synovial joint มีการผลิตของเหลวมาก ซึ่งทำให้สามารถมองเห็นได้ในภาพรังสีเชิงกราน",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 231,
@@ -3201,9 +2973,8 @@
       "ง": "Trachea",
       "จ": "Inferior vena cava"
     },
-    "explanation": "เพราะ Inferior vena cava มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation และมีแนวโน้มจะอยู่นอกเส้นทางเดินน้ าดีที่สร้างจากตับไปยังลำไส้เล็กส่วนต้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "T12\nT10\nT8",
+    "answer": "ก"
   },
   {
     "id": 232,
@@ -3215,9 +2986,8 @@
       "ง": "Pancreatic duct",
       "จ": "Common bile duct"
     },
-    "explanation": "เพราะ Common bile duct มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation และเป็นหลอดเลือดที่เลี้ยงหัวใจ Coronary arteries เป็นแขนงของหลอดเลือด Subclavian artery",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 233,
@@ -3229,9 +2999,8 @@
       "ง": "Arch of aorta",
       "จ": "Left common carotid artery"
     },
-    "explanation": "เพราะ Coronary arteries เป็นแขนงของหลอดเลือด Left common carotid artery และมองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 234,
@@ -3243,9 +3012,8 @@
       "ง": "Pneumothorax",
       "จ": "Pneumonitis from Covid-19"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 235,
@@ -3257,9 +3025,8 @@
       "ง": "Posterior cerebral artery",
       "จ": "Basilar artery"
     },
-    "explanation": "เนื่องจาก Circle of Willis ไม่รวม Basilar artery และมีเพียงหกแกนหลักคือ Internal carotid artery, Anterior cerebral artery, Posterior communicating artery และ Posterior cerebral artery เท่านั้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 236,
@@ -3271,9 +3038,8 @@
       "ง": "Mid-horizontal plane",
       "จ": "Mid-sagittal plane"
     },
-    "explanation": "เพราะ Mid-sagittal plane เป็นแกนที่ใช้แบ่งร่างกายออกเป็นด้านซ้ายขวาเท่ากัน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 237,
@@ -3285,9 +3051,8 @@
       "ง": "Nasal cavity",
       "จ": "Oropharynx"
     },
-    "explanation": "Adenoid (Pharyngeal tonsil) ตั้งอยู่บริเวณผนังด้านหลังและด้านบนของ Nasopharynx ซึ่งเป็นส่วนบนสุดของ Pharynx อยู่เหนือระดับ Soft palate ในเด็กมักมีขนาดใหญ่และสามารถอุดกั้นทางเดินหายใจได้ หากมีการอักเสบหรือโตผิดปกติเรียกว่า Adenoid hypertrophy",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 238,
@@ -3299,9 +3064,8 @@
       "ง": "Knee",
       "จ": "Hand"
     },
-    "explanation": "ข้อต่อแบ Ball and Socket Joint (ข้อต่อแบบลูกลมในเบ้า) คือข้อต่อที่มีส่วนหัวกลมของกระดูกหนึ่งอยู่ในเบ้าของกระดูกอีกชิ้น ทำให้เคลื่อนไหวได้รอบทิศทาง (multiaxial) ได้แก่ ข้อไหล่ (Shoulder/Glenohumeral joint) และข้อสะโพก (Hip joint) ส่วนข้อเข่าและข้อเท้าเป็น Hinge joint,ข้อมือเป็น Condyloid joint",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 239,
@@ -3313,9 +3077,8 @@
       "ง": "Calcaneus",
       "จ": "Cuboid"
     },
-    "explanation": "กระดูก Talus (กระดูกข้อเท้า) ทางด้านล่างต่อกับกระดูก Calcaneus (กระดูกส้นเท้า) ผ่านทาง Subtalar joint (Talocalcaneal joint) ส่วนด้านหน้าของ Talus ต่อกับ Navicular และด้านบนต่อกับกระดูก Tibia และ Fibula ที่ข้อต่อ Talocrural joint",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 240,
@@ -3327,13 +3090,12 @@
       "ง": "Insula lobe",
       "จ": "Temporal lobe"
     },
-    "explanation": "เนื่องจากสมองประกอบด้วยส่วนต่างๆ ที่มีหน้าที่เฉพาะเจาะจง ดังนั้น Occipital lobe จึงเป็นบริเวณที่เกี่ยวข้องกับการมองเห็น",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 241,
-    "question": "ส่วนของกระดูกสันหลังที่ยื่นออกมาทางด้านหลังเป็นที่เกาะของกล้ามเนื้อและเอ็นต่างๆ คือข้อใด",
+    "question": "ส่วนของกระดูกสันหลังที่ยื่นออกมาทางด้านหลังเป็นที่เกาะของกล้ามเนื้อและ\nเอ็นต่างๆ คือข้อใด",
     "choices": {
       "ก": "Lamina",
       "ข": "Spinous process",
@@ -3341,13 +3103,12 @@
       "ง": "Pedicle",
       "จ": "Transverse process"
     },
-    "explanation": "Spinous process คือส่วนของกระดูกสันหลังที่ยื่นออกมาเป็นที่เกาะของกล้ามเนื้อและเอ็นต่างๆ ทำให้เป็นจุดที่สำคัญในการรักษาความมั่นคงและความยืดหยุ่น",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 242,
-    "question": "Spleen อยู่ในช่องท้องส่วนใด เมื่อแบ่งช่องท้องออกเป็น Nine abdominal regions",
+    "question": "Spleen อยู่ในช่องท้องส่วนใด เมื่อแบ่งช่องท้องออกเป็น Nine abdominal \nregions",
     "choices": {
       "ก": "Right lumbar region",
       "ข": "Epigastric region",
@@ -3355,9 +3116,8 @@
       "ง": "Right hypochondriac region",
       "จ": "Left iliac region"
     },
-    "explanation": "Spleen อยู่ในช่องท้องซึ่งก็คือช่องท้องซ้าย (Left hypochondriac region) เมื่อแบ่งช่องท้องออกเป็น Nine abdominal regions",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 243,
@@ -3370,11 +3130,11 @@
       "จ": "Tibiofibular joint"
     },
     "explanation": "Talocalcaneal joint",
-    "answer": ""
+    "answer": "ข"
   },
   {
     "id": 244,
-    "question": "กระดูกข้อมือชิ้นใหญ่ที่สุด คือกระดูกใด และเห็นชัดเจนจากการถ่ายเอกซเรย์ท่าใด",
+    "question": "กระดูกข้อมือชิ้นใหญ่ที่สุด คือกระดูกใด และเห็นชัดเจนจากการถ่าย\nเอกซเรย์ท่าใด",
     "choices": {
       "ก": "Capitate, Ulna deviation",
       "ข": "Pisiform, Ulna deviation",
@@ -3383,7 +3143,7 @@
       "จ": "Scaphoid, Radius deviation"
     },
     "explanation": "",
-    "answer": ""
+    "answer": "ค"
   },
   {
     "id": 245,
@@ -3396,7 +3156,7 @@
       "จ": "Scapulohumeral joint"
     },
     "explanation": "",
-    "answer": ""
+    "answer": "ค"
   },
   {
     "id": 246,
@@ -3408,9 +3168,8 @@
       "ง": "Eversion คือการบิดข้อเท้าเพื่อหมุนเท้าเข้าแกนกลางของร่างกาย",
       "จ": "Dorsiflexion คือการเหยียดเท้าออกจากกระดูกขา"
     },
-    "explanation": "เพราะการเคลื่อนไหวของร่างกายข้อเท้าเกี่ยวข้องกับการหมุนกระดูกปลายแขนเพื่อคว่ฝ่ามือลง ซึ่งเป็นคำจำกัดความของ Pronation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 247,
@@ -3422,9 +3181,8 @@
       "ง": "Caldwell",
       "จ": "Lateral"
     },
-    "explanation": "เพราะท่า Caldwell เป็นท่าที่ดีที่สุดสำหรับการดู Occipital skull fracture เนื่องจากมองเห็นกระดูก Navicular ได้ชัดเจนที่สุด",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 248,
@@ -3436,9 +3194,8 @@
       "ง": "Xiphoid process/ T10",
       "จ": "Iliac crest/ L4"
     },
-    "explanation": "เพราะการวัด Surface landmark และ Body structure คู่ Anterior superior iliac spine/ S1-S2 ไม่สอดคล้องกัน เนื่องจาก Anterior superior iliac spine อยู่ที่กระดูก Pubis และ S1-S2 อยู่ที่กระดูก Sacrum",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 249,
@@ -3450,8 +3207,7 @@
       "ง": "Cuboid, Talus",
       "จ": "Navicular, Calcaneus,"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   }
 ]

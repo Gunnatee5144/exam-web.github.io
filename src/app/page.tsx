@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
-import { Container, Typography, Box, Card, CardActionArea, Chip, Backdrop, keyframes, IconButton, Grid } from '@mui/material';
+import { Container, Typography, Box, Card, CardActionArea, Chip, Backdrop, keyframes, Grid } from '@mui/material';
 import { useRouter } from 'next/navigation';
 import ArrowForwardRoundedIcon from '@mui/icons-material/ArrowForwardRounded';
 import NoteAltOutlinedIcon from '@mui/icons-material/NoteAltOutlined';
@@ -75,14 +75,14 @@ const pulseHeart = keyframes`
 `;
 
 const WalkingMascot = () => {
-  const messages = [
+  const messages = React.useMemo(() => [
     "สู้ๆ นะครับ! 💖", 
     "อ่านโจทย์ให้ดีๆ น้า 🐰", 
     "คุณทำได้แน่นอน! ✨", 
     "พักจิบน้ำบ้างก็ได้นะ 🥤",
     "ความพยายามไม่เคยทรยศใคร! ⭐",
     "เก่งมากแล้ว ไปลุยกันต่อ! 🚀"
-  ];
+  ], []);
   
   const [message, setMessage] = useState(messages[0]);
 
@@ -205,12 +205,7 @@ const WalkingMascot = () => {
 
 export default function Dashboard() {
   const router = useRouter();
-  const [mounted, setMounted] = useState(false);
   const [navigatingTo, setNavigatingTo] = React.useState<string | null>(null);
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
 
   const exams = [
     { id: '2566_anatomy', title: 'กายวิภาคศาสตร์และสรีรวิทยา 2566', questions: 247, status: 'ready', color: '#4facfe', subtitle: 'Anatomy & Physiology' },
@@ -225,8 +220,6 @@ export default function Dashboard() {
     setNavigatingTo(id);
     router.push(`/exam/${id}`);
   };
-
-  if (!mounted) return null;
 
   return (
     <Box sx={{ 

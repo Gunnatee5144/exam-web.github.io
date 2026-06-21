@@ -9,9 +9,8 @@
       "ง": "T-cell Lymphoma",
       "จ": "Bleeding Ulcer tumor"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "brain&sonenetsucobstructtumorhemorrhagespinalcompres",
+    "answer": "จ"
   },
   {
     "id": 2,
@@ -23,9 +22,8 @@
       "ง": "bladder, sigmoid colon, small intestine",
       "จ": "sigmoid colon, uterus, small intestine"
     },
-    "explanation": "อวัยวะเสี่ยงสำหรับการรักษา Cervical cancer ด้วย 3D Brachytherapy คือ Bladder, Rectum และ Sigmoid Colon",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "bladderresturesigmoidBOWe",
+    "answer": "ค"
   },
   {
     "id": 3,
@@ -37,9 +35,8 @@
       "ง": "อ่อนเพลีย",
       "จ": "ผิวหนังเกิด moist desquamation"
     },
-    "explanation": "Late sequelae ในผู้ป่วยมะเร็งปากมดลูกที่ได้รับรังสีรักษา คือ Cystitis",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "bladder\n{ asut",
+    "answer": "ก"
   },
   {
     "id": 4,
@@ -51,9 +48,8 @@
       "ง": "Mandibular necrosis",
       "จ": "Subcutaneous fibrosis"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "-\n↑ * พบไม่บ่",
+    "answer": "ข"
   },
   {
     "id": 5,
@@ -65,9 +61,8 @@
       "ง": "Retinoblastoma",
       "จ": "Central Nervures System"
     },
-    "explanation": "Retinoblastoma เป็นมะเร็งในเด็กที่พบบ่อยที่สุด เนื่องจากมีระดับความเสี่ยงสูงในการเกิดจากความผิดปกติของ DNA",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "1st\n2nd brain tumor\n3rditLevRemid2.3lymphoma,braintumor↓CN) -Benign:GliomaImaligmedulloblastoma",
+    "answer": "ก"
   },
   {
     "id": 6,
@@ -79,9 +74,8 @@
       "ง": "ไม่ให้ถูกน้ําในบริเวณที่ฉายรังสี",
       "จ": "ไม่ควรทําให้สีที่ขีดบริเวณที่ฉายรังสีหายไป"
     },
-    "explanation": "การดูแลบริเวณที่ฉายรังสี (Treated Area) ควรหลีกเลี่ยงการทำให้สีที่ขีดหายไป เนื่องจากอาจทำให้เกิดการอักเสบหรือการติดเชื้อได้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "!ก#ไ% (อาบใ*#ไหล-าน+#ส01อนๆ)\n/\n/\n+",
+    "answer": "ง"
   },
   {
     "id": 7,
@@ -93,9 +87,8 @@
       "ง": "Pneumonitis",
       "จ": "Skin Erythema"
     },
-    "explanation": "เพราะ Pneumonitis เป็นผลมาจากการฉายรังสีในบริเวณที่มีการสัมผัสกับหลอดลมอื่น ๆ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 8,
@@ -107,9 +100,8 @@
       "ง": "CT-Simulation",
       "จ": "Linear Accelerator"
     },
-    "explanation": "Linear Accelerator เป็นเครื่องมือรังสีรักษาที่ใช้สารกัมมันตรังสีในการรักษาโรคต่าง ๆ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 9,
@@ -121,9 +113,8 @@
       "ง": "MR-Simulator",
       "จ": "Conventional Simulator"
     },
-    "explanation": "MR-Simulator เป็นเครื่องจําลองที่ใช้สําหรับการคํานวณปริมาณรังสีแบบ 3 มิติ โดยใช้เทคนิคการสร้างภาพโดยใช้แม่เหล็กไฟฟ้า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "120KVP",
+    "answer": "ค"
   },
   {
     "id": 10,
@@ -135,9 +126,8 @@
       "ง": "ให้ปริมาณรังสีที่ผิวสูง",
       "จ": "อํานาจทะลุทะลวงน้อยเมื่อพลังงานเพิ่มมากขึ้น"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "PhotonElectronElectronElectron\n/",
+    "answer": "ก"
   },
   {
     "id": 11,
@@ -149,9 +139,8 @@
       "ง": "Photon mode ใช้ scattering foil",
       "จ": "Electron mode ใช้ Flattening filter"
     },
-    "explanation": "เพราะใน Photon mode ใช้ Applicator และไม่ใช้ Target ใน Electron mode",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "No target\nphotonittarget ->X-ray ->collimatorelectron+flattenningfilter4 -Itscatteringfoil +erapplicator-photo",
+    "answer": "ก"
   },
   {
     "id": 12,
@@ -163,9 +152,8 @@
       "ง": "2.5 cm",
       "จ": "3.0 cm"
     },
-    "explanation": "Depth of maximum dose ของ Co-60 คือ 0.5 cm",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "5 mm10-60 =0.5 CM⑥MV =1.5CM10MV =2.5<m",
+    "answer": "ก"
   },
   {
     "id": 13,
@@ -177,9 +165,8 @@
       "ง": "10%",
       "จ": "15%"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 14,
@@ -191,9 +178,8 @@
       "ง": "Wedge",
       "จ": "Collimator"
     },
-    "explanation": "MLC เป็นอุปกรณ์ที่ใช้ในการปรับความเข้มของปริมาณรังสีในเทคนิค IMRT",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 15,
@@ -205,9 +191,8 @@
       "ง": "7 HVL",
       "จ": "10 HVL"
     },
-    "explanation": "ความหนาน้อยที่สุดของ Lead shielding block ในงานรังสีรักษาคือ 7 HVL",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 16,
@@ -219,9 +204,8 @@
       "ง": "ทังสเตน",
       "จ": "อลูมิเนียม"
     },
-    "explanation": "เพราะทังสเตนมีคุณสมบัติในการยับดูดและควบคุมกระแสไฟฟ้า ทำให้เป็นเลือกสำหรับการใช้งานในงานรังสีรักษา",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 17,
@@ -233,9 +217,8 @@
       "ง": "Contact Therapy machine",
       "จ": "Superficial Therapy machine"
     },
-    "explanation": "Superficial Therapy machine มีความสามารถในการลดการบาดเจ็บผิวหนังได้มากที่สุดเมื่อเทียบกับอุปกรณ์อื่นๆ ในประเภทนี้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "เก็ =photon\n+\n*\n#\n↓",
+    "answer": "ก"
   },
   {
     "id": 18,
@@ -247,9 +230,8 @@
       "ง": "Paper tape",
       "จ": "Optical Distance Indicator (ODI)"
     },
-    "explanation": "Paper tape เป็นอุปกรณ์ข้อที่ใช้ในการยึดและควบคุมตำแหน่งของร่างกาย ทำให้เป็น Immobilization devices ที่เหมาะสมสำหรับการรักษาด้วยรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 19,
@@ -261,9 +243,8 @@
       "ง": "CT simulator",
       "จ": "Conventional simulator"
     },
-    "explanation": "เพราะเครื่องมือ Conventional simulator มีความแม่นยำสูงในการคำนวณปริมาณรังสีในแผนการรักษาทางคอมพิวเตอร์",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 20,
@@ -275,9 +256,8 @@
       "ง": "200 cGy",
       "จ": "250 cGy"
     },
-    "explanation": "เนื่องจาก Tissue maximum ratio (TMR) เท่ากับ 0.5 ค่าปริมาณรังสีสูงสุดจึงต้องมากกว่า 100 cGy โดยทั่วไปแล้วคือ 150 cGy",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "TMR = Dd/Dmax0.5 = 100 / DmaxDmax = 100/0.5 = 200 cGy\nTMR = tel ในmedium\n0.5=1\nDmat208Dmax =#",
+    "answer": "ง"
   },
   {
     "id": 21,
@@ -289,9 +269,8 @@
       "ง": "2 cm",
       "จ": "2.5 cm"
     },
-    "explanation": "ความลึกที่ปริมาณรังสีสูงสุด (dmax) ของเอกซเรย์พลังงาน 10 MV คือ 1.5 cm",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "2.5cm\n-> CO-60\n+6nV",
+    "answer": "จ"
   },
   {
     "id": 22,
@@ -303,9 +282,8 @@
       "ง": "2 cm",
       "จ": "2.5 cm"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 23,
@@ -317,9 +295,8 @@
       "ง": "2 cm",
       "จ": "2.5 cm"
     },
-    "explanation": "เนื่องจาก Co-60 มีพลังงานรังสีสูงกว่าเอกซเรย์พลังงาน 6 MV ดังนั้นปริมาณรังสีที่สูงสุดจึงมากกว่า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "1.25 MV",
+    "answer": "ก"
   },
   {
     "id": 24,
@@ -331,9 +308,8 @@
       "ง": "แกมมาจาก CO-60",
       "จ": "อิเล็กตรอน 15 keV"
     },
-    "explanation": "แกมมาจาก CO-60 มีพลังงานรังสีสูงกว่าเอกซเรย์พลังงาน 6 MV ดังนั้นปริมาณรังสีที่สูงสุดจึงมากกว่า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Photon\n·",
+    "answer": "ค"
   },
   {
     "id": 25,
@@ -345,9 +321,8 @@
       "ง": "Ir-192",
       "จ": "Ra-226"
     },
-    "explanation": "เพราะ I-125 มีความมีนัยสำคัญมากที่สุดในท่า PA projection with ulnar deviation ใน HDR remote after loading",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "-prostateimplant",
+    "answer": "ง"
   },
   {
     "id": 26,
@@ -359,12 +334,11 @@
       "ง": "3.83ป๊",
       "จ": "5.26ป๊"
     },
-    "explanation": "เนื่องจาก Ir-192 มี Half life เท่ากับ 74 วัน",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "73.8 3น\n-> Pd-105\n71-125\n-> CO-60",
+    "answer": "ค"
   },
   {
-    "id": 6027,
+    "id": 27,
     "question": "ข้อใดไม่ใช่สาเหตุที่ทําให้เกิด Bremsstrahlungในพื้นที่ลํารังสีจากการฉายอิเล็กตรอน",
     "choices": {
       "ก": "ตัวผู้ป่วย",
@@ -373,9 +347,8 @@
       "ง": "Flattening filter",
       "จ": "ช่องว่างระหว่างเครื่องฉายรังสีและผู้ป่วย"
     },
-    "explanation": "เพราะช่องว่างระหว่างเครื่องฉายรังสีและผู้ป่วยไม่ทำให้เกิด Bremsstrahlung ในพื้นที่ลํารังสีจากการฉายอิเล็กตรอน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "Air gap\nNo x-ray target\nX-ray mode",
+    "answer": "ง"
   },
   {
     "id": 28,
@@ -387,9 +360,8 @@
       "ง": "Au-198",
       "จ": "Ra-226"
     },
-    "explanation": "Co-60 เป็นแหล่งรังสีไฮโดรเจนที่มักใช้ใน Teletherapy เนื่องจากมีอัตราการปล่อยรังสีที่สูงและสามารถควบคุมได้ดี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "7seasy",
+    "answer": "ก"
   },
   {
     "id": 29,
@@ -401,9 +373,8 @@
       "ง": "อุปกรณ์ที่นักรังสีเทคนิคสามารถมองเห็นผู้ป่วยระหว่างการฉายรังสี",
       "จ": "อุปกรณ์ที่ผู้ป่วยสามารถพูดคุยติดต่อกับนักรังสีเทคนิคระหว่างการฉายรังสี"
     },
-    "explanation": "อุปกรณ์ที่ผู้ป่วยสามารถพูดคุยติดต่อกับนักรังสีเทคนิคระหว่างการฉายรังสีไม่จำเป็นต้องมีในห้องฉายทางรังสีรักษา เนื่องจากอาจส่งผลต่อความปลอดภัยของผู้ป่วย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "· /",
+    "answer": "ค"
   },
   {
     "id": 30,
@@ -415,9 +386,8 @@
       "ง": "Scattering foil ใช้สําหรับกรอง electron ที่มีพลังงานต่ําออกไป",
       "จ": "ต้องใช้ flattening filter เพื่อให้ปริมาณรังสีมีความสม่ําเสมอ"
     },
-    "explanation": "Flattening filter ใช้สําหรับลดการกระจายของ electron และทำให้ปริมาณรังสีมีความสม่ําเสมอในบริเวณเป้าหมาย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "-> ปันกับระท้าใให้้บทspreade-\nไม่ห้้อง",
+    "answer": "ก"
   },
   {
     "id": 31,
@@ -429,9 +399,8 @@
       "ง": "Knee support",
       "จ": "Thermoplastic mask"
     },
-    "explanation": "เพราะไม่มีเครื่องมือในการจัดท่าสำหรับการฉายรังสีรักษามะเร็งเต้านม",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "&\n-Head &Neck",
+    "answer": "จ"
   },
   {
     "id": 32,
@@ -443,9 +412,8 @@
       "ง": "1ป๊",
       "จ": "2ป๊"
     },
-    "explanation": "เนื่องจากอายุการใช้งานของ Ir-192 คือประมาณ 4 ปี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "เป6ยน8ก 2 half life (4-5 เ9อน)HL = 74 วั",
+    "answer": "ข"
   },
   {
     "id": 33,
@@ -457,9 +425,8 @@
       "ง": "การจัดเรียงตัวของต้นกําเนิดรังสีเป็นแบบ Source step",
       "จ": "เป็นเครื่องที่มีอัตราการให้ปริมาณรังสีต่อหน่วยเวลาสูงมากกว่า 12 Gy/hr"
     },
-    "explanation": "เพราะ HDR Unit ชนิดที่ใช้ Ir-192 มีคุณสมบัติในการให้ปริมาณรังสีในระยะเวลาสั้น และมีการจัดเรียงตัวของต้นกำเนิดรังสีเป็นแบบ Source step",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "หลายครั",
+    "answer": "ข"
   },
   {
     "id": 34,
@@ -471,9 +438,8 @@
       "ง": "Temporary Intracavitary Brachytherapy",
       "จ": "Permanent Intracavitary Brachytherapy"
     },
-    "explanation": "เพราะ Au-198 มีพลังงานสูงและสามารถใช้ในการรักษาที่มีความแม่นยำสูง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 35,
@@ -485,9 +451,8 @@
       "ง": "10 Gy/h",
       "จ": "> 12 Gy/h"
     },
-    "explanation": "เนื่องจาก High Dose Rate Brachytherapy ใช้รังสีในปริมาณสูง จึงต้องมากกว่า 12 Gy/h เพื่อให้ได้ผลลัพธ์ที่ดีที่สุด",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "low40 -200Crymedium200 -1200cGy /h\nhigh>1200cly /n",
+    "answer": "จ"
   },
   {
     "id": 36,
@@ -499,9 +464,8 @@
       "ง": "Superficial x-ray",
       "จ": "Orthovoltage x-ray"
     },
-    "explanation": "Electron beam มักใช้ในรักษาผู้ป่วยที่มีเนื้อเยื่อที่มีความไวต่อการรังสี เช่น ผิวหนังและผิวหนังลึก และสามารถใช้ได้กับเครื่อง LINAC",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "7 ใหห้ไได้ทั้ง photon",
+    "answer": "ก"
   },
   {
     "id": 37,
@@ -513,9 +477,8 @@
       "ง": "Orthovoltage machine",
       "จ": "High Dose Rate machine"
     },
-    "explanation": "เพราะ LINAC มีพลังงานรังสีสูงและมีความแม่นยำในการฉายรังสี ทำให้สามารถให้ปริมาณรังสีสูงสุดอยู่ที่ผิวหนังของผู้ป่วย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "/? ร",
+    "answer": "ง"
   },
   {
     "id": 38,
@@ -527,9 +490,8 @@
       "ง": "iso-center marker",
       "จ": "beam-intensity adjustment"
     },
-    "explanation": "Multileafcollimator สามารถทำหน้าที่ในเรื่องการควบคุมการฉายรังสีได้ดี แต่ไม่สามารถปรับเปลี่ยนความกว้างของเส้นฉายรังสีได้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 39,
@@ -541,9 +503,8 @@
       "ง": "flattening filter",
       "จ": "dynamic wedge"
     },
-    "explanation": "Flattening filter สามารถลดพลังงานรังสีที่สิ้นเปลืองไปในกระบวนการฉายรังสี ทำให้สามารถปรับ maximum radiation dose ให้กลับมาอยู่ที่ผิวหนังของผู้ป่วยได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 40,
@@ -555,9 +516,8 @@
       "ง": "Ir-192",
       "จ": "Ra-226"
     },
-    "explanation": "เนื่องจาก I-129 มีพลังงานสูงและสามารถควบคุมได้ดีในการใช้ในเทคนิค Brachytherapy High Dose Rate",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 41,
@@ -569,9 +529,8 @@
       "ง": "1.27 MeV",
       "จ": "2.02 MeV"
     },
-    "explanation": "Ir-192 เป็นแหล่งรังสีที่มีพลังงานเฉลี่ย 1.27 MeV ซึ่งเป็นไปตามข้อกำหนดสำหรับเทคนิค Brachytherapy High Dose Rate",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "380 keV",
+    "answer": "ก"
   },
   {
     "id": 42,
@@ -583,9 +542,8 @@
       "ง": "Au-198",
       "จ": "Ra-226"
     },
-    "explanation": "Cs-137 เป็นแหล่งรังสีที่มักใช้ในเทคนิค permanent implant เนื่องจากมีระยะเวลาการกัมมันตภาพที่ยาวนานและสามารถควบคุมได้ดี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "-interstitialpermanentimplant",
+    "answer": "ง"
   },
   {
     "id": 43,
@@ -597,9 +555,8 @@
       "ง": "backscatter factor effect",
       "จ": "tissue-maximum ratio effect"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "ด",
+    "answer": "ก"
   },
   {
     "id": 44,
@@ -611,9 +568,8 @@
       "ง": "secondary area",
       "จ": "scatter fall-off area"
     },
-    "explanation": "บริเวณลํารังสีที่ใช้ในการฉายรังสีหลัก คือ Umbra เนื่องจากมีความเข้มข้นของการผสมรังสีมากที่สุด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 45,
@@ -625,9 +581,8 @@
       "ง": "2.0-12 Gy/h",
       "จ": "> 12 Gy/h"
     },
-    "explanation": "อัตราปริมาณรังสีที่ใช้ใน High Dose Rate brachytherapy อยู่ในช่วง 2.0-12 Gy/h เนื่องจากมีความเสี่ยงต่อการเกิดผลข้างเคียงมากที่สุดในระดับนี้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 46,
@@ -639,9 +594,8 @@
       "ง": "การคํานวณค่า treatment time ผิดพลาด",
       "จ": "ผู้ป่วยมีการเคลื่อนที่ผิดไปจากตําแหน่งเดิม"
     },
-    "explanation": "การคํานวณ treatment time ผิดพลาดจะไม่ส่งผลกระทบต่อความคลาดเคลื่อนที่ในการฉายรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Uncertainty of treatment",
+    "answer": "ง"
   },
   {
     "id": 47,
@@ -653,9 +607,8 @@
       "ง": "Central axis percentage depth dose constancy",
       "จ": "Door interlock and Laser beam alignment check"
     },
-    "explanation": "ตรวจสอบ Door interlock and Laser beam alignment check เป็น Daily QA เพื่อให้แน่ใจว่าเครื่องเร่งอนุภาคทำงานได้อย่างถูกต้องและปลอดภัย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "LINAC",
+    "answer": "จ"
   },
   {
     "id": 48,
@@ -667,9 +620,8 @@
       "ง": "CT-Simulator",
       "จ": "Cone Beam CT"
     },
-    "explanation": "kV-Image เป็นวิธีการตรวจสอบแผนการรักษาในห้องฉายรังสี แต่ไม่ใช่วิธีการที่ใช้ก่อนการฉายรังสีผู้ป่วย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 49,
@@ -681,9 +633,8 @@
       "ง": "เวลาในการจําลองการรักษา",
       "จ": "อุปกรณ์ประกอบในการฉายรังสี"
     },
-    "explanation": "เพราะการบันทึกเวลาในการจําลองการรักษาไม่จำเป็นต้องบันทึกเพื่อให้ห้องฉายรังสีทราบ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 50,
@@ -695,9 +646,8 @@
       "ง": "x-ray output constancy",
       "จ": "gantry rotation isocenter"
     },
-    "explanation": "เพราะความเสมอภาคของการผลิตรังสี (x-ray output constancy) เป็น Daily QA ของเครื่อง LINAC",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Electron output constancy : weekly",
+    "answer": "ง"
   },
   {
     "id": 51,
@@ -709,9 +659,8 @@
       "ง": "มีทั้งแบบใส่แร่ชั่วคราว และฝังแร่ถาวร",
       "จ": "ใช้สารกัมมันตรังสีวางอยู่ใกล้ หรือชิดกับรอยโรค"
     },
-    "explanation": "เพราะแหล่งกําเนิดรังสีอยู่ไกลจากตัวผู้ป่วย ทำให้การรักษาโดยวิธีการใส่แร่ไม่ถูกต้อง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 52,
@@ -723,9 +672,8 @@
       "ง": "Intensity Modulated Radiation Therapy (IMRT)",
       "จ": "Three-Dimensional Conformal Radiation Therapy (3D-CRT)"
     },
-    "explanation": "เพราะเทคนิค Single field technique มองเห็นได้ชัดที่สุด และมีปริมาณรังสีที่มากที่สุด โดยที่อวัยวะข้างเคียงได้ผลกระทบน้อยที่สุด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 53,
@@ -737,9 +685,8 @@
       "ง": "ปริมาณรังสี 1.8-2 Gy/ครั้ง และฉาย 2ครั้ง/วัน 5วัน/1สัปดาห์",
       "จ": "ปริมาณรังสี 1.5-2 Gy/ครั้ง และฉาย 1ครั้ง/วัน 5วันติดต่อกันใน 1สัปดาห์"
     },
-    "explanation": "เพราะเทคนิค Conventional dose fractionation หมายถึงการฉายปริมาณรังสี 1.8-2 Gy/ครั้ง และฉาย 1ครั้ง/วัน 5วันติดต่อกันใน 1สัปดาห์",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 54,
@@ -751,9 +698,8 @@
       "ง": "Breast cancer",
       "จ": "Head & neck cancers"
     },
-    "explanation": "เพราะการรักษาแบบ Electron beam therapy ไม่ใช่วิธีการรักษา Brain cancer",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "Photon",
+    "answer": "จ"
   },
   {
     "id": 55,
@@ -765,9 +711,8 @@
       "ง": "หาตําแหน่งของไต โดยการกิน Contrast media ผสมน้ํา 500 ml",
       "จ": "ฉายแบบ 3 fields technique จะให้ isodose คลุม PTV ได้ดีกว่า AP//PA opposing field"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 56,
@@ -779,9 +724,8 @@
       "ง": "ให้ไขสันหลังอยู่นอกบริเวณพื้นที่ฉายรังสี",
       "จ": "ให้อวัยวะบางอย่างอยู่ในบริเวณพื้นที่ฉายรังสี"
     },
-    "explanation": "เป็นการจัดท่าผู้ป่วยที่วัดได้ง่าย และช่วยให้การฉายรังสีศีรษะและคอเป็นไปอย่างถูกต้อง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 57,
@@ -793,9 +737,8 @@
       "ง": "หาตําแหน่งของไต โดยการกิน Contrast media ผสมน้ํา 500 ml",
       "จ": "ฉายแบบ 3 fields technique จะให้ isodose คลุม PTV ได้ดีกว่า AP//PA opposing field"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 58,
@@ -807,9 +750,8 @@
       "ง": "Intravascular",
       "จ": "Intraoperative"
     },
-    "explanation": "เพราะเทคนิค Brachytherapy ที่ใช้การวางรังสีภายในเนื้อเยื่อ (Interstitial) เพื่อให้ได้รังสีโดยตรงไปยังพื้นที่มะเร็ง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 59,
@@ -821,9 +763,8 @@
       "ง": "Three field with Posterior and Two opposing Right and Left Lateral",
       "จ": "Four field with Two opposing Anterior and Posterior and Two opposing Right and Left Lateral"
     },
-    "explanation": "Two opposing Anterior and Posterior เป็นเทคนิคการฉายรังสีทั่วไปสำหรับการฉายรังสี Whole Brain เนื่องจากช่วยให้ครอบคลุมพื้นที่ได้อย่างกว้างขวางและมีประสิทธิภาพ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 60,
@@ -835,9 +776,8 @@
       "ง": "ให้ผู้ป่วยนอนในท่าปกติเหมือนผู้ป่วยเด็กทั่วๆไป",
       "จ": "ให้ผู้ป่วยนอนในท่าที่หายใจได้สะดวก และสามารถจัดท่าได้เหมือนเดิมทุกวัน"
     },
-    "explanation": "ท่าที่เหมาะสมสําหรับการฉายรังสีผู้ป่วยเด็กที่ต้องดมยาคือให้ผู้ป่วยนอนในท่าที่หายใจได้สะดวก และสามารถจัดท่าได้เหมือนเดิมทุกวัน เพื่อให้การฉายรังสีมีความแม่นยำและปลอดภัย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 61,
@@ -849,9 +789,8 @@
       "ง": "Chest wall ตั้งฉากกับแนวระนาบ",
       "จ": "เพื่อให้ปอดได้รับปริมาณรังสีมากเพียงด้านเดียว"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 62,
@@ -863,9 +802,8 @@
       "ง": "สามารถกําหนด PTV เป็นสามมิติและให้รังสีปริมาณสูงแก่ tumor",
       "จ": "ในการคํานวณแบบ 3D-CRT และ IMRT ใช้ Forward planning"
     },
-    "explanation": "สามารถกําหนด PTV เป็นสามมิติและให้รังสีปริมาณสูงแก่ tumor",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 63,
@@ -877,9 +815,8 @@
       "ง": "Post spine field ในผู้ป่วย Craniospinal Irradiation",
       "จ": "Internal Mammary Chain Field ใน Breast Cancer"
     },
-    "explanation": "Internal Mammary Chain Field ใน Breast Cancer ไม่ไช่ลักษณะ Lesion ที่ใช้ลำรังสีอิเล็กตรอนในการรักษา",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "Photon",
+    "answer": "ค"
   },
   {
     "id": 64,
@@ -891,9 +828,8 @@
       "ง": "Couch turn table",
       "จ": "Collimator rotation"
     },
-    "explanation": "เพราะเทคนิค Moving gap ไม่ได้ลด Hot spot บริเวณ Gap junction",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 65,
@@ -905,9 +841,8 @@
       "ง": "After loading technique",
       "จ": "Remote loading technique"
     },
-    "explanation": "เพราะเทคนิค Pre-loading technique มีการสอดใส่ Applicator หรือ Plastic tube เข้าในโพรงร่างกายก่อน แล้วจึงสอดใส่สารกัมมันตรังสีภายหลัง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 66,
@@ -919,9 +854,8 @@
       "ง": "low dose rate brachytherapy",
       "จ": "high dose rate brachytherapy"
     },
-    "explanation": "เพราะเทคนิค megavoltage electron beam ไม่ใช่ร่วมกับ “Intra-operative radiation therapy” (IORT)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 67,
@@ -933,9 +867,8 @@
       "ง": "Making blocks",
       "จ": "Carrying the prescribed radiation treatment"
     },
-    "explanation": "เพราะการเคลื่อนไหวของผู้ป่วยเป็นปัจจัยที่ส่งผลต่อความแม่นยำของเทคนิคการฉายรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 68,
@@ -947,9 +880,8 @@
       "ง": "อุปกรณ์ที่ผู้ป่วยสามารถมองเห็นนักรังสีเทคนิคระหว่างการฉายรังสี",
       "จ": "อุปกรณ์ที่ใช้สาหรับช่วยเหลือผู้ป่วยในกรณีที่เกิดเหตุฉุกเฉิน"
     },
-    "explanation": "เนื่องจากผู้ป่วยไม่สามารถมองเห็นนักรังสีเทคนิคระหว่างการฉายรังสีได้ และอุปกรณ์นี้ช่วยให้ผู้ป่วยสามารถมองเห็นนักรังสีเทคนิคหลังการฉายรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 69,
@@ -961,9 +893,8 @@
       "ง": "Block, Tray, Tissue compensator",
       "จ": "Bolus, Wedge filter, Mask"
     },
-    "explanation": "เนื่องจากอุปกรณ์ Block, Wedge filter, Mask เป็นอุปกรณ์ที่ใช้ในการปรับแต่งลำรังสีเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 70,
@@ -975,9 +906,8 @@
       "ง": "เหมาะกับเทคนิคการฉายรังสีแบบ Two opposing fields มากที่สุด",
       "จ": "สามารถรักษาให้ผู้ป่วยหายขาดจากโรคได้"
     },
-    "explanation": "เพราะเครื่องฉายรังสีมีความสามารถในการจัดท่าผู้ป่วยได้ง่าย และมีความคล่องตัว ซึ่งช่วยให้การฉายรังสีเป็นไปอย่างรวดเร็วและสะดวก",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "Skin sparing effect\nPhoton",
+    "answer": "ก"
   },
   {
     "id": 71,
@@ -989,9 +919,8 @@
       "ง": "ควรใช้น้ําแข็งวางบนผิวหนังในส่วนที่ลํารังสีผ่าน",
       "จ": "ควรใช้ครีม โลชั่น หรือแป้ง ทาบริเวณเฉพาะผิวในส่วนที่ลํารังสีผ่านเพื่อบรรเทาอาการคัน"
     },
-    "explanation": "เพราะการใช้น้ำแข็งวางบนผิวหนังในส่วนที่ลํารังสีผ่านช่วยลดอาการคันและปวดได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 72,
@@ -1003,9 +932,8 @@
       "ง": "หน้ากาก (Mask) ช่วยดัดแปลงการกระจายของปริมาณรังสี",
       "จ": "Bolus ที่วางบนผิวผู้ป่วยเพื่อปรับแต่งและเป็นการให้ปริมาณรังสีมากบริเวณผิวผู้ป่วย"
     },
-    "explanation": "เพราะการดูดกลืนปริมาณรังสีของอุปกรณ์เป็นสิ่งสำคัญในการรักษาความปลอดภัยของผู้ป่วย และความทนทานของอุปกรณ์ช่วยให้การฉายรังสีเป็นไปอย่างมีประสิทธิภาพ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 73,
@@ -1017,9 +945,8 @@
       "ง": "วิธีการฉายรังสีที่ให้ต้นกําเนิดรังสีอยู่ใกล้ชิดก้อนมะเร็ง ทําให้ก้อนมะเร็งจะได้รับปริมาณรังสีสูงที่สุด",
       "จ": "นิยมใช้เทคนิคแบบ Moving beam Technique โดยให้ให้ผู้ป่วยเคลื่อนที่ในขณะที่ gantry เครื่องฉายอยู่นิ่ง"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 74,
@@ -1031,9 +958,8 @@
       "ง": "พื้นที่ลํารังสี ที่บริเวณตําแหน่งของ Isocenter ของเครื่องฉายรังสี",
       "จ": "พื้นที่ลํารังสีที่บริเวณตําแหน่งกึ่งกลางความหนาของผู้ป่วย"
     },
-    "explanation": "พื้นที่ลํารังสี ที่บริเวณตําแหน่งของ Isocenter ของเครื่องฉายรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 75,
@@ -1045,9 +971,8 @@
       "ง": "การฉายรังสีแบบ Arc therapy Technique ไม่จําเป็นต้องใช้ Isocenter เป็นจุดหมุน",
       "จ": "การ Set-up โดยใช้ isocenter ทําให้มีความแม่นยํา และความถูกต้อง"
     },
-    "explanation": "เครื่อง Linacมี Isocenter อยู่ที่ระยะ 100 cm จาก target X-ray",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "SSD = 100 cmCo-60; SSD = 80 cm",
+    "answer": "ง"
   },
   {
     "id": 76,
@@ -1059,9 +984,8 @@
       "ง": "นอนคว่ํา แขนวางข้างลําตัว",
       "จ": "นอนคว่ํา แขนวางระดับอก"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 77,
@@ -1073,9 +997,8 @@
       "ง": "นอนหงายแขนวางข้างลําตัว",
       "จ": "นอนหงายแขนวางเหนือศีรษะ"
     },
-    "explanation": "เนื่องจากเทคนิค Anteroposterior Technique ให้ภาพรวมของปอดได้ดีที่สุดเมื่อผู้ป่วยนอนหงายและมือวางบนหน้าอก",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 78,
@@ -1087,9 +1010,8 @@
       "ง": "Prostate cancer",
       "จ": "Breast cancer"
     },
-    "explanation": "Single Field Technique เหมาะสมกับการรักษาโรคมะเร็งผิวหนัง (Skin cancer) มากที่สุด เนื่องจากสามารถให้การฉายรังสีที่แม่นยำและครอบคลุมพื้นที่ได้ดี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 79,
@@ -1101,9 +1023,8 @@
       "ง": "Two lateral opposing fields technique",
       "จ": "IMC field technique"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Breast cancer\nWant single field มาก;ด (ไ=อยากไ% field เยอะ)",
+    "answer": "ค"
   },
   {
     "id": 80,
@@ -1115,9 +1036,8 @@
       "ง": "สามารถถ่ายภาพรังสีที่แสดงรายละเอียดทางกายวิภาค (Anatomy) ได้ชัดเจน",
       "จ": "สามารถช่วยในการกําหนดขอบเขตการฉายรังสี"
     },
-    "explanation": "เครื่อง Conventional simulator มีระบบในการทํา External body contour",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "2D imaging\n!",
+    "answer": "ข"
   },
   {
     "id": 81,
@@ -1129,9 +1049,8 @@
       "ง": "การดูระยะ SSD จะต้องเป้ดไฟจากห้องฉายรังสี",
       "จ": "Lasers ในห้องฉายรังสี ไม่จําเป็นต้องตัดกันที่จุด Isocenter"
     },
-    "explanation": "การดูระยะ SSD จะต้องเป้ดไฟจากห้องฉายรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 82,
@@ -1143,9 +1062,8 @@
       "ง": "ให้ญาติผู้ป่วยจับยึดตัวผู้ป่วย",
       "จ": "ใช้หมอนนิ่มรองศีรษะผู้ป่วย"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 83,
@@ -1157,9 +1075,8 @@
       "ง": "ทําให้ผู้ป่วยเกิดความมั่นใจในการรักษา",
       "จ": "ทําให้เหมาะกับทุกเทคนิคของการฉายรังสี"
     },
-    "explanation": "การยึดตรึงผู้ป่วยช่วยให้ผู้ป่วยอยู่นิ่งและไม่เคลื่อนไหว ทำให้ได้ภาพที่แม่นยำมากขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 84,
@@ -1171,9 +1088,8 @@
       "ง": "Tray, Wedge filter, Block",
       "จ": "Block, Wedge filter, tray"
     },
-    "explanation": "การเรียงลำดับการลดทอนรังสีจากน้อยไปหามาก คือ Tray, Wedge filter, Block",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 85,
@@ -1185,9 +1101,8 @@
       "ง": "การวาดตําแหน่งของอวัยวะและ target ไม่สามารถแยกตําแหน่งได้อย่างชัดเจน",
       "จ": "ปริมาณรังสีที่ออกจากเครื่องเร่งอนุภาคไม่คงที่ในขณะที่ฉายรังสี"
     },
-    "explanation": "เพราะผู้ป่วยขยับในขณะที่กําลังฉายรังสี ส่งผลให้ตำแหน่งของอวัยวะและ target ไม่สามารถแยกตําแหน่งได้อย่างชัดเจน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 86,
@@ -1199,9 +1114,8 @@
       "ง": "Treatment setup variation",
       "จ": "Calculation treatment time"
     },
-    "explanation": "เพราะปริมาณรังสีที่ออกจากเครื่องเร่งอนุภาคไม่คงที่ในขณะที่ฉายรังสี ส่งผลให้เกิด Uncertainty ในขั้นตอนการฉายรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 87,
@@ -1213,9 +1127,8 @@
       "ง": "Mantle technique",
       "จ": "Box technique"
     },
-    "explanation": "เพราะเทคนิค Inverted Y irradiation ใช้ในการฉายรังสีมะเร็งเต้านม โดยใช้รังสีจากด้านบนลงเพื่อทำลายเซลล์ผิดปกติ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 88,
@@ -1227,9 +1140,8 @@
       "ง": "ความผิดพลาด เนื่องจากรวมปริมาณรังสีที่ให้ในแต่ละวัน",
       "จ": "ความผิดพลาดจากการบันทึกข้อมูลการจัดท่าผู้ป่วยที่มีรายละเอียด"
     },
-    "explanation": "เพราะการบันทึกข้อมูลการจัดท่าผู้ป่วยมีความสำคัญมาก และอาจส่งผลต่อความแม่นยำของการรักษา",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 89,
@@ -1241,9 +1153,8 @@
       "ง": "Mechanical inaccuracy of the linearaccelerator",
       "จ": "Organ motion"
     },
-    "explanation": "เนื่องจากการเคลื่อนไหวของอวัยวะภายในทำให้ตำแหน่งของอวัยวะเปลี่ยนแปลงไป ทำให้เกิด Geometric Error",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 90,
@@ -1255,9 +1166,8 @@
       "ง": "จัดตั้งกระบวนการประกันคุณภาพของเครื่องมืออุปกรณ์รังสีรักษา",
       "จ": "กําหนดปริมาณรังสีให้แก่ผู้ป่วย"
     },
-    "explanation": "นักรังสีเทคนิคมีความรับผิดชอบในการกำหนดพื้นที่และตําแหน่งการรักษา เพื่อให้แน่ใจว่าการรักษาเป็นไปอย่างแม่นยำและปลอดภัย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 91,
@@ -1269,9 +1179,8 @@
       "ง": "Mechanical Isocenter check",
       "จ": "Door interlock and Laser beam alignment check"
     },
-    "explanation": "เพราะการตรวจสอบเครื่องฉายรังสีและระบบควบคุมช่วยให้แน่ใจว่าเครื่องฉายรังสีทำงานอย่างถูกต้องและมีความแม่นยำ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 92,
@@ -1283,9 +1192,8 @@
       "ง": "ผู้ป่วยไม่ต้องขยับเคลื่อนย้ายตลอดการฉายรังสีแบบ Multiple beams",
       "จ": "ทําให้ระยะทางจากเครื่องฉายรังสีถึงผิวหนังผู้ป่วยคงที่ตลอดการฉายรังสี"
     },
-    "explanation": "ผู้ป่วยไม่ต้องขยับเคลื่อนย้ายตลอดการฉายรังสีแบบ Multiple beams ทำให้กระบวนการฉายรังสีมีความเร็วและแม่นยำมากขึ้น",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 93,
@@ -1297,9 +1205,8 @@
       "ง": "Mask",
       "จ": "Breast board"
     },
-    "explanation": "การปรับเปลี่ยนพื้นที่ฉายรังสี (Bolus) ช่วยให้ผู้ป่วยสามารถมองเห็นบริเวณที่ต้องการได้ชัดเจน และช่วยลดผลกระทบของ Contour irregularity",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 94,
@@ -1311,9 +1218,8 @@
       "ง": "Vacuum lock",
       "จ": "Thermoplastic mask"
     },
-    "explanation": "เพราะ Breast ring ไม่ใช่อุปกรณ์ในการจัดท่าในการฉายรังสีรักษามะเร็งเต้านม",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 95,
@@ -1325,9 +1231,8 @@
       "ง": "เพื่อให้ปอดได้รับปริมาณรังสีมากเพียงด้านเดียว",
       "จ": "เพื่อลดปริมาณรังสีที่ไขสันหลัง"
     },
-    "explanation": "เพื่อให้ Chest wall ตั้งฉากกับแนวระนาบ ทำให้รังสีเข้าถึงเนื้อเยื่อในบริเวณเดียวกัน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 96,
@@ -1339,9 +1244,8 @@
       "ง": "เพื่อกําหนดขอบเขตของ Lung contour",
       "จ": "เพื่อลดปริมาณรังสีที่ผิวหนัง"
     },
-    "explanation": "เพื่อหาขอบเขตของ Chest contour เพื่อกําหนดขอบเขตในการฉายรังสี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 97,
@@ -1353,9 +1257,8 @@
       "ง": "ใช้ Customized block",
       "จ": "ใช้ Tissue compensator"
     },
-    "explanation": "เพราะเครื่องเร่งอนุภาคสามารถปรับแต่งการฉายรังสีให้เหมาะสมกับการใช้งาน Supraclavicular Field และสามารถลด Beam Divergence ได้ด้วย Customized block",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 98,
@@ -1367,9 +1270,8 @@
       "ง": "เครื่อง MRI",
       "จ": "เครื่อง C-arm"
     },
-    "explanation": "เพราะเครื่อง Linac มีความสามารถในการสังเคราะห์ภาพ Portal imaging ที่เหมือนกับเครื่อง CT simulator",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 99,
@@ -1381,9 +1283,8 @@
       "ง": "จํากัดลํารังสีไปยังตําแหน่งที่รักษา",
       "จ": "ป้องกันรังสีกระเจิงในอากาศ"
     },
-    "explanation": "เพราะการใส่ Applicator ในเทคนิคการฉายรังสีรักษาด้วย Electron beams จะช่วยจํากัดลํารังสีไปยังตําแหน่งที่รักษา และลดผลกระทบของ electron contamination",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 100,
@@ -1395,9 +1296,8 @@
       "ง": "MRI",
       "จ": "PET"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 101,
@@ -1409,9 +1309,8 @@
       "ง": "Esophagus tumors",
       "จ": "Brain tumors"
     },
-    "explanation": "การรักษาโดยใช้ Electron beams เหมาะสมกับมะเร็งชนิดใดมากที่สุด คือ มะเร็งชนิด Deep seated tumors",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 102,
@@ -1423,9 +1322,8 @@
       "ง": "การฉายรังสี SPC Field ในเทคนิคการฉายรังสีมะเร็งเต้านม",
       "จ": "การฉายรังสีก้อนมะเร็งที่อยู่ลึกจากผิว 6ซ.ม. บริเวณศีรษะ"
     },
-    "explanation": "ข้อใดต่อไปนี้คือ เทคนิคการฉายรังสีที่นิยมใช้ลํารังสีอิเล็กตรอน คือ การฉายรังสี Cervical neck node หลังกําบังรังสีบริเวณไขสันหลังในมะเร็งศีรษะ และลําคอ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 103,
@@ -1437,9 +1335,8 @@
       "ง": "Salivary glands",
       "จ": "Bone"
     },
-    "explanation": "เพราะกระดูก Cervical spine มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation และมีความสำคัญต่อการวินิจฉัย Nasopharyngeal cancer",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 104,
@@ -1451,9 +1348,8 @@
       "ง": "Breast board",
       "จ": "Belly Board"
     },
-    "explanation": "อุปกรณ์ Mask ใช้ในการจัดท่าในการฉายรังสีมะเร็งปอดเพื่อให้ผู้ป่วยไม่เคลื่อนไหวและให้ภาพที่ชัดเจน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 105,
@@ -1465,9 +1361,8 @@
       "ง": "MRI",
       "จ": "PET"
     },
-    "explanation": "เครื่องมือ CT ถือว่าเป็น Gold standard เพื่อนําไปใช้ในการคํานวณปริมาณรังสีให้แก่ผู้ป่วยในงานรังสีรักษาในปัจจุบัน เนื่องจากสามารถให้ข้อมูลเกี่ยวกับโครงสร้างและขนาดของเนื้องอกได้อย่างแม่นยำ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 106,
@@ -1479,9 +1374,8 @@
       "ง": "TIFF",
       "จ": "MP3"
     },
-    "explanation": "เพราะ DICOM เป็นมาตรฐานการแสดงภาพทางรังสีที่เปิดกว้างมากที่สุด และรองรับการทำงานของระบบคอมพิวเตอร์หลายระบบ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 107,
@@ -1493,9 +1387,8 @@
       "ง": "Lung cancer",
       "จ": "Liver metastasis"
     },
-    "explanation": "เนื่องจากมีความเสี่ยงต่อการเกิดอาการหัวใจวายและหลอดเลือดใหญ่ ทำให้ฉุกเฉินทางรังสีรักษาเป็นภาวะที่ต้องระวังอย่างมาก",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 108,
@@ -1507,9 +1400,8 @@
       "ง": "สภาพโดยรวมของผู้ป่วย",
       "จ": "ปริมาณรังสีที่ต้องการให้ผู้ป่วยได้รับ"
     },
-    "explanation": "เพราะสภาพโดยรวมของผู้ป่วยมีความสำคัญมากกว่าเทคนิคที่ใช้หรือบริเวณที่เป็นโรคในการจัดท่าผู้ป่วยเพื่อฉาย Brain tumor",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 109,
@@ -1521,9 +1413,8 @@
       "ง": "เพื่อให้ผู้ป่วยปลอดภัยจากการฉายรังสี",
       "จ": "เพื่อไม่ให้มีผลแทรกซ้อนต่อผู้ป่วย"
     },
-    "explanation": "เพื่อให้การฉายรังสีถูกต้องตรงตามการวางแผนของรังสีแพทย์",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 110,
@@ -1535,9 +1426,8 @@
       "ง": "เพื่อทําให้พื้นผิวของกระเพาะปัสสาวะอยู่ในบริเวณฉายรังสีมากที่สุด",
       "จ": "เพื่อทําให้ต่อมลูกหมากได้รับรังสีอย่างสม่ําเสมอ"
     },
-    "explanation": "เพื่อทําให้กระเพาะปัสสาวะช่วยดันส่วนของลําไส้เล็กให้อยู่บริเวณฉายรังสีให้มากที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 111,
@@ -1549,9 +1439,8 @@
       "ง": "Beam calibration",
       "จ": "MU calculation"
     },
-    "explanation": "Beam calibration ไม่อยู่ใน Patient chart review",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 112,
@@ -1563,9 +1452,8 @@
       "ง": "จําเป็นต้องฉีดสารทึบรังสีเพื่อใช้ในการคํานวณ",
       "จ": "ในการคํานวณแบบ 3D และ IMRT ใช้เทคนิคการวางแผนการรักษาแบบเดียวกัน"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 113,
@@ -1577,9 +1465,8 @@
       "ง": "Position คือ นอนคว่ํา มือจับกันเหนือศีรษะ",
       "จ": "ทํา Contour ใน Cut center เพื่อนําไปคํานวณ Wedge filter"
     },
-    "explanation": "เทคนิคการฉายรังสีผู้ป่วย CA rectum คือ Three field technique, Field size และ Field position เป็นสิ่งสำคัญในการให้ผลลัพธ์ที่ดีที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 114,
@@ -1591,9 +1478,8 @@
       "ง": "CT Simulator มีความถูกต้องของการเคลื่อนที่ของเตียงและ Laser สูง",
       "จ": "CT Simulator มี Moving Laser ทําให้สามารถขีดขอบเขตของพื้นที่ลํารังสีได้"
     },
-    "explanation": "เครื่อง CT Simulator ที่ใช้ในรังสีรักษาแตกต่างจาก CT ที่ใช้ในรังสีวินิจฉัยในเรื่องของการเคลื่อนที่ของเตียงและ Laser ซึ่งมีความถูกต้องสูง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Flat couch (เ\"ยงแบน)",
+    "answer": "ก"
   },
   {
     "id": 115,
@@ -1605,9 +1491,8 @@
       "ง": "การกําหนด Isocenter ในเครื่อง CT-Simulator จะทําโดยผ่านโปรแกรม “Virtual simulation”",
       "จ": "มีระบบ fluoroscopy นํามาใช้ทําการวางแผนการฉายรังสีรักษาแบบ 3มิติ"
     },
-    "explanation": "(นวณ MU ไ,ไ-\n\nการกำหนด Isocenter ในเครื่อง CT-Simulator จะทำผ่านโปรแกรม Virtual simulation ซึ่งช่วยในการวางแผนการักษาแบสามิติ ข้ออื่นผิด: ก-ต้องใช้ Immobilization, ข-ไม่ใช้ทุกรณี, ค-ใช้รังสีพลังานต่ำ, จ-ไม่มีระบบ fluoroscopy",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "(นวณ MU ไ,ไ-",
+    "answer": "ง"
   },
   {
     "id": 116,
@@ -1619,9 +1504,8 @@
       "ง": "Linear Accelerator",
       "จ": "Gamma knife"
     },
-    "explanation": "LINAC\n\nStereotactic Radiotherapy (SRT) นิยมใช้ Cobalt-60 machine ซึ่งให้รังสีทีมมีลำแสงแคบและม่นยำในการฉายไปยังสมอง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "LINAC",
+    "answer": "ง"
   },
   {
     "id": 117,
@@ -1633,9 +1517,8 @@
       "ง": "HDR",
       "จ": "Gamma knife"
     },
-    "explanation": "Stereotactic Radiosurgery (SRS) นิยมใช้ Gamma knife ซึ่งเป็นเครื่องที่ออกแบมาโดยเฉพาะสำหรับการผ่าตัด้วยรังสีแบจุดมุ่งหมายเดียวต่อสมองอย่างแม่นยำ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 118,
@@ -1647,9 +1530,8 @@
       "ง": "CNS",
       "จ": "Retinoblastoma"
     },
-    "explanation": "Wilm’stumor เป็นมะเร็งไตที่พบในเด็กเป็นจำนวนมาก และมักจะเกิดขึ้นในช่วงวัยเด็ก",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "1st\n2nd brain tumor\n3rd",
+    "answer": "ค"
   },
   {
     "id": 119,
@@ -1661,9 +1543,8 @@
       "ง": "Esophagus cancer",
       "จ": "Glottis cancer"
     },
-    "explanation": "การฉายรังสีรักษามะเร็งในข้อ Lungen cancer เป็นตัวเลือกที่นิยมใช้การอมท่อ (Tube) เนื่องจากสามารถเข้าถึงได้ง่ายและผลลัพธ์ที่ดี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 120,
@@ -1675,9 +1556,8 @@
       "ง": "มีการจําแนกลักษณะคล้ายเนื้อเยื่อปกติ",
       "จ": "มีการกระจายไปยังอวัยวะอื่น"
     },
-    "explanation": "Benign Tumor มีคุณลักษณะทั่วไปคือมีการจําแนกลักษณะคล้ายเนื้อเยื่อปกติ และไม่มีการแทรกซึมเข้าเส้นเลือดหรือก้อนเนื้องอกไม่มีผนังหุ้ม",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 121,
@@ -1689,9 +1569,8 @@
       "ง": "Subcutaneous fibrosis",
       "จ": "Cervical myelitis"
     },
-    "explanation": "Trismus คือการปิดปากหรือยากที่จะเปิดปาก ซึ่งเป็นอาการที่พบบ่อยระหว่างและภายหลังการรักษาโรคมะเร็งศีรษะและลําคอด้วยรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 122,
@@ -1703,9 +1582,8 @@
       "ง": "ไม่ให้เกิด geographic missing",
       "จ": "ลดปริมาณรังสีที่ผิวหนัง"
     },
-    "explanation": "การจัดท่าผู้ป่วยยืดคอเพื่อให้ผู้ป่วยอยู่ในตำแหน่งที่เหมาะสมเพื่อลดการบาดเจ็บจากพื้นที่ฉายรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 123,
@@ -1717,9 +1595,8 @@
       "ง": "5,000 -6,000 cGy",
       "จ": "6,000 -7,000 cGy"
     },
-    "explanation": "ไขสันหลังมีความทนรังสีด้วยปริมาณรังสี (tolerance dose: TD5/5) ประมาณ 5,000 -6,000 cGy",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 124,
@@ -1731,9 +1608,8 @@
       "ง": "Salivary glands",
       "จ": "Bone"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 125,
@@ -1745,9 +1621,8 @@
       "ง": "อุจจาระเป็นเลือด",
       "จ": "ปวดท้องน้อย"
     },
-    "explanation": "เนื่องจากอาการตกขาวมีกลิ่นเหม็นเป็นอาการเริ่มต้นของโรคมะเร็งปากมดลูก",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 126,
@@ -1759,9 +1634,8 @@
       "ง": "Cystoscopy",
       "จ": "Proctoscopy"
     },
-    "explanation": "Pap smear เป็นวิธีการตรวจวินิจฉัยคัดกรองโรคมะเร็งปากมดลูกในระยะแรก เนื่องจากสามารถตรวจพบเซลล์ผิดปกติได้",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 127,
@@ -1773,9 +1647,8 @@
       "ง": "ผิวหนังเกิด moist desquamation",
       "จ": "cystitis, proctitis"
     },
-    "explanation": "Late complication ในผู้ป่วยมะเร็งปากมดลูกที่ได้รับรังสีรักษา ได้แก่ cystitis และ proctitis (อักเสบของ膀胱และทวารหนัก) โดยเกิดขึ้นเป็นเดือนถึงปีหลังการรักษา ส่วน ก-ง เป็น acute reactions ที่เกิดขึ้นในระหว่างหรือไม่นานหลังการรักษา",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 128,
@@ -1787,9 +1660,8 @@
       "ง": "three field technique",
       "จ": "arc rotation"
     },
-    "explanation": "Four field box technique (หรือ four-field pelvic technique) เป็นเทคนิคที่นิยมใช้สำหรับ parametrial iradiation ในการรักษามะเร็งปากมดลูก เพื่อให้ครอบคลุมบริเวณ parametrium ในขณะที่ลดปริมาณรังสีที่ intestines",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 129,
@@ -1801,9 +1673,8 @@
       "ง": "Bolus, Tissue compensator, Block",
       "จ": "Bolus, Wedge filter, Tissue compensator"
     },
-    "explanation": "อุปกรณ์ที่ใช้แก้ปัญหาความโค้งเว้าไม่เรียบของผิวผู้ป่วย ได้แก Bolus (เพื่อทำให้พื้นผิวเรียบ), Wedge filter (กรองลดมุ), และ Tissue compensator (ชดเชยความแตกต่างของความหนา) Block ใช้หล่อเงา ส่วน Tray ใช้บรจุบล็อก",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 130,
@@ -1815,9 +1686,8 @@
       "ง": "ไม่จําเป็นต้องเปรียบเทียบกับภาพอ้างอิง",
       "จ": "นิยมทํา Portal image ใน Oblique field"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 131,
@@ -1829,9 +1699,8 @@
       "ง": "มี Geometry และส่วนประกอบต่างๆ คล้ายเครื่องฉายรังสี ยกเว้น Gantry หมุนไม่ได้",
       "จ": "สร้างภาพ X-ray fluoroscopy ได้"
     },
-    "explanation": "มี Geometry และส่วนประกอบต่างๆ คล้ายเครื่องฉายรังสี ยกเว้น Gantry หมุนไม่ได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 132,
@@ -1843,9 +1712,8 @@
       "ง": "ไม่เกิด เพราะก้อนมะเร็งยังเป็นก้อนเดิม",
       "จ": "ไม่เกิด เพราะไม่เกี่ยวข้องกัน"
     },
-    "explanation": "เกิด เพราะอาจต้องเปลี่ยนบริเวณที่ฉาย เนื่องจากมีการกระจายของโรคไปที่อื่น",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 133,
@@ -1857,9 +1725,8 @@
       "ง": "Increascintracranial pressure",
       "จ": "Stop bleeding"
     },
-    "explanation": "ภาวะฉุกเฉินของการฉายรังสีในงานรังสีรักษา ได้แก่ SVC obstruction, Spinal cord compression, IVC syndrome และ Increased intracranial pressure แต่ 'Stop bleeding' ไม่ใช่ภาวะฉุกเฉินของการฉายรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 134,
@@ -1871,9 +1738,8 @@
       "ง": "ใช้แรงดันลมในการเคลื่อนที่ของต้นกําเนิดรังสี",
       "จ": "ให้ทั้งรังสีโฟตอน และอิเล็กตรอน"
     },
-    "explanation": "เครื่องฉายรังสีโคบอลท์-60 ใช้แรงดันลมในการเคลื่อนที่ของต้นกำเนิดรังสี ให้รังสีโฟตอนพลังาน 1.17 และ 1.33 MeV ไม่ใช้กระแสไฟ้า และไม่มี Collimator สองชิ้น",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 135,
@@ -1885,9 +1751,8 @@
       "ง": "Half upper or lower body",
       "จ": "Inverted Y field + total abdominal bath"
     },
-    "explanation": "Total nodal iradiation (TNI) หมายถึงการให้รังสีครอบคลุมต่อมน้ำเหลืองทั้งหมด ประกอบด้วย Mantle field technique (ส่วนบนของลำตัว) และ Inverted Y field technique (ส่วนล่างของลำตัว)",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 136,
@@ -1899,9 +1764,8 @@
       "ง": "จําเป็น เพราะขนาดของลํารังสีเปลี่ยน ทําให้ค่า PDD เปลี่ยน ส่งผลให้เวลาที่ใช้ในการฉายรังสีเปลี่ยนไป",
       "จ": "จําเป็น เพราะขนาดของลํารังสีเปลี่ยน ทําให้ระยะ SSD เปลี่ยน ส่งผลให้เวลาที่ใช้ในการฉายรังสีเปลี่ยนไป"
     },
-    "explanation": "เพราะขนาดของลํารังสีเปลี่ยน ทําให้ค่า PDD เปลี่ยน ส่งผลให้เวลาที่ใช้ในการฉายรังสีเปลี่ยนไป",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 137,
@@ -1913,9 +1777,8 @@
       "ง": "Lead plastic",
       "จ": "Cerrowax"
     },
-    "explanation": "เพราะวัสดุ Lead plastic มีความหนาและความแข็งแรงสูงกว่าวัสดุอื่นๆ ทำให้มีความสามารถในการป้องกันรังสีโฟตอนได้ดีที่สุด",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 138,
@@ -1927,9 +1790,8 @@
       "ง": "สําหรับ CT scan ในงานรังสีรักษา ผู้ป่วยต้องอยู่ในท่านอนหงายบนพื้นเตียงที่ราบเสมอ",
       "จ": "ไม่มีความแตกต่างกัน"
     },
-    "explanation": "ไม่มีความแตกต่างกัน เพราะทั้งสองประเภท CT scan ใช้เทคนิคการฉายรังสีแบบเดียวกัน และไม่มีการเปลี่ยนแปลงในการจัดท่าผู้ป่วย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 139,
@@ -1941,9 +1803,8 @@
       "ง": "ปริมาณรังสี 180-200 cGy/ครั้ง และฉาย 2ครั้ง/วัน 5วัน/ 1สัปดาห์",
       "จ": "ปริมาณรังสี 150-200 cGy/ครั้ง และฉาย 1ครั้ง/วัน 5วันติดต่อกันใน 1สัปดาห์"
     },
-    "explanation": "Conventional dose fractionation หมายถึงการให้รังสี 180-200 cGy ต่อครั้ง ฉาย 1 ครั้งต่อวัน 5 วันติดต่อกันในหนึ่งสัปดาห์ เป็นวิธีมาตรฐานในการรักษาด้วยรังสี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 140,
@@ -1955,9 +1816,8 @@
       "ง": "Conventional fractionation",
       "จ": "ถูกทุกข้อ"
     },
-    "explanation": "Curative treatment\n\nConventional fractionation เป็นวิธีการให้รังสีที่เหมาะสมที่สุดสำหรับการักษาแบบหายขาด (Curative treatment) เพราะสมดุลระหว่างการทำให้เซลล์มะเร็งตายและการป้องกันอาการข้างเคียงในเนื้อเยื่อปกติ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Curative treatment",
+    "answer": "ง"
   },
   {
     "id": 141,
@@ -1969,9 +1829,8 @@
       "ง": "Au-198",
       "จ": "I-125"
     },
-    "explanation": "Ir-192 (Iridium-192) เป็นสารกัมันตรังสีที่นิยมใช้ในระบบ HDR brachytherapy ในปัจุบัน เนื่องจากมี half-life ที่เหมาะสม (74.2 วัน) และให้ผลการักษาที่ดี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 142,
@@ -1983,9 +1842,8 @@
       "ง": "Dry desquamation",
       "จ": "Cargenogensis"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 143,
@@ -1997,9 +1855,8 @@
       "ง": "Collimator",
       "จ": "Scattering foil"
     },
-    "explanation": "เครื่องเร่งอนุภาคมักใช้ Flattening filter เพื่อลดปริมาณโฟตอนออกมาให้ค่าสม่ําเสมอ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Uniform photon beam",
+    "answer": "ค"
   },
   {
     "id": 144,
@@ -2011,9 +1868,8 @@
       "ง": "neutron",
       "จ": "Positron"
     },
-    "explanation": "ภายใน Betatron อนุภาคที่ถูกเร่งคือ Electron",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 145,
@@ -2025,9 +1881,8 @@
       "ง": "Mask",
       "จ": "Bolus"
     },
-    "explanation": "Mask ไม่ใช่ beam modifier เนื่องจาก Beam modifiers ได้แก่ Missing tissue compensator, Wedge filter, Block และ Bolus ซึ่งใช้ในการปรับเปลี่ยนลักษณะของลำรังสี ่วน Mask ใช้สำหรับการทำเครื่องหมายและยึดตรึง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 146,
@@ -2039,9 +1894,8 @@
       "ง": "เพิ่มความสะดวกการจัดท่าผู้ป่วย",
       "จ": "เพิ่มความถูกต้องแม่นยําในการรักษา"
     },
-    "explanation": "ข้อ 'สะดวกในการใช้' ไม่ใช่ประโยชน์หลัก เนื่องจากอุปกรณ์เหล่านี้อาจมีความยุ่งยากในการใช้บ้าง ประโยชน์ที่แท้จริงคือการช่วยจัดท่า ลดการเคลื่อนไหว เพิ่มความสะดวก และเพิ่มความแม่นยำ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 147,
@@ -2053,9 +1907,8 @@
       "ง": "พยาบาล",
       "จ": "รังสีแพทย์"
     },
-    "explanation": "พยาบาลมีบทบาทน้อยที่สุดในแผนกรังสีรักษา เมื่อเทียบกับนักฟิสิกส์การแพทย์ นักรังสีการแพทย์ นักเทคนิคการแพทย์ และรังสีแพทย์ที่มีบทบาทโดยตรงในการักษา",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 148,
@@ -2067,9 +1920,8 @@
       "ง": "เครื่อง Linac",
       "จ": "เครื่อง CT simulator"
     },
-    "explanation": "เครื่องมือ CT simulator สามารถถ่ายภาพ Portal imaging ได้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 149,
@@ -2081,9 +1933,8 @@
       "ง": "Cones",
       "จ": "Wedges"
     },
-    "explanation": "MLCs (Moldable Low-Z Materials) ไม่ใช่ Photon beam modifiers",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Electron",
+    "answer": "ง"
   },
   {
     "id": 150,
@@ -2095,9 +1946,8 @@
       "ง": "proton",
       "จ": "x-rays"
     },
-    "explanation": "โปรตอนมี Bragg peak ซึ่งเป็นจุดสูงสุดของพลังงานในกระแสไอออนाइเซชัน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 151,
@@ -2109,9 +1959,8 @@
       "ง": "เป็นเทคนิครังสีรักษาที่ใช้ภาพรังสีในการวางแผนการรักษา โดยแพทย์ใช้       กําหนด PTV และ Critical organ",
       "จ": "เป็นเทคนิครังสีรักษา โดยใช้ภาพรังสีเพื่อบอกผลการรักษา"
     },
-    "explanation": "Image Guided Radiation Therapy (IGRT) ใช้เทคนิครังสีรักษาโดยใช้ภาพรังสีในการเฝ้าดูและปรับปรุงรักษาผู้ป่วยขณะรักษา",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 152,
@@ -2123,9 +1972,8 @@
       "ง": "ลูกอัณฑะ",
       "จ": "ปอด"
     },
-    "explanation": "อวัยวะสําคัญที่สุดที่ต้องมีการกําบังรังสี ในระหว่างการรักษาด้วยเทคนิค Total body irradiation (TBI) คืออวัยวะที่มีความอ่อนไหวสูงและต้องการการปกป้องอย่างมาก เช่น ไต",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 153,
@@ -2137,9 +1985,8 @@
       "ง": "Treatment planning --> Diagnostic --> Simulation --> Treatment Verification --> Treatment delivery",
       "จ": "Diagnostic --> Treatment delivery --> Treatment planning --> Simulation --> Treatment Verification"
     },
-    "explanation": "จงเรียงลําดับขั้นตอนการรักษาทางรังสีรักษา ขั้นตอนแรกคือ Treatment planning (วางแผนการรักษา) ตามด้วย Diagnostic (ตรวจภาพ) จากนั้น Simulation (สร้างแบบจำลอง) followed by Treatment planning (วางแผนการรักษา) และสุดท้าย Treatment delivery (จ่ายรังสี)",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 154,
@@ -2151,9 +1998,8 @@
       "ง": "28 keV , 60.2 days",
       "จ": "7 MeV, 14 days"
     },
-    "explanation": "เพราะพลังงานเฉลี่ยของ 192Ir คือ 380 keV และค่าครึ่งชีวิตคือ 74.2 วัน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "0.38 MeV",
+    "answer": "ก"
   },
   {
     "id": 155,
@@ -2165,9 +2011,8 @@
       "ง": "CT Simulation",
       "จ": "High dose rate after loading machine"
     },
-    "explanation": "เครื่องมือ Contact Therapy machine มีประสิทธิภาพสูงในการให้ผลลัพธ์ skin sparing effect",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 156,
@@ -2179,9 +2024,8 @@
       "ง": "CT",
       "จ": "PET"
     },
-    "explanation": "CT (Computed Tomography) ให้ข้อมูลความหนาแน่นของอิเล็กตรอนในร่างกาย เพื่อใช้ในการวางแผนรักษาแบบ 3มิติ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 157,
@@ -2193,9 +2037,8 @@
       "ง": "จัดให้มีนักรังสีเทคนิคจํานวนมากระหว่างการจัดท่าผู้ป่วย",
       "จ": "ใช้กล้องโทรทัศน์ เพื่อการดูผู้ป่วยขณะฉายรังสี"
     },
-    "explanation": "เพราะการถ่ายภาพ Portal เปรียบเทียบกับภาพจาก Simulation สามารถตรวจสอบความผิดพลาดของการจัดท่าผู้ป่วยได้อย่างแม่นยำ และช่วยให้สามารถปรับปรุงกระบวนการฉายรังสีในอนาคต",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 158,
@@ -2207,9 +2050,8 @@
       "ง": "6 HVL",
       "จ": "7 HVL"
     },
-    "explanation": "เพราะความหนาน้อยที่สุดของ Lead shielding block ในงานรังสีรักษา คือ 5 HVL ซึ่งหมายถึงความหนาน้อยที่สุดของพลังงานรังสีหลังจากผ่านผ่านผ่านแผ่นป้องกันรังสี 5 เท่า",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 159,
@@ -2221,9 +2063,8 @@
       "ง": "ใช้เทคนิค Remote control after loading system",
       "จ": "เลือกใช้ radioactive source ที่มีครึ่งชีวิตสั้น"
     },
-    "explanation": "เพราะการปฏิบัติที่ใช้แหล่งกําเนิดรังสีแบบ sealed source จะมีโอกาสได้รับรังสีน้อยที่สุด เนื่องจากแหล่งกําเนิดรังสีที่ปิดผนึกจะลดการสัมผัสกับรังสีให้เหลือน้อยที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 160,
@@ -2235,9 +2076,8 @@
       "ง": "Good organ functioning",
       "จ": "Low complication"
     },
-    "explanation": "เพราะมีความเสี่ยงสูงต่อการเกิดอาการไม่พึงประสงค์จากรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 161,
@@ -2249,9 +2089,8 @@
       "ง": "เพื่อคํานวณปริมาณรังสีที่จะให้ผู้ป่วย",
       "จ": "เพื่อจัดท่าผู้ป่วยให้พร้อมในการฉายรังสี"
     },
-    "explanation": "เพื่อให้ผู้ป่วยคุ้นเคยกับเครื่องฉายรังสีและเตรียมพร้อมสำหรับการฉายรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 162,
@@ -2263,9 +2102,8 @@
       "ง": "103Volt",
       "จ": "106Volt"
     },
-    "explanation": "เพราะมีความสามารถในการควบคุมปริมาณรังสีที่จะถ่ายภาพได้อย่างแม่นยำ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "KV",
+    "answer": "ง"
   },
   {
     "id": 163,
@@ -2277,9 +2115,8 @@
       "ง": "Overlapping angle",
       "จ": "Wedge transmission angle"
     },
-    "explanation": "มุมระหว่าง central axis ของสองลำรังสี wedge angle fields เรียกว่า Hinge angle ซึ่งเป็นมุมบานพับที่ใช้ในการวางแนวลำรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 164,
@@ -2291,9 +2128,8 @@
       "ง": "ระบบทางเดินอาหาร",
       "จ": "ระบบสืบพันธุ์"
     },
-    "explanation": "Total body irradiation (TBI) เป็นเทคนิคการฉายรังสีทั่วร่างกายที่ใช้สำหรับผู้ป่วยมะเร็งระบโลหิตวิทยา (Hematologic malignancy) เช่น เลมโฟมา และเซลล์มีลอยด์สติก อักเสบ โดยเฉพาะก่อนการปลูกถ่ายไขกระดูก",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 165,
@@ -2305,9 +2141,8 @@
       "ง": "การฉายรังสีทั่วร่างกายด้วยลํารังสีอิเล็กตรอน",
       "จ": "การฉายรังสีทั่วร่างกายด้วยลํารังสีแกมมา"
     },
-    "explanation": "TSEI (Total Skin Electron Iradiation) คือการฉายรังสีทั่วผิวหนังด้วยลำรังสีอิเล็กตรอน (Electron beam) เพื่อให้ได้ปริมาณรังสีสม่ำเสมอทั่วผิวหนังทั้งร่างกาย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 166,
@@ -2319,9 +2154,8 @@
       "ง": "ให้รังสีทั่วร่างกาย เพื่อกดภูมิคุ้มกันของร่างกาย",
       "จ": "ให้รังสีทั่วร่างกาย เพื่อสร้างภูมิคุ้มกันของร่างกาย"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 167,
@@ -2333,9 +2167,8 @@
       "ง": "gamma ray",
       "จ": "neutron"
     },
-    "explanation": "เนื่องจากการฉายรังสีในระหว่างการผ่าตัด (IORT) ต้องการความแม่นยำและความปลอดภัยในการใช้รังสีที่มีความสามารถในการสร้างภูมิคุ้มกันของร่างกาย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 168,
@@ -2347,9 +2180,8 @@
       "ง": "พยาบาล",
       "จ": "ช่างเทคนิคที่ดูแลเครื่อง"
     },
-    "explanation": "นักรังสีเทคนิคเป็นบุคลากรกลุ่มแรกที่มีหน้าที่ปฏิบัติการประกันคุณภาพประจําวัน เนื่องจากพวกเขามีความรู้และความเชี่ยวชาญในการใช้เครื่องมือและเทคนิคการฉายรังสี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 169,
@@ -2361,9 +2193,8 @@
       "ง": "1.5 mm",
       "จ": "2.0 mm"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 170,
@@ -2375,9 +2206,8 @@
       "ง": "ทําให้การรักษาด้วยรังสีทุกชนิดมีคุณภาพตามที่ตั้งไว้",
       "จ": "ทําให้ลดค่าใช้จ่ายในการดูแลเครื่องมือ"
     },
-    "explanation": "เพราะการประกันคุณภาพ (Quality assurance program) ในงานรังสีรักษาเป็นสิ่งที่สำคัญในการรับประกันว่าการรักษาด้วยรังสีจะมีคุณภาพตามที่ตั้งไว้ และลดความเสี่ยงของผลกระทบต่อสาธารณชน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 171,
@@ -2389,9 +2219,8 @@
       "ง": "X-ray output constancy",
       "จ": "Gantry rotation isocenter"
     },
-    "explanation": "Daily QA สําหรับเครื่อง LINAC คือการตรวจสอบความสมมาตรของปาก (Jaw symmetry) เพื่อให้แน่ใจว่าการรักษาด้วยรังสีจะไม่ทำให้เกิดอาการไม่สบายตัว",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 172,
@@ -2403,9 +2232,8 @@
       "ง": "Belly board",
       "จ": "Card board"
     },
-    "explanation": "เพราะการวาง Card board ช่วยให้กระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 173,
@@ -2417,9 +2245,8 @@
       "ง": "CA Supraglotis",
       "จ": "CA Tongue"
     },
-    "explanation": "เนื่องจาก CA Nasopharynx มักจะอยู่ในบริเวณใกล้กับจุดที่ฉายรังสี โดยการใช้การอมท่อ (Tube) ช่วยให้สามารถฉายรังสีได้อย่างแม่นยำ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 174,
@@ -2431,9 +2258,8 @@
       "ง": "Belly Board",
       "จ": "Breast board"
     },
-    "explanation": "การวาง Card board ช่วยให้กระดูกต่างๆ มองเห็นได้ชัดเจน และช่วยให้เทคนิคการฉายรังสีมะเร็งปอดสามารถทำได้อย่างแม่นยำ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 175,
@@ -2445,9 +2271,8 @@
       "ง": "หมอนรองศีรษะผู้ป่วย และ Thermoplastic Mask",
       "จ": "Vacuum lock และ Thermoplastic Mask"
     },
-    "explanation": "ใ/แ0วคนไ23งพอข3บไ-อ7Fix position คนไ2\n\nImmobilization Device (อุปกรณ์ตึง) ได้แก่ Thermoplastic Mask ส่วน Positioning Device (อุปกรณ์จัดท่า) ได้แก่หมอนรองศีรษะผู้ป่วย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "ใ/แ0วคนไ23งพอข3บไ-อ7Fix position คนไ2",
+    "answer": "ก"
   },
   {
     "id": 176,
@@ -2459,9 +2284,8 @@
       "ง": "Gammatron",
       "จ": "Gamma knife"
     },
-    "explanation": "Gamma knife เป็นเครื่องฉายรังสีที่นิยมใช้สำหรับเทคนิค SRT (Stereotactic Radiosurgery) โดยให้ปริมาณรังสีสูงในครั้งเดียวกับความแม่นยำสูง",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 177,
@@ -2473,9 +2297,8 @@
       "ง": "ในการป้องกันอันตรายจากการทําอุปกรณ์ Mouldเป็นสิ่งสําคัญลําดับแรกสําหรับเจ้าหน้าที่ที่ปฏิบัติงาน",
       "จ": "การทําอุปกรณ์ Mouldเป็นการเพิ่มความถูกต้องแม่นยําในการฉายรังสีให้กับผู้ป่วย"
     },
-    "explanation": "ประมาณ 70 องศาเซลเ@ยส\n\nThermoplastic Mask ควรจุ่มลงใน้ำที่อุณหภูมิ 60-70°C เป็นเวลา 3-5 นาที ไม่ใช่ 100°C เนื่องจากอุณหภูมิ 100°C อาจทำให้วัสดุเสียหาย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "ประมาณ 70 องศาเซลเ@ยส",
+    "answer": "ก"
   },
   {
     "id": 178,
@@ -2487,9 +2310,8 @@
       "ง": "จัดให้ระยะทาง SSD เหมือนเครื่องรังสีรักษา",
       "จ": "ตั้งค่าพารามิเตอร์ในการ Scan ให้เหมือนกับเครื่องรังสีรักษา"
     },
-    "explanation": "ตั้งค่าพารามิเตอร์ในการ Scan ให้เหมือนกับเครื่องรังสีรักษา เพื่อให้มี geometry เหมือนการรักษา",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 179,
@@ -2501,9 +2323,8 @@
       "ง": "EPID",
       "จ": "CBCT"
     },
-    "explanation": "Tracking เป็น Image Guided Radiation Therapy ที่เหมาะสมกับการทํา Treatment Verification ในผู้ป่วยที่มี Organ Movement จากการหายใจ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "4DCT",
+    "answer": "ค"
   },
   {
     "id": 180,
@@ -2515,9 +2336,8 @@
       "ง": "ลดปริมาณรังสีที่นักรังสีจะได้รับ",
       "จ": "ลดปริมาณรังสีที่พยาบาลจะได้รับ"
     },
-    "explanation": "Remote Controlled HDR brachytherapy After loader ใช้เวลาสั้น และเพิ่มความถูกต้องในการรักษา",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 181,
@@ -2529,9 +2349,8 @@
       "ง": "EPID ไม่นิยมใช้ในผู้ป่วยมะเร็งต่อมลูกหมากเพื่อตรวจสอบข้อมูลประกอบการฉายรังสี",
       "จ": "EPID เป็นอุปกรณ์ที่ติดอยู่กับเครื่องเร่งอนุภาค LINAC"
     },
-    "explanation": "เพราะ EPID เป็นอุปกรณ์ที่ใช้ในการฉายรังสีโดยตรง และให้ภาพที่มีความชัดเจนและเรียลไทม์",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Compton scattering (MV)ตรง2ามCวเคDองฉายFงG",
+    "answer": "ค"
   },
   {
     "id": 182,
@@ -2543,9 +2362,8 @@
       "ง": "CT Sim-Image",
       "จ": "Cone Beam CT"
     },
-    "explanation": "วิธีการตรวจสอบแผนการรักษา ก่อนการฉายรังสีผู้ป่วยในห้องฉายรังสี คือการใช้ Portal Image ซึ่งเป็นภาพรังสีที่ถ่ายจากเครื่อง EPID",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 183,
@@ -2557,9 +2375,8 @@
       "ง": "เครื่อง MRI",
       "จ": "เครื่อง C-arm"
     },
-    "explanation": "เราสามารถถ่ายภาพ Portal Image ได้ด้วยเครื่อง CT Simulator ซึ่งเป็นอุปกรณ์ที่ใช้ในการสร้างแผนการรักษาโดยใช้รังสี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "LINAC",
+    "answer": "ข"
   },
   {
     "id": 184,
@@ -2571,9 +2388,8 @@
       "ง": "เป็นการจําลองการฉายรังสีโดยผู้ป่วยต้องนอนเหมือนท่าในการฉายรังสี",
       "จ": "เป็นการตรวจติดตามผู้ป่วยหลังจากฉายรังสีครบแล้ว"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 185,
@@ -2585,9 +2401,8 @@
       "ง": "เป็นท่าที่สามารถกําหนดทิศทางการฉายรังสีได้ง่ายและถูกต้องแม่นยํา",
       "จ": "เป็นท่าที่สามรถกําหนดขอบเขตการฉายรังสีเพื่อให้รอยโรคได้รับปริมาณรังสีสูงสุด"
     },
-    "explanation": "เป็นการตรวจติดตามผู้ป่วยหลังจากฉายรังสีครบแล้ว",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 186,
@@ -2599,9 +2414,8 @@
       "ง": "การหาขอบเขตของรอยโรคของผู้ป่วย",
       "จ": "การทําบันทึกข้อมูลประกอบในการจัดท่าฉายรังสี"
     },
-    "explanation": "การยึดตรึงผู้ป่วย ควรทำก่อนการจัดท่าผู้ป่วย",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 187,
@@ -2613,9 +2427,8 @@
       "ง": "การหาขอบเขตการฉายรังสี (Localization)",
       "จ": "การบันทึกข้อมูลในการจัดท่าฉายรังสี"
     },
-    "explanation": "การยึดตรึงผู้ป่วย (Immobilization) เป็นขั้นตอนสุดท้ายในการการทําการจําลองการรักษา เพื่อให้แน่ใจว่าภาพรังสีที่ได้มีความแม่นยำและไม่มีการเปลี่ยนแปลงระหว่างการทําการจําลองการรักษา",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 188,
@@ -2627,9 +2440,8 @@
       "ง": "ให้ผู้ป่วยนอนตามปกติโดยไม่ต้องยึดตรึงผู้ป่วยขณะทําการจําลองการรักษา",
       "จ": "ไม่มีการ NPO ก่อนการทําการจําลองการรักษาในกรณีที่มีการฉีด IV Contrast"
     },
-    "explanation": "การหาขอบเขตการฉายรังสี (Localization) เป็นขั้นตอนสุดท้ายในการการทําการจําลองการรักษา โดยจะใช้ผลลัพธ์จากการทําการจําลองการรักษาเพื่อสร้างแบบจำลอง 3 มิติของกระดูกหรือโครงสร้างที่ต้องการ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 189,
@@ -2641,9 +2453,8 @@
       "ง": "ใช้ได้ผลดีกับผู้ป่วยที่หายใจไม่สม่ําเสมอ",
       "จ": "ต้องมีการทําให้ผู้ป่วยหลับระหว่างทํา"
     },
-    "explanation": "เทคนิคการทํา 4DCT ในเทคนิคการจําลองการรักษาใช้ได้ดีกับผู้ป่วยที่หายใจไม่สม่ําเสมอ โดยจะใช้อุปกรณ์ช่วยหายใจในการจําลองการรักษาเพื่อให้แน่ใจว่าภาพรังสีที่ได้มีความแม่นยำและไม่มีการเปลี่ยนแปลงระหว่างการทําการจําลองการรักษา",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 190,
@@ -2655,9 +2466,8 @@
       "ง": "ลดขอบด้านหน้าของField ลงเพื่อไม่ให้รังสีโดน Maxillary sinus",
       "จ": "เปลี่ยนท่าในการฉายรังสีให้เงยหน้ามากขึ้น เพื่อหลบไม่ให้รังสีโดนตา"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 191,
@@ -2669,9 +2479,8 @@
       "ง": "นอนคว่ําบน Belly Board แขนวางเหนือศีรษะ",
       "จ": "นอนตะแคงให้ด้านหน้าหันมาทางเครื่องฉายรังสี"
     },
-    "explanation": "การนอนหงายมือวางบนหน้าอกช่วยให้เทคนิค Anteroposterior Technique สามารถฉายรังสีได้อย่างแม่นยำและครอบคลุมพื้นที่ที่ต้องการ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 192,
@@ -2683,9 +2492,8 @@
       "ง": "15 cm",
       "จ": "12 cm"
     },
-    "explanation": "ความหนาของผู้ป่วยในการวัดด้วยเทคนิค AP/PA Chest คือความกว้างของการฉายรังสี ดังนั้น Depth ของผู้ป่วยจึงเป็น 18 cm",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "???",
+    "answer": "ข"
   },
   {
     "id": 193,
@@ -2697,9 +2505,8 @@
       "ง": "ใช้อุปกรณ์พิเศษช่วยยึดตรึงผู้ป่วย",
       "จ": "ให้ผู้ป่วยหายใจตามจังหวะที่บอกขณะฉายรังสี"
     },
-    "explanation": "เพราะผู้ป่วยที่หายใจตามจังหวะที่บอกขณะฉายรังสี สามารถลดขอบเขตการฉายรังสีรักษามะเร็งปอดได้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 194,
@@ -2711,9 +2518,8 @@
       "ง": "ต้องให้ผู้นอนบนหมอนสูงเพื่อให้หายใจสะดวก",
       "จ": "ในการจําลองการรักษาไม่จําเป็นต้องให้ผู้ป่วยกลั้นใจ"
     },
-    "explanation": "เพื่อให้ผู้ป่วยสามารถควบคุมการหายใจได้ดีขึ้น และช่วยให้เนื้อปอดปกติได้รับรังสีน้อยลง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 195,
@@ -2725,9 +2531,8 @@
       "ง": "Breast cancer",
       "จ": "Rectum cancer"
     },
-    "explanation": "เพราะ IMRT สามารถกำหนดพิกัดรังสีแม่นยำต่อเนื้อโรคที่มีความซับซ้อนและมีการกระจายอยู่ในบริเวณเล็กน้อย เช่น รอยโรค Rectum cancer",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "MLC",
+    "answer": "ค"
   },
   {
     "id": 196,
@@ -2739,9 +2544,8 @@
       "ง": "ใช้ภาพ DRR มาทํา fusion กับภาพ MRI ใน position เดียวกัน",
       "จ": "ใช้ภาพ MRI มาทําการ fusion กับภาพ CT-Simulation ที่อยู่ใน position เดียวกัน"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "HองใIภาพ CT KเLน radiograph",
+    "answer": "ง"
   },
   {
     "id": 197,
@@ -2753,9 +2557,8 @@
       "ง": "ใช้ Flattening filter ในการกําหนดพลังงานรังสี",
       "จ": "พลังงานที่นํามาใช้ทางรังสีรักษาอยู่ในช่วง  6–12MeV"
     },
-    "explanation": "มี Therapeutic range อยู่ในช่วง R70 –R90",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 198,
@@ -2767,9 +2570,8 @@
       "ง": "ใช้ลํารังสีอิเล็กตรอนพลังงาน 4-6 MeV",
       "จ": "ใช้ Beam Spoilerในการกําหนดขอบเขตการฉายรังสี"
     },
-    "explanation": "ใช้ลํารังสีอิเล็กตรอนพลังงาน 4-6 MeV",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "TSEI",
+    "answer": "ง"
   },
   {
     "id": 199,
@@ -2781,9 +2583,8 @@
       "ง": "ภาพ CT ที่ทําไว้ก่อนมาเริ่มรักษาด้วยรังสี",
       "จ": "ภาพ U/S ที่ทําไว้ก่อนมาเริ่มรักษาด้วยรังสี"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 200,
@@ -2795,9 +2596,8 @@
       "ง": "เพื่อให้การฉายรังสีตรงตามการวางแผนการรักษากําหนดไว้",
       "จ": "เพื่อลดความเสี่ยงในการเกิด Complication ในอวัยวะข้างเคียงจากการฉายรังสี"
     },
-    "explanation": "การเก็บสถิติความถูกต้องแม่นยําของนักรังสีการแพทย์ในการจัดท่าฉายรังสีเป็นหนึ่งในจุดประสงค์หลักของการทํา Treatment Verification",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 201,
@@ -2809,9 +2609,8 @@
       "ง": "CBCT",
       "จ": "Align RT"
     },
-    "explanation": "CBCT เป็นวิธีที่เหมาะสมที่สุดในการตรวจสอบปริมาณน้ําในกระเพาะปัสสาวะของผู้ป่วยมะเร็งต่อมลูกหมากว่าใกล้เคียงกับที่วางแผนไว้ตอนแรกหรือไม่",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "3D",
+    "answer": "ง"
   },
   {
     "id": 202,
@@ -2823,9 +2622,8 @@
       "ง": "IMRT",
       "จ": "IORT"
     },
-    "explanation": "เพราะสามารถควบคุมได้แม่นยำและลดความเสี่ยงต่อการเคลื่อนไหวของผู้ป่วย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 203,
@@ -2837,9 +2635,8 @@
       "ง": "1,140ชั่วโมง",
       "จ": "1,400ชั่วโมง"
     },
-    "explanation": "เนื่องจากมีค่าครึ่งชีวิตที่สูงกว่า I-125 และเหมาะสมสำหรับการใช้ในรังสีแบบฉาย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Permanent radioactive source",
+    "answer": "จ"
   },
   {
     "id": 204,
@@ -2851,9 +2648,8 @@
       "ง": "5.26ป๊",
       "จ": "30ป๊"
     },
-    "explanation": "เพราะมีค่าครึ่งชีวิตยาวนานกว่าซีเซียม-137 ทำให้เหมาะสำหรับการใช้ในรังสีแบบฉายระยะยาว",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Long half life\nMedium dose rate",
+    "answer": "จ"
   },
   {
     "id": 205,
@@ -2865,9 +2661,8 @@
       "ง": "มี Half life ยาว ทําให้ทําให้เสียค่าใช้จ่ายน้อย",
       "จ": "มี Half life สั้นเพื่อให้เปลี่ยนสารกัมมันตรังสีได้บ่อยๆ"
     },
-    "explanation": "เพราะสารกัมมันตรังสีที่มีพลังงานเดียวจะสลายตัวให้เท่านั้น และมีพลังงานอยู่ในช่วงที่เหมาะสมเพื่อให้ได้รังสีแกมมา",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 206,
@@ -2879,9 +2674,8 @@
       "ง": "สลายตัวให้รังสีแกมมาพลังงานเฉลี่ย 0.662 MeV",
       "จ": "มีค่า Specific activity ต่ํา"
     },
-    "explanation": "เนื่องจาก Ir-192 มีค่าครึ่งชีวิตสั้น แต่สลายตัวให้รังสีแกมมาพลังงานเฉลี่ย 0.662 MeV ซึ่งเป็นคุณสมบัติที่เหมาะสมสำหรับการใช้งาน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "0.38 MeV",
+    "answer": "ค"
   },
   {
     "id": 207,
@@ -2893,9 +2687,8 @@
       "ง": "Permanent Mold brachytherapy",
       "จ": "Temporary Mold brachytherapy"
     },
-    "explanation": "I-125 ใช้สำหรับ Permanent Mold brachytherapy เนื่องจากมีค่าครึ่งชีวิตยาวนานและสามารถสลายตัวให้รังสีแกมมาได้อย่างสม่ำเสมอ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 208,
@@ -2907,9 +2700,8 @@
       "ง": "Au-198",
       "จ": "Co-60"
     },
-    "explanation": "Cs-137 มีค่าครึ่งชีวิตสั้น และมี HVL ต่ำกว่ารังสีอื่นๆ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 209,
@@ -2921,9 +2713,8 @@
       "ง": "บุคลากรที่ทํางานได้รับปริมาณรังสีสูงกว่าเทคนิคการให้รังสีแบบ Permanent implantation",
       "จ": "ผู้ป่วยได้รับปริมาณรังสีสูงกว่าเทคนิคการให้รังสีแบบ Permanent implantation"
     },
-    "explanation": "Temporary implantation ใช้ต้นกำเนิดรังสีที่มีค่าครึ่งชีวิตสั้น และสลายตัวให้รังสีแกมาอย่างเดียว",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 210,
@@ -2935,9 +2726,8 @@
       "ง": ">12 Gy/h = HDR, 2-12 Gy/h = MDR, 0.4-2 Gy/h =  LDR",
       "จ": ">15 Gy/h = HDR, 2-15 Gy/h = MDR, 0.4-2 Gy/h =  LDR"
     },
-    "explanation": "HDR คือ Brachytherapy ที่ใช้ปริมาณรังสีมากกว่า 10 Gy/h, MDR คือ 1-10 Gy/h และ LDR คือ 0.4-1 Gy/h",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 211,
@@ -2949,9 +2739,8 @@
       "ง": "1.5ป๊",
       "จ": "2ป๊"
     },
-    "explanation": "เนื่องจากอายุการใช้งานของ Ir-192 คือประมาณ 1.5 ปี และมีการใช้ในการรักษาด้วยการฉายรังสีแบบ brachytherapy",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 212,
@@ -2963,9 +2752,8 @@
       "ง": "เพื่อทําให้พื้นผิวของกระเพาปัสสาวะอยู่ในบริเวณฉายรังสีมากที่สุด",
       "จ": "เพื่อทําให้ต่อมลูกหมากได้รับรังสีอย่างสม่ําเสมอ Clinical"
     },
-    "explanation": "เพราะว่าเทคนิค Full bladder ช่วยให้ต่อมลูกหมากได้รับรังสีอย่างสม่ำเสมอและช่วยลดผลกระทบที่อาจเกิดขึ้นจากการตั้งตำแหน่งของต่อมลูกหมาก",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 213,
@@ -2977,9 +2765,8 @@
       "ง": "ผู้ป่วยน้ําหนักลดเมื่อฉายรังสีได้ 2สัปดาห์",
       "จ": "ผู้ป่วยกินน้ํามากหลังการฉายรังสี"
     },
-    "explanation": "ผู้ป่วยที่กลั้นใจระหว่างการฉายรังสีจะทำให้การฉายรังส์มีความไม่สม่ำเสมอและอาจเกิดความคลาดเคลื่อนในการรักษา",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 214,
@@ -2991,9 +2778,8 @@
       "ง": "Bone metastasis",
       "จ": "Bleeding ulcer tumor"
     },
-    "explanation": "เพราะมีภาวะฉุกเฉินทางรังสีรักษาที่เกี่ยวข้องกับการอักเสบของเนื้องอก ซึ่งอาจทำให้เกิดการขยายตัวและกระจายไปยังบริเวณรอบๆ เนื่องจากมีความเสี่ยงสูงในการเกิดการอักเสบและการแพร่กระจาย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 215,
@@ -3005,9 +2791,8 @@
       "ง": "ผู้ป่วย SVC syndrome ท่าการฉายรังสีที่เหมาะสมคือ Prone position",
       "จ": "ผู้ป่วย IVC syndromeมักมีสาเหตุหลักมาจาก Ca Lung"
     },
-    "explanation": "Spinal cord compression หากพบที่ตําแหน่ง C-spine ควรใช้เทคนิคการฉายรังสี Single posterior field เนื่องจากมีความเสี่ยงสูงในการเกิดความเสียหายต่อสมองและระบบประสาท",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 216,
@@ -3019,9 +2804,8 @@
       "ง": "CTV",
       "จ": "TV"
     },
-    "explanation": "CTV (Clinical Target Volume) คือบริเวณที่มีการกระจายของรอยโรค และครอบคลุมความคาดเคลื่อนในการจัดท่าหมายถึงบริเวณที่ต้องฉายรังสีจริงๆ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 217,
@@ -3033,9 +2817,8 @@
       "ง": "PTV-ITV-CTV-GTV",
       "จ": "PTV-CTV-ITV-GTV"
     },
-    "explanation": "เพราะลำดับของบริเวณที่ฉายรังสีจากใหญ่ไปเล็กเป็น GTV-CTV-ITV-PTV ซึ่งหมายความว่า GTV คือบริเวณที่มีการเติบโตของเนื้องอก CTV คือบริเวณรอบๆ ของเนื้องอก ITV คือบริเวณที่มีความเสี่ยงสูง และ PTV คือบริเวณที่ฉายรังสี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 218,
@@ -3047,9 +2830,8 @@
       "ง": "Keloid lesion",
       "จ": "Inguinal node"
     },
-    "explanation": "Keloid lesion ไม่ไช่ลักษณะ Lesion ที่ใช้ลํารังสีอิเล็กตรอนในการรักษา เนื่องจากไม่มีการเติบโตของเซลล์อย่างรวดเร็วและไม่มีการสร้างเนื้อเยื่อที่มีลักษณะเฉพาะ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 219,
@@ -3061,9 +2843,8 @@
       "ง": "Glioblastoma",
       "จ": "Schwannoma"
     },
-    "explanation": "Glioblastoma มีลักษณะทางพยาธิวิทยาที่มีการพยากรณ์โรคที่แย่ที่สุด เนื่องจากมีความสามารถในการเติบโตอย่างรวดเร็วและมีเซลล์ที่มีความเสี่ยงสูง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 220,
@@ -3075,9 +2856,8 @@
       "ง": "ตามองไม่เห็นเฉียบพลัน (optic neuropathy)",
       "จ": "แขนขาอ่อนแรง"
     },
-    "explanation": "ผลข้างเคียงจากการฉายรังสีในระยะเฉียบพลันสามารถเกิดขึ้นได้หลายอย่าง เช่น คลื่นไส้ อาเจียน และปวดหัว ซึ่งเป็นผลมาจากการตอบสนองของระบบประสาทและระบบภูมิคุ้มกัน",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 221,
@@ -3089,9 +2869,8 @@
       "ง": "กระพุ้งแก้ม",
       "จ": "เหงือก"
     },
-    "explanation": "มะเร็งศีรษะและลำคอประเภทที่ 4 คือโพรงหลังจมูก ซึ่งมีการกระจายไปสู่อวัยวะต่าง ๆ เช่น ปอด กระดูก และเนื้อเยื่ออื่น ๆ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 222,
@@ -3103,9 +2882,8 @@
       "ง": "กระพุ้งแก้ม",
       "จ": "เหงือก"
     },
-    "explanation": "หลังโพรงจมูกเป็นตำแหน่งที่มีการตอบสนองการรักษาด้วยรังสีดีที่สุดสำหรับมะเร็งศีรษะและลำคอ เนื่องจากมีความสามารถในการตัดเนื้อเยื่อและการยับยั้งการเจริญเติบโตของเซลล์อย่างมีประสิทธิภาพ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 223,
@@ -3118,7 +2896,7 @@
       "จ": "ลักษณะทางเซลล์วิทยา"
     },
     "explanation": "",
-    "answer": ""
+    "answer": "ง"
   },
   {
     "id": 224,
@@ -3131,7 +2909,7 @@
       "จ": "ผู้ป่วยสามารถอาบน้ําและถูสบู่ได้ แต่ต้องทําด้วยความระมัดระวัง"
     },
     "explanation": "",
-    "answer": ""
+    "answer": "ก"
   },
   {
     "id": 225,
@@ -3144,7 +2922,7 @@
       "จ": "ใช้การสอดใส่สารกัมมันตรังสี ร่วมกับยาเคมีบําบัด"
     },
     "explanation": "",
-    "answer": ""
+    "answer": "ข"
   },
   {
     "id": 226,
@@ -3156,9 +2934,8 @@
       "ง": "ผู้ป่วยควรนอนหงายขณะฉายรังสีเท่านั้น",
       "จ": "ผู้ป่วยที่มีทวารเทียม (Colostomy) ไม่ควรมาฉายรังสี"
     },
-    "explanation": "ควรดูแลปกติเหมือนผู้ป่วยฉายรังสีทั่วไป ที่ต้องระมัดระวังบริเวณที่ได้รับรังสี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 227,
@@ -3170,9 +2947,8 @@
       "ง": "CT Simulator",
       "จ": "Brachytherapy machine"
     },
-    "explanation": "Superficial Therapy machine มีคุณสมบัติของ skin sparing effect",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 228,
@@ -3184,9 +2960,8 @@
       "ง": "ห้ามถอนฟันในทุกกรณี",
       "จ": "ควรใช้ครีม โลชั่น หรือแป้ง ทาบริเวณเฉพาะผิวในส่วนที่ลํารังสีผ่านเพื่อบรรเทาอาการคัน"
     },
-    "explanation": "ควรใช้ครีม โลชั่น หรือแป้ง ทาบริเวณเฉพาะผิวในส่วนที่ลํารังสีผ่านเพื่อบรรเทาอาการคัน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 229,
@@ -3198,9 +2973,8 @@
       "ง": "1, 2, 3",
       "จ": "1, 2, 3, 4"
     },
-    "explanation": "เพราะต้องมีอุปกรณ์ทั้งหมดเพื่อให้ผู้ป่วยและนักรังสีเทคนิคสามารถสื่อสารกัน และผู้ป่วยสามารถพูดคุยได้ระหว่างการฉายรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 230,
@@ -3212,9 +2986,8 @@
       "ง": "5.5 HVL",
       "จ": "6  HVL"
     },
-    "explanation": "เพราะความหนาน้อยที่สุดของ Lead shielding block คือ 5.5 HVL ซึ่งเป็นมาตรฐานในการลดการดูดซับของรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 231,
@@ -3226,9 +2999,8 @@
       "ง": "Co-60",
       "จ": "Au-198"
     },
-    "explanation": "เพราะ Ir-192 เป็นสารกัมมันตรังสีที่นิยมใช้มากที่สุดสำหรับการติดตั้งถาวรใน brachytherapy เนื่องจากมีความเสถียรและความแม่นยำในการฉายรังสี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 232,
@@ -3240,9 +3012,8 @@
       "ง": "5500 cGy",
       "จ": "6000 cGy"
     },
-    "explanation": "เนื่องจากไขสันหลังเป็นบริเวณที่ละเอียดและไวต่อการทำลาย ดังนั้น Normal tissue tolerance dose (TD 5/5) ของไขสันหลังจึงมีค่าอยู่ที่ 5000 cGy",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "4500-5000 cGy",
+    "answer": "ค"
   },
   {
     "id": 233,
@@ -3254,9 +3025,8 @@
       "ง": "MRI",
       "จ": "PET"
     },
-    "explanation": "MRI เป็นเครื่องมือทางรังสีที่ให้ข้อมูลความหนาแน่นของอิเล็กตรอนได้ดีที่สุด ทำให้เป็นตัวเลือกที่เหมาะสมในการวางแผนรังสีรักษาแบบ 3 มิติ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 234,
@@ -3268,9 +3038,8 @@
       "ง": "Ir-192",
       "จ": "Electron beam"
     },
-    "explanation": "เครื่อง Gamma knife ใช้แหล่งรังสี Cs-137 เป็นต้นกำเนิดรังสี ซึ่งเป็นเหตุผลที่ทำให้มีความแม่นยำและปลอดภัยในการรักษาโรค",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 235,
@@ -3282,9 +3051,8 @@
       "ง": "2.5 MeV, 10 ป๊",
       "จ": "1.5 MeV, 30 ป๊"
     },
-    "explanation": "เพราะ Cobalt-60 มีพลังงานเฉลี่ยสูงและค่าครึ่งชีวิตที่สั้น ทำให้เหมาะสำหรับการใช้งานในงานรังสีรักษา",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 236,
@@ -3296,9 +3064,8 @@
       "ง": "Photoelectric effect",
       "จ": "Photonuclear reaction"
     },
-    "explanation": "Photoelectric effect เป็นผลกระทบที่สำคัญที่สุดของการกระจายรังสีโฟตอนจากเครื่อง Cobalt-60 ในงานรังสีรักษา",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 237,
@@ -3310,9 +3077,8 @@
       "ง": "Mandible",
       "จ": "Spinal cord"
     },
-    "explanation": "เทคนิคฉายรังสี two lateral opposing fields โดยมีการเอียงลํารังสีไปทางด้าน posterior จะช่วยหลบอวัยวะ Parotid Gland ที่อยู่ตรงข้ามพอร์ต",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 238,
@@ -3324,9 +3090,8 @@
       "ง": "โพรงหลังจมูก",
       "จ": "โพรงอากาศข้างจมูก"
     },
-    "explanation": "เพราะมะเร็งหูและช่องปากมักเกี่ยวข้องกับอาการผิดปกติของ cranial nerve",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 239,
@@ -3338,9 +3103,8 @@
       "ง": "โคนลิ้น",
       "จ": "กล่องเสียง"
     },
-    "explanation": "เนื่องจากต่อมน้ำเหลืองมีการระบายออกมาจากโพรงหลังจมูก และมะเร็งในบริเวณนี้มักจะแพร่กระจายไปยังน้อยกว่าในอีกสองอวัยวะ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 240,
@@ -3352,9 +3116,8 @@
       "ง": "Minor salivary gland tumor",
       "จ": "Sarcoma"
     },
-    "explanation": "เนื่องจากส่วนใหญ่ของมะเร็งบริเวณศีรษะและคอมักเป็น Squamous cell carcinoma ซึ่งเป็นชนิดที่เกิดขึ้นจากเซลล์ผิวหนัง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 241,
@@ -3366,9 +3129,8 @@
       "ง": "Salivary glands",
       "จ": "Bone"
     },
-    "explanation": "เนื่องจากมีเส้นประสาทส่วนกลางอยู่ในที่นั้น และการฉายรังสีต้องระมัดระวังเพื่อหลีกเลี่ยงการทำลายเส้นประสาทส่วนกลาง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 242,
@@ -3380,9 +3142,8 @@
       "ง": "Nasal cavity",
       "จ": "Sphenoid sinus"
     },
-    "explanation": "เนื่องจากมีศีรษะเป็นกระบอกและจุดตัดของกระดูกขนหนู ทำให้โครงสร้างเหล่านี้เป็นที่นิยมในการพบมะเร็งโพรงอากาศ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 243,
@@ -3394,9 +3155,8 @@
       "ง": "อุจจาระเป็นเลือด",
       "จ": "ปวดท้องน้อย"
     },
-    "explanation": "เนื่องจากการมีเลือดออกจากปากและบริเวณรอบๆ ปากเป็นผลมาจากการอักเสบของมดลูก และมักเกิดขึ้นในระยะเริ่มต้นของโรค",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 244,
@@ -3408,9 +3168,8 @@
       "ง": "Cystoscopy",
       "จ": "Proctoscopy"
     },
-    "explanation": "การตรวจวินจฉัยคัดกรองมะเร็งปากมดลูกในระยะเริ่มแรกทำได้ดีที่สุดด้วย Pap smear ซึ่งเป็นการตรวจเก็บตัวอย่างเซลล์จากปากมดลูกเพื่อดูการเปลี่ยนแปลงของเซลล์ ต้องทำเป็นประจำทุก 3 ปี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 245,
@@ -3422,9 +3181,8 @@
       "ง": "moving strip technique",
       "จ": "Pan-handle technique"
     },
-    "explanation": "เทคนิค Moving strip technique ลดการแทงะลุ (complications) ได้มากที่สุดในผู้ป่วยที่ฉายรังสี whole abdomen เนื่องจากการใช้ strip ที่เคลื่อนที่ช่วยให้สามารถลดปริมาณรังสีที่อวัยวะเสี่ยงเสบียงได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 246,
@@ -3436,9 +3194,8 @@
       "ง": "รังสีเอกซ์, แกมมา, เบตา",
       "จ": "รังสีเบตา, แอลฟา, อิเล็กตรอน"
     },
-    "explanation": "รังสีที่นิยมใช้ในการรักษาโรคมะเร็งปัจจุบัน ได้แก่ รังสีเอกซ์ (X-ray), แกมา (Gamma) และอิเล็กตรอน (Electron) ซึ่งเป็นรังสีที่มีพลังานที่เหมาะสมและการใช้งานประสิทธิภาพสูง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 247,
@@ -3450,9 +3207,8 @@
       "ง": "มีการ maintenance น้อยกว่า",
       "จ": "ระบบ complicate น้อยกว่า"
     },
-    "explanation": "เพราะเครื่องเร่งอนุภาคมี penumbra น้อยกว่า ทำให้สามารถใช้งานได้ง่ายขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 248,
@@ -3464,9 +3220,8 @@
       "ง": "Diagnostic x-ray beams",
       "จ": "Proton beams"
     },
-    "explanation": "พลังงานที่ต้องใช้ร่วมกับ Beam flattening filter คือ Photon beams",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 249,
@@ -3478,9 +3233,8 @@
       "ง": "Diagnostic x-ray beams",
       "จ": "Proton beams"
     },
-    "explanation": "พลังงานที่ต้องใช้ร่วมกับ Scattering foil คือ Photon beams",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 250,
@@ -3492,9 +3246,8 @@
       "ง": "Diagnosis –Simulation –Planning –Verification –Treatment",
       "จ": "Diagnosis –Planning-Simulation –Treatment –Verification"
     },
-    "explanation": "ขั้นตอนการรักษาด้วยรังสีควรเรียงตามลำดับ Diagnosis –Treatment –Verification –Simulation –Planning",
-    "answer": "ด",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 251,
@@ -3506,9 +3259,8 @@
       "ง": "25%",
       "จ": "30%"
     },
-    "explanation": "ค่า Transmission ที่เหมาะสมสําหรับการกําบังรังสีในงานรังสีรักษาคือ 25%",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 252,
@@ -3520,9 +3272,8 @@
       "ง": "กําบังรังสี",
       "จ": "เพิ่มปริมาณรังสีบริเวณพื้นผิว"
     },
-    "explanation": "Compensating filters มีประโยชน์ในการทดแทนพื้นผิวที่ไม่สม่ําเสมอ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 253,
@@ -3534,9 +3285,8 @@
       "ง": "กําบังรังสี",
       "จ": "เพิ่มปริมาณรังสีบริเวณพื้นผิว"
     },
-    "explanation": "กรองรังสีพลังงานต่ํา",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 254,
@@ -3548,9 +3298,8 @@
       "ง": "ไม่ต้องใช้ wedge transmission factor",
       "จ": "ใช้กรองรังสีพลังงานต่ํา"
     },
-    "explanation": "ไม่ต้องใช้ wedge transmission factor",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 255,
@@ -3562,9 +3311,8 @@
       "ง": "Machine type",
       "จ": "ถูกทุกข้อ"
     },
-    "explanation": "SSD",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 256,
@@ -3576,9 +3324,8 @@
       "ง": "ลดลงเมื่อเพิ่มระยะ SSD",
       "จ": "ลดลงเมื่อระยะจากผิวผู้ป่วยถึงตําแหน่งรอยโรคเพิ่มขึ้น"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 257,
@@ -3590,9 +3337,8 @@
       "ง": "เพื่อให้เต้านมอยู่ห่างจากปอดได้มากขึ้น",
       "จ": "เพื่อสะดวกการกําหนดขอบเขตการฉายรังสี"
     },
-    "explanation": "เพื่อให้เต้านมอยู่ห่างจากปอดได้มากขึ้น",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 258,
@@ -3604,9 +3350,8 @@
       "ง": "ผู้ป่วยมีความสบายไม่ตื่นเต้นเวลานอน",
       "จ": "นักรังสีเทคนิคมีความสะดวกในการจัดท่าผู้ป่วย"
     },
-    "explanation": "นักรังสีเทคนิคมีความสะดวกในการจัดท่าผู้ป่วย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 259,
@@ -3618,9 +3363,8 @@
       "ง": "วางหมอนนิ่มใต้ศีรษะผู้ป่วย",
       "จ": "ผู้ป่วยตัดสินใจเลือกจัดท่าที่สบายที่สุดเอง"
     },
-    "explanation": "เพื่อให้ผู้ป่วยมีความสบายระหว่างการฉายรังสี ควรจัดให้มีอุปกรณ์รองศีรษะ แขน และหัวเข่า เพื่อลดความเหนื่อยและความไม่สบาย",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 260,
@@ -3632,9 +3376,8 @@
       "ง": "ลูกอัณฑะ",
       "จ": "ตับ"
     },
-    "explanation": "เมื่อฉายรังสี Total body irradiation (TBI) อวัยวะที่สำคัญที่สุดที่ต้องมีการกำบังรังสี คือ รังไข่ เพื่อคุ้มครองความสามารถในการสืบพันธุ์",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 261,
@@ -3646,9 +3389,8 @@
       "ง": "เพื่อคํานวณปริมาณรังสีที่จะให้ผู้ป่วย",
       "จ": "เพื่อจัดท่าผู้ป่วยให้พร้อมในการฉายรังสี"
     },
-    "explanation": "การจำลองการฉายรังสี (Simulation) มีจุดประสงค์หลักในการกำหนดการจัดท่าผู้ป่วยและขอบเขตของการฉายรังสี เพื่อให้แนวลำรังสีตรงกับพื้นที่เป้าหมายที่ต้องการรักษา",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 262,
@@ -3660,9 +3402,8 @@
       "ง": "ลํารังสีของ 3D-CRT มีการแปรความเข้มในแต่ละ beam angle ในขณะที่ความเข้มลํารังสีของ IMRT สม่ําเสมอในแต่ละ beam angle",
       "จ": "เทคนิค 3D-CRT สามารถให้ปริมาณรังสีได้มากกว่าเทคนิค IMRT"
     },
-    "explanation": "เพราะเทคนิค IMRT ใช้อุปกรณ์ MLC ในขณะที่เทคนิค 3D-CRT ใช้ Custom Block",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 263,
@@ -3674,9 +3415,8 @@
       "ง": "Lead wire",
       "จ": "Optical Distance Indicator (ODI)"
     },
-    "explanation": "Optical Distance Indicator (ODI) เป็นอุปกรณ์ที่ใช้สําหรับช่วยจัดท่าผู้ป่วยให้เหมือนเดิมทุกครั้ง ในงานรังสีรักษา",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 264,
@@ -3688,9 +3428,8 @@
       "ง": "Mask",
       "จ": "Breast board"
     },
-    "explanation": "Bolus คืออุปกรณ์ข้อใดที่ใช้ในการฉายรังสีบริเวณที่มีความโค้ง-เว้าไม่เรียบของผิวผู้ป่วย",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 265,
@@ -3702,9 +3441,8 @@
       "ง": "Rotation technique",
       "จ": "Arc therapy technique"
     },
-    "explanation": "เทคนิค SD (Source to Skin Distance) Technique เป็นวิธีการฉายรังสีที่ใช้ลำรังสีครั้งเดียว (Single field) โดยคำนวณปริมาณรังสีจากระยะห่างระหว่างแล่งรังสีและผิวหนัก",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 266,
@@ -3716,9 +3454,8 @@
       "ง": "ผู้ป่วยอยู่ในตําแหน่งเดิมตลอดการฉายรังสี",
       "จ": "ทําให้ระยะทางจากเครื่องฉายรังสีถึงผิวหนังผู้ป่วยคงที่"
     },
-    "explanation": "ประโยชน์หลักของ Isocentric technique (SAD technique) คือการทำให้ระยะทางจากเครื่องฉายรังสีถึง isocenter (ซึ่งตั้งอยู่ที่จุดเป้าหมาย) คงที่ตลอดการักษา ทำให้ง่ายต่อการจัดท่าและแม่นยำมากขึ้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 267,
@@ -3730,9 +3467,8 @@
       "ง": "รู้ขนาดปริมาตรของก้อนมะเร็งของผู้ป่วยในระหว่างการฉายรังสีได้อย่างถูกต้อง",
       "จ": "รู้ความลึกของตําแหน่งก้อนมะเร็งอย่างถูกต้อง"
     },
-    "explanation": "นักรังสีเทคนิคต้องมีความสามารถในเทคนิคการจัดท่าผู้ป่วยให้ถูกต้องและใช้เครื่องมือฉายรังสีได้อย่างถูกต้อง เพื่อให้งานรังสีรักษามีประสิทธิภาพสูงสุด",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 268,
@@ -3744,9 +3480,8 @@
       "ง": "เหมาะกับทุกเทคนิคของการฉายรังสี",
       "จ": "ให้รังสีที่สามารถรักษาให้ผู้ป่วยหายขาดจากโรคได้"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Skin sparing effect",
+    "answer": "ค"
   },
   {
     "id": 269,
@@ -3758,9 +3493,8 @@
       "ง": "ทําให้ผู้ป่วยเกิดความมั่นใจในการรักษา",
       "จ": "ทําให้เหมาะกับทุกเทคนิคของการฉายรังสี"
     },
-    "explanation": "เพราะช่วยให้ผู้ป่วยเกิดความมั่นใจในการรักษา และช่วยให้เหมาะกับทุกเทคนิคของการฉายรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 270,
@@ -3772,9 +3506,8 @@
       "ง": "MultileafCollimator",
       "จ": "Applicator Cone"
     },
-    "explanation": "เพราะเป็นอุปกรณ์ที่ใช้ในการกำหนดขอบเขตของการฉายรังสีด้วยลํารังสีอิเล็กตรอนในเครื่องเร่งอนุภาค",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 271,
@@ -3786,9 +3519,8 @@
       "ง": "Miscalculation of daily maximum or tumor dose",
       "จ": "Failure to record exact patient position"
     },
-    "explanation": "เพราะการคำนวณสูงสุดหรือปริมาณการฉายรังสีที่วัดไม่ถูกต้อง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 272,
@@ -3800,9 +3532,8 @@
       "ง": "3D-CRT",
       "จ": "IORT"
     },
-    "explanation": "เพราะเทคนิค IMRT มีการปรับเปลี่ยนความเข้มของลํารังสีในแต่ละพื้นที่เพื่อให้เหมาะสมกับรอยโรคและอวัยวะสําคัญข้างเคียง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 273,
@@ -3814,9 +3545,8 @@
       "ง": "3D-CRT",
       "จ": "IORT"
     },
-    "explanation": "เพราะเทคนิค TBI มีการกระจายความเข้มของรังสีปริมาณสูงล้อมรอบ และเป็นไปตามลักษณะของ Tumourใน 3มิติ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 274,
@@ -3828,9 +3558,8 @@
       "ง": "5,000 cGy",
       "จ": "5,500 cGy"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 275,
@@ -3842,9 +3571,8 @@
       "ง": "Amorphous Silicon",
       "จ": "AluminiumSulfate"
     },
-    "explanation": "เนื่องจาก Amorphous Silicon มีความสามารถในการปรับเปลี่ยนการสะท้อนรังสีให้เหมาะสมสำหรับการตรวจสอบตําแหน่ง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 276,
@@ -3856,9 +3584,8 @@
       "ง": "TIFF",
       "จ": "MP3"
     },
-    "explanation": "DICOM เป็นมาตรฐานไฟล์ภาพทางรังสีที่ใช้กันอย่างแพร่หลายในการสื่อสารและประมวลผลภาพทางรังสีในงานรังสีรักษา",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 277,
@@ -3870,9 +3597,8 @@
       "ง": "PET",
       "จ": "PET-CT"
     },
-    "explanation": "เพราะ PET-CT มีความสามารถในการตรวจสอบปริมาณรังสีได้แม่นยำและครอบคลุมหลายๆ ส่วนของร่างกาย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 278,
@@ -3884,9 +3610,8 @@
       "ง": "Block casting area",
       "จ": "Water bath"
     },
-    "explanation": "เนื่องจาก Cabinet, Garbage ไม่ใช่ส่วนประกอบหลักของ Mouldroom ซึ่งเป็นเครื่องมือสำหรับการทำแบบจำลองขน",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 279,
@@ -3898,9 +3623,8 @@
       "ง": "Lung, Thyroid, Spinal cord",
       "จ": "Lung, Head of humerus, Thyroid"
     },
-    "explanation": "เพราะการฉายรังสี PA field ใน Mantle technique ต้องครอบคลุม Lung, Head of humerus และ Larynx เพื่อให้ได้ภาพที่ชัดเจน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 280,
@@ -3912,9 +3636,8 @@
       "ง": "In vivo dosimetry นิยมทําเป็นงานประจําในผู้ป่วยที่รักษาด้วยรังสี",
       "จ": "Record and Verify system เป็นการตรวจสอบข้อมูลประกอบการฉายรังสี"
     },
-    "explanation": "เพราะ EPID ให้ภาพที่เรียลไทม์ และสามารถใช้ในการฉายรังสีด้วย film หรือ EPID",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 281,
@@ -3926,9 +3649,8 @@
       "ง": "Gamma knife และ Linear Accelerator",
       "จ": "Gamma knife และ Cobalt-60 machine"
     },
-    "explanation": "Cobalt-60 machine และ Linear Accelerator เป็นเครื่องฉายรังสีที่นิยมใช้สำหรับการฉายรังสีแบบ SRS และ SRT",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 282,
@@ -3940,9 +3662,8 @@
       "ง": "การหาขอบเขตของ External body contour",
       "จ": "การวางแผนการฉายรังสี"
     },
-    "explanation": "การทํา Radiograph ของ Radioactive source ใน Brachytherapy implants ไม่ใช่บทบาทหน้าที่ของนักรังสีการแพทย์ในแผนกรังสีรักษาในการทํา x-ray simulation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 283,
@@ -3954,9 +3675,8 @@
       "ง": "Collimate the beam at a specified depth in tissue",
       "จ": "Prevent x-ray scattering in air"
     },
-    "explanation": "Applicator ในการฉายรังสีด้วย electron beam ใช้เพื่อกำจัด electron contamination ที่เกิดจากการกระเจิงของอิเล็กตรอนในากศและทำให้บีมเป็น uniform ที่ผิวผู้ป่วย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 284,
@@ -3968,9 +3688,8 @@
       "ง": "ท่าที่นอนสบาย",
       "จ": "ท่าที่นอนได้เหมือนเดิมทุกครั้ง"
     },
-    "explanation": "ท่าที่เหมาะสมในการฉายรังสีรักษาคือท่าที่ผู้ป่วยนอนได้เหมือนเดิมทุกครั้ง เพื่อให้ได Reproducibility ที่ดี ซึ่งเป็นสิ่งสำคัญในการรักษาด้วยรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 285,
@@ -3982,9 +3701,8 @@
       "ง": "เพื่อกําหนดขอบเขตของ Lung contour",
       "จ": "เพื่อลดปริมาณรังสีที่ผิวหนัง"
     },
-    "explanation": "การ Localization of breast lesion ใช้เพื่อหาตำแหน่งของ Niple ซึ่งเป็นจุดอ้างอิงสำคัญในการวางแผนการฉายรังสีรักษามะเร็งต้านม เพื่อให้ได้ความแม่นยำในการกำหนดขอบเขตของพื้นที่ฉายรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 286,
@@ -3996,9 +3714,8 @@
       "ง": "นอนคว๋ํา",
       "จ": "เปลี่ยนท่าเมื่อจําเป็น"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 287,
@@ -4010,9 +3727,8 @@
       "ง": "เครื่อง MRI",
       "จ": "เครื่อง C-arm"
     },
-    "explanation": "เครื่อง Conventional simulator เป็นอุปกรณ์ที่ใช้ในการทำ Portal imaging",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 288,
@@ -4024,9 +3740,8 @@
       "ง": "การกําหนด Isocenter ในเครื่อง CT-SIM จะทําโดยผ่านโปรแกรม “Virtual simulation”",
       "จ": "CT-SIM มีระบบ fluoroscopy นํามาใช้ทําการวางแผนการฉายรังสีรักษาแบบ 3มิติ"
     },
-    "explanation": "การกําหนด Isocenter ในเครื่อง CT-SIM จะทําโดยผ่านโปรแกรม “Virtual simulation”",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 289,
@@ -4038,9 +3753,8 @@
       "ง": "การใช้ Mask",
       "จ": "การใช้ Slope board"
     },
-    "explanation": "เพราะ Block สามารถปรับขนาดและตำแหน่งได้เพื่อให้ผิวผู้ป่วยมีความสบายใจและมีประสิทธิภาพในการฉายรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 290,
@@ -4052,9 +3766,8 @@
       "ง": "ผู้ป่วยไม่ต้องขยับเคลื่อนย้ายตลอดการฉายรังสีแบบ Multiple beams",
       "จ": "ทําให้ระยะทางจากเครื่องฉายรังสีถึงผิวหนังผู้ป่วยคงที่ตลอดการฉายรังสี"
     },
-    "explanation": "Isocentrictechnique (SAD technique) ทำให้ระยะทางจากเครื่องฉายรังสีถึงผิวหนังผู้ป่วยคงที่ตลอดการฉายรังสี ซึ่งช่วยให้ผู้ป่วยไม่ต้องขยับเคลื่อนย้าย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 291,
@@ -4066,9 +3779,8 @@
       "ง": "รู้ขนาดปริมาตรของก้อนมะเร็งของผู้ป่วยในระหว่างการฉายรังสี ได้อย่างถูกต้อง",
       "จ": "รู้ความลึกของตําแหน่งก้อนมะเร็งอย่างถูกต้อง"
     },
-    "explanation": "เพื่อให้การรักษามีประสิทธิภาพ นักรังสีเทคนิคควรทราบการใช้เทคนิคในการจัดท่าผู้ป่วย และเครื่องมือที่ใช้ในการรักษาได้อย่างถูกต้อง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 292,
@@ -4080,9 +3792,8 @@
       "ง": "เหมาะกับทุกเทคนิคของการฉายรังสี",
       "จ": "ให้รังสีที่สามารถรักษาให้ผู้ป่วยหายขาดจากโรคได้"
     },
-    "explanation": "เพราะผู้ป่วยสามารถนอนได้ง่ายและมั่นคง และสามารถจัดเครื่องฉายรังสีได้ง่าย",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "Skin sparing effect",
+    "answer": "ค"
   },
   {
     "id": 293,
@@ -4094,9 +3805,8 @@
       "ง": "Photon beam หรือ Multiple electron beam",
       "จ": "Tangential field ด้วย Electron beam"
     },
-    "explanation": "เนื่องจาก Photon beam สามารถเพิ่มปริมาณรังสีที่ก้อนมะเร็งได้ และ Interstitial implantation สามารถใช้ร่วมกับ Photon beam เพื่อเพิ่มผลลัพธ์",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 294,
@@ -4108,9 +3818,8 @@
       "ง": "Uniformity correction",
       "จ": "ลดจํานวนมุมในการถ่ายภาพให้มากเกินพอ"
     },
-    "explanation": "เนื่องจาก Center of rotation offset correction สามารถช่วยลด star artifact ได้โดยการปรับเปลี่ยนตำแหน่งของศูนย์วงกลมในการถ่ายภาพ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 295,
@@ -4122,9 +3831,8 @@
       "ง": "Imaging, Applicator insertion, Planning, Applicator reconstruction, Delivery",
       "จ": "Applicator insertion, Imaging, Applicator reconstruction, Planning, Delivery"
     },
-    "explanation": "เพราะกระบวนการใส่แร่ได้เรียงลำดับ Applicator insertion, Imaging, Applicator reconstruction, Planning, Delivery",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 296,
@@ -4136,9 +3844,8 @@
       "ง": "Two lateral opposing filed technique ขอบบนขอบล่างอยู่ที่ระดับ T6-T8",
       "จ": "Three-field technique ขอบบนขอบล่างอยู่ที่ระดับ T5-T9"
     },
-    "explanation": "เพราะว่า Spinal cord compression ควรใช้เทคนิค AP/PA Two opposing field technique และวางขอบเขตการฉายรังสีอยู่ที่ระดับ T6-T8",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "-",
+    "answer": "ค"
   },
   {
     "id": 297,
@@ -4150,9 +3857,8 @@
       "ง": "Positron",
       "จ": "Neutron"
     },
-    "explanation": "เพราะอนุภาคที่ถูกเร่งภายใน Betatron คือ Deuteron",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 298,
@@ -4164,9 +3870,8 @@
       "ง": "สามารถกําหนด isocenter ได้",
       "จ": "สามารถสร้างภาพ DRR และ Beam’s eye view ได้"
     },
-    "explanation": "Virtual simulation สามารถสร้างลํารังสีรวมถึงการกําบังด้วย MLC ได้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 299,
@@ -4178,9 +3883,8 @@
       "ง": "มีการบิดเตียงฉายรังสี",
       "จ": "แกนกลางลํารังสีต่างกัน"
     },
-    "explanation": "ในการฉายแบบ non-coplanar beam จากเครื่อง Linac ต้องให้ลํารังสีอย่างน้อย 3-5ทิศทาง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 300,
@@ -4192,9 +3896,8 @@
       "ง": "300 Gy/10 ครั้ง",
       "จ": "30 Gy/1 ครั้ง"
     },
-    "explanation": "ปริมาณรังสีและจำนวนครั้งที่นิยมใช้ในการฉายรังสีเพื่อบรรเทาอาการ (Palliative treatment) คือ 10 Gy/30 ครั้ง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 301,
@@ -4206,9 +3909,8 @@
       "ง": "Buildup region uncertainty",
       "จ": "Penumbra uncertainty"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 302,
@@ -4220,9 +3922,8 @@
       "ง": "ใช้ Bolus",
       "จ": "ใช้ Wedge filter"
     },
-    "explanation": "การลด Beam divergence สามารถทำได้โดยใช้ Tissue compensator เพื่อปรับเปลี่ยนพารามิเตอร์ของรังสีให้เหมาะสมกับสภาพผู้ป่วย",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 303,
@@ -4234,9 +3935,8 @@
       "ง": "Block, Tray, Tissue Compensator",
       "จ": "Bolus, Wedge filter, Tray"
     },
-    "explanation": "อุปกรณ์ที่ใช้เพื่อจุดประสงค์ในการปรับแต่งลำรังสีคือ Block, Wedge filter และ Mask ซึ่งช่วยให้สามารถปรับเปลี่ยนพารามิเตอร์ของรังสีและลดผลกระทบจาก Beam divergence",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 304,
@@ -4248,9 +3948,8 @@
       "ง": "ความผิดพลาดจากการคำนวณปริมาณรังสีและเวลาฉายรังสีให้กับผู้ป่วย",
       "จ": "ความผิดพลาดจากกลไกภายในของเครื่องฉายรังสี"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 305,
@@ -4262,9 +3961,8 @@
       "ง": "Source dwell position",
       "จ": "X-ray output constancy"
     },
-    "explanation": "การตรวจสอบประจำวันในเครื่องฉายรังสีระยะใกล้ (Brachytherapy) ควรตรวจสอบ Source dwell time และ Area radiation survey เพื่อให้แน่ใจว่าผู้ป่วยได้รับดosisรังสีที่เหมาะสม",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 306,
@@ -4276,9 +3974,8 @@
       "ง": "ใส่ wedge ใน anterior field",
       "จ": "ใส่ wedge ในทุก field"
     },
-    "explanation": "ในการฉาย Pituitary Tumor ด้วย Three-field technique ควรใส่ wedge ใน lateral field เพื่อให้ได้ผลลัพธ์ที่ดีที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 307,
@@ -4290,9 +3987,8 @@
       "ง": "Laser-mouth system",
       "จ": "Gantry-mouth system"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 308,
@@ -4304,9 +4000,8 @@
       "ง": "ให้ Photon beam ได้เพียง 2ค่าพลังงาน",
       "จ": "ค่า LET ต่ ากว่า Photon beam"
     },
-    "explanation": "เนื่องจากการผสมกันของพลังงานและความลึก ทำให้เกิด Bragg peak ที่ความลึก 2.5 เซนติเมตร จากผิว",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 309,
@@ -4318,9 +4013,8 @@
       "ง": "Breast",
       "จ": "Cervix"
     },
-    "explanation": "มะเร็งปากต้องใช้การใส่แร่แบบถาวรเป็นทางการที่นิยมมากที่สุด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 310,
@@ -4332,9 +4026,8 @@
       "ง": "Kidney",
       "จ": "Lung"
     },
-    "explanation": "เนื่องจากกระดูกสันหลังมีความไวต่อการเกิดความเสียหายจากรังสี จึงเป็นอวัยวะที่มีความเสี่ยงหากได้รับรังสีสูงกว่าขีดจำกัด แม้เพียงบริเวณใดบริเวณหนึ่งจะทำให้เกิดการสูญเสียการทำงาน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Serial organ",
+    "answer": "ก"
   },
   {
     "id": 311,
@@ -4346,9 +4039,8 @@
       "ง": "ภาวะภูมิคุ้มกันต่ า",
       "จ": "มะเร็งทั่วไป"
     },
-    "explanation": "เทคนิคการฉายรังสีแบบทั้งตัว (TBI) เหมาะสมสำหรับผู้ป่วยมะเร็งผิวหนัง เนื่องจากมะเร็งผิวหนังเป็นโรคที่มีความไวต่อการเกิดความเสียหายจากรังสี และเทคนิค TBI สามารถช่วยลดผลกระทบของการฉายรังสีได้",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 312,
@@ -4360,9 +4052,8 @@
       "ง": "Blocks",
       "จ": "Jaws"
     },
-    "explanation": "Jaw เป็นโครงสร้างที่ใช้ในการปรับเปลี่ยนตำแหน่งและความกว้างของฟิล์มฉายรังสี ทำให้มีความสามารถในการปรับเปลี่ยนการฉายรังสีได้อย่างเหมาะสม และไม่ใช่ photon beam modifiers",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "Electron",
+    "answer": "ก"
   },
   {
     "id": 313,
@@ -4374,9 +4065,8 @@
       "ง": "ลด Setup error ลด Organ motion เพิ่ม Organ dose เพิ่ม Target dose",
       "จ": "เพิ่ม Setup error เพิ่ม Organ motion เพิ่ม Organ dose เพิ่ม Target dose"
     },
-    "explanation": "การฉายรังสีแบบ IGRT ช่วยลด Setup error ลด Organ motion เพิ่ม Target dose",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 314,
@@ -4388,9 +4078,8 @@
       "ง": "ใช้สำหรับการรักษาแบบ Permanent intracavitary",
       "จ": "เป็นเครื่องที่มีอัตราการให้ปริมาณรังสีต่อหน่วยเวลาสูงกว่า 12 Gy/hr"
     },
-    "explanation": "HDR unit ใช้ต้นกำเนิดรังสีเรียงต่อกันหลายเม็ดภายในเครื่อง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 315,
@@ -4402,9 +4091,8 @@
       "ง": "Pelvis",
       "จ": "Head"
     },
-    "explanation": "เทคนิค 4-field box มักใช้ในการรักษาผู้ป่วยมะเร็ง Extremities",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 316,
@@ -4416,9 +4104,8 @@
       "ง": "การผอมลงของผู้ป่วย",
       "จ": "การจัดท่าผู้ป่วยฉายรังสีแต่ละวัน"
     },
-    "explanation": "เพราะการเคลื่อนไหวภายในกระดูก (Intra-fraction motion) ทำให้ตำแหน่งของ Bladder ไม่แน่นอน และอาจทำให้การฉายรังสีไม่แม่นยำ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 317,
@@ -4430,9 +4117,8 @@
       "ง": "Cs-137",
       "จ": "I-125"
     },
-    "explanation": "ปัจจุบันเครื่องสอดใส่สารกัมมันตรังสีแบบ HDR นิยมใช้ Cs-137 เนื่องจากมีความเสถียรและความแม่นยำในการฉายรังสีที่ดีกว่า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 318,
@@ -4444,9 +4130,8 @@
       "ง": "Bladder, Sigmoid colon, Small intestine",
       "จ": "Sigmoid colon, Uterus, Small intestine"
     },
-    "explanation": "Bladder เป็นอวัยวะเสี่ยงหลักสำหรับการรักษามะเร็งปากมดลูกด้วยเทคนิค 3D Brachytherapy เนื่องจากมีความไวต่อการฉายรังสีและอาจเกิดอาการไม่พึงประสงค์ได้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 319,
@@ -4458,9 +4143,8 @@
       "ง": "Bladder cancer",
       "จ": "Brain tumor"
     },
-    "explanation": "เนื่องจากมะเร็งต่อมลูกหมากเป็นชนิดที่มีการแบ่งตามระดับความแตกต่างของการแยกเซลล์ (Degree of differentiation) และ Gleason score จึงสามารถแบ่งออกเป็น 3 ระดับ ได้แก่ G1, G2 และ G3 โดยที่ G1 คือระดับที่ต่ำกว่า G2 และ G3",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 320,
@@ -4472,9 +4156,8 @@
       "ง": "ลดผลกระทบจากตำแหน่งของต่อมลูกหมาก ซึ่งอาจจะคลาดเคลื่อนจากแผนการรักษา",
       "จ": "ทำให้ต่อมลูกหมากได้รับรังสีอย่างสม่ าเสมอ"
     },
-    "explanation": "การใช้เทคนิค Full bladder ในการฉายรังสีผู้ป่วยมะเร็งต่อมลูกหมากจะช่วยลดผลกระทบจากตำแหน่งของต่อมลูกหมาก ซึ่งอาจจะคลาดเคลื่อนจากแผนการรักษา",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 321,
@@ -4486,9 +4169,8 @@
       "ง": "Gross tumor volume (GTV)",
       "จ": "Internal target volume (ITV)"
     },
-    "explanation": "Gross tumor volume (GTV) คือ ก้อนมะเร็งที่สามารถคลำได้ หรือเห็นได้จากภาพทางรังสี CT หรือ MRI",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 322,
@@ -4500,9 +4182,8 @@
       "ง": "การวัดปริมาณรังสี",
       "จ": "ชนิดของพลังงาน"
     },
-    "explanation": "เครื่องฉายรังสีเป็นเทคนิคการฉายรังสีทั่วร่างกาย และ TSEI คือเทคนิคการฉายรังสีแบบเร่งอนุภาค",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "PhotonElectron",
+    "answer": "จ"
   },
   {
     "id": 323,
@@ -4514,9 +4195,8 @@
       "ง": "ลดการเคลื่อนไหวของการหายใจ",
       "จ": "เพิ่มความแม่นยำในการฉายรังสีจากการเก็บภาพตามการหายใจของผู้ป่วย"
     },
-    "explanation": "4D-CT ช่วยเพิ่มความแม่นยำในการฉายรังสีจากการเก็บภาพตามการหายใจของผู้ป่วย ทำให้สามารถวางแผนการรักษาได้อย่างแม่นยำมากขึ้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 324,
@@ -4528,9 +4208,8 @@
       "ง": "การตรวจสอบค่า Wedge transmission factor",
       "จ": "การตรวจสอบความถูกต้องของ Laser ที่ใช้ในการจัดท่าผู้ป่วย"
     },
-    "explanation": "การตรวจสอบความถูกต้องของ Laser ที่ใช้ในการจัดท่าผู้ป่วยเป็นหนึ่งในบทบาทหน้าที่ของนักรังสีเทคนิคสำหรับเครื่องฉายรังสีชนิดเครื่องเร่งอนุภาคแบบเส้นตรง (LINAC)",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 325,
@@ -4542,9 +4221,8 @@
       "ง": "Cobalt-60 machine",
       "จ": "Cyclotron"
     },
-    "explanation": "เพราะเครื่องฉายรังสี Cyber knife มีความแม่นยำสูงและสามารถตัดผ่านเนื้อเยื่อได้อย่างละเอียด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 326,
@@ -4556,9 +4234,8 @@
       "ง": "ผู้ป่วยที่มีรูปร่างผอม ตัวเล็ก มีเต้านมขนาดเล็กและลักษณะย้อย",
       "จ": "ผู้ป่วยที่มีรูปร่างอ้วน มีเต้านมขนาดเล็กมากๆ"
     },
-    "explanation": "เพราะผู้ป่วยที่มีรูปร่างอ้วน มีเต้านมขนาดใหญ่และลักษณะย้อย จะมีความเสี่ยงสูงในการเกิดการฉายรังสีผิดพลาด",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 327,
@@ -4570,9 +4247,8 @@
       "ง": "IVC syndrome",
       "จ": "SVC obstruction"
     },
-    "explanation": "เพราะ SVC obstruction เป็นภาวะที่ไม่ใช่ฉุกเฉิน และสามารถป้องกันได้ด้วยการปรับเปลี่ยนตำแหน่งของผู้ป่วยและเครื่องฉายรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 328,
@@ -4584,9 +4260,8 @@
       "ง": "CT Simulator มี Moving Laser ทำให้สามารถยึดขอบเขตของพื้นที่ลำรังสีได้",
       "จ": "CT Simulator มี Software Virtual Simulation"
     },
-    "explanation": "เพราะ CT Simulator มีการออกแบบให้สามารถใช้ร่วมกับอุปกรณ์ยึดตรึงผู้ป่วยได้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 329,
@@ -4598,9 +4273,8 @@
       "ง": "ที่ดึงไหล่",
       "จ": "Wing board"
     },
-    "explanation": "เพราะที่ดึงไหล่ไม่มีความจำเป็นในการยึดตรึงผู้ป่วยให้เหมาะสมกับสรีระในการฉายรังสีบริเวณศรีษะและลำคอ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 330,
@@ -4612,9 +4286,8 @@
       "ง": "±4มิลลิเมตร",
       "จ": "±5มิลลิเมตร"
     },
-    "explanation": "เพราะ ±4 มิลลิเมตร เป็นเกณฑ์ยอมรับได้ของการตรวจสอบคุณภาพประจำวันของเลเซอร์ในห้องเอกซเรย์คอมพิวเตอร์จำลองการรักษา",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 331,
@@ -4626,9 +4299,8 @@
       "ง": "Photon mode ใช้ Scattering foil",
       "จ": "Electron mode ใช้ Target"
     },
-    "explanation": "เพราะ Photon mode ใช้ Applicator เพื่อควบคุมการกระจายรังสีให้สม่ำเสมอ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 332,
@@ -4640,9 +4312,8 @@
       "ง": "Flattening filter",
       "จ": "Magnetron"
     },
-    "explanation": "เพราะ Scattering foil ทำให้ปริมาณรังสีโฟตอนที่ออกมามีความสม่ำเสมอ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 333,
@@ -4654,9 +4325,8 @@
       "ง": "Right/Left two lateral opposing",
       "จ": "AP/PA two –opposing"
     },
-    "explanation": "เพราะ Three –field with anterior and two opposing right and left lateral เป็นเทคนิคที่ใช้กันอย่างแพร่หลายในการฉายรังสี Whole Brain Radiation Therapy",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 334,
@@ -4668,9 +4338,8 @@
       "ง": "Block",
       "จ": "Mask"
     },
-    "explanation": "เพราะ Bolus เป็น Beam modifiers ที่ใช้เพื่อปรับเปลี่ยนกระแสของรังสีให้เหมาะสมกับการฉายภาพ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 335,
@@ -4682,9 +4351,8 @@
       "ง": "Dermatitis",
       "จ": "Xerostomia"
     },
-    "explanation": "เพราะ Mucositis เป็นผลข้างเคียงที่เกิดจากการฉายรังสีในมะเร็งต่อมน้ำเหลืองบริเวณศรีษะและลำคอ มักจะเกิดขึ้นที่ด้านหลังของปาก",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 336,
@@ -4696,8 +4364,7 @@
       "ง": "Ir-192, I-125",
       "จ": "Cs-137, Ir-192"
     },
-    "explanation": "เพราะ Cs-137 เป็น Temporary source และ Ir-192 เป็น Permanent source ที่ใช้ในการรักษาด้วยรังสีระยะใกล้ตามลำดับ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   }
 ]

@@ -9,9 +9,8 @@
       "ง": "ต่างนิวไคล์กัน แต่มีระดับพลังงานเท่ากัน",
       "จ": "เป็นนิวไคล์เดียวกัน แต่มีระดับพลังงานต่างกัน"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 2,
@@ -23,9 +22,8 @@
       "ง": "Isomeric transition",
       "จ": "Internal conversion"
     },
-    "explanation": "นิวไคล์ที่มีจำนวนโปรตอนมากเกินไปจะเกิดการสลายตัวแบบ Internal conversion",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 3,
@@ -37,9 +35,8 @@
       "ง": "Neutron",
       "จ": "Positron"
     },
-    "explanation": "รังสี Gamma ray ใช้ในการรักษาผู้ป่วยทางเวชศาสตร์นิวเคลียร์",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 4,
@@ -51,9 +48,8 @@
       "ง": "Auger electron",
       "จ": "Gamma ray"
     },
-    "explanation": "เพราะการเปลี่ยนแปลงของพลังงานภายในนิวเคลียส ทำให้เกิดการปล่อยออกไปเป็นรังสี X ที่มีลักษณะเฉพาะ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 5,
@@ -65,9 +61,8 @@
       "ง": "Annihilation photon",
       "จ": "Photoelectron"
     },
-    "explanation": "เพราะการเปลี่ยนแปลงของพลังงานภายในนิวเคลียส ทำให้เกิดการปล่อยออกไปเป็นรังสี X ที่มีลักษณะเฉพาะ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 6,
@@ -79,9 +74,8 @@
       "ง": "Recombination",
       "จ": "Annihilation"
     },
-    "explanation": "เพราะกระบวนการคู่ไอออน เมื่อรังสีผ่านมากระทบกับวัตถุตัวกลาง ทำให้เกิดการเปลี่ยนแปลงของพลังงานภายในนิวเคลียส",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 7,
@@ -93,9 +87,8 @@
       "ง": "Photoelectric Effect, Compton Scattering และ Pair production",
       "จ": "Ionization, Excitation และ Pair production"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 8,
@@ -107,9 +100,8 @@
       "ง": "มีความจำเพาะเจาะจงสูง",
       "จ": "LET ต่ า"
     },
-    "explanation": "LET ต่ าเป็นส่วนสำคัญของการทำลายก้อนมะเร็ง เนื่องจากช่วยให้สามารถควบคุมกระบวนการทำลายได้อย่างแม่นยำ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 9,
@@ -121,9 +113,8 @@
       "ง": "159 keV",
       "จ": "392 keV"
     },
-    "explanation": "99mTc ให้รังสีแกมมาพลังงาน 140 keV ซึ่งเป็นพลังงานที่เหมาะสมสำหรับการใช้งานทางการแพทย์",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 10,
@@ -135,9 +126,8 @@
       "ง": "ทำปฏิกริยาทางเคมีได้ง่าย",
       "จ": "แตกตัวได้ง่าย"
     },
-    "explanation": "เพราะสารกัมมันตรังสีที่ใช้ในการตรวจถ่ายภาพอวัยวะมักจะมีความเสถียรและไม่ทำปฏิกริยาทางเคมีได้ง่าย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 11,
@@ -149,9 +139,8 @@
       "ง": "Semiconductor detector",
       "จ": "Ionization detector"
     },
-    "explanation": "Geiger muller detector เป็นหัววัดรังสีที่นิยมใช้ในเวชศาสตร์นิวเคลียร์เพราะสามารถตรวจจับรังสีได้อย่างแม่นยำและเร็ว",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 12,
@@ -163,9 +152,8 @@
       "ง": "Ionization detector",
       "จ": "Geiger muller detector"
     },
-    "explanation": "Semiconductor detector มี energy resolution ดีที่สุดเพราะสามารถแปลงรังสีเป็นไฟฟ้าได้อย่างมีประสิทธิภาพและมีความแม่นยำสูง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 13,
@@ -177,9 +165,8 @@
       "ง": "Liquid scintillation detector",
       "จ": "Proportional detector"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Dose calibrator, geiger muller counter",
+    "answer": "ค"
   },
   {
     "id": 14,
@@ -191,9 +178,8 @@
       "ง": "อนุภาค",
       "จ": "นิวตรอน"
     },
-    "explanation": "Liquid scintillation counting system ใช้วัดรังสีอนุภาค",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 15,
@@ -205,9 +191,8 @@
       "ง": "เปลี่ยนโฟตอนแสงให้เป็นสัญญาณไฟฟ้า",
       "จ": "แปลงสัญญาณอนาลอกให้เป็นสัญญาณดิจิตอล"
     },
-    "explanation": "เปลี่ยนโฟตอนแสงให้เป็นสัญญาณไฟฟ้า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 16,
@@ -219,9 +204,8 @@
       "ง": "แปลงสัญญาณอนาลอกให้เป็นสัญญาณดิจิตอล",
       "จ": "เลือกวิเคราะห์สัญญาณที่มาจาก Amplifier ที่มีความสูงอยู่ในช่วงที่กำหนดไว้"
     },
-    "explanation": "เพราะเลือกวิเคราะห์สัญญาณที่มาจาก Amplifier ที่มีความสูงอยู่ในช่วงที่กำหนดไว้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 17,
@@ -233,9 +217,8 @@
       "ง": "Energy correction.",
       "จ": "Energy calibration"
     },
-    "explanation": "ความสามารถของหัววัดรังสีในการแยก 2พลังงานออกจากกันได้ชื่อว่า Energy resolution.",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 18,
@@ -247,9 +230,8 @@
       "ง": "การตั้งเวลาในการนับวัดผิดพลาด",
       "จ": "เครื่องมือทำงานบกพร่อง"
     },
-    "explanation": "เครื่องมือทำงานบกพร่องเป็นหนึ่งในตัวอย่างของ Random error ในงานเวชศาสตร์นิวเคลียร์",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 19,
@@ -261,9 +243,8 @@
       "ง": "8%",
       "จ": "10%"
     },
-    "explanation": "เพราะว่าผลเฉลี่ยของการวัดรังสี 10 ครั้งมีค่าน้อยกว่าค่าที่แท้จริง 1% ซึ่งหมายความว่าเครื่องวัดมีความแม่นยำมากกว่า 99%",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "25-24/24 x 100 = 1/24 x100 = 0.041 x 100 = 4.1%\nโจท$ควรจะใ*+,า precision มากก,า",
+    "answer": "ข"
   },
   {
     "id": 20,
@@ -275,9 +256,8 @@
       "ง": "10.0",
       "จ": "100.0"
     },
-    "explanation": "เนื่องจากความไม่แน่นอนของการนับวัดเป็นไปตามสูตร: ความไม่แน่นอน = √(ค่านับวัด / ค่าสูงสุด)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 21,
@@ -289,9 +269,8 @@
       "ง": "CsI(Tl)",
       "จ": "GSO"
     },
-    "explanation": "เพราะทั้ง CsI(Tl) และ NaI(Tl) มีความสามารถในการเรืองแสงที่ดี แต่ CsI(Tl) มีความแข็งแรงมากกว่าและใช้งานได้ดีกว่าในเครื่อง gamma camera",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 22,
@@ -303,9 +282,8 @@
       "ง": "NaI(Tl) crystal, Light guide, Collimator, PM tube",
       "จ": "NaI(Tl) crystal, PM tube, Collimator, Light guide"
     },
-    "explanation": "เพราะลำดับของส่วนประกอบต่างๆ มีความสำคัญต่อการควบคุมและปรับแต่งการถ่ายภาพ โดยมี Collimator เป็นขั้นตอนแรกในการควบคุมพลังงานที่เข้ามาในเครื่อง gamma camera, ตามด้วย NaI(Tl) crystal ซึ่งเป็นแหล่งกำเนิดของแสงgamma, Light guide ที่ช่วยให้แสงgammaสามารถถูกนำไปสู่ PM tube ได้อย่างมีประสิทธิภาพ และ PM tube เป็นจุดสิ้นสุดที่จะแปลงแสงgammaเป็นภาพ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 23,
@@ -317,9 +295,8 @@
       "ง": "Pinhole collimator",
       "จ": "Fan beam  collimator"
     },
-    "explanation": "เนื่องจาก Collimator ที่ใช้มากที่สุดในเครื่อง gamma camera คือ Parallelholecollimator ซึ่งเป็นแบบที่มีลักษณะคล้ายรูปสามเหลี่ยม โดยช่วยให้พลังงานที่เข้ามาในเครื่องสามารถถูกควบคุมและปรับแต่งได้อย่างแม่นยำ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 24,
@@ -331,9 +308,8 @@
       "ง": "High resolution collimator",
       "จ": "Pinhole collimator"
     },
-    "explanation": "เนื่องจาก Ga-67 เป็นสารสังเคราะห์ที่มีพลังงานต่ำ โดยใช้ Collimator ที่เหมาะสมในการถ่ายภาพ คือ Low energy collimator ซึ่งช่วยให้สามารถควบคุมและปรับแต่งการถ่ายภาพได้อย่างแม่นยำ และช่วยลดความเสี่ยงของการเกิดรอยหลุดหรือการเปลี่ยนแปลงของพลังงานที่เข้ามาในเครื่อง gamma camera",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 25,
@@ -345,9 +321,8 @@
       "ง": "มี Tl ช่วยให้เรืองแสงได้",
       "จ": "มีความชื้นสูง"
     },
-    "explanation": "เพราะ NaI(Tl) เป็นผลึกใสและสามารถสะท้อนแสงได้อย่างดี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 26,
@@ -359,9 +334,8 @@
       "ง": "LEHR มี septum บางกว่า LEHS",
       "จ": "ไม่แตกต่างกัน"
     },
-    "explanation": "LEHR มีความยาวของรูสั้นกว่า LEHS เนื่องจากมี septum หนาเพื่อให้ความชัดเจนสูงมากขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "0แคบ,แ3งยาว 0ก6าง,แ3ง7น\nLow energy : thin septum",
+    "answer": "ข"
   },
   {
     "id": 27,
@@ -373,9 +347,8 @@
       "ง": "High-energy all purpose (HEAP)",
       "จ": "Pinhole"
     },
-    "explanation": "Collimator คือ Diverging ไม่เหมาะสมกับการถ่ายภาพด้วย Tc-99m เพราะจะทำให้เกิดการกระจายแสงออกไปจากจุดตั้งฉาก",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 28,
@@ -387,9 +360,8 @@
       "ง": "Spatial resolution",
       "จ": "Sensitivity"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "SPECT",
+    "answer": "ค"
   },
   {
     "id": 29,
@@ -401,9 +373,8 @@
       "ง": "511 keV",
       "จ": "5110 keV"
     },
-    "explanation": "พลังงานของรังสีแกมมาที่ได้จากปฏิกิริยา Annihilation คือ 511 keV",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "0.511 MeV",
+    "answer": "ง"
   },
   {
     "id": 30,
@@ -415,9 +386,8 @@
       "ง": "Uniformity",
       "จ": "Geometry"
     },
-    "explanation": "การควบคุมคุณภาพของเครื่อง Dose calibrator คือ Precision, Accuracy, Linearity และ Uniformity แต่ Geometry ไม่ใช่การควบคุมคุณภาพ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "Gamma camera, SPECT",
+    "answer": "ง"
   },
   {
     "id": 31,
@@ -429,9 +399,8 @@
       "ง": "11C",
       "จ": "60Co"
     },
-    "explanation": "เนื่องจาก Co-57 ไม่ได้รังสีเบต้า แต่มี Co-60 ซึ่งเป็นรังสีที่ใช้ในการตรวจสอบความแม่นยำและความถูกต้องของเครื่อง Dose calibrator",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 32,
@@ -443,9 +412,8 @@
       "ง": "Positron emission tomography",
       "จ": "Bone densitometer"
     },
-    "explanation": "เครื่อง Liquid scintillation counter ใช้วัดรังสีเบต้าได้ดี เนื่องจากสามารถวัดการปล่อยรังสีเบต้าออกไปได้อย่างแม่นยำ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 33,
@@ -457,9 +425,8 @@
       "ง": "สามารถประมวลผลได้เร็ว",
       "จ": "เป็นวิธีการไม่ซับซ้อน"
     },
-    "explanation": "การสร้างภาพแบบ ordered subset expectation maximization (OSEM) มีข้อดีคือ สามารถแก้ไขปัจจัยที่มีผลต่อคุณภาพของภาพได้ดี และสามารถปรับเปลี่ยนขนาดเมทริกซ์ได้ตามความจำเป็น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 34,
@@ -471,9 +438,8 @@
       "ง": "Thigh",
       "จ": "Feet"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 35,
@@ -485,9 +451,8 @@
       "ง": "ได้ภาพถ่ายที่มีความไม่สม่ าเสมอ",
       "จ": "ต้องใช้คอมพิวเตอร์ที่มีประสิทธิภาพสูง"
     },
-    "explanation": "มีปัญหาในการแก้ไขเกี่ยวกับ photon attenuation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 36,
@@ -499,9 +464,8 @@
       "ง": "Sinogram คือการแสดงภาพ โดยภาพ Projection ในแนวแกน x ที่สัมพันธ์กับมุมที่เปลี่ยนไป (แกน y)",
       "จ": "Sinogram เป็นการแสดงภาพ Cosine wave"
     },
-    "explanation": "Sinogram คือการแสดงภาพ โดยภาพ Projection ในแนวแกน x ที่สัมพันธ์กับมุมที่เปลี่ยนไป (แกน y)",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 37,
@@ -513,9 +477,8 @@
       "ง": "MRI",
       "จ": "CT scan"
     },
-    "explanation": "เครื่องมือ Gamma camera ใช้ในการตรวจดูการทำงานของอวัยวะเป็นหลัก เช่น การตรวจหัวใจและไต",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 38,
@@ -527,9 +490,8 @@
       "ง": "Gamma camera",
       "จ": "Dual energy X-ray absorptiometry (DEXA)"
     },
-    "explanation": "Dual energy X-ray absorptiometry (DEXA) เป็นการตรวจที่นิยมใช้ในปัจจุบันในการวินิจฉัยโรคกระดูกพรุน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 39,
@@ -541,9 +503,8 @@
       "ง": "320 keV ถึง 380 keV",
       "จ": "291 keV ถึง 437 keV"
     },
-    "explanation": "20% energy window หมายถึงการตั้งช่วง Lower level discriminator และ Upper level discriminator ในช่วง 344 keV ถึง 384 keV ซึ่งเป็นพลังงานแกมมาของ I-131",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 40,
@@ -555,9 +516,8 @@
       "ง": "5.20  mm",
       "จ": "6.25 mm"
     },
-    "explanation": "เพราะเมทริกซ์ขนาด 128 x 128 จะมีจำนวนพิกเซลมากกว่าเมทริกซ์ขนาด 64 x 64 ดังนั้นจึงต้องใช้พิกเซลขนาดเล็กกว่าเพื่อให้ได้รายละเอียดที่ดีมากขึ้น",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 41,
@@ -569,9 +529,8 @@
       "ง": "Low energy high resolution collimator, matrix size  256 x 256",
       "จ": "High energy general purposecollimator, matrix size 256x256"
     },
-    "explanation": "เพราะ collimator ที่มีความสามารถในการสังเกต detail ได้ดีกว่า และเมทริกซ์ขนาดใหญ่จะช่วยให้ได้รายละเอียดที่ดีขึ้นใน renogram",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Dynamic mode",
+    "answer": "ข"
   },
   {
     "id": 42,
@@ -583,9 +542,8 @@
       "ง": "Spatial linearity",
       "จ": "System sensitivity"
     },
-    "explanation": "เพราะความสม่ำเสมอของพื้นที่ฉายภาพ (flood field uniformity) เป็นสิ่งสำคัญในการตรวจสอบคุณภาพของเครื่อง gamma camera ทุกวันเพื่อให้แน่ใจว่าผลลัพธ์จะถูกต้องและไม่มีการเปลี่ยนแปลง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 43,
@@ -597,9 +555,8 @@
       "ง": "5%",
       "จ": "2%"
     },
-    "explanation": "เนื่องจาก Integral Uniformity (IU) ควรได้รับการปรับให้เหมาะสมที่บริเวณ central field of view ของเครื่อง gamma camera และ 20% เป็นค่า IU ที่ดีที่สุดสำหรับบริเวณนี้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 44,
@@ -611,9 +568,8 @@
       "ง": "5,000  cps.mCi",
       "จ": "20,000 cpm.mCi"
     },
-    "explanation": "การคำนวณ sensitivity ของเครื่อง gamma camera สามารถทำได้โดยใช้สูตร: Sensitivity (cps/mCi) = (Cpm / mCi) x (1 / Counts per second)",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 45,
@@ -625,9 +581,8 @@
       "ง": "256 x 256",
       "จ": "256 x 512"
     },
-    "explanation": "การถ่ายรูปแบบ static เช่น Lung scan ต้องการ spatial resolution สูงเพื่อแสดงรายละเอียดของภาพได้ชัดเจน matrix size 256x256 เหมาะสมที่สุดเพราะให้ความละเอียดเพียงพอสำหรับการแปลผลทางคลินิก โดยไม่ต้องกังวลเรื่องเวลาในการเ็บข้อมูลแต่ละ frame เหมือน dynamic study ส่วน 256x512 หรือใหญ่กว่านั้นมักใช้สำหรับ whole body scan ที่ต้องการ field of view ยาวเป็นพิเศษ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Want high resolution",
+    "answer": "ง"
   },
   {
     "id": 46,
@@ -639,9 +594,8 @@
       "ง": "ใช้ syringe shield",
       "จ": "ใช้ปากคีบช่วยเมื่อหยิบขวดยารังสี"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 47,
@@ -653,9 +607,8 @@
       "ง": "1.5 ml",
       "จ": "2.0 ml"
     },
-    "explanation": "เนื่องจาก Tc-99m มีความแรงรังสีเป็น 20.0 mCi/ml ที่เวลา 8.00 น. หากต้องการ 10 mCi เพื่อนำมาฉีดผู้ป่วย เวลา 14.00 น. จะต้องเตรียมปริมาตรประมาณ 2.0 ml",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "99mTc = 6 hr (1 half life)",
+    "answer": "ค"
   },
   {
     "id": 48,
@@ -667,9 +620,8 @@
       "ง": "ควรอยู่นอกห้องเพราะผู้ป่วยมีปริมาณรังสีสูง",
       "จ": "ข้อ ข. และ ค."
     },
-    "explanation": "เจ้าหน้าที่รังสีเทคนิคควรปฏิบัติตามขั้นตอนทั้งสามข้อ: ขอ ข. และ ค.",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 49,
@@ -681,9 +633,8 @@
       "ง": "ใช้ Low energy high resolution collimator และ หัววัดห่างกับผู้ป่วย",
       "จ": "ใช้ Low energy general purpose collimator และ หัววัดชิดกับผู้ป่วย"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 50,
@@ -695,9 +646,8 @@
       "ง": "ขจัดได้โดยใช้วิธี  Simple backprojection",
       "จ": "ขจัดได้และลดการ Blur โดยใช้ Ramp filter"
     },
-    "explanation": "ขจัดได้และลดการ Blur โดยใช้ Ramp filter",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 51,
@@ -709,9 +659,8 @@
       "ง": "system non-uniformity",
       "จ": "movement"
     },
-    "explanation": "เกิดจากหัวรัดรังสีไม่ Uniform",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 52,
@@ -723,9 +672,8 @@
       "ง": "2D และ 3D acquisition",
       "จ": "line of response (LOR)"
     },
-    "explanation": "เครื่อง PET ไม่เกี่ยวข้องกับ nuclear reactor",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 53,
@@ -737,9 +685,8 @@
       "ง": "256x256",
       "จ": "512x512"
     },
-    "explanation": "หัววัดรังสีของเครื่อง gamma camera ขนาดเส้นผ่าศูนย์กลาง 35 ซม. จะให้ค่า resolution ดีที่สุดเมื่อใช้ matrix size 32x32",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 54,
@@ -751,9 +698,8 @@
       "ง": "byte",
       "จ": "bit"
     },
-    "explanation": "จุดที่เล็กที่สุดใน Digital Image คือ voxel",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 55,
@@ -765,9 +711,8 @@
       "ง": "Static image ที่เวลา 1ชั่วโมง หลังฉีด",
       "จ": "Static image ที่เวลา 10นาที และ 2ชั่วโมง หลังฉีด"
     },
-    "explanation": "เพราะ dynamic image สามารถแสดง blood flow ในระยะเวลา 1 นาที และช่วยให้สามารถระบุ parathyroid adenoma ได้อย่างแม่นยำ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 56,
@@ -779,9 +724,8 @@
       "ง": "การสร้างภาพด้วยเครื่อง SPECT จะให้ Sensitivity สูง",
       "จ": "ใช้ได้กับเครื่อง PET-CT เท่านั้น"
     },
-    "explanation": "เนื่องจากเซลล์มะเร็งใช้น้ำตาลได้มากกว่าเซลล์ปกติ ซึ่งทำให้ 18F-FDG เข้าไปในเซลล์มะเร็งและแสดงออกมาในรูปภาพ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 57,
@@ -793,9 +737,8 @@
       "ง": "ใช้ทั้ง Dynamic image ใน 1 นาทีแรก และ Serial static images หลังจากนั้น",
       "จ": "ใช้เฉพาะ Serial static images หลัง 5นาที"
     },
-    "explanation": "เพราะการใช้ทั้ง dynamic image ใน 1 นาทีแรก และ serial static images หลังจากนั้น ช่วยให้สามารถระบุ testicular torsion ได้อย่างแม่นยำ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 58,
@@ -807,9 +750,8 @@
       "ง": "3 x 3",
       "จ": "5 x 4"
     },
-    "explanation": "เพราะการปรับ Nine-point smooth จะช่วยให้สามารถนับวัดได้อย่างแม่นยำและสม่ำเสมอ โดยใช้ค่านับวัดจากจำนวน matrix 9 x 9",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "9:ละ 9 pixel (kernel filter)",
+    "answer": "ง"
   },
   {
     "id": 59,
@@ -821,9 +763,8 @@
       "ง": "ปรับค่านับวัดที่ถูกลดทอนไป เพราะการเดินทางของรังสีผ่านตัวกลางต่างๆ",
       "จ": "ปรับแก้การสลายตัวของนิวไคลด์รังสีที่ใช้"
     },
-    "explanation": "การทำ Attenuation correction มีวัตถุประสงค์เพื่อปรับค่านับวัดที่ถูกลดทอนไป เพราะการเดินทางของรังสีผ่านตัวกลางต่างๆ ทำให้สามารถให้ค่านับวัดที่แม่นยำและสม่ำเสมอ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 60,
@@ -835,9 +776,8 @@
       "ง": "ผู้ป่วยได้รับรังสีน้อยลง",
       "จ": "แก้ปัญหา non-uniformity ได้"
     },
-    "explanation": "เครื่องถ่ายภาพแบบ PET-CT ที่มี gantry เดียวกันมีข้อดีคือแก้ปัญหา non-uniformity ได้ โดยการปรับแต่งระบบการนับวัดเพื่อให้สามารถให้ค่านับวัดที่สม่ำเสมอและแม่นยำ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 61,
@@ -849,9 +789,8 @@
       "ง": "Tc-99m",
       "จ": "In-111"
     },
-    "explanation": "เพราะ Tc-99m เป็นสารกัมมันตรังสีที่มีพลังการรังสีต่ำกว่า และไม่เหมาะสำหรับการนำมาใช้ในการสร้างภาพด้วย SPECT",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 62,
@@ -863,9 +802,8 @@
       "ง": "Image contrast เพิ่มขึ้น",
       "จ": "ไม่มีอะไรเปลี่ยนแปลง"
     },
-    "explanation": "การใช้ Low energy high-resolution collimator จะทำให้ Image contrast เพิ่มขึ้นเมื่อเปรียบเทียบกับการใช้ Low energy all purpose collimator",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Scan time <นาน=น เ?อใAไC resolution DE=น",
+    "answer": "ข"
   },
   {
     "id": 63,
@@ -877,9 +815,8 @@
       "ง": "High count rate performance",
       "จ": "System sensitivity"
     },
-    "explanation": "System sensitivity ไม่ใช่การควบคุมคุณภาพของ SPECT",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "PET",
+    "answer": "ข"
   },
   {
     "id": 64,
@@ -891,9 +828,8 @@
       "ง": "วาง radioactive marker บริเวณ xiphoid process",
       "จ": "สามารถใช้ Pin hole collimator"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 65,
@@ -905,9 +841,8 @@
       "ง": "99mTc-MAA",
       "จ": "Tl-201"
     },
-    "explanation": "เนื่องจากสารรังสี 99mTc-MAA ไม่สามารถยึดเกาะกับเลือดได้ และไม่สามารถใช้ในการตรวจหัวใจ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Uptake D lung",
+    "answer": "ง"
   },
   {
     "id": 66,
@@ -919,9 +854,8 @@
       "ง": "99mTc-MAA",
       "จ": "131I"
     },
-    "explanation": "เพราะ 99mTc-MIBI สามารถแสดงการทำงานของไฮพอซปาได้ดี และมีความไวต่อการเปลี่ยนแปลงของไฮพอซปาในกระดูกข้อใบ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Bone scanMetabolic trapping\nParathyroid scan\nLung",
+    "answer": "ก"
   },
   {
     "id": 67,
@@ -933,9 +867,8 @@
       "ง": "Ramp filter",
       "จ": "Metz filter"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "ลด star artifactลด noise\nResolution recovery\nลด noise\nลด noise\nAllow high frequency (high noise)",
+    "answer": "ง"
   },
   {
     "id": 68,
@@ -947,9 +880,8 @@
       "ง": "ผู้ป่วยไม่ต้องอดอาหารและน้ า",
       "จ": "ตำแหน่งของหัวใจควรอยู่ในภาพ"
     },
-    "explanation": "ถ่ายภาพ dynamic หรือ static ในท่า anterior view ไม่ควรใช้ right lateral view เพื่อแยก ไต ออกจากลำไส้ และตำแหน่งของหัวใจไม่ควรอยู่ในภาพ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 69,
@@ -961,9 +893,8 @@
       "ง": "สามารถใช้ Tc-99m MAG-3 หรือ T-99m DTPA ในการตรวจ",
       "จ": "ใช้เวลาตรวจประมาณ 30นาที"
     },
-    "explanation": "การตรวจ radionuclide renography ควรใช้เวลาตรวจประมาณ 30 นาที และสามารถใช้ Tc-99m MAG-3 หรือ Tc-99m DTPA ในการตรวจ แต่ไม่ควรฉีดสารเภสัชรังสีแบบ Bolus",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 70,
@@ -975,9 +906,8 @@
       "ง": "I-131, Tl-201",
       "จ": "I-131, Sm-153"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 71,
@@ -989,9 +919,8 @@
       "ง": "Radiopharmacueticalactivity",
       "จ": "Immunoreactivity"
     },
-    "explanation": "ค่านี้เป็นการแสดงถึงความเข้มข้นของสารรังสีในหน่วย MBq/ml ซึ่งเป็นหน่วยวัดความเข้มข้นของสารรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 72,
@@ -1003,9 +932,8 @@
       "ง": "ภาพที่ได้จะเกิด non-uniformity",
       "จ": "นิวไคลด์รังสีบางส่วนเข้าไปสะสมในอวัยวะอื่นที่ไม่ใช่อวัยวะเป้าหมาย"
     },
-    "explanation": "Radiochemical impurity ของสารเภสัชรังสีถ้าสูงเกินกำหนด เมื่อฉีดให้ผู้ป่วยแล้วจะทำให้เกิดการสะสมของนิวไคลด์รังสีในอวัยวะอื่นที่ไม่ใช่อวัยวะเป้าหมาย",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 73,
@@ -1017,9 +945,8 @@
       "ง": "เครื่อง cyclotron ไม่ต้องอาศัยสนามแม่เหล็ก",
       "จ": "อนุภาคในเครื่อง cyclotron เคลื่อนที่เป็นเส้นโค้งได้ เพราะแรงของสนามไฟฟ้า"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 74,
@@ -1031,9 +958,8 @@
       "ง": "ใช้เวลาในการถ่ายภาพไม่เพียงพอ",
       "จ": "ถ่ายภาพทันทีหลังจากได้รับ 99mTc-MDP"
     },
-    "explanation": "เนื่องจาก free Tc-99m pertechnetate สามารถเข้าถึงและยึดเกาะกับต่อมได้ ทำให้เกิดการขึ้นรูปของสารเภสัชรังสีในต่อม",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 75,
@@ -1045,9 +971,8 @@
       "ง": "Fluorine-18",
       "จ": "Molybdenium-99"
     },
-    "explanation": "Molybdenium-99 ไม่ได้ผลิตจากเครื่อง cyclotron แต่ผลิตโดยการแยกจากแหล่งอื่น เช่น การแยกจากแหล่งอิเล็กตรอน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 76,
@@ -1059,9 +984,8 @@
       "ง": "การสลายตัวตามธรรมชาติ",
       "จ": "Linear accelerator"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 77,
@@ -1073,9 +997,8 @@
       "ง": "Normal saline",
       "จ": "น้ าแร่"
     },
-    "explanation": "สารบริสุทธิ์ (NaBr)",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 78,
@@ -1087,9 +1010,8 @@
       "ง": "99Tc",
       "จ": "99mTcO-4"
     },
-    "explanation": "99mTcO4",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 79,
@@ -1101,9 +1023,8 @@
       "ง": "Sr-87m",
       "จ": "Molidinum-99"
     },
-    "explanation": "เพราะ Tl-201 เป็นสารกัมมันตรังสีที่มีระยะเวลาการสูญเสียความเข้มข้นช้ากว่า และเมื่อตั้งทิ้งไว้ 24 ชั่วโมง ปริมาณรังสีจะลดลงอย่างมาก ทำให้วัดได้เพียง 6.25mCi",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "99mTc = 6 hr (1 half life)24 hr (4 half life)",
+    "answer": "ข"
   },
   {
     "id": 80,
@@ -1115,9 +1036,8 @@
       "ง": "I-131",
       "จ": "Ga-67"
     },
-    "explanation": "เพราะ F-18 เป็นสารกัมมันตรังสีที่ใช้แพร่หลายในการทำ PET scan และมีความสามารถในการจับเป้าหมายที่ชัดเจนในเนื้อเยื่อ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "ใA positron",
+    "answer": "ก"
   },
   {
     "id": 81,
@@ -1129,9 +1049,8 @@
       "ง": "Phagocytosis",
       "จ": "Receptor binding"
     },
-    "explanation": "เพราะต่อมไทรอยด์ใช้การรับสาร (Receptor binding) เพื่อดูดจับ I-131 ซึ่งเป็นกระบวนการที่เกิดขึ้นภายในเซลล์ต่อมไทรอยด์",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 82,
@@ -1143,9 +1062,8 @@
       "ง": "Phagocytosis",
       "จ": "Receptor binding"
     },
-    "explanation": "เพราะ Tc-99m pertechnetate ใช้ในการตรวจสอบการไหลเวียนของเลือดและ Adsorption เป็นกระบวนการที่เกิดขึ้นระหว่างสารสังเคราะห์ที่มีเทคนีเซียม (Tc) กับโครงสร้างที่เป็นจุดติดต่อ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 83,
@@ -1157,9 +1075,8 @@
       "ง": "Choroid plexus",
       "จ": "ต่อมน้ าลาย"
     },
-    "explanation": "เพราะ Choroid plexus ไม่มีรสพันธุ์ที่สามารถดูดจับ Tc-99m pertechnetate ได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 84,
@@ -1171,9 +1088,8 @@
       "ง": "ต่อมน้ าลาย",
       "จ": "ปอด"
     },
-    "explanation": "เพราะ Tc-99m MDP จะถูกขับออกทางลำไส้ใหญ่หลังจากฉีดยาไปจับที่กระดูก",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 85,
@@ -1185,9 +1101,8 @@
       "ง": "รับประทานยาระงับประสาทอย่างอ่อน",
       "จ": "อ่านหนังสือ"
     },
-    "explanation": "เพื่อให้ได้ภาพคมชัด ผู้ป่วยต้องปฏิบัติตัวอย่างนอนพักผ่อนหลังจากฉีดสารเภสัชรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 86,
@@ -1199,9 +1114,8 @@
       "ง": "วัตถุแปลกปลอมปิดกั้นรังสี",
       "จ": "กระดูกพรุน"
     },
-    "explanation": "กระดูกพรุนไม่พบในการถ่ายสะแกนกระดูก",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "Osteoporosis (DEXA)",
+    "answer": "จ"
   },
   {
     "id": 87,
@@ -1213,9 +1127,8 @@
       "ง": "Hot lesion ในภาพสะแกน แสดงว่าผู้ป่วยเป็นมะเร็งแบบแพร่กระจาย",
       "จ": "ถ่ายภาพสะแกนกระดูกทันทีหลังจากฉีดสารเภสัชรังสี"
     },
-    "explanation": "ในรายที่สงสัยกระดูกหัก ต้องทำสะแกนกระดูกก่อนการตรวจอย่างอื่น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 88,
@@ -1227,9 +1140,8 @@
       "ง": "T-score = -2.2",
       "จ": "T-score = -3.0"
     },
-    "explanation": "เพราะ T-score คือผลต่างระหว่างค่า Z-score ของการวัดโครงสร้างกระดูกกับค่า Z-score ของประชากรทั่วไป หากมีภาวะ Osteoporosis ค่า T-score จะต่ำกว่า -1.0",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 89,
@@ -1241,9 +1153,8 @@
       "ง": "ผู้ที่ใช้ยา steroid เป็นประจำ",
       "จ": "นักกีฬา"
     },
-    "explanation": "เพราะผู้ที่ใช้ยา steroid เป็นประจำ มีความเสี่ยงสูงเกี่ยวกับโรคกระดูกพรุน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 90,
@@ -1255,9 +1166,8 @@
       "ง": "159  bpm",
       "จ": "160  bpm"
     },
-    "explanation": "เพราะการมีอัตราการเต้นของหัวใจอย่างน้อย 137 bpm จะช่วยให้ผลลัพธ์ของ Myocardial perfusion SPECT exercise stress test ถูกต้องแม่นยำมากขึ้น",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 91,
@@ -1269,9 +1179,8 @@
       "ง": "Perfusion เพิ่มขึ้นในภาพ stress และลดลงในภาพ rest",
       "จ": "Perfusion เพิ่มขึ้นทั้งคู่"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Ischemic",
+    "answer": "ข"
   },
   {
     "id": 92,
@@ -1283,9 +1192,8 @@
       "ง": "ค่า EDV and ESV",
       "จ": "Aneurysm"
     },
-    "explanation": "Aneurysm ไม่ใช่ข้อมูลที่ได้จากการตรวจ ECG gate blood pool study",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 93,
@@ -1297,9 +1205,8 @@
       "ง": "ยืน",
       "จ": "ท่าใดก็ได้"
     },
-    "explanation": "ผู้ป่วยควรอยู่ในท่า 'นั่ง' ขณะฉีด Tc-99m MAA เพื่อลดการเคลื่อนไหวของร่างกาย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 94,
@@ -1311,9 +1218,8 @@
       "ง": "มี segmental perfusion defect ตรงกับ ventilation defect",
       "จ": "มี segmental perfusion defect ตรงกับ ventilation defect และภาพ x-ray ผิดปรกติ"
     },
-    "explanation": "เพราะมี segmental perfusion defect ตรงกับ ventilation defect และภาพ x-ray ผิดปรกติ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 95,
@@ -1325,9 +1231,8 @@
       "ง": "ผู้ป่วยไม่ได้งดอาหารและน้ า",
       "จ": "ถ่ายภาพสะแกนเร็วเกินไป"
     },
-    "explanation": "เพราะผู้ป่วยไม่ได้งดอาหารและน้ า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 96,
@@ -1339,9 +1244,8 @@
       "ง": "Tc-99m phytate aerosol",
       "จ": "Tc-99m DTPA aerosol"
     },
-    "explanation": "เพราะ Tc-99m DTPA aerosol ไม่ใช่สารเภสัชรังสีที่ใช้ในการตรวจ Lung ventilation scan",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 97,
@@ -1353,9 +1257,8 @@
       "ง": "Tc-99m DTPA",
       "จ": "Tc-99m Sulfur colloid"
     },
-    "explanation": "เพราะ Tc-99m RBC สามารถแสดงการไหลเวียนของเลือดได้ดี และสามารถใช้ในการตรวจสอบการไหลเวียนของเลือดในหลอดเลือดใหญ่",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Uptake D lung",
+    "answer": "ค"
   },
   {
     "id": 98,
@@ -1367,9 +1270,8 @@
       "ง": "Parathyroid gland",
       "จ": "Salivary gland"
     },
-    "explanation": "เพราะ Tc-99m/Tl-201 subtraction technique สามารถช่วยให้เห็นความแตกต่างระหว่างการสะสมของ Tc-99m และ Tl-201 ในอวัยวะต่างๆ ได้ชัดเจน",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 99,
@@ -1381,9 +1283,8 @@
       "ง": "QC sample",
       "จ": "Buffer"
     },
-    "explanation": "เพราะใน RIA ใช้สารกัมมันตรังสีติดฉลากกับ Antibody เพื่อแสดงการสะสมของ Antigen ในตัวอย่าง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Label antigen",
+    "answer": "ข"
   },
   {
     "id": 100,
@@ -1395,9 +1296,8 @@
       "ง": "ผู้ป่วยกําลังตั้งครรภ์",
       "จ": "ไม่มีข้อห้ามใดๆ"
     },
-    "explanation": "เพราะไอโอดีน-131 เป็นสารกัมมันตรังสีที่มีอัตราการสูญเสียอย่างรวดเร็ว และผู้ป่วยที่กำลังตั้งครรภ์อาจมีระดับไอโอดีนในเลือดที่ต่ำกว่า ซึ่งอาจทำให้เกิดผลข้างเคียงที่รุนแรง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 101,
@@ -1409,9 +1309,8 @@
       "ง": "QC sample",
       "จ": "Buffer"
     },
-    "explanation": "สารกัมมันตรังสีติดฉลากจะอยู่บน Antigen เพื่อให้สามารถตรวจจับได้อย่างแม่นยำใน Immunoradiometric assay (IRMA)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Label antibody 2 ค\"ง",
+    "answer": "ค"
   },
   {
     "id": 102,
@@ -1423,9 +1322,8 @@
       "ง": "ทํา Technetium thyroid scan ในผู้ใหญ่",
       "จ": "ตรวจอัลทราซาวด์ช่องท้องของหญิงมีครรภ์ 3เดือนแรก"
     },
-    "explanation": "Technetium thyroid scan ในผู้ใหญ่ไม่จำเป็นต้องมีการป้องกันอันตรายจากรังสี เนื่องจากมีความปลอดภัยสูง และสามารถทำได้โดยใช้เทคนิคการตรวจที่เหมาะสม",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 103,
@@ -1437,9 +1335,8 @@
       "ง": "ในตัวผู้ป่วย",
       "จ": "เครื่องควบคุมการถ่ายภาพ"
     },
-    "explanation": "เพราะเพดานห้องเหนือเตียงผู้ป่วยมีความหนาและเป็นกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 104,
@@ -1451,9 +1348,8 @@
       "ง": "Neuroblastoma",
       "จ": "Myocardial ischemia"
     },
-    "explanation": "เนื่องจากสารเภสัชรังสีไม่สามารถทำลายเซลล์ Neuroblastoma ได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 105,
@@ -1465,9 +1361,8 @@
       "ง": "15-20",
       "จ": "21-25"
     },
-    "explanation": "เพราะการหยุดยา antithyroid drug อย่างน้อย 7-10 วันจะช่วยให้ไอโอดีน-131 ที่ได้รับจากยาทำงานได้ดีขึ้น",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 106,
@@ -1479,9 +1374,8 @@
       "ง": "Lymphoma",
       "จ": "Hyperthyroidism"
     },
-    "explanation": "เพราะ I-131 Total body scan สามารถตรวจสอบการเคลื่อนไหวของสารสังเคราะห์ I-131 ซึ่งเป็นสารสังเคราะห์ที่ใช้ในการรักษา Anaplastic thyroid carcinoma",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 107,
@@ -1493,9 +1387,8 @@
       "ง": "มี renal artery stenosis",
       "จ": "มี acute rejection of transplanted kidney"
     },
-    "explanation": "เพราะ Captopril renal scan and renogram สามารถตรวจสอบการทำงานของไตและระบุภาวะที่เกิดจากไตได้อย่างแม่นยำ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "ยาลดความ*นโล-ต",
+    "answer": "ง"
   },
   {
     "id": 108,
@@ -1507,9 +1400,8 @@
       "ง": "Tc-99m RBC",
       "จ": "Tc-99m MAA"
     },
-    "explanation": "เพราะ Tc-99m RBC เป็นสารสังเคราะห์ที่ใช้ในการตรวจสอบการออกเลือดในช่องท้อง และสามารถระบุภาวะที่เกิดจากเลือดออกได้อย่างแม่นยำ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 109,
@@ -1521,9 +1413,8 @@
       "ง": "Tl-201 Intestinal perfusion SPECT",
       "จ": "Tc-99m MAA intra-arterial injection imaging"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Right lower quadrant",
+    "answer": "ก"
   },
   {
     "id": 110,
@@ -1535,9 +1426,8 @@
       "ง": "Hepatoma by I-123 Lipiodol",
       "จ": "Colorectal cancer by F-18 FDG"
     },
-    "explanation": "เนื่องจาก I-123 Lipiodol เป็นสารรังสีที่ใช้ในการฉายภาพทางเดินอาหาร แต่ไม่ใช่สำหรับการรักษาโรคด้วยสารเภสัชรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "มะเ1ง2บ",
+    "answer": "จ"
   },
   {
     "id": 111,
@@ -1549,9 +1439,8 @@
       "ง": "Colorimeter",
       "จ": "Survey meter"
     },
-    "explanation": "วิธีการ Gamma ray spectral analysis สามารถตรวจพบ Radiopharmaceutical impurity ได้อย่างแม่นยำและเป็นประโยชน์มากกว่าวิธีอื่นๆ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 112,
@@ -1563,9 +1452,8 @@
       "ง": "Serum thyroglobulin",
       "จ": "Serum thyroxin"
     },
-    "explanation": "เพราะ serum thyroglobulin เป็นปัจจัยสำคัญในการติดตามการรักษาและตรวจจับการกลับมาอีกครั้งของ well differentiated thyroid carcinoma",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 113,
@@ -1577,9 +1465,8 @@
       "ง": "มี Multiple pulmonary metastases",
       "จ": "มีเลือดผู้ป่วยย้อนกลับมาผสมกับสารเภสัชรังสีใน syringe ก่อนฉีด"
     },
-    "explanation": "ฉีดสารเภสัชรังสีในขณะที่ผู้ป่วยนั่งอาจทำให้เกิด Multiple hot spots ที่พบในภาพ perfusion lung images เนื่องจากกระแสเลือดของผู้ป่วยย้อนกลับมาผสมกับสารเภสัชรังสีใน syringe ก่อนฉีด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 114,
@@ -1591,9 +1478,8 @@
       "ง": "Peak activity ของไตทั้งสองข้าง ปรกติจะไม่เกิน 5นาที",
       "จ": "Lasix ใช้ฉีดนาทีที่ 15 เพื่อ exclude complete renal outflow tract obstruction"
     },
-    "explanation": "Lasix ใช้ฉีดนาทีที่ 15 เพื่อ exclude complete renal outflow tract obstruction เนื่องจากสามารถช่วยลดระดับการทำงานของไตได้ และช่วยให้สามารถตรวจสอบการไหลเวียนของเลือดในหลอดเลือดส่วนกลางได้อย่างแม่นยำ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 115,
@@ -1605,9 +1491,8 @@
       "ง": "Tc-99m MDP",
       "จ": "Tc-99m ECD"
     },
-    "explanation": "Tc-99m Pertechnetate เป็นสารเภสัชรังสีที่เลือกใช้ในการสแกน salivary gland เนื่องจากสารนี้ถูกนำไปโดย salivary ducts ซึ่งคล้ายกับการสะแกน thyroid",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 116,
@@ -1619,9 +1504,8 @@
       "ง": "Bone imaging",
       "จ": "Vascular imaging"
     },
-    "explanation": "Tc-99m DTPA ใช้สำหรับ renal imaging, lung ventilation imaging, brain imaging (CSF flow) และ vascular imaging แต่ไม่ใช้สำหรับ bone imaging ซึ่งใช้ Tc-99m MDP หรือ HDP แทน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 117,
@@ -1633,9 +1517,8 @@
       "ง": "lead apron",
       "จ": "Contact lens"
     },
-    "explanation": "Contact lens ไม่เหมาะสมสำหรับการป้องกันรังสี และอาจเกิดความเสี่ยงในการใช้งาน ส่วน syringe shield, lead eyeglasses, glove และ lead apron ล้วนเป็นอุปกรณ์ป้องกันรังสีที่เหมาะสม",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 118,
@@ -1647,9 +1530,8 @@
       "ง": "มากกว่า 30 mCi",
       "จ": "ต้องนอนโรงพยาบาลทุกคน ไม่ว่าจะได้รับปริมาณเท่าไรก็ตาม"
     },
-    "explanation": "เพราะการรับไอโอดีนรังสีในปริมาณมากจะทำให้เกิดการสะสมของไอออนในกระแสเลือด ซึ่งอาจเป็นอันตรายต่อผู้ป่วยและเจ้าหน้าที่ด้านสุขภาพ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 119,
@@ -1661,9 +1543,8 @@
       "ง": "rem",
       "จ": "Sievert"
     },
-    "explanation": "Sievert เป็นหน่วยวัด Absorbed dose ซึ่งเป็นการวัดปริมาณพลังงานที่รังสีถูกดูดซับโดยเนื้อเยื่อ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 120,
@@ -1675,9 +1556,8 @@
       "ง": "ความแรงของสารกัมมันตรังสี",
       "จ": "เสื้อคลุม"
     },
-    "explanation": "ความแรงของสารกัมมันตรังสีมีผลน้อยที่สุดในการป้องกันอันตรายจากรังสีในงานด้านเวชศาสตร์นิวเคลียร์ เนื่องจากการป้องกันระยะทางและระยะเวลามีความสำคัญมากกว่า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 121,
@@ -1689,9 +1569,8 @@
       "ง": "นาย ง เตรียมสารเภสัชรังสีชนิดที่ระเหยได้ในตู้ปลอดเชื้อ (Biohazard)",
       "จ": "นาย จ ใช้อุปกรณ์ปากคีบ (Forceps) ในการจับขวดสารเภสัชรังสี"
     },
-    "explanation": "เพราะนาย ข สวมเสื้อคลุมและถุงมือทุกครั้งในขณะปฏิบัติงานในห้องเตรียมสารเภสัชรังสี ซึ่งช่วยป้องกันการปนเป็นสารรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 122,
@@ -1703,9 +1582,8 @@
       "ง": "เพื่อวัดความแรงของสารเภสัชรังสี",
       "จ": "เพื่อวัดการสลายตัวของสารเภสัชรังสี"
     },
-    "explanation": "การทดสอบด้วย Wipe testing คือการตรวจสอบว่ามีการปนเป็นสารรังสีหรือไม่ โดยใช้กระดาษทิชชูเพื่อดูดสารรังสีจากพื้นผิว",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 123,
@@ -1717,9 +1595,8 @@
       "ง": "กระดาษทิชชูที่เป์์อนสารเภสัชรังสี",
       "จ": "Tc-99m generator"
     },
-    "explanation": "Tc-99m generator เป็นอุปกรณ์ที่ใช้ในการผลิตสารรังสี Tc-99m ซึ่งไม่ถือเป็นกากกัมมันตรังสีชนิดของแข็ง",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 124,
@@ -1731,9 +1608,8 @@
       "ง": "ผู้ที่กําลังจะแต่งงาน",
       "จ": "หญิงมีครรภ์"
     },
-    "explanation": "เพราะหญิงมีครรภ์จะมีการเปลี่ยนแปลงของโครงสร้างกระดูกและเนื้อเยื่อที่อาจทำให้การตรวจวินิจฉัยและการรักษาด้วยสารกัมมันตรังสีมีความซับซ้อน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 125,
@@ -1745,9 +1621,8 @@
       "ง": "การใช้ถุงมือที่ปนเป์์อนสารรังสีไปจับวัสดุอื่น",
       "จ": "ผู้ป่วยที่ได้รับการรักษาด้วยรังสี"
     },
-    "explanation": "เพราะผู้ป่วยที่ได้รับการฝังแร่ Ir-192 จะมีการส่งสารกัมมันตรังสีไปยังระบบภูมิคุ้มกันและอาจทำให้เกิดการปนเป็นอนทางสารรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 126,
@@ -1759,9 +1634,8 @@
       "ง": "บาดแผล",
       "จ": "การใกล้ชิดผู้ป่วยที่ได้รับการฝังแร่ Ir-192"
     },
-    "explanation": "เพราะการใกล้ชิดผู้ป่วยที่ได้รับการฝังแร่ Ir-192 จะทำให้สารกัมมันตรังสีเข้าสู่ระบบภูมิคุ้มกันและอาจทำให้เกิดการปนเป็นอนทางสารรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 127,
@@ -1773,9 +1647,8 @@
       "ง": "ลดระยะเวลาในการทํางาน",
       "จ": "สะดวกให้การจับหลอดฉีดยา"
     },
-    "explanation": "การใช้ Syringe shield (เกราะป้องกันหลอดฉีด) มีวัตถุประสงค์หลักเพื่อลดการได้รับรังสี (reducing radiation exposure) โดยการบังแนวรังสี ซึ่งป้องกันการสัมผัสรังสีต่อเจ้าหน้าที่",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 128,
@@ -1787,9 +1660,8 @@
       "ง": "I-131",
       "จ": "Ir-192"
     },
-    "explanation": "I-131 เป็นไอโอดีนกัมันตรังสีที่ระเหยได้ง่ายในอุณหภูมิห้อง ดังนั้นจึงต้องเก็บในตู้ปลอดเชื้อ (Biohazard cabinet) เพื่อป้องกันการฟุ้งกระจายทางรังสีและการหายใจเข้า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 129,
@@ -1801,9 +1673,8 @@
       "ง": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้รังสีแกมมา",
       "จ": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้อนุภาคแอลฟา"
     },
-    "explanation": "Tc-99m มีครึ่งชีวิต 6 ชั่วโมง และสลายตัวให้รังสีแกมมา เป็นสารปล่อยรังสีแกมมาบริสุทธิ์ซึ่งเหมาะสำหรับการถ่ายภาพแพทยนิวเคลียร์",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 130,
@@ -1814,9 +1685,8 @@
       "ค": "Bone cyst",
       "ง": "Primary bone carcinomaจ  Avascular necrosis"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 131,
@@ -1828,9 +1698,8 @@
       "ง": "Stomach",
       "จ": "Thyroid"
     },
-    "explanation": "เนื่องจากไตเป็นอวัยวะที่มีระดับความเข้มข้นของสารต่างๆ ที่สูงกว่า ทำให้สามารถตรวจจับได้ง่ายในระหว่างการฉีด 99mTc-MDP",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 132,
@@ -1842,9 +1711,8 @@
       "ง": "มี Leakage บริเวณที่ฉีดสารเภสัชรังสี",
       "จ": "ได้รับการฉีดสารเภสัชรังสีมากเกินไป"
     },
-    "explanation": "เนื่องจาก Free pertechnetate ในสารเภสัชรังสีทำให้เกิดการจับสารเภสัชรังสีในกระเพาะอาหาร, ต่อมไทรอยด์ และต่อมนํ้าลาย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 133,
@@ -1856,9 +1724,8 @@
       "ง": "Tc-99m MAA",
       "จ": "Tc-99m MAG3"
     },
-    "explanation": "สารเภสัชรังสีที่ใช้ในการตรวจ perfusion lung scan คือ Tc-99m MA (Macroaggregated Albumin) อนุภาค MA ขนาด 10-90 ไมครอนจะถูก trap ค้างอยู่ใน pulmonary capillary bed โดยกลไก microembolization ชั่วคราว ทำให้สามารถประเมิน regional pulmonary perfusion ได้ ส่วน Tc-99m DTPA และ MAG3 ใช้สำหรับ renal scan, Tc-99m pyrophosphate ใช้สำหรับ bone/cardiac scan และ Tc-99m phytate ใช้สำหรับ liver-spleen scan",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 134,
@@ -1870,9 +1737,8 @@
       "ง": "มี defect เป็นรูปสามเหลี่ยมที่ขั้วปอด",
       "จ": "ไม่สามารถวินิจฉัยได้จาก ventilation และ perfusion scan"
     },
-    "explanation": "หลักการวินิจฉัย pulmonary embolism จาก lung scan คือการพบ V/Q mismatch นั่นคือมี perfusion defect (ความผิดปกติใน perfusion scan) แต่ ventilation scan ยังปกติ เรียกว่า 'mismatched defect' เนื่องจากเมื่อหลอดเลือดอุดตัน เลือดไม่ไหลผ่านแต่การะบายอากาศยังคงปกติ หากทั้ง perfusion และ ventilation ผิดปกติพร้อมกัน (matched defect) มักบ่งชี้สาเหตุอื่น เช่น pneumonia หรือ COPD มากว่า PE",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 135,
@@ -1884,9 +1750,8 @@
       "ง": "ม้าม",
       "จ": "ห้องหัวใจ"
     },
-    "explanation": "การตรวจ Tc-99m labeled RBC เป็นการติดฉลากเม็ดเลือดแดงด้วยสารรังสี จึงพบ physiologic activity ได้ในอวัยวะที่มีเลือดไหลผ่านหรือมีเม็ดเลือดแดงอยู่ ได้แก่ หลอดเลือด ห้องหัวใจ ม้าม และสามารถพบในลำไส้ใหญ่ได้ในกรณีที่มี GI bleeding แต่จะ ไม่พบ physiologic activity ใน ถุงน้ำดี (gallbladder) เนื่องจากถุงน้ำดีไม่มี blood pool และไม่มีการไหลเวียนของเม็ดเลือดแดงโดยตรง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 136,
@@ -1898,9 +1763,8 @@
       "ง": "การถ่ายภาพ early และ delayed หลังฉีด Tl-201",
       "จ": "การถ่ายภาพ early และ delayed หลังฉีด Tc-99m MIBI ร่วมกับ SPECT/CT"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 137,
@@ -1912,9 +1776,8 @@
       "ง": "แอลฟา",
       "จ": "นิวตรอน"
     },
-    "explanation": "นิวตรอนเป็นรังสีที่ใช้ในการรักษาโรคทางเวชศาสตร์นิวเคลียร์",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 138,
@@ -1926,9 +1789,8 @@
       "ง": "งดดื่มชากาแฟอย่างน้อย 24ชั่วโมง",
       "จ": "ทานอาหารที่มีคาร์โบไฮเดรตต่ําอย่างน้อย 24ชั่วโมง"
     },
-    "explanation": "การเตรียมตัวผู้ป่วยสําหรับการตรวจ 18F-FDG PET/CT ควร งดกินอาหารอย่างน้อย 4-6 ชั่วโมง และ งดออกกําลังกายอย่างน้อย 24 ชั่วโมง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 139,
@@ -1940,9 +1802,8 @@
       "ง": "พบค่า I-131 uptake ที่ 24ชั่วโมงเป็น 10%",
       "จ": "ผู้ป่วยที่ทานยาหรืออาหารที่มีไอโอดีนเป็นส่วนประกอบจํานวนมาก"
     },
-    "explanation": "เพราะสตรีตั้งครรภ์มีการเปลี่ยนแปลงของฮอร์โมนและไทรอยด์ที่มีผลต่อการทำงานของร่างกาย ทำให้สามารถรับการรักษาภาวะไทรอยด์เป็นพิษด้วย I-131ได้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 140,
@@ -1954,9 +1815,8 @@
       "ง": "กล้ามเนื้อหัวใจจับสารเภสัชรังสีมากขึ้นในภาวะ stress แต่ในภาวะ rest จะปกติ",
       "จ": "กล้ามเนื้อหัวใจจับสารเภสัชรังสีมากขึ้นในภาวะ rest แต่ในภาวะ stress จะปกติ"
     },
-    "explanation": "หลักการวินิจฉัย infracted myocardium จากการตรวจ myocardial perfusion study คือเห็น defect ในภาวะ stress แต่ในภาวะ rest จะปกติ เนื่องจากการทำงานของกล้ามเนื้อหัวใจในช่วง stress จะมีการปรับเปลี่ยนเพื่อเพิ่มการไหลเวียนของเลือด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 141,
@@ -1968,9 +1828,8 @@
       "ง": "Lumbar spine and cranium",
       "จ": "Skull"
     },
-    "explanation": "ในภาพ 99mTc-MDP bone scan ของเด็ก มีการจับสารเภสัชรังสีสูงในตําแหน่ง Costochondral junctions and epiphyseal plates เนื่องจากเป็นจุดที่มีการเจริญเติบโตของกระดูกและเนื้อเยื่อ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 142,
@@ -1982,9 +1841,8 @@
       "ง": "Graves’s disease",
       "จ": "Hypothyroidism"
     },
-    "explanation": "เพราะ I-131 เป็นสารที่มีผลต่อการทำงานของต่อมไทรอยด์ และใช้ในการรักษา Hyperthyroidism ใน subacute thyroiditis",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 143,
@@ -1996,9 +1854,8 @@
       "ง": "ตรวจหารอยโรคที่ต่อม thyroid",
       "จ": "ตรวจหา Ectopic thyroid"
     },
-    "explanation": "จุดประสงค์ของการทํา Radioactive Iodine Uptake (RAIU) คือ ตรวจการทํางานของต่อม thyroid โดยใช้ I-131 เพื่อตรวจสอบการทำงานของต่อมไทรอยด์",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 144,
@@ -2010,9 +1867,8 @@
       "ง": "งดอาหารทะเลประมาณ 1สัปดาห์ก่อนตรวจ",
       "จ": "งดธัยรอยด์ฮอร์โมนประมาณ 4สัปดาห์ก่อนตรวจ"
     },
-    "explanation": "การเตรียมตัวผู้ป่วยก่อนการตรวจ Radioactive Iodine Uptake (RAIU) ไม่ควร งดอาหารทะเลประมาณ 1สัปดาห์ก่อนตรวจ เพราะไม่มีหลักฐานว่าอาหารทะเลจะเพิ่มความเสี่ยงในการตรวจ RAIU",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 145,
@@ -2024,9 +1880,8 @@
       "ง": "ติดตามผลการรักษาโรค thyroiditis",
       "จ": "หาตําแหน่ง ectopic thyroid"
     },
-    "explanation": "Thyroid scan ไม่ใช้ตรวจหา Thyroid hormone โดยตรง เพราะเป็นการตรวจภาพ (Imaging) เพื่อประเมินลักษณะ พื้นที่การจับสาร และความผิดปกติ ส่วนการตรวจหา Thyroid hormone ต้องทำด้วยวิธี In vitro เช่น Radioimunoassay",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 146,
@@ -2038,9 +1893,8 @@
       "ง": "ประเมินความหนาแน่นกระดูก",
       "จ": "ติดตามผลการรักษามะเร็งกระดูก"
     },
-    "explanation": "DEXA (Dual-Energy X-ray Absorptiometry) เป็นเครื่องมือาตรฐานที่ใช้วัดความหนาแน่นของกระดูก (Bone Mineral Density, BMD) เพื่อวินิจฉัยภาวะกระดูกพรุน (Osteoporosis) และกระดูกบาง (Osteopenia) รวมถึงติดตามผลการรักษาภาวะกระดูกพรุน ไม่ได้ใช้วินิจฉัยการแตกหักเฉียบพลัน การกระจายของมะเร็ง หรือติดตามมะเร็งกระดูกโดยตรง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 147,
@@ -2052,9 +1906,8 @@
       "ง": "99mTc-RBC",
       "จ": "99mTc-MAG3"
     },
-    "explanation": "99mTc-MAG3 (Mercaptoacetyltriglycine) ถูกขับออกทางไตโดยกระบวนการ Tubular secretion เป็นหลัก (ประมาณ 90%) จึงเหมาะสำหรับการประเมินการทำงานของ Renal tubular และวัดค่า Effective Renal Plasma Flow (ERPF) ส่วน 99mTc-DTPA ถูกกรองผ่าน Glomerulus จึงใช้วัด GFR",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 148,
@@ -2066,9 +1919,8 @@
       "ง": "99mTc-RBC",
       "จ": "99mTc-MAG3"
     },
-    "explanation": "เพราะ 99mTc-DMSA มีความสามารถในการผสมเข้ากับสารประกอบในไตและสะท้อนออกมาอย่างชัดเจน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 149,
@@ -2080,9 +1932,8 @@
       "ง": "99mTc-DTPA",
       "จ": "99mTc-MAG3"
     },
-    "explanation": "เนื่องจาก 99mTc-MAG3 สามารถระบุได้ว่าไตทำงานหรือไม่ และสามารถตรวจสอบการทำงานของไตในระดับที่แตกต่างกันได้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 150,
@@ -2094,23 +1945,21 @@
       "ง": "-1",
       "จ": "0"
     },
-    "explanation": "เพราะ 99mTc เป็นสารรังสีที่มีเลขอักขระที่เป็นบวก (+7)",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 151,
     "question": "ภาพ normal bone scan ที่ตรวจโดยใช้ 99mTc-MDP จะเห็นลักษณะดังต่อไปนี้ ยกเว้นข้อใด",
     "choices": {
-      "ก": "มีการกระจายตัวของสารเภสัชรังสีเหมือนกัน (symmetry) ทั้งด้านซ้ายและขวาของผู้ป่วย",
+      "ก": "มีการกระจายตัวของสารเภสัชรังสีเหมือนกัน (symmetry) ทั้งด้านซ้ายและขวาของผู้ป ่ วย",
       "ข": "เห็น activity ในต่อม thyroid",
       "ค": "เห็น activity ที่ไต",
       "ง": "มีการสะสมของสารเภสัชรังสีสูงใน epiphyseal plate ในเด็ก",
       "จ": "มีการกระจายตัวของสารเภสัชรังสีในกระดูกส่วนต่างๆ แบบสม่ําเสมอทั้งตัว"
     },
-    "explanation": "ใน normal bone scan ด้วย 99mTc-MDP จะไม่เห็น activity ในต่อม thyroid เพราะ 99mTc-MDP จับกับกระดูก (hydroxyapatite) ผ่านกระบวนการ chemisorption ไม่ใช่ free pertechnetate (99mTcO4-) ที่จะถูกดซึมโดยต่อม thyroid ส่วนสิ่งที่เห็นได้ใน normal scan ได้แก่ การกระจายตัวแบบ symmetry, activity ที่ไต (เพราะสารถูกขับออกทางไต), การสะสมสูงใน epiphyseal plate ของเด็ก (เนื่องจากมี bone turnover สูง) และการกระจายตัวสม่ำเสมอทั่วโครงกระดูก",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 152,
@@ -2122,9 +1971,8 @@
       "ง": "เป็นการตรวจที่ high sensitivity",
       "จ": "มีขั้นตอนการเตรียมตัวผู้ป่วยที่ยุ่งยาก"
     },
-    "explanation": "ข้อด้อยหลักของ 99mTc-MDP whole bone scan คือมี low specificity กล่าวคือแม้จะตรวจพบความผิดปกติได้ดี (high sensitivity) แต่ผลบวกที่พบอาจเกิดจากหลายสาเหตุ เช่น การบาดเจ็บ การอักเสบ การติดเชื้อ หรือมะเร็งกระดูก ทำให้ไม่สามารถแยกโรคได้อย่างจำเพาะเจาะจง จำเป็นต้องใช้การตรวจเพิ่มเติมเพื่อยืนยันการวินจฉัย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 153,
@@ -2136,9 +1984,8 @@
       "ง": "Eluate คือ 99mTcO4-",
       "จ": "Parent คือ 99Mo"
     },
-    "explanation": "ใน 99Mo/99mTc Generator สารที่ใช้ elute (Eluent) คือ Normal saline (0.9% NaCl) ไม่ใช่น้ำบริสุทธิ์ ส่วนข้ออื่นถูกต้องทั้งหมด ได้แก่ Daughter nuclide คือ 99mTc, Adsorbent material คือ Alumina (Al2O3) ที่ใช้จับ 99Mo ไว้, Eluate ที่ได้ออกมาคือ 99mTcO4- (sodium pertechnetate) และ Parent nuclide คือ 99Mo",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Normal saline",
+    "answer": "ก"
   },
   {
     "id": 154,
@@ -2150,9 +1997,8 @@
       "ง": "น้ําบริสุทธิ์",
       "จ": "น้ําแร่"
     },
-    "explanation": "เพราะสารน้ําบริสุทธิ์ไม่มีสารพิษหรือสารที่สามารถปนเป็นรังสีได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 155,
@@ -2164,9 +2010,8 @@
       "ง": "Sterile technique",
       "จ": "Physical property"
     },
-    "explanation": "การทดสอบการปนเป็นรังสีของ 99mTc ควรใช้ Radionuclide purity เพื่อให้แน่ใจว่าสารมีคุณภาพตามมาตรฐาน",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 156,
@@ -2178,9 +2023,8 @@
       "ง": "Physical property",
       "จ": "Radiochemical purity"
     },
-    "explanation": "99Mo Breakthrough เป็นการควบคุมคุณภาพของสารเภสัชรังสีในเรื่อง Chemical purity โดยการตรวจสอบว่าสารไม่มีการเปลี่ยนแปลงทางเคมีหรือการปนเป็นรังสี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 157,
@@ -2192,9 +2036,8 @@
       "ง": "ทดสอบขนาดอนุภาคของสารเภสัชรังสี",
       "จ": "ทดสอบการปนเป์์อนของสารกัมมันตรังสีตัวแม่ใน 99mTc"
     },
-    "explanation": "เพราะการทดสอบ Mo Breakthrough จะช่วยให้แน่ใจว่าสารเภสัชรังสีได้รับการผลิตและปรุงแต่งให้มีคุณภาพตามที่ต้องการ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 158,
@@ -2206,9 +2049,8 @@
       "ง": "ลด Free radical",
       "จ": "ช่วยให้สารเภสัชรังสีมีความเสถียรมากขึ้น"
     },
-    "explanation": "Stannous chloride ใช้เพื่อช่วยให้สารเภสัชรังสีมีความเสถียรมากขึ้น และช่วยลดการปนเป็นของเชื้อโรคและสารกัมมันตรังสีตัวแม่",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 159,
@@ -2220,9 +2062,8 @@
       "ง": "Column chromatography",
       "จ": "Filtration"
     },
-    "explanation": "High pressure liquid chromatography เป็นเทคนิคที่ใช้ทดสอบ Radiochemical purity เนื่องจากสามารถตรวจจับการเปลี่ยนแปลงทางเคมีของสารเภสัชรังส์ได้อย่างแม่นยำ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 160,
@@ -2234,9 +2075,8 @@
       "ง": "Sterile technique",
       "จ": "Radiochemical purity"
     },
-    "explanation": "เพราะการทดสอบการปนเป็นของสารเภสัชรังสี 99mTc-MDP จะตรวจสอบว่าสารเคมีในระดับสูงและไม่มีสารพิษหรือสารที่ไม่ต้องการอยู่",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "???",
+    "answer": "ก"
   },
   {
     "id": 161,
@@ -2248,9 +2088,8 @@
       "ง": "Phagocytosis",
       "จ": "Receptor binding"
     },
-    "explanation": "ต่อมไทรอยด์ใช้การผูกพันรับ (receptor binding) เพื่อดูดจับ 131I ซึ่งเป็นสารรังสีที่มีผลต่อฮอร์โมนไทรออยด์",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 162,
@@ -2262,9 +2101,8 @@
       "ง": "สมอง",
       "จ": "ตับ"
     },
-    "explanation": "สารเภสัชรังสี 99mTc-MDP ใช้ในการตรวจสอบการทำงานของกระดูก โดยเฉพาะอย่างยิ่งในการตรวจหาการเปลี่ยนแปลงหรือการบาดเจ็บของกระดูก",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 163,
@@ -2276,9 +2114,8 @@
       "ง": "เป็นการตรวจที่ทารกในครรภ์จะได้รับปริมาณรังสีสูง จึงห้ามตรวจในสตรีมีครรภ์",
       "จ": "ราคาถูก"
     },
-    "explanation": "้อดีสำคัญของการตรวจทางเวชศาสตร์นิวเคลียร์คือเป็นการตรวจเชิง functional imaging ที่แสดงการทำงานของอวัยวะ (physiological function) ได้ ต่างจาก CT หรือ MRI ที่เน้นแสดงโครงสร้างทางกายวิภาค (anatomical imaging) ทำให้สามารถตรวจพบความผิดปกติได้ก่อนที่จะเกิดการเปลี่ยนแปลงทางโครงสร้าง เช่น การตรวจ bone scan ตรวจพบมะเร็งกระดูกได้ก่อน X-ray ทั่วไป",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 164,
@@ -2290,9 +2127,8 @@
       "ง": "Iodine deficiency of thyroid",
       "จ": "Graves’s disease"
     },
-    "explanation": "I-131 ใช้รักษา Graves' disease (hyperthyroidism ชนิดที่พบบ่อยที่สุด) โดย I-131 จะถูกดูดซึมเข้าสู่ต่อมไทรอยด์ผ่าน NIS แล้วปล่อยรังสี beta particle ทำลาย follicular cell ลดการสร้างฮอร์โมนไทรอยด์ นอกจากนี้ยังใช้รักษา differentiated thyroid cancer (papillary และ follicular) แต่ไม่ใช้ใน medullary thyroid cancer เพราะ C-cell ไม่มี NIS และไม่ใช้ใน hypothyroidism หรือ iodine deficiency",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 165,
@@ -2304,9 +2140,8 @@
       "ง": "หลอดเลือด",
       "จ": "พาราไทรอยด์"
     },
-    "explanation": "Tc-99m pertechnetate มีคุณสมบัติทางเคมีคล้ายไอโอดีน (iodide mimicker) จึงถูกดูดซึมเข้าสู่อวัยวะที่มี sodium-iodide symporter (NIS) ได้แก่ ต่อมไทรอยด์ ต่อมน้ำลาย และเยื่อบุกระเพาะอาหาร (gastric mucosa) โดยเฉพาะในกระเพาะอาหาร pertechnetate จะถูก secreted โดย mucous neck cell จึงสามารถใช้ทำ Meckel's diverticulum scan เพื่อตรวจหา ectopic gastric mucosa ได้",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 166,
@@ -2318,9 +2153,8 @@
       "ง": "240",
       "จ": "300"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 167,
@@ -2332,9 +2166,8 @@
       "ง": "25 mCi",
       "จ": "15 mCi"
     },
-    "explanation": "ความแรงรังสีของ I-131 ที่ใช้รักษา Hyperthyroidism คือ 15 mCi และผู้ป่วยต้องพักในหอพักผู้ป่วยเมื่อได้รับ 45 mCi",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 168,
@@ -2346,9 +2179,8 @@
       "ง": "สูง และเห็นต่อมไทรอยด์ชัดเจน",
       "จ": "เป็นไปได้ทุกกรณี"
     },
-    "explanation": "ลักษณะของ subacute thyroiditis จะมีค่า uptake สูง และเห็นต่อมไทรอยด์ชัดเจน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 169,
@@ -2360,9 +2192,8 @@
       "ง": "Multiple nodules",
       "จ": "เป็นไปได้ทุกกรณี"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 170,
@@ -2374,9 +2205,8 @@
       "ง": "ภาวะขาดไอโอดีน",
       "จ": "ได้รับ KClO4-"
     },
-    "explanation": "ภาวะการ uptake ของต่อมไทรอยด์ที่ตํ่ากว่าปกติ ไม่ได้เกิดจากขาดไอโอดีน เนื่องจากไอโอดีนเป็นสารที่จำเป็นต่อการทำงานของฮอร์โมนไทรอยด์ และภาวะขาดไอโอดีนจะทำให้การผลิตฮอร์โมนไทรอยด์ลดลง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 171,
@@ -2388,9 +2218,8 @@
       "ง": "Bone marrow space",
       "จ": "Bone infection"
     },
-    "explanation": "ข้อบ่งชี้ของการตรวจ bone scan ในทางเวชศาสตร์นิวเคลียร์คือการแพร่กระจายของมะเร็งมาที่กระดูก การระบาดของ Osteomyelitis ในระยะแรก การติดตามผลการรักษาหลังการฉายรังสี และ Bone infection แต่ไม่ใช่ Bone marrow space",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 172,
@@ -2402,9 +2231,8 @@
       "ง": "Osteoporosis และ diskitis",
       "จ": "Osteoporosisและ septic arthritis"
     },
-    "explanation": "3-phase bone scan มีข้อบ่งชี้หลักสำหรับการตรวจ Osteomyelitis และ Cellulitis โดย 3 phase นี้ช่วยให้สามารถแยกความแตกต่างระหว่าง infection และโรคอื่นๆ ได้ ส่วน diskitis จะต้องใช้ plain radiography หรือ MRI เป็นหลัก",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 173,
@@ -2416,9 +2244,8 @@
       "ง": "99mTc-pertechnetate",
       "จ": "99mTc-sulfur colloid"
     },
-    "explanation": "99mTc-sulfur colloid เป็นสารเภสัชรังสีที่ใช้ในการตรวจตับและ reticuloendothelial system เนื่องจากสารนี้เข้าสู่ตับและม้าม โดยถูกจับโดยระบ RES cells ทำให้เห็น uptake ที่ตับได้อย่างชัดเจน",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 174,
@@ -2430,9 +2257,8 @@
       "ง": "ไม่รับประทานอาหารหรือดื่มน้ําร่วมภาชนะกับผู้อื่น",
       "จ": "แยกทําความสะอาดเสื้อผ้าและและของใช้ส่วนตัวจากบุคคลอื่นในครอบครัว"
     },
-    "explanation": "หลีกเลี่ยงการรับประทานอาหารที่มีไอโอดีนสูงไม่ถูกต้อง เพราะหลังการักษาด้วย radioactive iodine (I-131) แทนที่จะหลีกเลี่ยงไอโอดีน ผู้ป่วยควรได้รับคำแนะนำให้รับประทานอาหารที่มีไอโอดีนต่ำ เพื่อหลีกเลี่ยงการดการนำไอโอดีนรังสีเข้าไปในต่อมไทรอยด์ที่ค้างอยู่",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 175,
@@ -2444,9 +2270,8 @@
       "ง": "Geiger-Mueller counter",
       "จ": "Semi-conductor"
     },
-    "explanation": "Scintillation detector เป็นชนิดหัววัดรังสีของเครื่อง thyroid uptake เพราะสามารถวัดรังสี gamma จากไอโอดีน-131 ที่สะสมในต่อมไทรอยด์ได้อย่างมีประสิทธิภาพ ส่วนเครื่องวัดชนิดอื่นๆ ไม่เหมาะสำหรับการตรวจนี้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 176,
@@ -2458,9 +2283,8 @@
       "ง": "breast cancer",
       "จ": "CA ovary"
     },
-    "explanation": "Larynx cancer มักมี false negativeในการตรวจ PET scan เนื่องจาก uptake ของ 18F-FDG ในบางประเภท larynx cancer เพียงเล็กน้อย โดยเฉพาะเนื้องกชนิด well-differentiated หรือ early stage ที่มีการหมุนเวียนของ้ำตาลไม่มากนัก",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 177,
@@ -2472,9 +2296,8 @@
       "ง": "อธิบายขั้นตอนวิธีการตรวจให้ผู้ป่วยทราบ",
       "จ": "ให้ผู้ปกครองเข้ามาดูแลได้"
     },
-    "explanation": "อธิบายขั้นตอนวิธีการตรวจให้ผู้ป่วยทราบไม่ถูกต้องในกรณีของผู้ป่วยเด็ก เพราะเด็กอาจไม่สามารถเข้าใจรายละเอียดที่ซับซ้อนได้ แทนที่จะอธิบายแบนี้ ควรส้างบรยากาศที่เหมาะสม ให้ผู้ปกครองเข้าม และสร้างความคุ้นเคยกับเด็กแทน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 178,
@@ -2486,23 +2309,21 @@
       "ง": "วินิจฉัยว่าได้มีการแพร่กระจายของมะเร็งเข้าสู่หลอดน้ําเหลืองแล้ว",
       "จ": "ตรวจหามะเร็งต่อมน้ําเหลือง"
     },
-    "explanation": "การตรวจ sentinel node เป็นการวิเคราะห์หาตำแหน่งของต่อมน้ำเหลืองต่อมแรกที่อาจมีการแพร่กระจายของมะเร็ง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 179,
     "question": "ภาพ normal bone scan ที่ตรวจโดยใช้ 99mTc-MDP จะเห็นลักษณะดังต่อไปนี้ ยกเว้นข้อใด?",
     "choices": {
-      "ก": "มีการกระจายตัวของสารเภสัชรังสีเหมือนกัน (symmetry) ทั้งด้านซ้ายและขวาของผู้ป่วย",
+      "ก": "มีการกระจายตัวของสารเภสัชรังสีเหมือนกัน (symmetry) ทั้งด้านซ้ายและขวาของผู้ป ่ วย",
       "ข": "เห็น activity ในต่อม thyroid",
       "ค": "เห็น activity ที่ไต",
       "ง": "มีการสะสมของสารเภสัชรังสีสูงใน epiphyseal plate ในเด็ก",
       "จ": "มีการกระจายตัวของสารเภสัชรังสีในกระดูกส่วนต่างๆ แบบสม่ําเสมอทั้งตัว"
     },
-    "explanation": "ภาพ normal bone scan ที่ตรวจโดยใช้ 99mTc-MDP จะเห็นลักษณะการกระจายตัวของสารเภสัชรังสีในกระดูกส่วนต่างๆ แบบสมมาเสมอทั้งตัว",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 180,
@@ -2514,9 +2335,8 @@
       "ง": "Instrument dead time",
       "จ": "ความกว้างของรู Collimator"
     },
-    "explanation": "Instrument dead time ไม่มีผลต่อค่า Sensitivity ของเครื่อง gamma camera เนื่องจากเป็นปัจจัยที่ไม่เกี่ยวข้องกับการวัดความไวของเครื่อง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 181,
@@ -2528,9 +2348,8 @@
       "ง": "Continuous discharge",
       "จ": "Spontaneous discharge"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 182,
@@ -2542,9 +2361,8 @@
       "ง": "Prompt coincidence",
       "จ": "Total coincidence"
     },
-    "explanation": "เรียกว่า random coincidence เพราะไม่ได้มาจากปฏิกิริยา annihilation เดียวกันภายใน coincidence timing window",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 183,
@@ -2556,9 +2374,8 @@
       "ง": "6เดือน หลังผ่าตัด",
       "จ": "6วัน ก่อนผ่าตัด"
     },
-    "explanation": "6 สัปดาห์ หลังได้รับการรักษาด้วย colony stimulating factor เป็นเวลาที่เหมาะสําหรับการส่งตรวจ PET scan ในผู้ป่วยมะเร็ง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 184,
@@ -2570,9 +2387,8 @@
       "ง": "12.5%",
       "จ": "10%"
     },
-    "explanation": "เนื่องจาก FWHM คือ 53 keV และ photo peak energy เท่ากับ 662 keV จึงสามารถคำนวณได้โดยใช้สูตร: E_res = (FWHM / photo peak energy) * 100 = (53 keV / 662 keV) * 100 = 8.03% ° ซึ่งใกล้เคียงกับ 10%",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "%energy resolution = FWHM/Energy at photopeak x 100= 53/662 x 100 = 8%",
+    "answer": "ข"
   },
   {
     "id": 185,
@@ -2584,9 +2400,8 @@
       "ง": "Pocket dosimeter",
       "จ": "OSL"
     },
-    "explanation": "เครื่องมือชนิดที่ใช้วัดปริมาณรังสีปนเป็นคือ Ionization chamber เนื่องจากสามารถวัดปริมาณการประจุไฟฟ้าได้โดยตรง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 186,
@@ -2598,9 +2413,8 @@
       "ง": "34 eV",
       "จ": "40 keV"
     },
-    "explanation": "พลังงานเฉลี่ยของโฟตอนที่ต้องใช้เพื่อสร้าง 1 ion pair คือ 34 eV",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 187,
@@ -2612,9 +2426,8 @@
       "ง": "Sensitivity จะเพิ่มขึ้นเมื่อเพิ่มความยาวรูของ collimator",
       "จ": "Sensitivity จะเพิ่มขึ้นเมื่อลดระยะทางจากแหล่งกําเนิดรังสีถึง collimator"
     },
-    "explanation": "เพราะขนาดเส้นผ่านศูนย์รูของ collimator จะเพิ่มความไวและลดความแปลกผิด",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 188,
@@ -2626,9 +2439,8 @@
       "ง": "แรงดันของ gas ภายในหัววัด",
       "จ": "ขนาดของหัววัดรังสี"
     },
-    "explanation": "เพราะแรงดันของ gas ภายในหัววัดจะไม่ส่งผลกระทบต่อความสูงของสัญญาณที่ได้จากหัววัดรังสีชนิด gas-filled",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 189,
@@ -2640,9 +2452,8 @@
       "ง": "Line of flight",
       "จ": "Line integral"
     },
-    "explanation": "เพราะการเรืองแสงที่เกิดขึ้นในผลึกจะถูกเชื่อมต่อเป็นเส้นตรงเรียกว่า line of response",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 190,
@@ -2654,9 +2465,8 @@
       "ง": "ขนาดของ matrix ที่ใช้",
       "จ": "จํานวนค่านับวัด"
     },
-    "explanation": "เพราะขนาดของ matrix ที่ใช้จะส่งผลต่อความละเอียดของภาพ ไม่ใช่ระยะห่างระหว่าง collimator กับผู้ป่วย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Contrast",
+    "answer": "จ"
   },
   {
     "id": 191,
@@ -2668,9 +2478,8 @@
       "ง": "ทําให้ภาพมีความเข้มมากกว่าความเป็นจริง",
       "จ": "ทําให้ image noise ลดลง"
     },
-    "explanation": "เพราะการเรืองแสงที่เกิดขึ้นจะทำให้ค่านับวัดน้อยกว่าปกติและทำให้ resolution ของภาพแย่ลง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 192,
@@ -2682,9 +2491,8 @@
       "ง": "ควรจะมีความหนาแน่นสูงเพื่อให้โฟตอนถูกดูดกลืนไว้หมด",
       "จ": "สามารถเปลี่ยนพลังงานของรังสีให้เป็นโฟตอนแสงได้อย่างมีประสิทธิภาพ"
     },
-    "explanation": "เพราะผลึกเรืองแสงในอุดมคติของหัววัดรังสีไม่สามารถเปลี่ยนพลังงานของรังสีให้เป็นโฟตอนแสงได้อย่างมีประสิทธิภาพ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 193,
@@ -2696,9 +2504,8 @@
       "ง": "คุณภาพของภาพขึ้นอยู่กับจํานวนรอบ (iteration)",
       "จ": "เป็นการนําภาพสมมุติมาเปรียบเทียบกับภาพถ่ายที่วัดได้ แล้วนําเอาค่าผิดพลาดนั้นมาแก้ไข"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 194,
@@ -2710,9 +2517,8 @@
       "ง": "ปรับรูปร่างของสัญญาณให้เหมาะสม",
       "จ": "เปลี่ยนพลังงานของโฟตอนที่เข้ามาทําปฏิกิริยาให้เป็นโฟตอนแสง"
     },
-    "explanation": "เป็นการนำภาพสมมุติมาเปรียบเทียบกับภาพถ่ายที่วัดได้ แล้วนำเอาค่าผิดพลาดนั้นมาแก้ไข",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 195,
@@ -2724,9 +2530,8 @@
       "ง": "ยอมให้โฟตอนที่มีทิศทางตามแนวรูของ collimator ผ่านไปได้",
       "จ": "โฟตอนที่เข้าในทิศทางอื่นจะถูกดูดกลืนในผนังของ collimator"
     },
-    "explanation": "ยอมให้โฟตอนที่มีทิศทางตามแนวรูของ collimator ผ่านไปได้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 196,
@@ -2738,9 +2543,8 @@
       "ง": "ชนิด low energy all purpose ให้ resolution ที่แย่กว่า low energy high sensitivity",
       "จ": "ชนิด low energy all purpose สามารถนํามาใช้ในการตรวจที่ใช้สารกัมมันตรังสี Tc-99m ได้"
     },
-    "explanation": "เพราะชนิด low energy all purpose ไม่ได้ให้ resolution ที่ดีกว่า low energy high sensitivity",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 197,
@@ -2752,9 +2556,8 @@
       "ง": "ค่านับวัดน้อย resolution ของภาพดีขึ้น",
       "จ": "ค่านับวัดมากขึ้น resolution ของภาพดีขึ้นแต่ contrast ของภาพลดลง"
     },
-    "explanation": "ค่านับวัดมากขึ้น resolution ของภาพดีขึ้นแต่ contrast ของภาพลดลง",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 198,
@@ -2766,9 +2569,8 @@
       "ง": "Semiconductor detector",
       "จ": "Ionization detector"
     },
-    "explanation": "หัววัดรังสีของเครื่อง gamma camera เป็นชนิด Semiconductor detector",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 199,
@@ -2780,9 +2582,8 @@
       "ง": "Low energy high resolution collimator",
       "จ": "Pin hole collimator"
     },
-    "explanation": "เพราะ High energy collimator ไม่สามารถปรับให้เหมาะสมกับการถ่ายภาพ 99mTc ได้",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 200,
@@ -2794,9 +2595,8 @@
       "ง": "Spatial resolution",
       "จ": "Sensitivity"
     },
-    "explanation": "การทํา QC ของเครื่องgamma Camera ไม่ควรตรวจสอบ Spatial resolution เนื่องจากเป็นคุณสมบัติที่ไม่สำคัญสำหรับงานวิจัยหรือการวินิจฉัย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "SPECT",
+    "answer": "ก"
   },
   {
     "id": 201,
@@ -2808,9 +2608,8 @@
       "ง": "Intrinsic non-uniformity",
       "จ": "Extrinsic non-uniformity"
     },
-    "explanation": "Bull's eye' artifact ของภาพ SPECT จากการถ่าย point source เกิดจาก Extrinsic non-uniformity เนื่องจากกระแสไฟฟ้าไม่เท่ากันในพื้นที่ต่างๆ ของเครื่องรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 202,
@@ -2822,9 +2621,8 @@
       "ง": "Linearity",
       "จ": "Geometry"
     },
-    "explanation": "เพราะการทดสอบความสม่ำเสมอ (Uniformity) เป็นการตรวจสอบว่าเครื่องมือได้ผลลัพธ์ที่เท่ากันในทุกๆ ส่วนของเครื่องหรือไม่",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Gamma camera, SPECT",
+    "answer": "ก"
   },
   {
     "id": 203,
@@ -2836,9 +2634,8 @@
       "ง": "High sensitivity",
       "จ": "High resolution"
     },
-    "explanation": "เพราะการปรับแต่ง Collimator ที่ใช้ converging ทำให้ได้ภาพที่มีขนาดใหญ่ขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 204,
@@ -2850,9 +2647,8 @@
       "ง": "Geiger-Muller counter",
       "จ": "Proportional counter"
     },
-    "explanation": "เพราะเครื่องมือชนิด Proportional counter มีความสามารถในการวัดระดับความเปรอะเป็นของสารกัมมันตรังสีได้ดี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 205,
@@ -2864,9 +2660,8 @@
       "ง": "PM tube",
       "จ": "Pulse height analyzer"
     },
-    "explanation": "เครื่อง gamma camera มี Collimator ที่เปลี่ยนโฟตอนให้เป็นโฟotonแสง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 206,
@@ -2878,9 +2673,8 @@
       "ง": "Geiger Muller Counter",
       "จ": "Proportional Counter"
     },
-    "explanation": "เครื่อง survey meter ประเภท Semiconductor Detector ใช้วัดรังสีในบริเวณที่มี low-level gamma radiation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 207,
@@ -2892,9 +2686,8 @@
       "ง": "Phoswichdetector",
       "จ": "Compton detector"
     },
-    "explanation": "Cadmium zinc telluride (CZT) เป็นหัววัดชนิด Solid state detector",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 208,
@@ -2906,9 +2699,8 @@
       "ง": "มีความถูกต้องมากกว่า",
       "จ": "ถูกทุกข้อ"
     },
-    "explanation": "เครื่อง PET แบบ 2D มีจํานวนหัววัดน้อยกว่า ซึ่งทำให้การเรียนรู้และประมวลผลข้อมูลมีความยาก และไม่สามารถแสดงภาพได้ชัดเจนเหมือนแบบ 3D",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "! septumNo septum",
+    "answer": "ข"
   },
   {
     "id": 209,
@@ -2920,9 +2712,8 @@
       "ง": "ใช้ในการขจัด noise",
       "จ": "ใช้ในการยุบข้อมูลจาก 3D ให้เป็น 2D"
     },
-    "explanation": "Fourier Rebinning(FORE) ใช้ในการยุบข้อมูลจาก 3D ให้เป็น 2D เพื่อเพิ่มประสิทธิภาพในการประมวลผลและแสดงภาพ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 210,
@@ -2934,9 +2725,8 @@
       "ง": "Characteristic X-ray",
       "จ": "BremstralungX-ray"
     },
-    "explanation": "ถ้าใช้ตะกั่วกั้นรังสีเบตาพลังงานสูง อาจทําให้เกิด BremstralungX-ray ซึ่งเป็นผลกระทบของการกระจายพลังงานของรังสีในตะกั่ว",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 211,
@@ -2948,9 +2738,8 @@
       "ง": "12มิลลิเมตรของตะกั่ว",
       "จ": "15มิลลิเมตรของตะกั่ว"
     },
-    "explanation": "เพราะครึ่งหนึ่งของการผ่านรังสีแกมมาในพลังงาน 511 keV ผ่านผ่านได้เพียง 7 มิลลิเมตรของตะกั่ว",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 212,
@@ -2962,9 +2751,8 @@
       "ง": "Acquisition times",
       "จ": "Patient comfort"
     },
-    "explanation": "การหมุนรอบผู้ป่วยจะช่วยให้ผู้ป่วยรู้สึกสบายใจมากขึ้น ทำให้สามารถถ่ายภาพได้ดีขึ้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 213,
@@ -2976,9 +2764,8 @@
       "ง": "4.48",
       "จ": "5.91"
     },
-    "explanation": "โดยใช้สูตร FOV = (matrix size x pixel size) / detector size สามารถคำนวณได้ว่า FOV คือ 4.48 mm",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 214,
@@ -2990,9 +2777,8 @@
       "ง": "2-3 ชั่วโมง",
       "จ": "24 ชั่วโมง"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 215,
@@ -3004,9 +2790,8 @@
       "ง": "Anterior, Posterior, Lateral และ SPECT",
       "จ": "Anterior, Posterior, Lateral และ Oblique"
     },
-    "explanation": "เนื่องจากการถ่ายภาพ lung perfusion ต้องใช้เทคนิคการถ่ายภาพแบบ SPECT และมุม Posterior เพื่อให้ได้ผลลัพธ์ที่ดีที่สุด",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 216,
@@ -3018,9 +2803,8 @@
       "ง": "3,840 bytes",
       "จ": "546 bytes"
     },
-    "explanation": "โดยใช้สูตรการคำนวณจำนวนไบต์ (bytes) ที่จำเป็นในการถ่ายภาพโดยใช้หน่วยความจํา byte mode โดยใช้สูตร: จำนวนไบต์ = จำนวนเฟรม × ขนาดของเมทริกซ์",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Memory required = matrix size x No. of pixel (byte) x no. of image= 128x128 x 1 x 30",
+    "answer": "ข"
   },
   {
     "id": 217,
@@ -3032,9 +2816,8 @@
       "ง": "Resolution เพิ่มขึ้น",
       "จ": "Scatter ลดขึ้น"
     },
-    "explanation": "เนื่องจากสารเภสัชรังสีมีความแรงสูงจะทำให้เกิดการกระจาย (scatter) ลดลง ซึ่งนำไปสู่การเพิ่มความชัดเจนของภาพ PET",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 218,
@@ -3046,9 +2829,8 @@
       "ง": "Thyroid imaging",
       "จ": "Renogram"
     },
-    "explanation": "เทคนิคการถ่ายภาพ static ใช้กับการตรวจ Phase แรก ของ 3-phase bone scan เนื่องจากไม่ต้องการการเคลื่อนไหวของร่างกายเพื่อสร้างภาพที่ชัดเจน",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 219,
@@ -3060,9 +2842,8 @@
       "ง": "คาดเดาไม่ได้",
       "จ": "ไม่ขึ้นกับชนิดของ collimator"
     },
-    "explanation": "เมื่อเปลี่ยน collimator จาก low energy all purpose / general purpose เป็นชนิด low energy high resolution เวลาที่ใช้ในการถ่ายภาพจะเพิ่มขึ้น เนื่องจากชนิดใหม่จะมีความชัดเจนสูงกว่าและต้องใช้เวลานานขึ้นในการสร้างภาพที่ดี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 220,
@@ -3074,9 +2855,8 @@
       "ง": "แสดงภาพโดยใช้ gray scale ช่วงแคบๆ",
       "จ": "เพิ่มปริมาณสารเภสัชรังสีที่ฉีดให้ผู้ป่วย"
     },
-    "explanation": "การย้ายดีเทกเตอร์ให้ชิดผู้ป่วยมากขึ้นจะช่วยเพิ่มความละเอียดของภาพ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 221,
@@ -3088,9 +2868,8 @@
       "ง": "0.33 cycles/pixel",
       "จ": "0.15 cycles/pixel"
     },
-    "explanation": "คutoff frequency ที่แนะนำสำหรับ Butterworth filter คือ 0.42 cycles/pixel เพื่อให้ได้ภาพที่ smooth ที่สุด",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Cutoff frequency \"อย ภาพ smooth Resolution ลดลง",
+    "answer": "จ"
   },
   {
     "id": 222,
@@ -3102,9 +2881,8 @@
       "ง": "Uniformity correction",
       "จ": "Attenuation correction"
     },
-    "explanation": "Ramp filter เป็นเทคนิคในการขจัด star artifact โดยการปรับเปลี่ยนความต้านทานของพิกเซลเพื่อลดผลกระทบจาก artifact",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 223,
@@ -3116,9 +2894,8 @@
       "ง": "ลดจํานวน projection",
       "จ": "ใช้ ramp filter"
     },
-    "explanation": "Streak artifact ใน SPECT มักเกิดจากการมีจำนวน projection ไม่เพียงพอ (angular undersampling) ทำให้การสร้างภาพ back projection มีข้อมูลไม่ครบถ้วนและเกิดเส้น streak ขึ้น การเพิ่มจำนวน projection ให้มากขึ้นจะทำให้มีข้อมูลเชิงมุมที่ครบถ้วนมากขึ้น ลด angular sampling error และทำให้ streak artifact ลดลง โดยทั่วไปการถ่าย SPECT ควรใช้อย่างน้อย 60-128 projections รอบ 360 องศา",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 224,
@@ -3130,9 +2907,8 @@
       "ง": "Crystal เสียหาย",
       "จ": "การสร้างภาพด้วยวิธี simple back projection"
     },
-    "explanation": "I-131 มีพลังงานหลักอยู่ที่ 364 keV ซึ่งจัดเป็น high energy gamma ray หากใช้ low energy collimator (ที่ออกแบบมาสำหรับพลังงานต่ำกว่า ~150 keV) กับ I-131 จะเกิดปัญหา septal penetration คือรังสีพลังานสูงสามารถทะลุผ่านผนังตะกั่วของ collimator ได้ ทำให้เกิด bright star-shaped artifact บน image เนื่องจากรังสีที่ทะลุเข้ามาในมุมต่างๆ การแก้ไขคือต้องใช้ high energy collimator ที่เหมาะสมกับ I-131",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 225,
@@ -3144,9 +2920,8 @@
       "ง": "มี contrast และ resolution ดีกว่า",
       "จ": "ไม่มีการซ้อนทับของอวัยวะ และมี resolution ดีกว่า"
     },
-    "explanation": "SPECT มีข้อดีเหนือกว่า planar scintigraphy ในด้าน contrast และ resolution เป็นหลัก โดย contrast ดีกว่าเนื่องจาก SPECT สามารถแยก slice ในแนวแกนได้ ทำให้ไม่มีการซ้อนทับของ activity จากอวัยวะชั้นอื่น ลด background activity และเพิ่ม target-to-background ratio ส่วน spatial resolution ดีกว่าเนื่องจาการสร้างภาพแบบ tomographic ทำให้เห็นรายละเอียดของตำแหน่ง lesion ในสามิติได้ชัดเจนขึ้น อย่างไรก็ตาม sensitivity ของ SPECT ไม่ได้ดีกว่า planar เนื่องจากใช้เวลาเก็บข้อมูลต่อ projection น้อยกว่า และมี count statistics ต่อหน่วยเวลาต่ำกว่า",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 226,
@@ -3158,9 +2933,8 @@
       "ง": "ทานอาหารที่ไขมันสูงเพื่อขับ activity ที่ไม่จําเป็นออกจากระบบทางเดินน้ําดี",
       "จ": "ทานอาหารที่มีคาร์โบไฮเดรตสูง"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 227,
@@ -3172,9 +2946,8 @@
       "ง": "20นาที",
       "จ": "ถ่ายหลังจาก phase ที่ 1ทันที"
     },
-    "explanation": "ในการทํา 3-phase bone study ควรถ่าย phase ที่ 2 ห่างจาก phase ที่ 1นาน 45 นาที เพื่อให้ได้ข้อมูลการเปลี่ยนแปลงของกระดูกอย่างแม่นยำ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 228,
@@ -3186,9 +2959,8 @@
       "ง": "Low energy high sensitivity",
       "จ": "Fan beam collimator"
     },
-    "explanation": "ในการถ่ายภาพ 99mTc-MDP whole body bone scan ใช้ collimator ชนิด low energy high sensitivity เพื่อให้ได้ผลลัพธ์ที่ชัดเจนและแม่นยำ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 229,
@@ -3200,9 +2972,8 @@
       "ง": "Infraction",
       "จ": "Interventricular shunt"
     },
-    "explanation": "MUGA scan (Multiple Gated Acquisition scan) หรือ Radionuclide ventriculography เป็นการตรวจที่ใช้ 99mTc-labeled red blood cells ร่วมกับ ECG gating เพื่อประเมิน Left Ventricular Ejection Fraction (LVEF) ซึ่งเป็นข้อบ่งชี้หลัก นอกจากนี้ยังดู wall motion abnormality ได้ด้วย แต่ไม่สามารถวัด wall thickness ได้โดยตรงเหมือน echocardiography",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 230,
@@ -3214,9 +2985,8 @@
       "ง": "Static acquisition mode",
       "จ": "Gated acquisition mode"
     },
-    "explanation": "การตรวจ renal function (Renal scintigraphy) เช่น Renogram โดยใช้ 99mTc-DTPA หรือ 99mTc-MAG3 ใช้ Dynamic acquisition mode คือการถ่ายภาพต่อเนื่องเป็น seriesของภาพหลายๆ frame ตามเวลา (เช่น ทุก 1–2 วินาที ตลอด 20–30 นาที) เพื่อสร้าง time-activity curve สำหรับประเมิน perfusion, uptake และ excretion ของไต ซึ่งสะท้อน renal function ได้โดยตรง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 231,
@@ -3228,9 +2998,8 @@
       "ง": "Sinogram คือ ภาพ sine wave ที่เปลี่ยนไปตามมุมที่หัววัดหมุนรอบ",
       "จ": "Sinogram คือ การแสดงภาพ cosine wave"
     },
-    "explanation": "Sinogram คือการแสดงภาพ projection ในแกน xที่สัมพันธ์กับมุมการหมุนของหัววัด (แกน y) ซึ่งเป็นข้อมูลพื้นฐานสำหรับการสร้างภาพ SPECT โดยการ reconstruction",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 232,
@@ -3242,9 +3011,8 @@
       "ง": "112keV ถึง 140keV",
       "จ": "140keV ถึง 168keV"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 233,
@@ -3256,9 +3024,8 @@
       "ง": "ลดค่านับวัดที่เกิดจากรังสีกระเจิง",
       "จ": "ปรับแก้การสลายตัวของนิวไคลด์รังสีที่ใช้"
     },
-    "explanation": "การทํา Attenuation correction ในการถ่ายภาพรังสีแกมมา วัตถุประสงค์เพื่อปรับค่านับวัดที่ถูกลดทอนไปเพราะการเดินทางของรังสีผ่านตัวกลางต่างๆ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 234,
@@ -3270,9 +3037,8 @@
       "ง": "แยกพลังงานของสารเภสัชรังสีดีขึ้น",
       "จ": "ไม่มีอะไรเปลี่ยนแปลง"
     },
-    "explanation": "การใช้ Low energy high-resolution collimator มีข้อดีอย่างหนึ่งคือ Resolution ของภาพเพิ่มขึ้น",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 235,
@@ -3284,9 +3050,8 @@
       "ง": "Right lateral view",
       "จ": "Left anterior oblique view"
     },
-    "explanation": "Anterior view คือการจัดท่าผู้ป่วยให้ด้านหน้า (anterior) ของร่างกายเข้าหาและชิดกับหัววัด (detector) ซึ่งใช้สัญาและปกติในการถ่ายภาพนิวเคลียร์",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 236,
@@ -3298,9 +3063,8 @@
       "ง": "LEHR",
       "จ": "LEHS"
     },
-    "explanation": "99mTc-MDP มีพลังงานโฟตอนอยู่ที่ 140 keV ซึ่งเป็นพลังงานต่ำ (low energy) การถ่าย whole bone scan ต้องการความละเอียดของภาพสูง จึงเลือกใช้ LEHR (Low Energy High Resolution) collimator เพื่อให้ได้ภาพที่คมชัดและมี spatial resolution ดีที่สุด HEGP และ MEGP ใช้กับสารที่มีพลังงานสูงกว่า เช่น 111In หรือ 67Ga ส่วน HEHR ไม่มีใช้งานในทางปฏิบัติท่วไป และ LEHS (Low Energy High Sensitivity) ให้ resolution ต่ำกว่า LEHR",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 237,
@@ -3312,9 +3076,8 @@
       "ง": "Thigh",
       "จ": "Room background"
     },
-    "explanation": "การคำนวณ % thyroid uptake ใช้สูตร: [(net neck counts - net thigh counts) / (standard counts - room background)] × 100 โดยค่าที่นำมาใช้ในสูตรคือ Neck counts, Thigh counts (เป็น backgroundของ neck), Room background และ Standard (วัดจาก standard sourceตรงๆ ไม่ผ่าน phantom) ส่วน Standard neck phantom ไม่ได้นำมาใช้ในการคำนวณโดยตรง เนื่องจากการวัด standard จะทำโดยวัด dose ในอากาศหรือผ่าน standard phantom ที่กำหนด ไม่ใช่ neck phantom",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 238,
@@ -3326,9 +3089,8 @@
       "ง": "Ring",
       "จ": "Streaking"
     },
-    "explanation": "Artifact แบบ Star สามารถ correct ได้โดยใช้ Ramp filter",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 239,
@@ -3340,9 +3102,8 @@
       "ง": "327",
       "จ": "200"
     },
-    "explanation": "ธาตุ 23592U มีจํานวนโปรตอน 143",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 240,
@@ -3354,9 +3115,8 @@
       "ง": "Beta decay",
       "จ": "Alpha decay"
     },
-    "explanation": "ผังการสลายตัวของสารกัมมันตรังสี99mTcแสดงดังภาพ คือ การสลายตัวแบบ Beta decay",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 241,
@@ -3368,9 +3128,8 @@
       "ง": "3.7x 107",
       "จ": "3.7x 106"
     },
-    "explanation": "เพราะความแรงรังสี 1 Ci เท่ากับ 3.7 x 10^10 Bq",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 242,
@@ -3382,9 +3141,8 @@
       "ง": "มวลของสารกัมมันตรังสี",
       "จ": "ความบริสุทธ์ของสารกัมมันตรังสี"
     },
-    "explanation": "Specific activity หมายถึงความเข้มข้นสารกัมมันตรังสีต่อมวลของสารกัมมันตรังสี",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 243,
@@ -3396,9 +3154,8 @@
       "ง": "Recombination",
       "จ": "Annihilation"
     },
-    "explanation": "กระบวนการ Recombination ทําให้เกิดคู่ไอออน เมื่อรังสีผ่านมากระทบกับวัตถุตัวกลาง",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 244,
@@ -3410,9 +3167,8 @@
       "ง": "Alpha particle",
       "จ": "Antineutrino"
     },
-    "explanation": "Auger electron คืออิเล็กตรอนที่ปล่อยออกมาจากนิวเคลียสของอะตอมที่มีความเสถียรต่ำ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 245,
@@ -3424,9 +3180,8 @@
       "ง": "ทุกวัน",
       "จ": "ทุกสัปดาห์"
     },
-    "explanation": "การทดสอบ linearity ของเครื่อง dose calibrator ควรทำทุกเดือนเพื่อให้แน่ใจว่าเครื่องมีประสิทธิภาพและให้ค่าปริมาณการฉีดที่แม่นยำ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 246,
@@ -3438,9 +3193,8 @@
       "ง": "ทุก 3เดือน",
       "จ": "ทุกป๊"
     },
-    "explanation": "การทํา center of rotation (COR) ของเครื่องถ่ายภาพ SPECT ควรทำทุก 3เดือนเพื่อให้แน่ใจว่าเครื่องมีตำแหน่งและขนาดของแหล่งกำเนิดที่แม่นยำ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 247,
@@ -3452,9 +3206,8 @@
       "ง": "ทุก 3เดือน",
       "จ": "ทุกป๊"
     },
-    "explanation": "เพราะการทำ extrinsic flood field uniformity ควรทำทุกเดือน เพื่อให้แน่ใจว่าเครื่องถ่ายภาพมีความสม่ำเสมอในการผลิตรังสี",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "With colimator",
+    "answer": "ก"
   },
   {
     "id": 248,
@@ -3466,9 +3219,8 @@
       "ง": "ภาพที่ได้จากการทํา uniformity ควรมีความสม่ําเสมอของค่านับวัด",
       "จ": "นิยมใช้ 4 quadrant bar phantom มาวางคั่นระหว่าง collimator กับ Co-57 sheet source"
     },
-    "explanation": "ภาพที่ได้จากการทํา uniformity ควรมีความสมมาเสมอของค่านับวัด เพื่อให้แน่ใจว่าเครื่องถ่ายภาพมีความแม่นยำในการผลิตรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Spatial resolution",
+    "answer": "จ"
   },
   {
     "id": 249,
@@ -3480,9 +3232,8 @@
       "ง": "การทดสอบชิ้นส่วนภายนอกเครื่องถ่ายภาพ",
       "จ": "การทดสอบความไวของหัววัดต่อรังสีภายนอกห้อง"
     },
-    "explanation": "การทดสอบชิ้นส่วนภายนอกเครื่องถ่ายภาพ คือการทดสอบ Extrinsic quality control ของเครื่อง gamma camera เพื่อให้แน่ใจว่าเครื่องมีความปลอดภัยและไม่มีการส่งรังสีออกมา",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 250,
@@ -3494,9 +3245,8 @@
       "ง": "Spatial distortion",
       "จ": "สารรังสีปนเป์์อนบนหัววัดรังสี"
     },
-    "explanation": "เพราะ PM tube เสียจะทำให้เกิดการเปลี่ยนแปลงของกระแสไฟฟ้าในหัววัดรังสี ซึ่งอาจส่งผลต่อความแม่นยำในการนับวัด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 251,
@@ -3508,9 +3258,8 @@
       "ง": "ให้จุดศูนย์กลางในการคํานวณภาพตรงกับจุดศูนย์กลางการหมุนของหัววัดรังสี",
       "จ": "ให้ภาพที่ได้มีความสม่ําเสมอของค่านับวัด"
     },
-    "explanation": "จุดประสงค์หลักของการทํา center of rotation คือให้จุดศูนย์กลางในการคํานวณภาพตรงกับจุดศูนย์กลางการหมุนของหัววัดรังสี ซึ่งช่วยลดผลกระทบจาก artifact ที่เกิดขึ้นในภาพ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 252,
@@ -3522,9 +3271,8 @@
       "ง": "I-131",
       "จ": "Thallium-201"
     },
-    "explanation": "ในการทดสอบ constancy ของเครื่อง dose calibrator จะใช้สารกัมมันตรังสีที่มีค่าความแม่นยำสูง เช่น I-131 ซึ่งมีความเสถียรทางเคมีและฟิสิกส์ที่ดี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 253,
@@ -3536,9 +3284,8 @@
       "ง": "3.3",
       "จ": "4.2"
     },
-    "explanation": "คำนวณขนาดต่อ pixel จากข้อมูลที่ให้มา: ระยะห่างระหว่าง line source 2 เส้น = 150 mm (15 cm) และระยะนี้เท่ากับ 45 pixels ดังนั้น pixel size = 150 mm ÷ 45 pixels = 3.33 mm ≈ 3.3 mm ต่อ pixel (Matrix size 128×128 เป็นข้อมูลบริบทของระบ แต่การคำนวณใช้อัตราส่วนโดยตรง)",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "15/45 = 0.33 cm = 0.33 x 10 = 3.33 mm",
+    "answer": "ง"
   },
   {
     "id": 254,
@@ -3550,9 +3297,8 @@
       "ง": "ทําทุกครั้งก่อนการถ่ายภาพคนไข้",
       "จ": "ทุกเดือน"
     },
-    "explanation": "Blank scan ของเครื่อง PET คือการสแกนโดยไม่มีวัตถุหรือผู้ป่วยอยู่ในกันตรา โดยใช้ transmission source (เช่น Ge-68) เพื่อใช้ในการคำนวณ atenuation correction ตามาตรฐาน NEMA และแนวปฏิบัติสากล blank scan ควรทำทุกวัน (daily) ก่อนเริ่มการตรวจผู้ป่วย เพื่อให้แน่ใจว่าระบบ detector ทำงานได้ปกติและค่า normalization ถูกต้อง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 255,
@@ -3564,9 +3310,8 @@
       "ง": "System resolution ดีกว่า intrinsic resolution",
       "จ": "การทํา System resolution จะใช้ Co-57 sheet source วางทับลงบน bar phantom"
     },
-    "explanation": "ข้อที่ผิดคือข้อ ง เพราะในความเป็นจริง System resolution (ซึ่งรวม collimator เข้าไปด้วย) จะด้อยกว่า (worse than) Intrinsic resolution เนื่องจาก collimator มีผลทำให้ความละเอียดเชิงพื้นที่โดยรวมลดลง Intrinsic resolution วัดจากตัว detector ล้วนๆ โดยไม่มี collimator จึงให้ค่าความละเอียดที่ดีกว่า ส่วนข้ออื่นถูกต้องทั้งหมด รวมถึงการใช้ Co-57 sheet source สำหรับ system resolution test",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 256,
@@ -3578,9 +3323,8 @@
       "ง": "ถ่ายภาพ line source 2 อันที่วางห่างกัน 10 เซนติเมตร โดยถอด collimator ออก",
       "จ": "ถ่ายภาพ line source 2 อันที่วางห่างกัน 10 เซนติเมตร โดยไม่ต้องถอด collimator ออก"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 257,
@@ -3592,9 +3336,8 @@
       "ง": "Spatial resolution",
       "จ": "Energy spectrum"
     },
-    "explanation": "การทํา QC ของเครื่อง thyroid uptake ไม่ใช่การตรวจจับ spatial resolution",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Gamma camera",
+    "answer": "จ"
   },
   {
     "id": 258,
@@ -3606,9 +3349,8 @@
       "ง": "Geometry dependence",
       "จ": "Constancy test"
     },
-    "explanation": "การทํา QC ของเครื่อง dose calibrator ไม่ใช่การตรวจสอบ Constancy test",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "Thyroid uptake",
+    "answer": "จ"
   },
   {
     "id": 259,
@@ -3620,9 +3362,8 @@
       "ง": "Star artifact",
       "จ": "Cold artifact"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 260,
@@ -3634,9 +3375,8 @@
       "ง": "85%",
       "จ": "60%"
     },
-    "explanation": "บริเวณ central field of view (CFOV) คือบริเวณที่คิดเป็น 95% จากขนาดของ useful field of view (UFOV)",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 261,
@@ -3648,9 +3388,8 @@
       "ง": "Chi-square test",
       "จ": "Energy resolution"
     },
-    "explanation": "การทํา QC ของเครื่อง SPECT ข้อใดผิด คือการตรวจสอบ Spatial resolution",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Thyroid uptake",
+    "answer": "จ"
   },
   {
     "id": 262,
@@ -3662,9 +3401,8 @@
       "ง": "Count-rate performance",
       "จ": "Multiple window spatial registration"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 263,
@@ -3676,9 +3414,8 @@
       "ง": "ใช้ Point source ที่เป็น Tc-99m ในการควบคุมคุณภาพ",
       "จ": "ความคลาดเคลื่อนของ COR ทําให้ภาพสูญเสียรายละเอียด"
     },
-    "explanation": "ความคลาดเคลื่อนเป็นผลมาจาก Gantry alignment",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "QC weekly",
+    "answer": "ก"
   },
   {
     "id": 264,
@@ -3688,11 +3425,10 @@
       "ข": "Energy resolution ของหัววัดรังสีแย่ลง",
       "ค": "หัววัดรังสีนี้ไม่ควรนํามาใช้งาน",
       "ง": "ควรทําการทดสอบกับสารกัมมันตรังสีตัวอื่น",
-      "จ": "ความสามารถในการแยกพลังงานของรังสีดีขึ้นเดือน% energy resolution ของ Tc-99mมกราคม9.5เมษายน10.3กรกฎาคม10.9ตุลาคม11.8"
+      "จ": "ความสามารถในการแยกพลังงานของรังสีดีขึ้น"
     },
-    "explanation": "เพราะความสามารถในการแยกพลังงานของรังสีดีขึ้นเดือน% energy resolution ของ Tc-99mมกราคม9.5เมษายน10.3กรกฎาคม10.9ตุลาคม11.8",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "เดือน% energy resolution ของ Tc-99m\nมกราคม9.5เมษายน10.3กรกฎาคม10.9ตุลาคม11.8",
+    "answer": "ข"
   },
   {
     "id": 265,
@@ -3704,9 +3440,8 @@
       "ง": "การทํา CT scan ใช้เวลาไม่มากและใช้ทํา attenuation correctionในภาพ SPECT หรือ PET",
       "จ": "ใช้ทํา Attenuation correction ในภาพ SPECT หรือ PET และช่วยบอกตําแหน่งของรอยโรค"
     },
-    "explanation": "เพราะการทํา CT scan ร่วมกับ SPECT หรือ PET ช่วยบอกตําแหน่งของรอยโรคและช่วยให้การวินิจฉัยมีความแม่นยำมากขึ้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 266,
@@ -3718,9 +3453,8 @@
       "ง": "การปรับค่า cutoff frequency ไม่มีผลต่อภาพ",
       "จ": "ไม่สามารถปรับค่า cutoff frequency ได้หลังจากการสร้างภาพ"
     },
-    "explanation": "Cutoff frequency ต่ําๆ จะได้ภาพที่ smooth เนื่องจากการลด noise ในภาพ SPECT หรือ PET",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "Resolution แ,",
+    "answer": "ก"
   },
   {
     "id": 267,
@@ -3732,9 +3466,8 @@
       "ง": "Spatial resolution",
       "จ": "Sensitivity"
     },
-    "explanation": "ไม่สามารถปรับค่า cutoff frequency ได้หลังจากการสร้างภาพ เพราะค่า cutoff frequency ควรกำหนดไว้ล่วงหน้าเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 268,
@@ -3746,9 +3479,8 @@
       "ง": "วัสดุกาบัง",
       "จ": "ความแรงรังสีของสารกัมมันตรังสี"
     },
-    "explanation": "เพราะว่าสมุดบันทึกไม่สามารถป้องกันอันตรายจากรังสีได้",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 269,
@@ -3760,9 +3492,8 @@
       "ง": "เพื่อลดระยะเวลาในการทางาน",
       "จ": "เพื่อสะดวกในการจับหลอดฉีดยา"
     },
-    "explanation": "การใช้กําบังหลอดฉีดยา (Syringe shield) เพื่อลดการได้รับรังสีของผู้ปฏิบัติงานมากที่สุด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 270,
@@ -3774,9 +3505,8 @@
       "ง": "มีประโยชน์ในการวินิจฉัยเนื้องอกต่อมน้ําลาย",
       "จ": "ให้ผู้ป่วยงดน้ํา และอาหารก่อนการตรวจ"
     },
-    "explanation": "ไม่ควรให้ผู้ป่วยงดน้ํา และอาหารก่อนการตรวจ salivary scan เพราะอาจทำให้ต่อมน้ําลายไม่สามารถแสดงผลได้",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 271,
@@ -3788,9 +3518,8 @@
       "ง": "ใช้อุปกรณ์ในการรับประทานอาหารแยกกับผู้ป่วยทั่วไป",
       "จ": "งดให้นมแก่บุตร"
     },
-    "explanation": "เพราะการปฎิบัติตัวของผู้ป่วยโรคมะเร็งควรปฏิบัติตามข้อกำหนดที่กำหนดไว้โดยหน่วยงานด้านสุขภาพ และการแยกกับผู้ป่วยทั่วไปเป็นขั้นตอนสำคัญในการลดความเสี่ยงของการติดเชื้อและแพร่กระจายของรังสี",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 272,
@@ -3802,9 +3531,8 @@
       "ง": "ให้นอนโรงพยาบาลและแยกห้องกับผู้ป่วยอื่นๆ",
       "จ": "ข้อ ข และ ค ถูก"
     },
-    "explanation": "เพราะการปฏิบัติตนที่ถูกต้องของผู้ป่วยที่ได้รับ I-131 ปริมาณ 100mCi ควรปฏิบัติตามข้อกำหนดทั้งหมดที่กำหนดไว้โดยหน่วยงานด้านสุขภาพ และการแยกห้องกับผู้ป่วยอื่นๆ เป็นขั้นตอนสำคัญในการลดความเสี่ยงของการติดเชื้อและแพร่กระจายของรังสี",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "เ.น 30 mCi = admit 0 รพ.",
+    "answer": "ง"
   },
   {
     "id": 273,
@@ -3816,9 +3544,8 @@
       "ง": "20",
       "จ": "40"
     },
-    "explanation": "เพราะหลัง Shielding ที่มีความหนา 2 HVL จะสามารถยับยั้งการรับส่วนผสมของรังสีได้มากที่สุด และการปฏิบัติงานในอัตราสูงสุดคือ 20 ชั่วโมงจึงจะได้รับปริมาณรังสีไม่เกิน 10 mrem",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 274,
@@ -3830,9 +3557,8 @@
       "ง": "ขนาดของเมทริกซ์",
       "จ": "การเก็บข้อมูลแบบ Byte หรือ word mode"
     },
-    "explanation": "เพราะชนิดของคอลลิเมเตอร์ไม่ได้ผลต่อรายละเอียดของภาพ SPECT",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 275,
@@ -3844,9 +3570,8 @@
       "ง": "Resolution",
       "จ": "Dead time"
     },
-    "explanation": "FWHM เป็นดัชนีที่นิยมใช้วัด Spatial resolution ของเครื่องสแกน",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 276,
@@ -3858,9 +3583,8 @@
       "ง": "Spatial resolution ดีขึ้น",
       "จ": "หน่วยความจําเพิ่มขึ้น"
     },
-    "explanation": "ในขณะถ่ายภาพด้วยการใช้ zoom mode จะทำให้ noise เพิ่มขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 277,
@@ -3872,9 +3596,8 @@
       "ง": "Semiconductor detector",
       "จ": "Slow neutron detector"
     },
-    "explanation": "หัววัดรังสีที่ใช้ในเครื่องถ่ายภาพทางเวชศาสตร์นิวเคลียร์ (Gamma camera) คือ Scintillation detector โดยใช้ผลึก NaI(Tl) ในการแปลงรังสีแกมมาเป็นแสง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 278,
@@ -3886,9 +3609,8 @@
       "ง": "Coincidence circuit",
       "จ": "Pre-amplifier"
     },
-    "explanation": "สัญญาณแสง (photon) ที่เกิดจากผลึก NaI(Tl) จะเข้าสู่ Photomultiplier tubes (PMT) เพื่อขยายแสงและแปลงเป็นสัญญาณไฟ้า",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 279,
@@ -3900,9 +3622,8 @@
       "ง": "ทําด้วยวัสดุที่มีเลขอะตอมสูง",
       "จ": "Absorb รังสีซึ่งมีทิศทางที่ไม่ต้องการ"
     },
-    "explanation": "คอลลิเมเตอร์ช่วยลดรังสี scatterปฏิบัติตัวได้อย่างเลือก absorb รังสีที่ไม่ต้องการ ทำจากวัสดุที่มีความหนาแน่นและเลขอะตอมสูง แต่คอลลิเมเตอร์ไม่ได้ช่วยลดปริมาณรังสีที่ผู้ป่วยได้รับ แต่เป็นการปรับเลือกรังสีที่เข้าถึงเดทเทคเตอร์เท่านั้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 280,
@@ -3914,9 +3635,8 @@
       "ง": "Spatial resolution",
       "จ": "Patient positioning"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 281,
@@ -3928,9 +3648,8 @@
       "ง": "thigh",
       "จ": "room background"
     },
-    "explanation": "เนื่องจากพื้นที่ของหัวไตและหลอดเลือดที่ใหญ่ที่สุดอยู่ในบริเวณนี้ ทำให้สามารถมองเห็นได้ชัดเจนมากขึ้น",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 282,
@@ -3942,9 +3661,8 @@
       "ง": "DTPA",
       "จ": "I-131 Hippuran"
     },
-    "explanation": "DTPA เป็นสารเภสัชรังสีที่ใช้ในการตรวจการทํางานของไต แต่ไม่ใช่สำหรับการตรวจค่าปริมาณการทำงานของไต",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "Hepatobiliary system",
+    "answer": "ค"
   },
   {
     "id": 283,
@@ -3956,9 +3674,8 @@
       "ง": "การตรวจภาวะทางสมองด้วยเครื่อง PET/CT",
       "จ": "การตรวจแพร่กระจายของมะเร็งมาที่ กระดูกด้วยเครื่อง SPECT"
     },
-    "explanation": "เพราะการรักษาโรคมะเร็งต่อมไทรอยด์เป็นกระบวนการที่ซับซ้อนและต้องใช้การดูแลผู้ป่วยเป็นพิเศษ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 284,
@@ -3970,9 +3687,8 @@
       "ง": "การสร้างภาพด้วยเครื่อง PET-CT จะให้ Sensitivity สูง",
       "จ": "ใช้ได้กับเครื่อง PET-CT เท่านั้น"
     },
-    "explanation": "เพราะเซลล์มะเร็งใช้น้ำตาลได้มากกว่าเซลล์ปกติ ทำให้18F-FDG สามารถยึดเกาะและสะสมในโครงสร้างมะเร็งได้ดี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 285,
@@ -3984,9 +3700,8 @@
       "ง": "ให้ผู้ป่วยนอนนิ่งๆ ให้มากที่สุด",
       "จ": "จัดให้ผู้ป่วยอยู่ตรงกลาง field of view"
     },
-    "explanation": "เพราะการถ่ายภาพ planar ต้องให้ผู้ป่วยอยู่ตรงกลาง field of view เพื่อให้ได้ผลลัพธ์ที่ดีที่สุดในเรื่องของความชัดเจนและความแม่นยำ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 286,
@@ -3998,9 +3713,8 @@
       "ง": "เพิ่ม dose ของสารเภสัชรังสี",
       "จ": "เพิ่มเวลาในการเก็บข้อมูล"
     },
-    "explanation": "เพื่อให้การตรวจ Radioactive thyroid uptake ถูกต้องที่สุด ผู้ปฎิบัติงานควรลด Working distance ของเครื่อง เพื่อให้ได้รูปภาพที่ชัดเจนและแม่นยำมากขึ้น",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 287,
@@ -4012,9 +3726,8 @@
       "ง": "Matrix size ในการเก็บข้อมูล",
       "จ": "การเลือก Byte mode หรือ word mode ในการเก็บข้อมูล"
     },
-    "explanation": "ขนาดรูของ Collimator มีผลต่อ spatial resolution ของภาพในการสร้างภาพ SPECT หากขนาดรูใหญ่เกินไป จะทำให้ spatial resolution ลดลง",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 288,
@@ -4026,9 +3739,8 @@
       "ง": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้รังสีแกมมา",
       "จ": "มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้อนุภาคแอลฟา"
     },
-    "explanation": "Tc-99m มีครึ่งชีวิต 6ชั่วโมง และสลายตัวให้รังสีแกมมา ซึ่งเป็นคุณสมบัติที่สำคัญในการใช้ Tc-99m ในการตรวจสอบ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 289,
@@ -4040,9 +3752,8 @@
       "ง": "I-131 MIBG scan",
       "จ": "ถูกทุกข้อ"
     },
-    "explanation": "เนื่องจาก I-131 MIBG เป็นสารเภสัชรังสีที่มีความสามารถในการจับกับต่อมไทรอยด์และตรวจสอบการทำงานของต่อมนี้",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 290,
@@ -4054,9 +3765,8 @@
       "ง": "Radioimmunographyมีประโยชน์ในการตรวจมะเร็งลําไส้ใหญ่",
       "จ": "ผิดทุกข้อ"
     },
-    "explanation": "ทุกข้อในคำถามนี้เป็นไปตามการใช้งานจริงของสารเภสัชรังสีเหล่านี้ในการตรวจทาง Oncology",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 291,
@@ -4068,9 +3778,8 @@
       "ง": "ตรวจการทํางานของต่อมพิทูอิทารี",
       "จ": "ถูกหมดทุกข้อ"
     },
-    "explanation": "การสร้างภาพ thyroid gland เป็นการตรวจการทํางานของต่อมไทรอยด์ โดยเฉพาะอย่างยิ่งการตรวจสอบการทำงานของฮอร์โมน TSH และ T4/T3",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 292,
@@ -4082,9 +3791,8 @@
       "ง": "99mTcO4-",
       "จ": "67Ga"
     },
-    "explanation": "เพราะ 131I เป็นสารเภสัชรังสีที่ใช้ในการตรวจ Radioactive thyroid uptake มากที่สุด",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 293,
@@ -4096,9 +3804,8 @@
       "ง": "ต้องมีผลต่อขบวนการทางชีวเคมีในร่างกาย",
       "จ": "ไม่มีสารกัมมันตรังสีตัวอื่นปน"
     },
-    "explanation": "เพราะการมีผลต่อขบวนการทางชีวเคมีในร่างกายเป็นสิ่งที่ไม่ต้องการในอุดมคติในการวินิจฉัยโรค",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 294,
@@ -4110,9 +3817,8 @@
       "ง": "Nuclear reactor",
       "จ": "มาจากธรรมชาติ"
     },
-    "explanation": "เพราะ 99mTc เป็น radionuclide ที่ผลิตได้จาก Generator",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 295,
@@ -4124,9 +3830,8 @@
       "ง": "Ultrasound",
       "จ": "ข้อ ก และ ค ถูก"
     },
-    "explanation": "เพราะข้อ ก และ ค ถูกเป็นวิธีที่เหมาะสมในการตรวจหา Bone metastasis",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 296,
@@ -4138,9 +3843,8 @@
       "ง": "99mTcO4-",
       "จ": "67Ga"
     },
-    "explanation": "99mTc-MIBI เป็นสารเภสัชรังสีที่ใช้ในการตรวจหัวใจ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 297,
@@ -4152,9 +3856,8 @@
       "ง": "131I",
       "จ": "99mTc-RBC"
     },
-    "explanation": "99mTc-MAA เป็นสารเภสัชรังสีที่สามารถใช้รักษาโรคทางเวชศาสตร์นิวเคลียร์",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 298,
@@ -4166,9 +3869,8 @@
       "ง": "Radiochemical purity",
       "จ": "Chemical purity"
     },
-    "explanation": "การทดสอบความบริสุทธิ์ของสารรังสีเป็นการทดสอบความบริสุทธิ์ของสารรังสีที่ใช้ในการตรวจวินิจฉัย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 299,
@@ -4180,9 +3882,8 @@
       "ง": "99mTcO4–, I-123",
       "จ": "I-125, I-127"
     },
-    "explanation": "99mTcO4– และ I-123 เป็นสารรังสีที่เหมาะสมที่สุดสำหรับการตรวจ thyroid scan เนื่องจากมีความสามารถในการผ่านผนึกและความแม่นยำในการแสดงผล",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 300,
@@ -4194,9 +3895,8 @@
       "ง": "5.26 ปี",
       "จ": "30 ปี"
     },
-    "explanation": "ซีเซียม137 (Cs-137) มีค่าครึ่งชีวิตประมาณ 5.26 ปี ซึ่งเป็นค่าครึ่งชีวิตที่ยาวนานที่สุดในบรรดาสารรังสีอื่นๆ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 301,
@@ -4206,11 +3906,10 @@
       "ข": "140ชั่วโมง",
       "ค": "1,100ชั่วโมง",
       "ง": "1,140ชั่วโมง",
-      "จ": "1,400ชั่วโมง59.49 day (ประมาณ 60 'น)60 x 24 = 1440 hr"
+      "จ": "1,400ชั่วโมง"
     },
-    "explanation": "เพราะ I-125 เป็นสารสังเคราะห์ที่มีความเสถียรสูงและมีอัตราการสลายตัวที่ช้า",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "59.49 day (ประมาณ 60 'น)60 x 24 = 1440 hr",
+    "answer": "จ"
   },
   {
     "id": 302,
@@ -4222,9 +3921,8 @@
       "ง": "Active transport",
       "จ": "Capillary blockage"
     },
-    "explanation": "I-131 ใช้การผูกพันรับประทาน (Receptor binding) เพื่อดูดจับในระบบไทรอยด์",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 303,
@@ -4236,9 +3934,8 @@
       "ง": "Bone infection",
       "จ": "ติดตามผลการรักษาหลังการฉายรังสี"
     },
-    "explanation": "เนื่องจากการตรวจ bone scan มักใช้เพื่อติดตามผลการรักษาหลังการฉายรังสี และไม่ใช่สำหรับการบ่งชี้ของการแพร่กระจายของมะเร็งมาที่กระดูก",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 304,
@@ -4250,9 +3947,8 @@
       "ง": "Field of view (FOV) ใหญ่ขึ้น",
       "จ": "ขนาดเมทริกซ์เพิ่มขึ้น"
     },
-    "explanation": "เพราะ Spatial resolution ดีขึ้นเมื่อใช้ zoom mode",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 305,
@@ -4264,9 +3960,8 @@
       "ง": "0.4 ml",
       "จ": "0.5 ml"
     },
-    "explanation": "ต้องเตรียม Tc-99m ปริมาตรที่เท่ากับ (20 mCi/ml / 8.00 น.) * (10 mCi / 14.00 น.) = 0.4 ml",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 306,
@@ -4278,9 +3973,8 @@
       "ง": "เพิ่ม matrix size",
       "จ": "เพิ่ม injected dose"
     },
-    "explanation": "เพิ่ม count per pixel จะช่วยลด Streak artifact ของภาพ SPECT",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 307,
@@ -4292,9 +3986,8 @@
       "ง": "Gated blood pool",
       "จ": "Bone"
     },
-    "explanation": "Technetium pertechnetate ใช้ในการตรวจข้ออักเสบของกระดูก",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 308,
@@ -4306,9 +3999,8 @@
       "ง": "ใช้ชนิด low energy high sensitivity แทนชนิด low energy all purpose/ general purpose",
       "จ": "แสดงภาพโดยใช้gray scale ช่วงแคบๆ"
     },
-    "explanation": "การเพิ่ม window width ของ pulse-height analyzer ทำให้ได้รูปภาพที่ชัดเจนมากขึ้น",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 309,
@@ -4320,9 +4012,8 @@
       "ง": "Sensitivity",
       "จ": "Resolution"
     },
-    "explanation": "Full width at half maximum (FWHM) เป็นดัชนีที่ใช้วัดความถึงของการวัดความละเอียด",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 310,
@@ -4334,9 +4025,8 @@
       "ง": "High Energy High Resolution",
       "จ": "Medium Energy General Purpose"
     },
-    "explanation": "เพราะ Medium Energy All Purpose มีความสามารถในการเลือก lọcพลังงานที่เหมาะสมสำหรับการตรวจผู้ป่วยทั่วไป",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 311,
@@ -4348,9 +4038,8 @@
       "ง": "Tc-99m red blood cells",
       "จ": "Tc-99m MAG3"
     },
-    "explanation": "Tc-99m red blood cells ใช้เพื่อตรวจสอบการไหลเวียนของเลือดและระบุภาวะ GI Bleeding ได้อย่างแม่นยำ",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 312,
@@ -4362,9 +4051,8 @@
       "ง": "126 keV ถึง 154 keV",
       "จ": "126 keV ถึง 168 keV"
     },
-    "explanation": "20% energy window หมายถึงการตั้งช่วง Lower level discriminator และ upper level discriminator ในช่วง 126 keV ถึง 140 keV เพื่อให้สามารถเลือก lọcพลังงานที่เหมาะสมสำหรับการตรวจผู้ป่วย",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 313,
@@ -4376,9 +4064,8 @@
       "ง": "Ga-67",
       "จ": "I-131"
     },
-    "explanation": "F-18 เป็นสารกัมมันตรังสีที่ใช้แพร่หลายในการทำ PET scan เนื่องจากมีพลังการรังสีที่เหมาะสมและสามารถจับภาพการเปลี่ยนแปลงของเซลล์ได้อย่างแม่นยำ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 314,
@@ -4390,9 +4077,8 @@
       "ง": "Decrease scanning time",
       "จ": "Increase signal-to-noise ratio"
     },
-    "explanation": "การดื่มน้ำมากๆ หลังฉีดสารเภสัชรังสีเพื่อวัตถุประสงค์ในการตรวจ bone scan ช่วยให้การทำงานของร่างกายสามารถปรับตัวได้ดีขึ้น และช่วยลดความเสี่ยงของผลข้างเคียง",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "???",
+    "answer": "จ"
   },
   {
     "id": 315,
@@ -4404,9 +4090,8 @@
       "ง": "Perfusion เพิ่มขึ้นเฉพาะในภาพ Stress",
       "จ": "Perfusion เพิ่มขึ้นในภาพ Stress และลดลงในภาพ Res"
     },
-    "explanation": "บริเวณที่กล้ามเนื้อหัวใจมีเลือดไปเลี้ยงไม่พอ (Ischemia) ในภาพจากการตรวจหัวใจในภาวะ Stress และ Rest ของการตรวจ Myocardial perfusion SPECT จะแสดงเป็น Perfusion ลดลงในทั้งสองภาพ เนื่องจากการทำงานของกล้ามเนื้อหัวใจลดลง",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 316,
@@ -4418,9 +4103,8 @@
       "ง": "30ปี",
       "จ": "74วัน"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 317,
@@ -4432,9 +4116,8 @@
       "ง": "LAO ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด",
       "จ": "Anterior ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด"
     },
-    "explanation": "การถ่ายภาพเพื่อประเมินการทำงานของหัวใจห้องล่างซ้าย โดยการคำนวณค่า ejection fraction หัววัดของเครื่อง Gamma camera ต้องอยู่ในตำแหน่ง LAO ในตำแหน่งที่หัวใจห้องล่างซ้ายและขวาแยกจากกันดีที่สุด",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 318,
@@ -4446,9 +4129,8 @@
       "ง": "Amplifier",
       "จ": "Preamplifier"
     },
-    "explanation": "ส่วนที่ทำหน้าที่คัดเลือกสัญญาณในหัววัดแบบ Scintillation Detector System คือ Preamplifier",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 319,
@@ -4460,9 +4142,8 @@
       "ง": "ปริมาณรังสีของธาตุตัวใหม่ที่ได้จากการสลายตัวของสารรังสีเริ่มต้น",
       "จ": "ไม่มีข้อใดถูก"
     },
-    "explanation": "เพราะปริมาณรังสีลดลงเหลือครึ่งหนึ่งของค่าปริมาณรังสีเริ่มต้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 320,
@@ -4474,9 +4155,8 @@
       "ง": "การกระจายตัวของสารเภสัชรังสีเป็นไปอย่างสม่ าเสมอ",
       "จ": "บริหารปอดผู้ป่วยก่อนการถ่ายภาพ"
     },
-    "explanation": "เพื่อให้เห็น Pulmonary embolism ในปอดชัดเจนขึ้น และการกระจายตัวของสารเภสัชรังสีเป็นไปอย่างสม่ำเสมอ",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 321,
@@ -4488,9 +4168,8 @@
       "ง": "สามารถลด noise ในภาพได้โดยเพิ่มจำนวนรอบในการสร้างภาพ",
       "จ": "ทำให้ Resolution ของภาพดีขึ้นได้โดยลดจำนวนรอบในการสร้างภาพให้น้อยลง"
     },
-    "explanation": "ใช้เวลาในการสร้างภาพน้อยลงเมื่อเปรียบเทียบกับวิธี Filtered back projection และสามารถลด noise ในภาพได้โดยเพิ่มจำนวนรอบในการสร้างภาพ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 322,
@@ -4502,9 +4181,8 @@
       "ง": "Low energy high resolution collimator, matrix size 256 x 256",
       "จ": "Low energy general purpose collimator, matrix size 256 x 256"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 323,
@@ -4516,9 +4194,8 @@
       "ง": "เวลาที่ทำการฉีด",
       "จ": "ค่าปริมาณรังสี"
     },
-    "explanation": "ค่า Standard Uptake Value ในภาพถ่าย PET ส่งผลต่อจากชนิดของสารรังสี และไม่ส่งผลต่อจากความหนาของผู้ป่วย น้ำหนักตัวของผู้ป่วย หรือเวลาที่ทำการฉีด",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 324,
@@ -4530,9 +4207,8 @@
       "ง": "ใช้สำหรับการรักษาแบบ Permanent intracavitary",
       "จ": "เป็นเครื่องที่มีอัตราการให้ปริมาณรังสีต่อหน่วยเวลาสูงกว่า 12 Gy/hr"
     },
-    "explanation": "คุณสมบัติของ HDR unit ที่ใช้อิริเดียม 192 (Ir-192) เป็นต้นกำเนิดรังสีในการรักษามะเร็งปากมดลูก คือ มีอัตราการให้ปริมาณรังสีต่อหน่วยเวลาสูงกว่า 12 Gy/hr",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 325,
@@ -4544,9 +4220,8 @@
       "ง": "SPECT",
       "จ": "PET"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 326,
@@ -4558,9 +4233,8 @@
       "ง": "Right Posterior Oblique",
       "จ": "Anterior"
     },
-    "explanation": "เพื่อให้กระเพาะปัสสาวะมองเห็นชัดเจนในบริเวณ Pelvis จะต้องใช้ท่า Right Posterior Oblique",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 327,
@@ -4572,9 +4246,8 @@
       "ง": "ค่านับวัดมากขึ้น Resolution ของภาพดีขึ้น",
       "จ": "ค่านับวัดน้อยลง Noise ในภาพลดลง"
     },
-    "explanation": "ค่านับวัดมากขึ้น Resolution ของภาพดีขึ้น แต่ Contrast ของภาพลดลง เนื่องจาก Noise ในภาพเพิ่มขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 328,
@@ -4586,9 +4259,8 @@
       "ง": "เป็นการตรวจที่ทำให้ทารกในครรภ์จะได้รับปริมาณรังสีสูง จึงห้ามตรวจในสตรีมีครรภ์",
       "จ": "เป็นการตรวจการทำงานของอวัยวะที่สนใจ"
     },
-    "explanation": "เพราะการตรวจทางเวชศาสตร์นิวเคลียร์เป็นการตรวจที่ใช้รังสีและไม่ต้องทำการผ่าตัดหรือเจาะเย็บ ทำให้มีราคาถูกกว่าการผ่าตัดหรือเจาะเย็บ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 329,
@@ -4600,9 +4272,8 @@
       "ง": "Whole body X-ray plain radiograph",
       "จ": "Bone scan"
     },
-    "explanation": "เพราะ Whole body Tc-99m Pertechnetate scan เป็นการตรวจที่ใช้รังสีเพื่อตรวจหาจุดมุ่งหมายของการแพร่กระจายของมะเร็ง และเป็นเทคนิคที่ใช้ในการวินิจฉัยภาวะ Follicular Thyroid Cancer",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 330,
@@ -4614,9 +4285,8 @@
       "ง": "เพิ่มปริมาณสารเภสัชรังสีที่ฉีดให้กับผู้ป่วย",
       "จ": "เพิ่มเวลาในการถ่ายภาพในนานขึ้น"
     },
-    "explanation": "เพราะลดระยะทางระหว่างผู้ป่วยกับหัววัดรังสีให้น้อยที่สุด จะช่วยเพิ่ม Spatial resolution ของภาพต่อมไทรอยด์ และทำให้ได้รูปภาพที่ชัดเจนขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 331,
@@ -4628,9 +4298,8 @@
       "ง": "Cold artifact",
       "จ": "Star artifact"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 332,
@@ -4642,9 +4311,8 @@
       "ง": "Pre-amplifier",
       "จ": "Photomultiplier tube"
     },
-    "explanation": "สัญญาณแสงที่เกิดจากผลึก Nal(TI) จะเข้าสู่ Photomultiplier tube ในเครื่อง Gamma Camera",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 333,
@@ -4656,9 +4324,8 @@
       "ง": "นำภาพมาทำ Fused SPECT/CT",
       "จ": "นำมาใช้ในการทำ Attenuation correction"
     },
-    "explanation": "การทำ CT ร่วมกับ SPECT ไม่ใช่ประโยชน์ในการทำ Attenuation correction แต่เป็นการนำภาพมาทำ Fused SPECT/CT เพื่อเพิ่มความแม่นยำในการวินิจฉัย",
-    "answer": "ง",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 334,
@@ -4670,9 +4337,8 @@
       "ง": "Tc-99m Sulfur Colloid",
       "จ": "Tc-99m Phytate"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 335,
@@ -4684,9 +4350,8 @@
       "ง": "Prompt coincidence",
       "จ": "Scatter coincidence"
     },
-    "explanation": "การนับวัด Photon ที่มีพลังงาน 511 keV จำนวน 2 ตัว ซึ่งไม่ได้เกิดจากอันตรกิริยา Annihilation เดียวกัน ภายใน Coincidence timing window เรียกว่า True coincidence",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 336,
@@ -4698,9 +4363,8 @@
       "ง": "ค่านับวัดของภาพเพิ่มขึ้น",
       "จ": "ภาพ Smooth มากขึ้น"
     },
-    "explanation": "เมื่อเพิ่มจำนวน Iterations ในการสร้างภาพ SPECT คุณภาพของภาพจะ Smooth มากขึ้น และ Image noise เพิ่มขึ้น",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ง"
   },
   {
     "id": 337,
@@ -4712,9 +4376,8 @@
       "ง": "Left lateral –Right lateral",
       "จ": "Anterior –Posterior"
     },
-    "explanation": "เพราะกระดูก Navicular มองเห็นได้ชัดที่สุดในท่า PA projection with ulnar deviation",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "???",
+    "answer": "ก"
   },
   {
     "id": 338,
@@ -4726,9 +4389,8 @@
       "ง": "9x9",
       "จ": "1x9"
     },
-    "explanation": "การใช้ Nine –point smoothing filter เพื่อปรับภาพดิจิตอล ใช้ค่านับวัดจากจำนวน Matrix เท่ากับ 3x3",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 339,
@@ -4740,9 +4402,8 @@
       "ง": "การทำงานของไทรอยด์",
       "จ": "การทำงานของปอด"
     },
-    "explanation": "การถ่ายภาพแบบ Dynamic collection ทางเวชศาสตร์นิงเคลียร์ นิยมใช้ในการตรวจการทำงานของตับ",
-    "answer": "ค",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 340,
@@ -4754,9 +4415,8 @@
       "ง": "I-131 Hippuran",
       "จ": "Tc-99 DTPA"
     },
-    "explanation": "Tc-99 DMSA เป็นสารเภสัชรังสีที่ใช้ในการตรวจการทำงานของไต โดยเฉพาะอย่างยิ่งในการตรวจหาสารที่สะสมในกระดูกไต (renal scarring)",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ค"
   },
   {
     "id": 341,
@@ -4768,9 +4428,8 @@
       "ง": "Attenuation correction",
       "จ": "Center of rotation offset correction"
     },
-    "explanation": "Center of rotation offset correction เป็นเทคนิคที่ใช้ในการขจัด Star artifact ที่เกิดระหว่างการสร้างภาพโดยใช้ Back projection โดยการปรับตำแหน่งของศูนย์วงกลมในการถ่ายภาพ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ข"
   },
   {
     "id": 342,
@@ -4782,9 +4441,8 @@
       "ง": "การปรับค่า Cut off frequency ไม่มีผลต่อภาพ",
       "จ": "Cut off frequency ต่ าๆ จะได้ภาพที่ Smooth"
     },
-    "explanation": "Cut off frequency สูงๆ จะได้ภาพ Resolution แย่ เนื่องจากจะทำให้ขอบเขตของภาพไม่ชัดเจน และเพิ่ม Noise ในภาพ",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 343,
@@ -4796,9 +4454,8 @@
       "ง": "Sterile technique",
       "จ": "Radiochemical purity"
     },
-    "explanation": "เพราะการทดสอบ Radiochemical purity สามารถตรวจสอบการปนเปื้อนของสารเภสัชรังสี Tc-99m MDP จาก Free Tc-99 Pertechnetate ได้อย่างแม่นยำ",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 344,
@@ -4810,9 +4467,8 @@
       "ง": "โปรตอน",
       "จ": "รังสีแกมมา"
     },
-    "explanation": "เพราะรังสีแกมมา (Gamma radiation) เป็นรังสีที่ใช้ในการรักษาทางเวชศาสตร์นิวเคลียร์",
-    "answer": "จ",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   },
   {
     "id": 345,
@@ -4824,9 +4480,8 @@
       "ง": "ผู้ป่วยที่อยู่บ้านคนเดียว",
       "จ": "ผู้ป่วยคอพอกเป็นพิษที่ได้รับไอโอดีน-131น้อยกว่าหรือเท่ากับ 8มิลลิคูรี"
     },
-    "explanation": "เพราะผู้ป่วยที่ได้รับการรักษาด้วยไอโอดีน-131 ในกรณีของการมีบุตร ผู้ป่วยควรให้คำแนะนำแบบเข้มงวด เพื่อป้องกันอันตรายจากรังสีให้กับบุคคลในครอบครัวและบุคคลทั่วไป",
-    "answer": "ข",
-    "is_ai": true
+    "explanation": "",
+    "answer": "จ"
   },
   {
     "id": 346,
@@ -4838,8 +4493,7 @@
       "ง": "Aluminum contamination",
       "จ": "ถูกทุกข้อ"
     },
-    "explanation": "การตรวจความบริสุทธิ์ทางเคมีของสารรังสี (Radiochemical purity) ควรทำประจำทุกวันก่อนการตรวจผู้ป่วย เพื่อให้แน่ใจว่าสารรังสีที่ใช้มีคุณภาพและปลอดภัยสำหรับการฉายภาพรังสี",
-    "answer": "ก",
-    "is_ai": true
+    "explanation": "",
+    "answer": "ก"
   }
 ]
